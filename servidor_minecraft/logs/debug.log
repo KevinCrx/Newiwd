@@ -9561,3 +9561,82 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [02:01:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [02:02:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [02:03:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:04:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:04:02] [Server thread/TRACE] [FML]: Handshake channel activating
+[02:04:02] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[02:04:02] [Server thread/DEBUG] [FML]:   Next: HELLO
+[02:04:03] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[02:04:03] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[02:04:03] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:16 mods->FMLHandshakeServerState$2:HELLO
+[02:04:03] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,FML@8.0.99.99,tombstone@4.6.6,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1012,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,howlingmoon@0.9,techguns_core@1.12.2-1.0,actuallyadditions@1.12.2-r152,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,techguns@2.0.2.0
+[02:04:03] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[02:04:04] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[02:04:04] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[02:04:05] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[02:04:05] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[02:04:05] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[02:04:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:04:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lea_Matt[/127.0.0.1:55266] logged in with entity id 8228 at (-589.3972973397151, 107.0, 508.0855589526279)
+[02:04:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt joined the game
+[02:04:05] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Lea_Matt'/8228, l='world', x=-589.40, y=107.00, z=508.09] connected. Sending ping
+[02:04:05] [Server thread/INFO] [Actually Additions]: Sending Player Data to player Lea_Matt with UUID ece0ef0f-b99a-37a6-8c95-cbfbe03b5272.
+[02:04:05] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[02:04:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> HEY LEA
+[02:04:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> Holis
+[02:04:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> HOLAAAAAAA
+[02:04:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:04:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Hacia tiempo
+[02:05:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> mucho tiempo
+[02:05:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Si :c
+[02:05:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> poque no mori ?
+[02:05:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> por tu jetpack creo ?
+[02:05:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:05:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no me dejaba planear
+[02:05:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Quizas se te desconfiguro los controles
+[02:06:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ah
+[02:06:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> nono
+[02:06:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> guardalo tu
+[02:06:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:06:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Yo tambien tengo uno haha
+[02:06:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> bueno
+[02:06:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Es para navidad
+[02:06:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Vees la perla ?
+[02:06:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> si la veo
+[02:07:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Es para revelar quien es lobo o no
+[02:07:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:07:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no me acuerdo de nada ya
+[02:07:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Si sabias no ?
+[02:07:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> oh
+[02:07:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> No te preocupes, que se te refresca la memoria al rato haha
+[02:07:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Aunque yo tampoco me acuerdo de mucho del techguns
+[02:07:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no no
+[02:07:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:07:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ?
+[02:07:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> me olvide de que hacia o tenia que hacer
+[02:08:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ah
+[02:08:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Igualmente XD
+[02:08:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Yo ni recuerdo por que traia tanta madera
+[02:08:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Para algo la necesitaria ni idea
+[02:08:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Bueno, ire a organizar mis cosas
+[02:08:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:08:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> que me dio algo cuando vi como 1000 items por ahi desorganizados XD
+[02:08:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> XD
+[02:08:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> haha
+[02:08:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> Toca poner orden
+[02:08:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Sis
+[02:09:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: KevinCrax moved wrongly!
+[02:09:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Oooh mis generadores a calooor
+[02:09:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> los recuerdo
+[02:09:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:09:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> yo en un momento recuerdo que hacia y a seguir
+[02:09:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Mi maquina para empoderar
+[02:09:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Wah...
+[02:09:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Oh cierto tenia texture packs !
+[02:10:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:10:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:11:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:11:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KevinCrax lost connection: Timed out
+[02:11:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax left the game
+[02:11:58] [Server thread/WARN] [net.minecraft.network.NetworkManager]: handleDisconnection() called twice
+[02:12:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:13:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
