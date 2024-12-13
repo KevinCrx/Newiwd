@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-13 02:37:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-07-25 20:32:04 +0000"
@@ -352,6 +358,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-07-25 20:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2024-12-13 02:37:39 +0000"
     },
     "done": true
   },
@@ -1373,10 +1385,12 @@
       "forest_hills": "2024-07-25 20:32:04 +0000",
       "savanna": "2024-07-26 20:31:51 +0000",
       "plains": "2024-07-26 17:27:22 +0000",
+      "jungle_hills": "2024-12-13 02:37:35 +0000",
       "savanna_rock": "2024-07-26 20:37:44 +0000",
       "ocean": "2024-07-26 19:51:08 +0000",
       "extreme_hills": "2024-07-26 17:16:03 +0000",
       "river": "2024-07-26 17:27:12 +0000",
+      "jungle": "2024-12-13 02:37:31 +0000",
       "desert": "2024-07-26 18:33:18 +0000",
       "stone_beach": "2024-07-26 19:53:05 +0000"
     },
@@ -1553,6 +1567,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-07-26 17:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2024-12-13 02:37:39 +0000"
     },
     "done": true
   },

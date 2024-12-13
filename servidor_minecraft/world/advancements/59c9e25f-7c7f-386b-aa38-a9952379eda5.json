@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-13 02:37:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-07-25 19:55:34 +0000"
@@ -440,6 +446,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-07-25 20:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2024-12-13 02:37:58 +0000"
     },
     "done": true
   },
@@ -1744,16 +1756,19 @@
     "criteria": {
       "forest": "2024-07-25 19:53:59 +0000",
       "birch_forest": "2024-07-29 23:08:11 +0000",
+      "deep_ocean": "2024-12-13 02:37:10 +0000",
       "beaches": "2024-07-25 21:14:51 +0000",
       "desert_hills": "2024-07-26 20:18:31 +0000",
       "forest_hills": "2024-07-25 19:52:06 +0000",
       "plains": "2024-07-25 21:19:05 +0000",
       "savanna": "2024-07-26 20:31:57 +0000",
+      "jungle_hills": "2024-12-13 02:37:44 +0000",
       "savanna_rock": "2024-07-26 20:37:48 +0000",
       "ocean": "2024-07-26 18:52:01 +0000",
       "extreme_hills": "2024-07-30 22:09:52 +0000",
       "roofed_forest": "2024-07-29 23:06:32 +0000",
       "river": "2024-07-25 21:18:22 +0000",
+      "jungle": "2024-12-13 02:37:36 +0000",
       "desert": "2024-07-26 18:20:15 +0000"
     },
     "done": false
@@ -1989,6 +2004,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-07-25 20:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2024-12-13 02:37:58 +0000"
     },
     "done": true
   },
