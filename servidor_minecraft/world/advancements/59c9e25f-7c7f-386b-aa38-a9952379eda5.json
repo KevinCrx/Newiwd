@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-12-15 03:37:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-07-25 20:00:34 +0000"
@@ -1055,6 +1061,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2024-07-30 17:52:28 +0000",
+      "shulker": "2024-12-15 03:36:04 +0000",
       "wither_skeleton": "2024-07-30 20:33:19 +0000",
       "zombie_villager": "2024-07-26 18:08:26 +0000",
       "skeleton": "2024-07-25 20:48:32 +0000",
@@ -1749,6 +1756,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-12-15 03:36:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2024-07-30 20:33:31 +0000"
@@ -1930,6 +1943,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-15 03:37:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2024-07-25 19:55:47 +0000"
@@ -2071,6 +2090,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2024-07-30 23:13:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-12-15 03:36:07 +0000"
     },
     "done": true
   },
