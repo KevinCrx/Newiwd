@@ -1007,6 +1007,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-12-15 03:09:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2024-07-26 19:11:19 +0000"
@@ -1620,6 +1626,12 @@
   "tombstone:tutorial/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2024-12-13 01:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-12-15 03:09:01 +0000"
     },
     "done": true
   },
