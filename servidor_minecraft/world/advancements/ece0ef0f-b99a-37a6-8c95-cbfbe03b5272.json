@@ -783,6 +783,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2024-12-15 03:13:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-07-25 20:32:04 +0000"
@@ -1082,6 +1088,12 @@
   "tombstone:tutorial/find_grave_dust": {
     "criteria": {
       "has_grave_dust": "2024-07-25 20:52:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-12-15 03:16:48 +0000"
     },
     "done": true
   },
@@ -1394,6 +1406,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-07-26 18:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-12-15 03:20:07 +0000"
     },
     "done": true
   },
