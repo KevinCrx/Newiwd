@@ -1056,6 +1056,7 @@
       "blaze": "2024-07-30 20:33:30 +0000",
       "zombie": "2024-07-25 20:31:19 +0000",
       "cave_spider": "2024-12-14 22:01:36 +0000",
+      "silverfish": "2024-12-15 03:00:24 +0000",
       "witch": "2024-07-29 20:35:56 +0000",
       "spider": "2024-07-25 20:16:50 +0000",
       "ghast": "2024-07-30 20:36:39 +0000",
@@ -1199,6 +1200,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-07-30 21:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-12-15 02:54:49 +0000"
     },
     "done": true
   },
