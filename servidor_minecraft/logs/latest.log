@@ -970,3 +970,109 @@ Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
 	... 5 more
 [01:27:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> tiene energia?
 [01:27:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> No necesita
+[01:27:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> AH NO
+[01:27:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> SI NECESITA
+[01:27:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Recien me doy cuenta XD
+[01:27:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> XD
+[01:27:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> pera pera pera
+[01:27:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> aqui
+[01:27:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lea_Matt moved too quickly! 7.735926349282408,-1.7999999999998977,-6.764943061808481
+[01:27:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lea_Matt moved too quickly! 9.785605188659247,-2.199999999999875,2.4439324407646836
+[01:27:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lea_Matt moved too quickly! 9.181875093502185,-5.293425446809181,-0.4182749751229835
+[01:27:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Listo ahora si
+[01:28:01] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:28:02] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:28:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> A ver dejame pruebo contigo
+[01:28:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
+[01:28:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> OOH
+[01:28:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Si funca
+[01:28:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ala si que esta agresiva
+[01:28:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Pero si le quite el pvp-
+[01:28:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Wtf ?
+[01:28:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Esta desactivado el pvp
+[01:28:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ah ahora
+[01:28:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Raro
+[01:28:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> me queria matar
+[01:28:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Lit
+[01:28:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
+[01:29:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Disco ?
+[01:29:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> what
+[01:29:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Wow
+[01:29:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Su ataque es algo
+[01:29:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Soso
+[01:29:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Que digamos
+[01:29:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> musica para un lindo lobito
+[01:29:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Pero está bastante bueno eh
+[01:29:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> hahahaha
+[01:29:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ahi lo pongo eh
+[01:29:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> XD
+[01:29:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Y tengo 2 torretas de hecho
+[01:29:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Nos servirá
+[01:29:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Para cuando nos defendamos de los parasitos
+[01:29:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> esta buena para proteger
+[01:29:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Se
+[01:30:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Fuerte
+[01:30:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Eficiente
+[01:30:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Y barato
+[01:30:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> mmrr..
+[01:30:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Quieres oir la musica ?
+[01:31:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Dime
+[01:31:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> chi
+[01:32:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Holy
+[01:32:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> suena bien y un poco tetrica
+[01:32:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Se
+[01:32:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Me gusta
+[01:33:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> yey!
+[01:33:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Sí si..t
+[01:33:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Bastante buena
+[01:33:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> oh cierto no te conté
+[01:33:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Pero ahora transformado puedo llevar armadura
+[01:34:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Aunque creo que si te lo conte ahora que me acuerdo XD
+[01:35:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> ahora si
+[01:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> pero como?
+[01:35:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ?
+[01:35:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ??
+[01:35:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> A que te refieres ?
+[01:37:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lea_Matt moved too quickly! 1.13128038587854,-10.806526110008988,1.3758763974140038
