@@ -1,66 +1,66 @@
-[16:44:13] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[16:44:13] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[16:44:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[16:44:13] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[16:44:13] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[16:44:13] [main/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
-[16:44:13] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in techguns-1.12.2-2.0.2.0_pre3.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[16:44:13] [main/WARN] [FML]: The coremod Techguns Core (techguns.core.TechgunsFMLPlugin) is not signed!
-[16:44:13] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_24.2.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[16:44:13] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
-[16:44:13] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in XaerosWorldMap_1.38.8_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[16:44:13] [main/WARN] [FML]: The coremod XaeroWorldMapPlugin (xaero.map.core.XaeroWorldMapPlugin) is not signed!
-[16:44:13] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[16:44:13] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[16:44:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[16:44:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[16:44:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:44:14] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[16:44:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:44:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:44:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:44:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[16:44:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:44:15] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[16:44:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[16:44:15] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
-[16:44:15] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer
-[16:44:15] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
-[16:44:15] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.management.PlayerList
-[16:44:15] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
-[16:44:15] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayer
-[16:44:15] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[16:44:17] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
-[16:44:17] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayerMP
-[16:44:19] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
-[16:44:19] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.storage.SaveFormatOld
-[16:44:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[16:44:19] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[16:44:19] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[16:44:19] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[16:44:19] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[16:44:20] [Server thread/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
-[16:44:21] [Server thread/INFO] [FML]: Forge Mod Loader has identified 15 mods to load
-[16:44:21] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[16:44:21] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, xaeroworldmap_core, techguns_core, actuallyadditions, howlingmoon, waila, jei, techguns, tombstone, xaerominimap, xaeroworldmap] at CLIENT
-[16:44:21] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, xaeroworldmap_core, techguns_core, actuallyadditions, howlingmoon, waila, jei, techguns, tombstone, xaerominimap, xaeroworldmap] at SERVER
-[16:44:22] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[16:44:22] [Server thread/INFO] [FML]: Found 1197 ObjectHolder annotations
-[16:44:22] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[16:44:22] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[16:44:22] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
-[16:44:22] [Server thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.chunk.Chunk
-[16:44:22] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[16:44:22] [Server thread/INFO] [Actually Additions]: Starting PreInitialization Phase...
-[16:44:22] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[16:44:22] [Server thread/INFO] [Actually Additions]: Grabbing Configurations...
-[16:44:22] [Server thread/INFO] [Actually Additions]: Initializing Tool Materials...
-[16:44:22] [Server thread/INFO] [Actually Additions]: Initializing Armor Materials...
-[16:44:22] [Server thread/INFO] [Actually Additions]: Initializing Update Checker...
-[16:44:22] [Actually Additions Update Checker/INFO] [Actually Additions]: Starting Update Check...
-[16:44:22] [Server thread/INFO] [Actually Additions]: PreInitializing ServerProxy...
-[16:44:22] [Server thread/INFO] [Actually Additions]: PreInitialization Finished.
-[16:44:23] [Actually Additions Update Checker/ERROR] [Actually Additions]: Update Check failed!
+[01:17:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:17:26] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:17:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:17:26] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[01:17:26] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[01:17:27] [main/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
+[01:17:27] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in techguns-1.12.2-2.0.2.0_pre3.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:17:28] [main/WARN] [FML]: The coremod Techguns Core (techguns.core.TechgunsFMLPlugin) is not signed!
+[01:17:28] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_24.2.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:17:28] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
+[01:17:28] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in XaerosWorldMap_1.38.8_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:17:28] [main/WARN] [FML]: The coremod XaeroWorldMapPlugin (xaero.map.core.XaeroWorldMapPlugin) is not signed!
+[01:17:28] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:17:28] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:17:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:17:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:17:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:17:32] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[01:17:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:17:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:17:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:17:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:17:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:17:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:17:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:17:34] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
+[01:17:34] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer
+[01:17:34] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
+[01:17:34] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.management.PlayerList
+[01:17:34] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
+[01:17:34] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayer
+[01:17:35] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[01:17:38] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
+[01:17:38] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayerMP
+[01:17:41] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
+[01:17:41] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.storage.SaveFormatOld
+[01:17:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[01:17:41] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[01:17:41] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[01:17:41] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[01:17:41] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[01:17:42] [Server thread/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
+[01:17:44] [Server thread/INFO] [FML]: Forge Mod Loader has identified 15 mods to load
+[01:17:44] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[01:17:44] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, xaeroworldmap_core, techguns_core, actuallyadditions, howlingmoon, waila, jei, techguns, tombstone, xaerominimap, xaeroworldmap] at CLIENT
+[01:17:44] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, xaeroworldmap_core, techguns_core, actuallyadditions, howlingmoon, waila, jei, techguns, tombstone, xaerominimap, xaeroworldmap] at SERVER
+[01:17:46] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[01:17:46] [Server thread/INFO] [FML]: Found 1197 ObjectHolder annotations
+[01:17:46] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[01:17:46] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[01:17:46] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
+[01:17:46] [Server thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.chunk.Chunk
+[01:17:46] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[01:17:46] [Server thread/INFO] [Actually Additions]: Starting PreInitialization Phase...
+[01:17:46] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Starting version check at https://raw.githubusercontent.com/pWn3d1337/Techguns2/master/update.json
+[01:17:46] [Server thread/INFO] [Actually Additions]: Grabbing Configurations...
+[01:17:46] [Server thread/INFO] [Actually Additions]: Initializing Tool Materials...
+[01:17:46] [Server thread/INFO] [Actually Additions]: Initializing Armor Materials...
+[01:17:46] [Server thread/INFO] [Actually Additions]: Initializing Update Checker...
+[01:17:47] [Server thread/INFO] [Actually Additions]: PreInitializing ServerProxy...
+[01:17:47] [Server thread/INFO] [Actually Additions]: PreInitialization Finished.
+[01:17:47] [Actually Additions Update Checker/INFO] [Actually Additions]: Starting Update Check...
+[01:17:47] [Actually Additions Update Checker/ERROR] [Actually Additions]: Update Check failed!
 java.io.FileNotFoundException: https://raw.githubusercontent.com/Ellpeck/ActuallyAdditions/main/update/updateVersions.properties
 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1913) ~[?:1.8.0_432]
 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92) ~[?:1.8.0_432]
@@ -72,35 +72,35 @@ java.io.FileNotFoundException: https://raw.githubusercontent.com/Ellpeck/Actuall
 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268) ~[?:1.8.0_432]
 	at java.net.URL.openStream(URL.java:1093) ~[?:1.8.0_432]
 	at de.ellpeck.actuallyadditions.mod.update.ThreadUpdateChecker.run(ThreadUpdateChecker.java:35) [ThreadUpdateChecker.class:?]
-[16:44:23] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: OUTDATED Target: 4.7.4
-[16:44:23] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[16:44:23] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[16:44:23] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Starting version check at https://raw.githubusercontent.com/pWn3d1337/Techguns2/master/update.json
-[16:44:23] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Found status: AHEAD Target: null
-[16:44:24] [Server thread/INFO] [Actually Additions]: Initializing Blocks...
-[16:44:24] [Server thread/INFO] [FML]: Applying holder lookups
-[16:44:24] [Server thread/INFO] [FML]: Holder lookups applied
-[16:44:24] [Server thread/INFO] [Actually Additions]: Initializing Items...
-[16:44:24] [Server thread/INFO] [Actually Additions]: Initializing OreDictionary Entries...
-[16:44:24] [Server thread/INFO] [FML]: Applying holder lookups
-[16:44:24] [Server thread/INFO] [FML]: Holder lookups applied
-[16:44:24] [Server thread/INFO] [Actually Additions]: Initializing Village Addons...
-[16:44:25] [Server thread/INFO] [FML]: Applying holder lookups
-[16:44:25] [Server thread/INFO] [FML]: Holder lookups applied
-[16:44:25] [Server thread/INFO] [FML]: Applying holder lookups
-[16:44:25] [Server thread/INFO] [FML]: Holder lookups applied
-[16:44:25] [Server thread/INFO] [FML]: Injecting itemstacks
-[16:44:25] [Server thread/INFO] [FML]: Itemstack injection complete
-[16:44:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[16:44:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[16:44:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[16:44:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[16:44:25] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[16:44:25] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:44:25] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[16:44:25] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:44:25] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:44:25] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual_alt
+[01:17:48] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Found status: AHEAD Target: null
+[01:17:48] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[01:17:48] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: OUTDATED Target: 4.7.4
+[01:17:48] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[01:17:48] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[01:17:49] [Server thread/INFO] [Actually Additions]: Initializing Blocks...
+[01:17:49] [Server thread/INFO] [FML]: Applying holder lookups
+[01:17:50] [Server thread/INFO] [FML]: Holder lookups applied
+[01:17:50] [Server thread/INFO] [Actually Additions]: Initializing Items...
+[01:17:50] [Server thread/INFO] [Actually Additions]: Initializing OreDictionary Entries...
+[01:17:50] [Server thread/INFO] [FML]: Applying holder lookups
+[01:17:50] [Server thread/INFO] [FML]: Holder lookups applied
+[01:17:50] [Server thread/INFO] [Actually Additions]: Initializing Village Addons...
+[01:17:50] [Server thread/INFO] [FML]: Applying holder lookups
+[01:17:50] [Server thread/INFO] [FML]: Holder lookups applied
+[01:17:50] [Server thread/INFO] [FML]: Applying holder lookups
+[01:17:50] [Server thread/INFO] [FML]: Holder lookups applied
+[01:17:50] [Server thread/INFO] [FML]: Injecting itemstacks
+[01:17:50] [Server thread/INFO] [FML]: Itemstack injection complete
+[01:17:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[01:17:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[01:17:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[01:17:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[01:17:51] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[01:17:52] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:17:52] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[01:17:52] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:17:52] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:17:52] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual_alt
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
@@ -116,7 +116,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[16:44:25] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual
+[01:17:52] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
@@ -132,7 +132,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[16:44:25] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap_alt
+[01:17:52] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap_alt
 com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:254) ~[ShapedOreRecipe.class:?]
@@ -148,7 +148,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[16:44:25] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap
+[01:17:52] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap
 com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:254) ~[ShapedOreRecipe.class:?]
@@ -164,104 +164,809 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[16:44:25] [Server thread/INFO] [Actually Additions]: Initializing Crafting Recipes...
-[16:44:25] [Server thread/INFO] [FML]: Applying holder lookups
-[16:44:25] [Server thread/INFO] [FML]: Holder lookups applied
-[16:44:25] [Server thread/INFO] [Actually Additions]: Starting Initialization Phase...
-[16:44:25] [Server thread/INFO] [Actually Additions]: Initializing GuiHandler...
-[16:44:25] [Server thread/INFO] [Actually Additions]: Registering World Generator...
-[16:44:25] [Server thread/INFO] [Actually Additions]: Registering TileEntities...
-[16:44:25] [Server thread/INFO] [Actually Additions]: Initializing Entities...
-[16:44:25] [Server thread/INFO] [Actually Additions]: Initializing ServerProxy...
-[16:44:25] [Server thread/INFO] [Actually Additions]: Initialization Finished.
-[16:44:25] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[16:44:25] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 1/2 (Server)
-[16:44:25] [Server thread/INFO] [FML]: Injecting itemstacks
-[16:44:25] [Server thread/INFO] [FML]: Itemstack injection complete
-[16:44:26] [Server thread/INFO] [Actually Additions]: Starting PostInitialization Phase...
-[16:44:26] [Server thread/INFO] [Actually Additions]: Initializing Crusher Recipes...
-[16:44:26] [Server thread/INFO] [Actually Additions]: Registered a total of 105 booklet chapters, where 294 out of 412 booklet pages contain information about items or fluids!
-[16:44:26] [Server thread/INFO] [Actually Additions]: PostInitializing ServerProxy...
-[16:44:26] [Server thread/INFO] [Actually Additions]: PostInitialization Finished.
-[16:44:26] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[16:44:26] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 2/2 (Server)
-[16:44:26] [Server thread/INFO] [Waila]: Starting Waila...
-[16:44:26] [Server thread/INFO] [Waila]: Gathering annotated plugins...
-[16:44:26] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
-[16:44:26] [Server thread/INFO] [Waila]: Registering plugins...
-[16:44:26] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
-[16:44:26] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[16:44:26] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
-[16:44:26] [Server thread/INFO] [Waila]: Registering plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
-[16:44:26] [Server thread/INFO] [Waila]: Starting Waila took 43.85 ms
-[16:44:26] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 15 mods
-[16:44:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[16:44:26] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:infestedstain
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasitestain
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasiterubble
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasitestructure
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:gore
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasitecanister
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:biomeheart
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:biomepurifier
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:deadblood
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:infestedrubble
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasitetendril
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:srpweb
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasitesapling
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasitestain_fleshstairs
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:colonyheart
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:infestedore
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:colonyoutpost
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:evolutionlure
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:infestremain
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasitemouth
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:tunnel
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:dispatchern
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasiterubble_slabdouble
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasiterubbledense
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:infestedtrunk
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasitethin
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasitetrunk
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasiterubble_slabhalf
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:canisteractive
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasiterubble_bonestairs
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasitebush
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasitefog
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:infestedbush
-[16:44:26] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:bloodyice
-[16:44:27] [Server thread/INFO] [FML]: Applying holder lookups
-[16:44:27] [Server thread/INFO] [FML]: Holder lookups applied
-[16:44:27] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@4c7f2214)
-[16:44:27] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 625 advancements
-[16:44:27] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@4c7f2214)
-[16:44:27] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@4c7f2214)
-[16:44:27] [Server thread/INFO] [FML]: Loading dimension 24 (world) (net.minecraft.server.dedicated.DedicatedServer@4c7f2214)
-[16:44:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[16:44:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 8%
-[16:44:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 98%
-[16:44:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.151s)! For help, type "help" or "?"
-[16:44:29] [Server thread/INFO] [Actually Additions]: Successfully loaded WorldData!
-[16:44:30] [Server thread/INFO] [FML]: Unloading dimension -1
-[16:44:30] [Server thread/INFO] [FML]: Unloading dimension 1
-[16:44:30] [Server thread/INFO] [FML]: Unloading dimension 24
-[16:44:34] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[16:44:34] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[16:44:34] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[16:44:34] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[16:44:34] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[16:44:34] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,FML@8.0.99.99,tombstone@4.6.6,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1012,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,howlingmoon@0.9,techguns_core@1.12.2-1.0,actuallyadditions@1.12.2-r152,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,techguns@2.0.2.0
-[16:44:35] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[16:44:35] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KevinCrax[/127.32.159.127:50081] logged in with entity id 254 at (-509.17311644553234, 69.0, 504.3108790784158)
-[16:44:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax joined the game
-[16:44:35] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KevinCrax'/254, l='world', x=-509.17, y=69.00, z=504.31] connected. Sending ping
-[16:44:35] [Server thread/INFO] [Actually Additions]: Sending Player Data to player KevinCrax with UUID 59c9e25f-7c7f-386b-aa38-a9952379eda5.
-[16:45:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Set the time to 13000]
-[16:45:22] [Server thread/INFO] [FML]: Loading dimension 24 (world) (net.minecraft.server.dedicated.DedicatedServer@4c7f2214)
-[16:45:26] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4234ms behind, skipping 84 tick(s)
-[16:46:15] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.passive.EntityTameable from class com.raz.howlingmoon.entities.EntityWolfSpirit
-[16:46:15] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.raz.howlingmoon.entities.EntityWerewolfGuide from class com.raz.howlingmoon.entities.EntityWolfSpirit
-[16:46:15] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.raz.howlingmoon.entities.EntityWerewolfGuide from class com.raz.howlingmoon.entities.EntityWolfSpirit
-[16:46:15] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.raz.howlingmoon.entities.EntityWerewolfGuide from class com.raz.howlingmoon.entities.EntityWolfSpirit
-[16:46:48] [Server thread/INFO] [FML]: Unloading dimension 24
+[01:17:52] [Server thread/INFO] [Actually Additions]: Initializing Crafting Recipes...
+[01:17:53] [Server thread/INFO] [FML]: Applying holder lookups
+[01:17:53] [Server thread/INFO] [FML]: Holder lookups applied
+[01:17:53] [Server thread/INFO] [Actually Additions]: Starting Initialization Phase...
+[01:17:53] [Server thread/INFO] [Actually Additions]: Initializing GuiHandler...
+[01:17:53] [Server thread/INFO] [Actually Additions]: Registering World Generator...
+[01:17:53] [Server thread/INFO] [Actually Additions]: Registering TileEntities...
+[01:17:53] [Server thread/INFO] [Actually Additions]: Initializing Entities...
+[01:17:53] [Server thread/INFO] [Actually Additions]: Initializing ServerProxy...
+[01:17:53] [Server thread/INFO] [Actually Additions]: Initialization Finished.
+[01:17:53] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[01:17:53] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 1/2 (Server)
+[01:17:53] [Server thread/INFO] [FML]: Injecting itemstacks
+[01:17:53] [Server thread/INFO] [FML]: Itemstack injection complete
+[01:17:53] [Server thread/INFO] [Actually Additions]: Starting PostInitialization Phase...
+[01:17:53] [Server thread/INFO] [Actually Additions]: Initializing Crusher Recipes...
+[01:17:53] [Server thread/INFO] [Actually Additions]: Registered a total of 105 booklet chapters, where 294 out of 412 booklet pages contain information about items or fluids!
+[01:17:53] [Server thread/INFO] [Actually Additions]: PostInitializing ServerProxy...
+[01:17:53] [Server thread/INFO] [Actually Additions]: PostInitialization Finished.
+[01:17:54] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[01:17:54] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 2/2 (Server)
+[01:17:54] [Server thread/INFO] [Waila]: Starting Waila...
+[01:17:54] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[01:17:54] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[01:17:54] [Server thread/INFO] [Waila]: Registering plugins...
+[01:17:54] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[01:17:54] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[01:17:54] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[01:17:54] [Server thread/INFO] [Waila]: Registering plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
+[01:17:54] [Server thread/INFO] [Waila]: Starting Waila took 37.02 ms
+[01:17:54] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 15 mods
+[01:17:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[01:17:54] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:infestedstain
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasitestain
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasiterubble
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasitestructure
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:gore
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasitecanister
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:biomeheart
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:biomepurifier
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:deadblood
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:infestedrubble
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasitetendril
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:srpweb
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasitesapling
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasitestain_fleshstairs
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:colonyheart
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:infestedore
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:colonyoutpost
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:evolutionlure
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:infestremain
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasitemouth
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:tunnel
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:dispatchern
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasiterubble_slabdouble
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasiterubbledense
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:infestedtrunk
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasitethin
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasitetrunk
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasiterubble_slabhalf
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:canisteractive
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasiterubble_bonestairs
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasitebush
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:parasitefog
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:infestedbush
+[01:17:55] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world srparasites:bloodyice
+[01:17:55] [Server thread/INFO] [FML]: Applying holder lookups
+[01:17:55] [Server thread/INFO] [FML]: Holder lookups applied
+[01:17:56] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@57ced3aa)
+[01:17:56] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 625 advancements
+[01:17:56] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@57ced3aa)
+[01:17:56] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@57ced3aa)
+[01:17:56] [Server thread/INFO] [FML]: Loading dimension 24 (world) (net.minecraft.server.dedicated.DedicatedServer@57ced3aa)
+[01:17:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[01:17:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
+[01:17:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 20%
+[01:17:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 64%
+[01:18:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (5.725s)! For help, type "help" or "?"
+[01:18:00] [Server thread/INFO] [Actually Additions]: Successfully loaded WorldData!
+[01:18:01] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:18:01] [Server thread/INFO] [FML]: Unloading dimension 1
+[01:18:01] [Server thread/INFO] [FML]: Unloading dimension 24
+[01:18:27] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[01:18:27] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[01:18:27] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[01:18:27] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[01:18:28] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[01:18:28] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,FML@8.0.99.99,tombstone@4.6.6,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1012,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,howlingmoon@0.9,techguns_core@1.12.2-1.0,actuallyadditions@1.12.2-r152,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,techguns@2.0.2.0
+[01:18:29] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:18:29] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KevinCrax[/127.32.159.127:53867] logged in with entity id 261 at (-493.6773693286537, 68.0, 492.2950756412771)
+[01:18:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax joined the game
+[01:18:30] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KevinCrax'/261, l='world', x=-493.68, y=68.00, z=492.30] connected. Sending ping
+[01:18:30] [Server thread/INFO] [Actually Additions]: Sending Player Data to player KevinCrax with UUID 59c9e25f-7c7f-386b-aa38-a9952379eda5.
+[01:19:00] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[01:19:00] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,FML@8.0.99.99,tombstone@4.6.6,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1012,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,howlingmoon@0.9,techguns_core@1.12.2-1.0,actuallyadditions@1.12.2-r152,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,techguns@2.0.2.0
+[01:19:01] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:19:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lea_Matt[/127.219.176.237:44379] logged in with entity id 556 at (-557.3054461711848, 108.0, 538.7565447662668)
+[01:19:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt joined the game
+[01:19:01] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Lea_Matt'/556, l='world', x=-557.31, y=108.00, z=538.76] connected. Sending ping
+[01:19:01] [Server thread/INFO] [Actually Additions]: Sending Player Data to player Lea_Matt with UUID ece0ef0f-b99a-37a6-8c95-cbfbe03b5272.
+[01:19:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> HEYA
+[01:19:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> Hola
+[01:19:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> aqui estoy
+[01:19:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> aqui está nwn
+[01:19:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> ya Yey!
+[01:19:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> haha
+[01:19:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ay Leita
+[01:19:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Hice
+[01:20:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> TORRETAS !
+[01:20:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> . . .
+[01:21:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> a ver!
+[01:21:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> el jey no anda
+[01:21:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ??
+[01:21:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> ahora
+[01:21:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Raro..
+[01:22:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Aqui-
+[01:22:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> espera
+[01:22:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> okis
+[01:22:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> oh rayos donde estaba-
+[01:23:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no se
+[01:23:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ok ahora
+[01:23:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> esto que hace?
+[01:23:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> hay que provarlo con zombies
+[01:23:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Luego te lo explico
+[01:23:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> primero veni
+[01:23:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> okis
+[01:24:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lea_Matt moved too quickly! -5.79584868050847,-0.9048849587703742,-8.610520575662804
+[01:24:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Esto
+[01:24:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> esperate un momento
+[01:24:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> voy a liberar a los zombies
+[01:24:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> para que lo veas en accion
+[01:24:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Aunque primeroooo
+[01:24:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Solo yo puede acceder a la torreta
+[01:24:51] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.resources.I18n
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_432]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_432]
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+Caused by: java.lang.NullPointerException
+[01:24:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Pero basicamente..
+[01:24:54] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:24:55] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:24:55] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:24:56] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:24:56] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:24:56] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:24:56] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:24:56] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:24:57] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:24:57] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:24:57] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:25:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> ahora
+[01:25:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Puedes configurar si ataca a los mobs neutrales
+[01:25:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Digo pacificos
+[01:25:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> antes podia yo tambien
+[01:25:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Como animales
+[01:25:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> O otros jugadores
+[01:25:19] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:25:20] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:25:21] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:25:21] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:25:21] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:25:21] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:25:21] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:25:22] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:25:22] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:25:30] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:25:30] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:25:31] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:25:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> a ver dejame hago pruebas
+[01:25:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> eeh haha
+[01:25:51] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:25:51] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:25:52] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:25:52] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:25:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> espera un momento
+[01:25:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> abro?
+[01:26:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Yap
+[01:26:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ya esta activo
+[01:26:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ahhmm...
+[01:26:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> torreta ? XD
+[01:26:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> a ver dejame intento otra cosa
+[01:26:56] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/resources/I18n
+	at techguns.util.TextUtil.trans(TextUtil.java:8) ~[TextUtil.class:?]
+	at techguns.blocks.machines.BasicMachine.func_180639_a(BasicMachine.java:208) ~[BasicMachine.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:449) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[01:27:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> tiene energia?
+[01:27:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> No necesita
