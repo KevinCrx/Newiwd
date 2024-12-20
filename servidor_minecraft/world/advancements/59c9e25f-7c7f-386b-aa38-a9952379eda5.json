@@ -503,6 +503,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_voodoo_poppet": {
+    "criteria": {
+      "has_ingredient": "2024-12-20 21:18:46 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_strange_tablet": {
     "criteria": {
       "has_ingredient": "2024-12-13 02:18:43 +0000"
@@ -830,6 +836,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2024-12-20 21:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_button": {
     "criteria": {
       "has_planks": "2024-07-25 19:55:31 +0000"
@@ -1085,6 +1097,7 @@
       "jungle_edge": "2024-12-15 03:05:36 +0000",
       "savanna_rock": "2024-07-26 20:37:48 +0000",
       "taiga": "2024-12-14 22:28:11 +0000",
+      "taiga_hills": "2024-12-20 21:27:35 +0000",
       "ocean": "2024-07-26 18:52:01 +0000",
       "extreme_hills": "2024-07-30 22:09:52 +0000",
       "roofed_forest": "2024-07-29 23:06:32 +0000",
@@ -1783,6 +1796,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2024-12-13 01:57:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2024-12-20 21:18:46 +0000"
     },
     "done": true
   },
