@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2024-12-21 17:18:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-07-25 20:38:59 +0000"
@@ -872,9 +878,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2024-12-13 01:43:48 +0000",
+      "wither_skeleton": "2024-12-21 17:21:28 +0000",
       "zombie_villager": "2024-12-13 02:26:00 +0000",
       "skeleton": "2024-07-25 20:52:16 +0000",
       "husk": "2024-12-13 02:07:04 +0000",
+      "blaze": "2024-12-21 17:20:01 +0000",
       "zombie": "2024-07-26 17:49:09 +0000",
       "silverfish": "2024-12-15 03:00:26 +0000",
       "spider": "2024-07-26 17:47:07 +0000",
@@ -1081,6 +1089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-21 17:20:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-07-26 19:51:47 +0000"
@@ -1156,6 +1170,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-07-30 23:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-21 17:19:26 +0000"
     },
     "done": true
   },
@@ -1471,6 +1491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-21 17:20:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2024-07-26 17:47:45 +0000"
@@ -1543,6 +1569,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-21 17:20:20 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2024-07-26 18:01:59 +0000"
@@ -1600,6 +1632,12 @@
   "minecraft:recipes/building_blocks/birch_wooden_slab": {
     "criteria": {
       "has_planks": "2024-12-17 03:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2024-12-21 17:18:42 +0000"
     },
     "done": true
   },
@@ -1744,6 +1782,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2024-07-30 20:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2024-12-21 17:18:42 +0000"
     },
     "done": true
   },
