@@ -14651,3 +14651,108 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'buildcraftfactory:water_gel
 [22:07:31] [Server thread/DEBUG] [FML]: The world 3b898f0 (world) may have leaked: seen 355 times.
 
 [22:07:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:07:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Me quedo bien bonito esto nwn
+[22:07:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Rayos
+[22:08:21] [Server thread/DEBUG] [FML]: The world 4a220941 (world) may have leaked: seen 360 times.
+
+[22:08:21] [Server thread/DEBUG] [FML]: The world 3b898f0 (world) may have leaked: seen 360 times.
+
+[22:08:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:09:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:09:11] [Server thread/DEBUG] [FML]: The world 4a220941 (world) may have leaked: seen 365 times.
+
+[22:09:11] [Server thread/DEBUG] [FML]: The world 3b898f0 (world) may have leaked: seen 365 times.
+
+[22:09:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:10:01] [Server thread/DEBUG] [FML]: The world 4a220941 (world) may have leaked: seen 370 times.
+
+[22:10:01] [Server thread/DEBUG] [FML]: The world 3b898f0 (world) may have leaked: seen 370 times.
+
+[22:10:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lea_Matt lost connection: Disconnected
+[22:10:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt left the game
+[22:10:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Of
+[22:10:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:10:51] [Server thread/DEBUG] [FML]: The world 4a220941 (world) may have leaked: seen 375 times.
+
+[22:10:51] [Server thread/DEBUG] [FML]: The world 3b898f0 (world) may have leaked: seen 375 times.
+
+[22:11:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:11:41] [Server thread/DEBUG] [FML]: The world 4a220941 (world) may have leaked: seen 380 times.
+
+[22:11:41] [Server thread/DEBUG] [FML]: The world 3b898f0 (world) may have leaked: seen 380 times.
+
+[22:11:59] [Server thread/TRACE] [FML]: Handshake channel activating
+[22:11:59] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[22:11:59] [Server thread/DEBUG] [FML]:   Next: HELLO
+[22:12:00] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[22:12:00] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[22:12:00] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:27 mods->FMLHandshakeServerState$2:HELLO
+[22:12:00] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 27 mods : minecraft@1.12.2,buildcraftlib@7.99.24.8,buildcraftsilicon@7.99.24.8,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1012,buildcrafttransport@7.99.24.8,howlingmoon@0.9,techguns_core@1.12.2-1.0,actuallyadditions@1.12.2-r152,xaerominimap@24.2.0,mcp@9.42,buildcraftfactory@7.99.24.8,xaeroworldmap@1.38.8,FML@8.0.99.99,tombstone@4.6.6,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,msic@1.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,buildcraftcore@7.99.24.8,overlast@0.2.9,techguns@2.0.2.0
+[22:12:00] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[22:12:00] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[22:12:00] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[22:12:01] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[22:12:01] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[22:12:01] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[22:12:01] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:12:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lea_Matt[/127.211.57.169:51031] logged in with entity id 180095 at (-625.3561655057872, 12.0, 561.9717837729079)
+[22:12:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt joined the game
+[22:12:01] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Lea_Matt'/180095, l='world', x=-625.36, y=12.00, z=561.97] connected. Sending ping
+[22:12:01] [Server thread/INFO] [Actually Additions]: Sending Player Data to player Lea_Matt with UUID ece0ef0f-b99a-37a6-8c95-cbfbe03b5272.
+[22:12:01] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[22:12:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> que pasu
+[22:12:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:12:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> bomite
+[22:12:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> holy sh..
+[22:12:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> que rayos comiste ?!
+[22:12:31] [Server thread/DEBUG] [FML]: The world 4a220941 (world) may have leaked: seen 385 times.
+
+[22:12:31] [Server thread/DEBUG] [FML]: The world 3b898f0 (world) may have leaked: seen 385 times.
+
+[22:12:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> la ensalada de fritas ya estaba pasada
+[22:12:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:12:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ugh... con razón
+[22:12:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> asi que me imagino que fue eso
+[22:13:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Debe de ser
+[22:13:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Toma agua mucha
+[22:13:21] [Server thread/DEBUG] [FML]: The world 4a220941 (world) may have leaked: seen 390 times.
+
+[22:13:21] [Server thread/DEBUG] [FML]: The world 3b898f0 (world) may have leaked: seen 390 times.
+
+[22:13:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:14:11] [Server thread/DEBUG] [FML]: The world 4a220941 (world) may have leaked: seen 395 times.
+
+[22:14:11] [Server thread/DEBUG] [FML]: The world 3b898f0 (world) may have leaked: seen 395 times.
+
+[22:14:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:15:01] [Server thread/DEBUG] [FML]: The world 4a220941 (world) may have leaked: seen 400 times.
+
+[22:15:01] [Server thread/DEBUG] [FML]: The world 3b898f0 (world) may have leaked: seen 400 times.
+
+[22:15:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Lea
+[22:15:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:15:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> eso hare
+[22:15:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Necesito como...
+[22:15:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> 160 brotes de arboles
+[22:15:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> para?
+[22:15:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> La greenhouse glass
+[22:15:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> yo tengo nada mas 64
+[22:15:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Para los cultivos
+[22:15:51] [Server thread/DEBUG] [FML]: The world 4a220941 (world) may have leaked: seen 405 times.
+
+[22:15:51] [Server thread/DEBUG] [FML]: The world 3b898f0 (world) may have leaked: seen 405 times.
+
+[22:15:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:15:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Pasame todo el que tengas por favor
+[22:16:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> en mi cobre con una rbolito esta todo pero dejame un uno de cada uno
+[22:16:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Vale
+[22:16:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:16:41] [Server thread/DEBUG] [FML]: The world 4a220941 (world) may have leaked: seen 410 times.
+
+[22:16:41] [Server thread/DEBUG] [FML]: The world 3b898f0 (world) may have leaked: seen 410 times.
+
+[22:17:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:17:31] [Server thread/DEBUG] [FML]: The world 4a220941 (world) may have leaked: seen 415 times.
+
+[22:17:31] [Server thread/DEBUG] [FML]: The world 3b898f0 (world) may have leaked: seen 415 times.
+
