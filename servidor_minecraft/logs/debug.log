@@ -14225,3 +14225,90 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'buildcraftfactory:water_gel
 [01:00:44] [Server thread/DEBUG] [FML]: The world 4e6df2bc (world) may have leaked: seen 115 times.
 
 [01:01:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:01:34] [Server thread/DEBUG] [FML]: The world 27d59e0f (world) may have leaked: seen 120 times.
+
+[01:01:34] [Server thread/DEBUG] [FML]: The world 4e6df2bc (world) may have leaked: seen 120 times.
+
+[01:01:44] [Server thread/INFO] [OverLast]: Saving data to disk.
+[01:01:44] [Server thread/INFO] [OverLast]: Rain is on the way in 4429 ticks.
+[01:01:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Spring, day 3.
+[01:01:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: My friends, have you ever cared what is in the endless sky on this land full of monsters? Is it endless loneliness or endless hope?
+[01:01:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Winter has passed, it's time to get ready for the final battle!
+[01:01:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:02:24] [Server thread/DEBUG] [FML]: The world 27d59e0f (world) may have leaked: seen 125 times.
+
+[01:02:24] [Server thread/DEBUG] [FML]: The world 4e6df2bc (world) may have leaked: seen 125 times.
+
+[01:02:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:03:14] [Server thread/DEBUG] [FML]: The world 27d59e0f (world) may have leaked: seen 130 times.
+
+[01:03:14] [Server thread/DEBUG] [FML]: The world 4e6df2bc (world) may have leaked: seen 130 times.
+
+[01:03:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:04:04] [Server thread/DEBUG] [FML]: The world 27d59e0f (world) may have leaked: seen 135 times.
+
+[01:04:04] [Server thread/DEBUG] [FML]: The world 4e6df2bc (world) may have leaked: seen 135 times.
+
+[01:04:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:04:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:04:54] [Server thread/DEBUG] [FML]: The world 27d59e0f (world) may have leaked: seen 140 times.
+
+[01:04:54] [Server thread/DEBUG] [FML]: The world 4e6df2bc (world) may have leaked: seen 140 times.
+
+[01:05:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:05:44] [Server thread/DEBUG] [FML]: The world 27d59e0f (world) may have leaked: seen 145 times.
+
+[01:05:44] [Server thread/DEBUG] [FML]: The world 4e6df2bc (world) may have leaked: seen 145 times.
+
+[01:06:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:06:34] [Server thread/DEBUG] [FML]: The world 27d59e0f (world) may have leaked: seen 150 times.
+
+[01:06:34] [Server thread/DEBUG] [FML]: The world 4e6df2bc (world) may have leaked: seen 150 times.
+
+[01:07:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:07:24] [Server thread/DEBUG] [FML]: The world 27d59e0f (world) may have leaked: seen 155 times.
+
+[01:07:24] [Server thread/DEBUG] [FML]: The world 4e6df2bc (world) may have leaked: seen 155 times.
+
+[01:07:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:07:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KevinCrax lost connection: Disconnected
+[01:07:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax left the game
+[01:08:04] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:08:04] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:08:04] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:08:04] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:08:04] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[01:08:04] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:28 mods->FMLHandshakeServerState$2:HELLO
+[01:08:04] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 28 mods : minecraft@1.12.2,buildcraftlib@7.99.24.8,mobbattle@2.3.4,buildcraftsilicon@7.99.24.8,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1012,buildcrafttransport@7.99.24.8,howlingmoon@0.9,techguns_core@1.12.2-1.0,actuallyadditions@1.12.2-r152,xaerominimap@24.2.0,mcp@9.42,buildcraftfactory@7.99.24.8,xaeroworldmap@1.38.8,FML@8.0.99.99,tombstone@4.6.6,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,msic@1.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,buildcraftcore@7.99.24.8,overlast@0.2.9,techguns@2.0.2.0
+[01:08:04] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[01:08:04] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:08:04] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[01:08:05] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:08:05] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[01:08:05] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:08:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:08:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KevinCrax[/127.100.141.87:59947] logged in with entity id 79460 at (-599.8710906730698, 112.0, 571.2949443840967)
+[01:08:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax joined the game
+[01:08:05] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:08:05] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KevinCrax'/79460, l='world', x=-599.87, y=112.00, z=571.29] connected. Sending ping
+[01:08:05] [Server thread/INFO] [Actually Additions]: Sending Player Data to player KevinCrax with UUID 59c9e25f-7c7f-386b-aa38-a9952379eda5.
+[01:08:14] [Server thread/DEBUG] [FML]: The world 27d59e0f (world) may have leaked: seen 160 times.
+
+[01:08:14] [Server thread/DEBUG] [FML]: The world 4e6df2bc (world) may have leaked: seen 160 times.
+
+[01:08:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:09:04] [Server thread/DEBUG] [FML]: The world 27d59e0f (world) may have leaked: seen 165 times.
+
+[01:09:04] [Server thread/DEBUG] [FML]: The world 4e6df2bc (world) may have leaked: seen 165 times.
+
+[01:09:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:09:54] [Server thread/DEBUG] [FML]: The world 27d59e0f (world) may have leaked: seen 170 times.
+
+[01:09:54] [Server thread/DEBUG] [FML]: The world 4e6df2bc (world) may have leaked: seen 170 times.
+
+[01:10:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:10:44] [Server thread/DEBUG] [FML]: The world 27d59e0f (world) may have leaked: seen 175 times.
+
+[01:10:44] [Server thread/DEBUG] [FML]: The world 4e6df2bc (world) may have leaked: seen 175 times.
+
+[01:10:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
