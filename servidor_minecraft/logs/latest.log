@@ -1,107 +1,107 @@
-[02:43:55] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[02:43:55] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[02:43:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[02:43:55] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[02:43:55] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[02:43:58] [main/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
-[02:43:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[02:43:58] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[02:43:58] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
-[02:43:58] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from MyServerIsCompatible-1.12.2-1.0.jar
-[02:43:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in techguns-1.12.2-2.0.2.0_pre3.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[02:43:58] [main/WARN] [FML]: The coremod Techguns Core (techguns.core.TechgunsFMLPlugin) is not signed!
-[02:43:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_24.2.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[02:43:58] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
-[02:43:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in XaerosWorldMap_1.38.8_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[02:43:58] [main/WARN] [FML]: The coremod XaeroWorldMapPlugin (xaero.map.core.XaeroWorldMapPlugin) is not signed!
-[02:43:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[02:43:58] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[02:43:58] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/Newiwd/servidor_minecraft/./mods/MyServerIsCompatible-1.12.2-1.0.jar Service=LaunchWrapper Env=SERVER
-[02:43:58] [main/WARN] [FML]: The coremod com.focamacho.myserveriscompatible.asm.MSICCoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[02:43:58] [main/WARN] [FML]: The coremod MSICCoreMod (com.focamacho.myserveriscompatible.asm.MSICCoreMod) is not signed!
-[02:43:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[02:43:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[02:43:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[02:43:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[02:44:01] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[02:44:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[02:44:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[02:44:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[02:44:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[02:44:02] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[02:44:02] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[02:44:02] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@3a60c416
-[02:44:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[02:44:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[02:44:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[02:44:02] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[02:44:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[02:44:03] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[02:44:03] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
-[02:44:03] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer
-[02:44:03] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
-[02:44:03] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.management.PlayerList
-[02:44:03] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
-[02:44:03] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayer
-[02:44:04] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[02:44:07] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
-[02:44:07] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayerMP
-[02:44:10] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
-[02:44:10] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.storage.SaveFormatOld
-[02:44:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[02:44:10] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[02:44:10] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[02:44:11] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[02:44:12] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[02:44:12] [Server thread/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
-[02:44:14] [Server thread/INFO] [FML]: Forge Mod Loader has identified 26 mods to load
-[02:44:14] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[02:44:14] [Server thread/WARN] [FML]: Missing English translation for buildcraftcore: assets/buildcraftcore/lang/en_us.lang
-[02:44:14] [Server thread/WARN] [FML]: Missing English translation for buildcraftfactory: assets/buildcraftfactory/lang/en_us.lang
-[02:44:14] [Server thread/WARN] [FML]: Missing English translation for buildcraftsilicon: assets/buildcraftsilicon/lang/en_us.lang
-[02:44:14] [Server thread/WARN] [FML]: Missing English translation for buildcrafttransport: assets/buildcrafttransport/lang/en_us.lang
-[02:44:14] [Server thread/WARN] [FML]: Missing English translation for msic: assets/msic/lang/en_us.lang
-[02:44:15] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, xaerominimap_core, xaeroworldmap_core, techguns_core, actuallyadditions, buildcraftcore, buildcraftlib, buildcraftfactory, buildcraftsilicon, buildcrafttransport, creativecore, howlingmoon, waila, jei, msic, overlast, playerrevive, srparasites, techguns, tombstone, xaerominimap, xaeroworldmap] at CLIENT
-[02:44:15] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, xaerominimap_core, xaeroworldmap_core, techguns_core, actuallyadditions, buildcraftcore, buildcraftlib, buildcraftfactory, buildcraftsilicon, buildcrafttransport, creativecore, howlingmoon, waila, jei, msic, overlast, playerrevive, srparasites, techguns, tombstone, xaerominimap, xaeroworldmap] at SERVER
-[02:44:17] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[02:44:17] [Server thread/INFO] [FML]: Found 1258 ObjectHolder annotations
-[02:44:17] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[02:44:17] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[02:44:17] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
-[02:44:17] [Server thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.chunk.Chunk
-[02:44:17] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[02:44:17] [Server thread/INFO] [Actually Additions]: Starting PreInitialization Phase...
-[02:44:17] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Starting version check at https://mod-buildcraft.com/version/versions.json
-[02:44:17] [Server thread/INFO] [Actually Additions]: Grabbing Configurations...
-[02:44:17] [Server thread/INFO] [Actually Additions]: Initializing Tool Materials...
-[02:44:17] [Server thread/INFO] [Actually Additions]: Initializing Armor Materials...
-[02:44:17] [Server thread/INFO] [Actually Additions]: Initializing Update Checker...
-[02:44:17] [Server thread/INFO] [Actually Additions]: PreInitializing ServerProxy...
-[02:44:17] [Server thread/INFO] [Actually Additions]: PreInitialization Finished.
-[02:44:17] [Actually Additions Update Checker/INFO] [Actually Additions]: Starting Update Check...
-[02:44:17] [Server thread/INFO] [BuildCraft]: 
-[02:44:17] [Server thread/INFO] [BuildCraft]: Starting BuildCraft 7.99.24.8
-[02:44:17] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2018
-[02:44:17] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
-[02:44:17] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
-[02:44:17] [Server thread/INFO] [BuildCraft]:   Branch HEAD
-[02:44:17] [Server thread/INFO] [BuildCraft]:   Commit 68370005a10488d02a4bb4b8df86bbc62633d216
-[02:44:17] [Server thread/INFO] [BuildCraft]:     Bump version for release relase, fix a java 13+ compile error, tweak changelog, and fix engines chaining one block more than they should have.
-[02:44:17] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
-[02:44:17] [Server thread/INFO] [BuildCraft]: 
-[02:44:17] [Server thread/INFO] [BuildCraft]: Loaded Modules:
-[02:44:17] [Server thread/INFO] [BuildCraft]:   - lib
-[02:44:17] [Server thread/INFO] [BuildCraft]:   - core
-[02:44:17] [Server thread/INFO] [BuildCraft]:   - factory
-[02:44:17] [Server thread/INFO] [BuildCraft]:   - silicon
-[02:44:17] [Server thread/INFO] [BuildCraft]:   - transport
-[02:44:17] [Server thread/INFO] [BuildCraft]: Missing Modules:
-[02:44:17] [Server thread/INFO] [BuildCraft]:   - builders
-[02:44:17] [Server thread/INFO] [BuildCraft]:   - energy
-[02:44:17] [Server thread/INFO] [BuildCraft]:   - robotics
-[02:44:17] [Server thread/INFO] [BuildCraft]:   - compat
-[02:44:17] [Server thread/INFO] [BuildCraft]: 
-[02:44:18] [Actually Additions Update Checker/ERROR] [Actually Additions]: Update Check failed!
+[23:09:56] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[23:09:56] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[23:09:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[23:09:56] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[23:09:56] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[23:09:57] [main/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
+[23:09:57] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:09:57] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:09:57] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[23:09:57] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from MyServerIsCompatible-1.12.2-1.0.jar
+[23:09:57] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in techguns-1.12.2-2.0.2.0_pre3.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:09:57] [main/WARN] [FML]: The coremod Techguns Core (techguns.core.TechgunsFMLPlugin) is not signed!
+[23:09:57] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_24.2.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:09:57] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
+[23:09:57] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in XaerosWorldMap_1.38.8_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[23:09:57] [main/WARN] [FML]: The coremod XaeroWorldMapPlugin (xaero.map.core.XaeroWorldMapPlugin) is not signed!
+[23:09:57] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:09:57] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[23:09:58] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/Newiwd/servidor_minecraft/./mods/MyServerIsCompatible-1.12.2-1.0.jar Service=LaunchWrapper Env=SERVER
+[23:09:58] [main/WARN] [FML]: The coremod com.focamacho.myserveriscompatible.asm.MSICCoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[23:09:58] [main/WARN] [FML]: The coremod MSICCoreMod (com.focamacho.myserveriscompatible.asm.MSICCoreMod) is not signed!
+[23:09:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[23:09:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:09:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:09:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:10:01] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[23:10:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:10:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:10:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:10:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:10:02] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[23:10:02] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[23:10:02] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@3a60c416
+[23:10:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[23:10:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:10:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[23:10:02] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[23:10:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[23:10:02] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[23:10:02] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
+[23:10:02] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer
+[23:10:03] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
+[23:10:03] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.management.PlayerList
+[23:10:03] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
+[23:10:03] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayer
+[23:10:04] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[23:10:07] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
+[23:10:07] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayerMP
+[23:10:10] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
+[23:10:10] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.storage.SaveFormatOld
+[23:10:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[23:10:10] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[23:10:10] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[23:10:10] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[23:10:11] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[23:10:11] [Server thread/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
+[23:10:15] [Server thread/INFO] [FML]: Forge Mod Loader has identified 26 mods to load
+[23:10:15] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[23:10:15] [Server thread/WARN] [FML]: Missing English translation for buildcraftcore: assets/buildcraftcore/lang/en_us.lang
+[23:10:15] [Server thread/WARN] [FML]: Missing English translation for buildcraftfactory: assets/buildcraftfactory/lang/en_us.lang
+[23:10:15] [Server thread/WARN] [FML]: Missing English translation for buildcraftsilicon: assets/buildcraftsilicon/lang/en_us.lang
+[23:10:15] [Server thread/WARN] [FML]: Missing English translation for buildcrafttransport: assets/buildcrafttransport/lang/en_us.lang
+[23:10:15] [Server thread/WARN] [FML]: Missing English translation for msic: assets/msic/lang/en_us.lang
+[23:10:15] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, xaerominimap_core, xaeroworldmap_core, techguns_core, actuallyadditions, buildcraftcore, buildcraftlib, buildcraftfactory, buildcraftsilicon, buildcrafttransport, creativecore, howlingmoon, waila, jei, msic, overlast, playerrevive, srparasites, techguns, tombstone, xaerominimap, xaeroworldmap] at CLIENT
+[23:10:15] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, xaerominimap_core, xaeroworldmap_core, techguns_core, actuallyadditions, buildcraftcore, buildcraftlib, buildcraftfactory, buildcraftsilicon, buildcrafttransport, creativecore, howlingmoon, waila, jei, msic, overlast, playerrevive, srparasites, techguns, tombstone, xaerominimap, xaeroworldmap] at SERVER
+[23:10:19] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[23:10:19] [Server thread/INFO] [FML]: Found 1258 ObjectHolder annotations
+[23:10:19] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[23:10:19] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[23:10:19] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
+[23:10:19] [Server thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.chunk.Chunk
+[23:10:19] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[23:10:19] [Server thread/INFO] [Actually Additions]: Starting PreInitialization Phase...
+[23:10:19] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Starting version check at https://mod-buildcraft.com/version/versions.json
+[23:10:19] [Server thread/INFO] [Actually Additions]: Grabbing Configurations...
+[23:10:19] [Server thread/INFO] [Actually Additions]: Initializing Tool Materials...
+[23:10:19] [Server thread/INFO] [Actually Additions]: Initializing Armor Materials...
+[23:10:19] [Server thread/INFO] [Actually Additions]: Initializing Update Checker...
+[23:10:19] [Server thread/INFO] [Actually Additions]: PreInitializing ServerProxy...
+[23:10:19] [Server thread/INFO] [Actually Additions]: PreInitialization Finished.
+[23:10:19] [Server thread/INFO] [BuildCraft]: 
+[23:10:19] [Server thread/INFO] [BuildCraft]: Starting BuildCraft 7.99.24.8
+[23:10:19] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2018
+[23:10:19] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
+[23:10:19] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
+[23:10:19] [Server thread/INFO] [BuildCraft]:   Branch HEAD
+[23:10:19] [Server thread/INFO] [BuildCraft]:   Commit 68370005a10488d02a4bb4b8df86bbc62633d216
+[23:10:19] [Server thread/INFO] [BuildCraft]:     Bump version for release relase, fix a java 13+ compile error, tweak changelog, and fix engines chaining one block more than they should have.
+[23:10:19] [Actually Additions Update Checker/INFO] [Actually Additions]: Starting Update Check...
+[23:10:19] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
+[23:10:19] [Server thread/INFO] [BuildCraft]: 
+[23:10:19] [Server thread/INFO] [BuildCraft]: Loaded Modules:
+[23:10:19] [Server thread/INFO] [BuildCraft]:   - lib
+[23:10:19] [Server thread/INFO] [BuildCraft]:   - core
+[23:10:19] [Server thread/INFO] [BuildCraft]:   - factory
+[23:10:19] [Server thread/INFO] [BuildCraft]:   - silicon
+[23:10:19] [Server thread/INFO] [BuildCraft]:   - transport
+[23:10:19] [Server thread/INFO] [BuildCraft]: Missing Modules:
+[23:10:19] [Server thread/INFO] [BuildCraft]:   - builders
+[23:10:19] [Server thread/INFO] [BuildCraft]:   - energy
+[23:10:19] [Server thread/INFO] [BuildCraft]:   - robotics
+[23:10:19] [Server thread/INFO] [BuildCraft]:   - compat
+[23:10:19] [Server thread/INFO] [BuildCraft]: 
+[23:10:20] [Actually Additions Update Checker/ERROR] [Actually Additions]: Update Check failed!
 java.io.FileNotFoundException: https://raw.githubusercontent.com/Ellpeck/ActuallyAdditions/main/update/updateVersions.properties
 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1913) ~[?:1.8.0_432]
 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92) ~[?:1.8.0_432]
@@ -113,42 +113,42 @@ java.io.FileNotFoundException: https://raw.githubusercontent.com/Ellpeck/Actuall
 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268) ~[?:1.8.0_432]
 	at java.net.URL.openStream(URL.java:1093) ~[?:1.8.0_432]
 	at de.ellpeck.actuallyadditions.mod.update.ThreadUpdateChecker.run(ThreadUpdateChecker.java:35) [ThreadUpdateChecker.class:?]
-[02:44:18] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Found status: UP_TO_DATE Target: null
-[02:44:18] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[02:44:18] [Server thread/INFO] [BuildCraft]: [debugger] Not a dev environment!
-[02:44:18] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: OUTDATED Target: 4.7.4
-[02:44:18] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[02:44:18] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[02:44:18] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[02:44:18] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Starting version check at https://raw.githubusercontent.com/pWn3d1337/Techguns2/master/update.json
-[02:44:18] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Found status: AHEAD Target: null
-[02:44:18] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Starting version check at https://mod-buildcraft.com/version/versions.json
-[02:44:18] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Found status: UP_TO_DATE Target: null
-[02:44:19] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
-[02:44:20] [Server thread/INFO] [Actually Additions]: Initializing Blocks...
-[02:44:20] [Server thread/INFO] [FML]: Applying holder lookups
-[02:44:20] [Server thread/INFO] [FML]: Holder lookups applied
-[02:44:21] [Server thread/INFO] [Actually Additions]: Initializing Items...
-[02:44:21] [Server thread/INFO] [Actually Additions]: Initializing OreDictionary Entries...
-[02:44:21] [Server thread/INFO] [FML]: Applying holder lookups
-[02:44:21] [Server thread/INFO] [FML]: Holder lookups applied
-[02:44:21] [Server thread/INFO] [Actually Additions]: Initializing Village Addons...
-[02:44:22] [Server thread/INFO] [FML]: Applying holder lookups
-[02:44:22] [Server thread/INFO] [FML]: Holder lookups applied
-[02:44:22] [Server thread/INFO] [FML]: Applying holder lookups
-[02:44:22] [Server thread/INFO] [FML]: Holder lookups applied
-[02:44:22] [Server thread/INFO] [FML]: Injecting itemstacks
-[02:44:22] [Server thread/INFO] [FML]: Itemstack injection complete
-[02:44:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[02:44:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[02:44:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[02:44:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[02:44:22] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[02:44:22] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:44:22] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[02:44:22] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:44:22] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:44:22] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual_alt
+[23:10:20] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Found status: UP_TO_DATE Target: null
+[23:10:20] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Starting version check at https://mod-buildcraft.com/version/versions.json
+[23:10:20] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Found status: UP_TO_DATE Target: null
+[23:10:20] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[23:10:20] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: OUTDATED Target: 4.7.4
+[23:10:20] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Starting version check at https://raw.githubusercontent.com/pWn3d1337/Techguns2/master/update.json
+[23:10:20] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Found status: AHEAD Target: null
+[23:10:20] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[23:10:21] [Server thread/INFO] [BuildCraft]: [debugger] Not a dev environment!
+[23:10:21] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[23:10:21] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[23:10:23] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
+[23:10:25] [Server thread/INFO] [Actually Additions]: Initializing Blocks...
+[23:10:25] [Server thread/INFO] [FML]: Applying holder lookups
+[23:10:25] [Server thread/INFO] [FML]: Holder lookups applied
+[23:10:26] [Server thread/INFO] [Actually Additions]: Initializing Items...
+[23:10:27] [Server thread/INFO] [Actually Additions]: Initializing OreDictionary Entries...
+[23:10:27] [Server thread/INFO] [FML]: Applying holder lookups
+[23:10:27] [Server thread/INFO] [FML]: Holder lookups applied
+[23:10:27] [Server thread/INFO] [Actually Additions]: Initializing Village Addons...
+[23:10:27] [Server thread/INFO] [FML]: Applying holder lookups
+[23:10:27] [Server thread/INFO] [FML]: Holder lookups applied
+[23:10:27] [Server thread/INFO] [FML]: Applying holder lookups
+[23:10:27] [Server thread/INFO] [FML]: Holder lookups applied
+[23:10:27] [Server thread/INFO] [FML]: Injecting itemstacks
+[23:10:27] [Server thread/INFO] [FML]: Itemstack injection complete
+[23:10:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[23:10:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[23:10:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[23:10:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[23:10:28] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[23:10:28] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:10:28] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[23:10:28] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:10:28] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:10:28] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual_alt
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
@@ -164,7 +164,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[02:44:22] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual
+[23:10:28] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
@@ -180,7 +180,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[02:44:22] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap_alt
+[23:10:28] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap_alt
 com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:254) ~[ShapedOreRecipe.class:?]
@@ -196,7 +196,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[02:44:22] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap
+[23:10:28] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap
 com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:254) ~[ShapedOreRecipe.class:?]
@@ -212,44 +212,44 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[02:44:22] [Server thread/INFO] [Actually Additions]: Initializing Crafting Recipes...
-[02:44:22] [Server thread/INFO] [FML]: Applying holder lookups
-[02:44:22] [Server thread/INFO] [FML]: Holder lookups applied
-[02:44:22] [Server thread/INFO] [Actually Additions]: Starting Initialization Phase...
-[02:44:22] [Server thread/INFO] [Actually Additions]: Initializing GuiHandler...
-[02:44:22] [Server thread/INFO] [Actually Additions]: Registering World Generator...
-[02:44:22] [Server thread/INFO] [Actually Additions]: Registering TileEntities...
-[02:44:23] [Server thread/INFO] [Actually Additions]: Initializing Entities...
-[02:44:23] [Server thread/INFO] [Actually Additions]: Initializing ServerProxy...
-[02:44:23] [Server thread/INFO] [Actually Additions]: Initialization Finished.
-[02:44:23] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[02:44:23] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 1/2 (Server)
-[02:44:23] [Server thread/INFO] [FML]: Injecting itemstacks
-[02:44:23] [Server thread/INFO] [FML]: Itemstack injection complete
-[02:44:23] [Server thread/INFO] [Actually Additions]: Starting PostInitialization Phase...
-[02:44:23] [Server thread/INFO] [Actually Additions]: Initializing Crusher Recipes...
-[02:44:23] [Server thread/INFO] [Actually Additions]: Registered a total of 105 booklet chapters, where 294 out of 412 booklet pages contain information about items or fluids!
-[02:44:23] [Server thread/INFO] [Actually Additions]: PostInitializing ServerProxy...
-[02:44:23] [Server thread/INFO] [Actually Additions]: PostInitialization Finished.
-[02:44:23] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
-[02:44:24] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[02:44:24] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 2/2 (Server)
-[02:44:24] [Server thread/INFO] [Waila]: Starting Waila...
-[02:44:24] [Server thread/INFO] [Waila]: Gathering annotated plugins...
-[02:44:24] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
-[02:44:24] [Server thread/INFO] [Waila]: Registering plugins...
-[02:44:24] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
-[02:44:24] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
-[02:44:24] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[02:44:24] [Server thread/INFO] [Waila]: Registering plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
-[02:44:24] [Server thread/INFO] [Waila]: Starting Waila took 34.48 ms
-[02:44:24] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 26 mods
-[02:44:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[02:44:24] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[02:44:25] [Server thread/INFO] [FML]: Applying holder lookups
-[02:44:25] [Server thread/INFO] [FML]: Holder lookups applied
-[02:44:25] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@20866edc)
-[02:44:25] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement buildcraftfactory:recipes/water_gel_spawn
+[23:10:29] [Server thread/INFO] [Actually Additions]: Initializing Crafting Recipes...
+[23:10:29] [Server thread/INFO] [FML]: Applying holder lookups
+[23:10:29] [Server thread/INFO] [FML]: Holder lookups applied
+[23:10:29] [Server thread/INFO] [Actually Additions]: Starting Initialization Phase...
+[23:10:29] [Server thread/INFO] [Actually Additions]: Initializing GuiHandler...
+[23:10:29] [Server thread/INFO] [Actually Additions]: Registering World Generator...
+[23:10:29] [Server thread/INFO] [Actually Additions]: Registering TileEntities...
+[23:10:29] [Server thread/INFO] [Actually Additions]: Initializing Entities...
+[23:10:29] [Server thread/INFO] [Actually Additions]: Initializing ServerProxy...
+[23:10:29] [Server thread/INFO] [Actually Additions]: Initialization Finished.
+[23:10:30] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[23:10:30] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 1/2 (Server)
+[23:10:30] [Server thread/INFO] [FML]: Injecting itemstacks
+[23:10:30] [Server thread/INFO] [FML]: Itemstack injection complete
+[23:10:30] [Server thread/INFO] [Actually Additions]: Starting PostInitialization Phase...
+[23:10:30] [Server thread/INFO] [Actually Additions]: Initializing Crusher Recipes...
+[23:10:30] [Server thread/INFO] [Actually Additions]: Registered a total of 105 booklet chapters, where 294 out of 412 booklet pages contain information about items or fluids!
+[23:10:30] [Server thread/INFO] [Actually Additions]: PostInitializing ServerProxy...
+[23:10:30] [Server thread/INFO] [Actually Additions]: PostInitialization Finished.
+[23:10:30] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
+[23:10:31] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[23:10:31] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 2/2 (Server)
+[23:10:31] [Server thread/INFO] [Waila]: Starting Waila...
+[23:10:31] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[23:10:31] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[23:10:31] [Server thread/INFO] [Waila]: Registering plugins...
+[23:10:31] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[23:10:31] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[23:10:31] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[23:10:31] [Server thread/INFO] [Waila]: Registering plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
+[23:10:31] [Server thread/INFO] [Waila]: Starting Waila took 60.68 ms
+[23:10:31] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 26 mods
+[23:10:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[23:10:31] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[23:10:32] [Server thread/INFO] [FML]: Applying holder lookups
+[23:10:32] [Server thread/INFO] [FML]: Holder lookups applied
+[23:10:32] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@47467af9)
+[23:10:33] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement buildcraftfactory:recipes/water_gel_spawn
 com.google.gson.JsonSyntaxException: Unknown recipe 'buildcraftfactory:water_gel_spawn'
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
@@ -277,36 +277,90 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'buildcraftfactory:water_gel
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[02:44:25] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 658 advancements
-[02:44:25] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@20866edc)
-[02:44:25] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@20866edc)
-[02:44:25] [Server thread/INFO] [FML]: Loading dimension 24 (world) (net.minecraft.server.dedicated.DedicatedServer@20866edc)
-[02:44:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[02:44:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 6%
-[02:44:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 88%
-[02:44:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.694s)! For help, type "help" or "?"
-[02:44:28] [Server thread/INFO] [Actually Additions]: Successfully loaded WorldData!
-[02:44:28] [Server thread/INFO] [OverLast]: Stored 64 biome temperatures.
-[02:44:28] [Server thread/INFO] [OverLast]: Loaded world data. Current season is SPRING and we are 3 days into this season.
-[02:44:28] [Server thread/INFO] [FML]: Unloading dimension -1
-[02:44:28] [Server thread/INFO] [FML]: Unloading dimension 1
-[02:44:28] [Server thread/INFO] [FML]: Unloading dimension 24
-[02:45:36] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[02:45:36] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[02:45:36] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[02:45:36] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[02:45:37] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[02:45:37] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 27 mods : minecraft@1.12.2,buildcraftlib@7.99.24.8,buildcraftsilicon@7.99.24.8,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1012,buildcrafttransport@7.99.24.8,howlingmoon@0.9,techguns_core@1.12.2-1.0,actuallyadditions@1.12.2-r152,xaerominimap@24.2.0,mcp@9.42,buildcraftfactory@7.99.24.8,xaeroworldmap@1.38.8,FML@8.0.99.99,tombstone@4.6.6,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,msic@1.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,buildcraftcore@7.99.24.8,overlast@0.2.9,techguns@2.0.2.0
-[02:45:38] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[02:45:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KevinCrax[/127.39.143.144:49601] logged in with entity id 297 at (-600.2947985238105, 109.0, 577.432233406591)
-[02:45:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax joined the game
-[02:45:39] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KevinCrax'/297, l='world', x=-600.29, y=109.00, z=577.43] connected. Sending ping
-[02:45:39] [Server thread/INFO] [Actually Additions]: Sending Player Data to player KevinCrax with UUID 59c9e25f-7c7f-386b-aa38-a9952379eda5.
-[02:48:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[02:48:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[02:48:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[02:48:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[02:48:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[02:48:09] [Server thread/INFO] [FML]: Unloading dimension 0
-[02:48:09] [Server thread/INFO] [Actually Additions]: Unloaded WorldData!
-[02:48:09] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:10:33] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 658 advancements
+[23:10:33] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@47467af9)
+[23:10:34] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@47467af9)
+[23:10:34] [Server thread/INFO] [FML]: Loading dimension 24 (world) (net.minecraft.server.dedicated.DedicatedServer@47467af9)
+[23:10:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[23:10:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
+[23:10:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 32%
+[23:10:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 98%
+[23:10:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (5.854s)! For help, type "help" or "?"
+[23:10:37] [Server thread/INFO] [Actually Additions]: Successfully loaded WorldData!
+[23:10:38] [Server thread/INFO] [OverLast]: Stored 64 biome temperatures.
+[23:10:38] [Server thread/INFO] [OverLast]: Loaded world data. Current season is SPRING and we are 3 days into this season.
+[23:10:38] [Server thread/INFO] [FML]: Unloading dimension -1
+[23:10:38] [Server thread/INFO] [FML]: Unloading dimension 1
+[23:10:38] [Server thread/INFO] [FML]: Unloading dimension 24
+[23:10:48] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[23:10:48] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[23:10:48] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[23:10:48] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[23:10:49] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[23:10:49] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 27 mods : minecraft@1.12.2,buildcraftlib@7.99.24.8,buildcraftsilicon@7.99.24.8,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1012,buildcrafttransport@7.99.24.8,howlingmoon@0.9,techguns_core@1.12.2-1.0,actuallyadditions@1.12.2-r152,xaerominimap@24.2.0,mcp@9.42,buildcraftfactory@7.99.24.8,xaeroworldmap@1.38.8,FML@8.0.99.99,tombstone@4.6.6,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,msic@1.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,buildcraftcore@7.99.24.8,overlast@0.2.9,techguns@2.0.2.0
+[23:10:50] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:10:50] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lea_Matt[/127.219.176.237:54781] logged in with entity id 283 at (-570.9445515712721, 112.0, 579.0316482043077)
+[23:10:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt joined the game
+[23:10:51] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Lea_Matt'/283, l='world', x=-570.94, y=112.00, z=579.03] connected. Sending ping
+[23:10:51] [Server thread/INFO] [Actually Additions]: Sending Player Data to player Lea_Matt with UUID ece0ef0f-b99a-37a6-8c95-cbfbe03b5272.
+[23:10:54] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2842ms behind, skipping 56 tick(s)
+[23:11:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> holis
+[23:12:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lea_Matt lost connection: Timed out
+[23:12:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt left the game
+[23:12:30] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[23:12:30] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 27 mods : minecraft@1.12.2,buildcraftlib@7.99.24.8,buildcraftsilicon@7.99.24.8,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1012,buildcrafttransport@7.99.24.8,howlingmoon@0.9,techguns_core@1.12.2-1.0,actuallyadditions@1.12.2-r152,xaerominimap@24.2.0,mcp@9.42,buildcraftfactory@7.99.24.8,xaeroworldmap@1.38.8,FML@8.0.99.99,tombstone@4.6.6,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,msic@1.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,buildcraftcore@7.99.24.8,overlast@0.2.9,techguns@2.0.2.0
+[23:12:31] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:12:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lea_Matt[/127.219.176.237:56329] logged in with entity id 4651 at (-579.640253084312, 112.0, 578.0821054897559)
+[23:12:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt joined the game
+[23:12:31] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Lea_Matt'/4651, l='world', x=-579.64, y=112.00, z=578.08] connected. Sending ping
+[23:12:31] [Server thread/INFO] [Actually Additions]: Sending Player Data to player Lea_Matt with UUID ece0ef0f-b99a-37a6-8c95-cbfbe03b5272.
+[23:12:48] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[23:12:48] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 27 mods : minecraft@1.12.2,buildcraftlib@7.99.24.8,buildcraftsilicon@7.99.24.8,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1012,buildcrafttransport@7.99.24.8,howlingmoon@0.9,techguns_core@1.12.2-1.0,actuallyadditions@1.12.2-r152,xaerominimap@24.2.0,mcp@9.42,buildcraftfactory@7.99.24.8,xaeroworldmap@1.38.8,FML@8.0.99.99,tombstone@4.6.6,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,msic@1.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,buildcraftcore@7.99.24.8,overlast@0.2.9,techguns@2.0.2.0
+[23:12:49] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:12:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KevinCrax[/127.75.105.36:57249] logged in with entity id 5233 at (-598.3779768017155, 109.0, 576.1626839397774)
+[23:12:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax joined the game
+[23:12:50] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KevinCrax'/5233, l='world', x=-598.38, y=109.00, z=576.16] connected. Sending ping
+[23:12:50] [Server thread/INFO] [Actually Additions]: Sending Player Data to player KevinCrax with UUID 59c9e25f-7c7f-386b-aa38-a9952379eda5.
+[23:12:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> aqui estas!
+[23:13:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Oh no-
+[23:13:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Oh
+[23:13:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Olvidalo
+[23:13:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> +hug*
+[23:13:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Pense que se me habia desconfigurado el ..
+[23:13:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Oh
+[23:13:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> hola -w-
+[23:13:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> holis
+[23:13:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> *preparandome té
+[23:14:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Qué
+[23:14:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> perrito curado
+[23:14:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> si
+[23:15:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ok ya estoyt
+[23:16:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Oh cierto .. . hehehe...
+[23:16:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> quep?
+[23:16:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Tengo todo el set de la armadura de poder :)
+[23:16:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Mira
+[23:17:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> como el de fallout
+[23:17:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> hahaha
+[23:17:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Sí
+[23:17:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> la cerdo armadura
+[23:17:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Me agrada esto
+[23:17:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> la pintas?
+[23:17:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Se
+[23:18:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> como la pintas?
+[23:18:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Shift + click derecho
+[23:18:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Con el item en la mano
+[23:18:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Me gusta esta -w-
+[23:18:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> y queda perfecta con mi taladro
+[23:19:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lea_Matt lost connection: Disconnected
+[23:19:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt left the game
+[23:19:20] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[23:19:20] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 27 mods : minecraft@1.12.2,buildcraftlib@7.99.24.8,buildcraftsilicon@7.99.24.8,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1012,buildcrafttransport@7.99.24.8,howlingmoon@0.9,techguns_core@1.12.2-1.0,actuallyadditions@1.12.2-r152,xaerominimap@24.2.0,mcp@9.42,buildcraftfactory@7.99.24.8,xaeroworldmap@1.38.8,FML@8.0.99.99,tombstone@4.6.6,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,msic@1.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,buildcraftcore@7.99.24.8,overlast@0.2.9,techguns@2.0.2.0
+[23:19:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:19:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lea_Matt[/127.219.176.237:56275] logged in with entity id 24191 at (-568.8031957294008, 116.0, 571.5924391497364)
+[23:19:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt joined the game
+[23:19:21] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Lea_Matt'/24191, l='world', x=-568.80, y=116.00, z=571.59] connected. Sending ping
+[23:19:21] [Server thread/INFO] [Actually Additions]: Sending Player Data to player Lea_Matt with UUID ece0ef0f-b99a-37a6-8c95-cbfbe03b5272.
+[23:19:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Oop ?
+[23:19:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> internet
+[23:19:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Oh
+[23:19:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> cuantos colores se le pueden cambiar?
