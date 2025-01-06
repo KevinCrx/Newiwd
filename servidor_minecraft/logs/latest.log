@@ -1,111 +1,107 @@
-[18:12:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[18:12:02] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[18:12:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[18:12:02] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[18:12:02] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[18:12:03] [main/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
-[18:12:03] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:12:03] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[18:12:03] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
-[18:12:03] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from MyServerIsCompatible-1.12.2-1.0.jar
-[18:12:03] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in techguns-1.12.2-2.0.2.0_pre3.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:12:03] [main/WARN] [FML]: The coremod Techguns Core (techguns.core.TechgunsFMLPlugin) is not signed!
-[18:12:03] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_24.2.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:12:03] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
-[18:12:03] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in XaerosWorldMap_1.38.8_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[18:12:03] [main/WARN] [FML]: The coremod XaeroWorldMapPlugin (xaero.map.core.XaeroWorldMapPlugin) is not signed!
-[18:12:03] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:12:03] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[18:12:03] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/Newiwd/servidor_minecraft/./mods/MyServerIsCompatible-1.12.2-1.0.jar Service=LaunchWrapper Env=SERVER
-[18:12:03] [main/WARN] [FML]: The coremod com.focamacho.myserveriscompatible.asm.MSICCoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[18:12:03] [main/WARN] [FML]: The coremod MSICCoreMod (com.focamacho.myserveriscompatible.asm.MSICCoreMod) is not signed!
-[18:12:03] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[18:12:03] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:12:03] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:12:03] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:12:07] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[18:12:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:12:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:12:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:12:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:12:08] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[18:12:08] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[18:12:08] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@3a60c416
-[18:12:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[18:12:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:12:09] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[18:12:09] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[18:12:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[18:12:09] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[18:12:09] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
-[18:12:09] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer
-[18:12:10] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
-[18:12:10] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.management.PlayerList
-[18:12:10] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
-[18:12:10] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayer
-[18:12:10] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[18:12:14] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
-[18:12:14] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayerMP
-[18:12:17] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
-[18:12:17] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.storage.SaveFormatOld
-[18:12:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[18:12:17] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[18:12:17] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[18:12:18] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[18:12:18] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[18:12:18] [Server thread/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
-[18:12:20] [Server thread/INFO] [FML]: Forge Mod Loader has identified 26 mods to load
-[18:12:20] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[18:12:20] [Server thread/WARN] [FML]: Missing English translation for buildcraftcore: assets/buildcraftcore/lang/en_us.lang
-[18:12:20] [Server thread/WARN] [FML]: Missing English translation for buildcraftfactory: assets/buildcraftfactory/lang/en_us.lang
-[18:12:20] [Server thread/WARN] [FML]: Missing English translation for buildcraftsilicon: assets/buildcraftsilicon/lang/en_us.lang
-[18:12:20] [Server thread/WARN] [FML]: Missing English translation for buildcrafttransport: assets/buildcrafttransport/lang/en_us.lang
-[18:12:20] [Server thread/WARN] [FML]: Missing English translation for msic: assets/msic/lang/en_us.lang
-[18:12:20] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, xaerominimap_core, xaeroworldmap_core, techguns_core, actuallyadditions, buildcraftcore, buildcraftlib, buildcraftfactory, buildcraftsilicon, buildcrafttransport, creativecore, howlingmoon, waila, jei, msic, overlast, playerrevive, srparasites, techguns, tombstone, xaerominimap, xaeroworldmap] at CLIENT
-[18:12:20] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, xaerominimap_core, xaeroworldmap_core, techguns_core, actuallyadditions, buildcraftcore, buildcraftlib, buildcraftfactory, buildcraftsilicon, buildcrafttransport, creativecore, howlingmoon, waila, jei, msic, overlast, playerrevive, srparasites, techguns, tombstone, xaerominimap, xaeroworldmap] at SERVER
-[18:12:22] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[18:12:22] [Server thread/INFO] [FML]: Found 1258 ObjectHolder annotations
-[18:12:22] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[18:12:22] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[18:12:22] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
-[18:12:22] [Server thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.chunk.Chunk
-[18:12:23] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[18:12:23] [Server thread/INFO] [Actually Additions]: Starting PreInitialization Phase...
-[18:12:23] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Starting version check at https://raw.githubusercontent.com/pWn3d1337/Techguns2/master/update.json
-[18:12:23] [Server thread/INFO] [Actually Additions]: Grabbing Configurations...
-[18:12:23] [Server thread/INFO] [Actually Additions]: Initializing Tool Materials...
-[18:12:23] [Server thread/INFO] [Actually Additions]: Initializing Armor Materials...
-[18:12:23] [Server thread/INFO] [Actually Additions]: Initializing Update Checker...
-[18:12:23] [Server thread/INFO] [Actually Additions]: PreInitializing ServerProxy...
-[18:12:23] [Server thread/INFO] [Actually Additions]: PreInitialization Finished.
-[18:12:23] [Server thread/INFO] [BuildCraft]: 
-[18:12:23] [Server thread/INFO] [BuildCraft]: Starting BuildCraft 7.99.24.8
-[18:12:23] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2018
-[18:12:23] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
-[18:12:23] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
-[18:12:23] [Server thread/INFO] [BuildCraft]:   Branch HEAD
-[18:12:23] [Server thread/INFO] [BuildCraft]:   Commit 68370005a10488d02a4bb4b8df86bbc62633d216
-[18:12:23] [Server thread/INFO] [BuildCraft]:     Bump version for release relase, fix a java 13+ compile error, tweak changelog, and fix engines chaining one block more than they should have.
-[18:12:23] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
-[18:12:23] [Server thread/INFO] [BuildCraft]: 
-[18:12:23] [Server thread/INFO] [BuildCraft]: Loaded Modules:
-[18:12:23] [Actually Additions Update Checker/INFO] [Actually Additions]: Starting Update Check...
-[18:12:23] [Server thread/INFO] [BuildCraft]:   - lib
-[18:12:23] [Server thread/INFO] [BuildCraft]:   - core
-[18:12:23] [Server thread/INFO] [BuildCraft]:   - factory
-[18:12:23] [Server thread/INFO] [BuildCraft]:   - silicon
-[18:12:23] [Server thread/INFO] [BuildCraft]:   - transport
-[18:12:23] [Server thread/INFO] [BuildCraft]: Missing Modules:
-[18:12:23] [Server thread/INFO] [BuildCraft]:   - builders
-[18:12:23] [Server thread/INFO] [BuildCraft]:   - energy
-[18:12:23] [Server thread/INFO] [BuildCraft]:   - robotics
-[18:12:23] [Server thread/INFO] [BuildCraft]:   - compat
-[18:12:23] [Server thread/INFO] [BuildCraft]: 
-[18:12:23] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Found status: AHEAD Target: null
-[18:12:23] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[18:12:23] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: OUTDATED Target: 4.7.4
-[18:12:23] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Starting version check at https://mod-buildcraft.com/version/versions.json
-[18:12:23] [Actually Additions Update Checker/ERROR] [Actually Additions]: Update Check failed!
+[02:43:55] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:43:55] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:43:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:43:55] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[02:43:55] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[02:43:58] [main/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
+[02:43:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[02:43:58] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[02:43:58] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[02:43:58] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from MyServerIsCompatible-1.12.2-1.0.jar
+[02:43:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in techguns-1.12.2-2.0.2.0_pre3.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[02:43:58] [main/WARN] [FML]: The coremod Techguns Core (techguns.core.TechgunsFMLPlugin) is not signed!
+[02:43:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_24.2.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[02:43:58] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
+[02:43:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in XaerosWorldMap_1.38.8_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[02:43:58] [main/WARN] [FML]: The coremod XaeroWorldMapPlugin (xaero.map.core.XaeroWorldMapPlugin) is not signed!
+[02:43:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[02:43:58] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[02:43:58] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/Newiwd/servidor_minecraft/./mods/MyServerIsCompatible-1.12.2-1.0.jar Service=LaunchWrapper Env=SERVER
+[02:43:58] [main/WARN] [FML]: The coremod com.focamacho.myserveriscompatible.asm.MSICCoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[02:43:58] [main/WARN] [FML]: The coremod MSICCoreMod (com.focamacho.myserveriscompatible.asm.MSICCoreMod) is not signed!
+[02:43:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[02:43:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[02:43:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[02:43:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:44:01] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[02:44:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:44:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:44:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:44:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:44:02] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[02:44:02] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[02:44:02] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@3a60c416
+[02:44:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[02:44:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:44:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[02:44:02] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[02:44:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[02:44:03] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[02:44:03] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
+[02:44:03] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer
+[02:44:03] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
+[02:44:03] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.management.PlayerList
+[02:44:03] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
+[02:44:03] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayer
+[02:44:04] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[02:44:07] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
+[02:44:07] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayerMP
+[02:44:10] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
+[02:44:10] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.storage.SaveFormatOld
+[02:44:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[02:44:10] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[02:44:10] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[02:44:11] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[02:44:12] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[02:44:12] [Server thread/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
+[02:44:14] [Server thread/INFO] [FML]: Forge Mod Loader has identified 26 mods to load
+[02:44:14] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[02:44:14] [Server thread/WARN] [FML]: Missing English translation for buildcraftcore: assets/buildcraftcore/lang/en_us.lang
+[02:44:14] [Server thread/WARN] [FML]: Missing English translation for buildcraftfactory: assets/buildcraftfactory/lang/en_us.lang
+[02:44:14] [Server thread/WARN] [FML]: Missing English translation for buildcraftsilicon: assets/buildcraftsilicon/lang/en_us.lang
+[02:44:14] [Server thread/WARN] [FML]: Missing English translation for buildcrafttransport: assets/buildcrafttransport/lang/en_us.lang
+[02:44:14] [Server thread/WARN] [FML]: Missing English translation for msic: assets/msic/lang/en_us.lang
+[02:44:15] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, xaerominimap_core, xaeroworldmap_core, techguns_core, actuallyadditions, buildcraftcore, buildcraftlib, buildcraftfactory, buildcraftsilicon, buildcrafttransport, creativecore, howlingmoon, waila, jei, msic, overlast, playerrevive, srparasites, techguns, tombstone, xaerominimap, xaeroworldmap] at CLIENT
+[02:44:15] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, xaerominimap_core, xaeroworldmap_core, techguns_core, actuallyadditions, buildcraftcore, buildcraftlib, buildcraftfactory, buildcraftsilicon, buildcrafttransport, creativecore, howlingmoon, waila, jei, msic, overlast, playerrevive, srparasites, techguns, tombstone, xaerominimap, xaeroworldmap] at SERVER
+[02:44:17] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[02:44:17] [Server thread/INFO] [FML]: Found 1258 ObjectHolder annotations
+[02:44:17] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[02:44:17] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[02:44:17] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
+[02:44:17] [Server thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.chunk.Chunk
+[02:44:17] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[02:44:17] [Server thread/INFO] [Actually Additions]: Starting PreInitialization Phase...
+[02:44:17] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Starting version check at https://mod-buildcraft.com/version/versions.json
+[02:44:17] [Server thread/INFO] [Actually Additions]: Grabbing Configurations...
+[02:44:17] [Server thread/INFO] [Actually Additions]: Initializing Tool Materials...
+[02:44:17] [Server thread/INFO] [Actually Additions]: Initializing Armor Materials...
+[02:44:17] [Server thread/INFO] [Actually Additions]: Initializing Update Checker...
+[02:44:17] [Server thread/INFO] [Actually Additions]: PreInitializing ServerProxy...
+[02:44:17] [Server thread/INFO] [Actually Additions]: PreInitialization Finished.
+[02:44:17] [Actually Additions Update Checker/INFO] [Actually Additions]: Starting Update Check...
+[02:44:17] [Server thread/INFO] [BuildCraft]: 
+[02:44:17] [Server thread/INFO] [BuildCraft]: Starting BuildCraft 7.99.24.8
+[02:44:17] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2018
+[02:44:17] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
+[02:44:17] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
+[02:44:17] [Server thread/INFO] [BuildCraft]:   Branch HEAD
+[02:44:17] [Server thread/INFO] [BuildCraft]:   Commit 68370005a10488d02a4bb4b8df86bbc62633d216
+[02:44:17] [Server thread/INFO] [BuildCraft]:     Bump version for release relase, fix a java 13+ compile error, tweak changelog, and fix engines chaining one block more than they should have.
+[02:44:17] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
+[02:44:17] [Server thread/INFO] [BuildCraft]: 
+[02:44:17] [Server thread/INFO] [BuildCraft]: Loaded Modules:
+[02:44:17] [Server thread/INFO] [BuildCraft]:   - lib
+[02:44:17] [Server thread/INFO] [BuildCraft]:   - core
+[02:44:17] [Server thread/INFO] [BuildCraft]:   - factory
+[02:44:17] [Server thread/INFO] [BuildCraft]:   - silicon
+[02:44:17] [Server thread/INFO] [BuildCraft]:   - transport
+[02:44:17] [Server thread/INFO] [BuildCraft]: Missing Modules:
+[02:44:17] [Server thread/INFO] [BuildCraft]:   - builders
+[02:44:17] [Server thread/INFO] [BuildCraft]:   - energy
+[02:44:17] [Server thread/INFO] [BuildCraft]:   - robotics
+[02:44:17] [Server thread/INFO] [BuildCraft]:   - compat
+[02:44:17] [Server thread/INFO] [BuildCraft]: 
+[02:44:18] [Actually Additions Update Checker/ERROR] [Actually Additions]: Update Check failed!
 java.io.FileNotFoundException: https://raw.githubusercontent.com/Ellpeck/ActuallyAdditions/main/update/updateVersions.properties
 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1913) ~[?:1.8.0_432]
 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92) ~[?:1.8.0_432]
@@ -117,38 +113,42 @@ java.io.FileNotFoundException: https://raw.githubusercontent.com/Ellpeck/Actuall
 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268) ~[?:1.8.0_432]
 	at java.net.URL.openStream(URL.java:1093) ~[?:1.8.0_432]
 	at de.ellpeck.actuallyadditions.mod.update.ThreadUpdateChecker.run(ThreadUpdateChecker.java:35) [ThreadUpdateChecker.class:?]
-[18:12:23] [Server thread/INFO] [BuildCraft]: [debugger] Not a dev environment!
-[18:12:23] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[18:12:24] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Found status: UP_TO_DATE Target: null
-[18:12:24] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[18:12:24] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[18:12:24] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Starting version check at https://mod-buildcraft.com/version/versions.json
-[18:12:24] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Found status: UP_TO_DATE Target: null
-[18:12:25] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
-[18:12:26] [Server thread/INFO] [Actually Additions]: Initializing Blocks...
-[18:12:26] [Server thread/INFO] [FML]: Applying holder lookups
-[18:12:26] [Server thread/INFO] [FML]: Holder lookups applied
-[18:12:27] [Server thread/INFO] [Actually Additions]: Initializing Items...
-[18:12:27] [Server thread/INFO] [Actually Additions]: Initializing OreDictionary Entries...
-[18:12:27] [Server thread/INFO] [FML]: Applying holder lookups
-[18:12:27] [Server thread/INFO] [FML]: Holder lookups applied
-[18:12:27] [Server thread/INFO] [Actually Additions]: Initializing Village Addons...
-[18:12:27] [Server thread/INFO] [FML]: Applying holder lookups
-[18:12:27] [Server thread/INFO] [FML]: Holder lookups applied
-[18:12:27] [Server thread/INFO] [FML]: Applying holder lookups
-[18:12:27] [Server thread/INFO] [FML]: Holder lookups applied
-[18:12:27] [Server thread/INFO] [FML]: Injecting itemstacks
-[18:12:27] [Server thread/INFO] [FML]: Itemstack injection complete
-[18:12:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[18:12:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[18:12:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[18:12:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[18:12:28] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[18:12:28] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:12:28] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[18:12:28] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:12:28] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:12:28] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual_alt
+[02:44:18] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Found status: UP_TO_DATE Target: null
+[02:44:18] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[02:44:18] [Server thread/INFO] [BuildCraft]: [debugger] Not a dev environment!
+[02:44:18] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: OUTDATED Target: 4.7.4
+[02:44:18] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[02:44:18] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[02:44:18] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[02:44:18] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Starting version check at https://raw.githubusercontent.com/pWn3d1337/Techguns2/master/update.json
+[02:44:18] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Found status: AHEAD Target: null
+[02:44:18] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Starting version check at https://mod-buildcraft.com/version/versions.json
+[02:44:18] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Found status: UP_TO_DATE Target: null
+[02:44:19] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
+[02:44:20] [Server thread/INFO] [Actually Additions]: Initializing Blocks...
+[02:44:20] [Server thread/INFO] [FML]: Applying holder lookups
+[02:44:20] [Server thread/INFO] [FML]: Holder lookups applied
+[02:44:21] [Server thread/INFO] [Actually Additions]: Initializing Items...
+[02:44:21] [Server thread/INFO] [Actually Additions]: Initializing OreDictionary Entries...
+[02:44:21] [Server thread/INFO] [FML]: Applying holder lookups
+[02:44:21] [Server thread/INFO] [FML]: Holder lookups applied
+[02:44:21] [Server thread/INFO] [Actually Additions]: Initializing Village Addons...
+[02:44:22] [Server thread/INFO] [FML]: Applying holder lookups
+[02:44:22] [Server thread/INFO] [FML]: Holder lookups applied
+[02:44:22] [Server thread/INFO] [FML]: Applying holder lookups
+[02:44:22] [Server thread/INFO] [FML]: Holder lookups applied
+[02:44:22] [Server thread/INFO] [FML]: Injecting itemstacks
+[02:44:22] [Server thread/INFO] [FML]: Itemstack injection complete
+[02:44:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[02:44:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[02:44:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[02:44:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[02:44:22] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[02:44:22] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:44:22] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[02:44:22] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:44:22] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:44:22] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual_alt
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
@@ -164,7 +164,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[18:12:28] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual
+[02:44:22] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
@@ -180,7 +180,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[18:12:28] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap_alt
+[02:44:22] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap_alt
 com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:254) ~[ShapedOreRecipe.class:?]
@@ -196,7 +196,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[18:12:28] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap
+[02:44:22] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap
 com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:254) ~[ShapedOreRecipe.class:?]
@@ -212,44 +212,44 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[18:12:28] [Server thread/INFO] [Actually Additions]: Initializing Crafting Recipes...
-[18:12:28] [Server thread/INFO] [FML]: Applying holder lookups
-[18:12:28] [Server thread/INFO] [FML]: Holder lookups applied
-[18:12:28] [Server thread/INFO] [Actually Additions]: Starting Initialization Phase...
-[18:12:28] [Server thread/INFO] [Actually Additions]: Initializing GuiHandler...
-[18:12:28] [Server thread/INFO] [Actually Additions]: Registering World Generator...
-[18:12:28] [Server thread/INFO] [Actually Additions]: Registering TileEntities...
-[18:12:28] [Server thread/INFO] [Actually Additions]: Initializing Entities...
-[18:12:28] [Server thread/INFO] [Actually Additions]: Initializing ServerProxy...
-[18:12:28] [Server thread/INFO] [Actually Additions]: Initialization Finished.
-[18:12:29] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[18:12:29] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 1/2 (Server)
-[18:12:29] [Server thread/INFO] [FML]: Injecting itemstacks
-[18:12:29] [Server thread/INFO] [FML]: Itemstack injection complete
-[18:12:29] [Server thread/INFO] [Actually Additions]: Starting PostInitialization Phase...
-[18:12:29] [Server thread/INFO] [Actually Additions]: Initializing Crusher Recipes...
-[18:12:29] [Server thread/INFO] [Actually Additions]: Registered a total of 105 booklet chapters, where 294 out of 412 booklet pages contain information about items or fluids!
-[18:12:29] [Server thread/INFO] [Actually Additions]: PostInitializing ServerProxy...
-[18:12:29] [Server thread/INFO] [Actually Additions]: PostInitialization Finished.
-[18:12:29] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
-[18:12:29] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[18:12:29] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 2/2 (Server)
-[18:12:29] [Server thread/INFO] [Waila]: Starting Waila...
-[18:12:29] [Server thread/INFO] [Waila]: Gathering annotated plugins...
-[18:12:29] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
-[18:12:30] [Server thread/INFO] [Waila]: Registering plugins...
-[18:12:30] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
-[18:12:30] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[18:12:30] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
-[18:12:30] [Server thread/INFO] [Waila]: Registering plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
-[18:12:30] [Server thread/INFO] [Waila]: Starting Waila took 52.72 ms
-[18:12:30] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 26 mods
-[18:12:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[18:12:30] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[18:12:30] [Server thread/INFO] [FML]: Applying holder lookups
-[18:12:30] [Server thread/INFO] [FML]: Holder lookups applied
-[18:12:31] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@4b047c88)
-[18:12:31] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement buildcraftfactory:recipes/water_gel_spawn
+[02:44:22] [Server thread/INFO] [Actually Additions]: Initializing Crafting Recipes...
+[02:44:22] [Server thread/INFO] [FML]: Applying holder lookups
+[02:44:22] [Server thread/INFO] [FML]: Holder lookups applied
+[02:44:22] [Server thread/INFO] [Actually Additions]: Starting Initialization Phase...
+[02:44:22] [Server thread/INFO] [Actually Additions]: Initializing GuiHandler...
+[02:44:22] [Server thread/INFO] [Actually Additions]: Registering World Generator...
+[02:44:22] [Server thread/INFO] [Actually Additions]: Registering TileEntities...
+[02:44:23] [Server thread/INFO] [Actually Additions]: Initializing Entities...
+[02:44:23] [Server thread/INFO] [Actually Additions]: Initializing ServerProxy...
+[02:44:23] [Server thread/INFO] [Actually Additions]: Initialization Finished.
+[02:44:23] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[02:44:23] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 1/2 (Server)
+[02:44:23] [Server thread/INFO] [FML]: Injecting itemstacks
+[02:44:23] [Server thread/INFO] [FML]: Itemstack injection complete
+[02:44:23] [Server thread/INFO] [Actually Additions]: Starting PostInitialization Phase...
+[02:44:23] [Server thread/INFO] [Actually Additions]: Initializing Crusher Recipes...
+[02:44:23] [Server thread/INFO] [Actually Additions]: Registered a total of 105 booklet chapters, where 294 out of 412 booklet pages contain information about items or fluids!
+[02:44:23] [Server thread/INFO] [Actually Additions]: PostInitializing ServerProxy...
+[02:44:23] [Server thread/INFO] [Actually Additions]: PostInitialization Finished.
+[02:44:23] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
+[02:44:24] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[02:44:24] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 2/2 (Server)
+[02:44:24] [Server thread/INFO] [Waila]: Starting Waila...
+[02:44:24] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[02:44:24] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[02:44:24] [Server thread/INFO] [Waila]: Registering plugins...
+[02:44:24] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[02:44:24] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[02:44:24] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[02:44:24] [Server thread/INFO] [Waila]: Registering plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
+[02:44:24] [Server thread/INFO] [Waila]: Starting Waila took 34.48 ms
+[02:44:24] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 26 mods
+[02:44:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[02:44:24] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[02:44:25] [Server thread/INFO] [FML]: Applying holder lookups
+[02:44:25] [Server thread/INFO] [FML]: Holder lookups applied
+[02:44:25] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@20866edc)
+[02:44:25] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement buildcraftfactory:recipes/water_gel_spawn
 com.google.gson.JsonSyntaxException: Unknown recipe 'buildcraftfactory:water_gel_spawn'
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
@@ -277,524 +277,36 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'buildcraftfactory:water_gel
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[18:12:31] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 658 advancements
-[18:12:31] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@4b047c88)
-[18:12:31] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@4b047c88)
-[18:12:31] [Server thread/INFO] [FML]: Loading dimension 24 (world) (net.minecraft.server.dedicated.DedicatedServer@4b047c88)
-[18:12:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[18:12:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 11%
-[18:12:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.163s)! For help, type "help" or "?"
-[18:12:33] [Server thread/INFO] [Actually Additions]: Successfully loaded WorldData!
-[18:12:33] [Server thread/INFO] [OverLast]: Stored 64 biome temperatures.
-[18:12:33] [Server thread/INFO] [OverLast]: Loaded world data. Current season is WINTER and we are 1 days into this season.
-[18:12:33] [Server thread/INFO] [FML]: Unloading dimension -1
-[18:12:33] [Server thread/INFO] [FML]: Unloading dimension 1
-[18:12:33] [Server thread/INFO] [FML]: Unloading dimension 24
-[18:12:40] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[18:12:40] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[18:12:40] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[18:12:40] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[18:12:40] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[18:12:40] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 27 mods : minecraft@1.12.2,buildcraftlib@7.99.24.8,buildcraftsilicon@7.99.24.8,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1012,buildcrafttransport@7.99.24.8,howlingmoon@0.9,techguns_core@1.12.2-1.0,actuallyadditions@1.12.2-r152,xaerominimap@24.2.0,mcp@9.42,buildcraftfactory@7.99.24.8,xaeroworldmap@1.38.8,FML@8.0.99.99,tombstone@4.6.6,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,msic@1.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,buildcraftcore@7.99.24.8,overlast@0.2.9,techguns@2.0.2.0
-[18:12:42] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[18:12:42] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@4b047c88)
-[18:12:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KevinCrax[/127.39.143.144:50077] logged in with entity id 312 at (-126.5089065935748, 44.0, -44.713121919197825)
-[18:12:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax joined the game
-[18:12:42] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KevinCrax'/312, l='world', x=-126.51, y=44.00, z=-44.71] connected. Sending ping
-[18:12:42] [Server thread/INFO] [Actually Additions]: Sending Player Data to player KevinCrax with UUID 59c9e25f-7c7f-386b-aa38-a9952379eda5.
-[18:12:55] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[18:12:55] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 27 mods : minecraft@1.12.2,buildcraftlib@7.99.24.8,buildcraftsilicon@7.99.24.8,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1012,buildcrafttransport@7.99.24.8,howlingmoon@0.9,techguns_core@1.12.2-1.0,actuallyadditions@1.12.2-r152,xaerominimap@24.2.0,mcp@9.42,buildcraftfactory@7.99.24.8,xaeroworldmap@1.38.8,FML@8.0.99.99,tombstone@4.6.6,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,msic@1.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,buildcraftcore@7.99.24.8,overlast@0.2.9,techguns@2.0.2.0
-[18:12:56] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[18:12:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lea_Matt[/127.219.176.237:52061] logged in with entity id 479 at (-129.64163654262708, 43.0, -44.56419670974252)
-[18:12:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt joined the game
-[18:12:56] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Lea_Matt'/479, l='world', x=-129.64, y=43.00, z=-44.56] connected. Sending ping
-[18:12:56] [Server thread/INFO] [Actually Additions]: Sending Player Data to player Lea_Matt with UUID ece0ef0f-b99a-37a6-8c95-cbfbe03b5272.
-[18:13:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> HEY
-[18:13:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> holis
-[18:13:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Esperai que tengo todo desconfigurado
-[18:13:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Hace tiempo no juego XD
-[18:13:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> y me faltan mis botas?
-[18:15:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Okay
-[18:15:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> lista
-[18:15:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Listo*
-[18:15:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> tienes mis botas por ahi?
-[18:15:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> o no tenia?
-[18:15:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ??
-[18:15:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> a no
-[18:15:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Creo que no tenías
-[18:15:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no tenia XD
-[18:15:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> y que haciamos aqui.. ?
-[18:15:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Oh ya recordé
-[18:16:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Cuarzo cuarzo cuarz
-[18:16:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> cuarzo
-[18:16:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Quién eres tú, Ghast ?
-[18:16:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt is bleeding...
-[18:16:52] [Server thread/INFO] [tombstone]: The death event of the player Lea_Matt was cancelled by another mod
-[18:16:52] [Server thread/INFO] [tombstone]: Lea_Matt has successfully been saved
-[18:17:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> lova
-[18:17:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> 20
-[18:17:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Teleported Lea_Matt to KevinCrax]
-[18:17:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> OKAY
-[18:17:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> hola
-[18:19:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt is bleeding...
-[18:19:31] [Server thread/INFO] [tombstone]: The death event of the player Lea_Matt was cancelled by another mod
-[18:19:31] [Server thread/INFO] [tombstone]: Lea_Matt has successfully been saved
-[18:19:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ehm
-[18:19:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> estaba escribiendo
-[18:19:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Donde estás !?
-[18:20:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> ahi nomas donde mori antes
-[18:20:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Tmr no te encuentro
-[18:20:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt was shot by Zombie Pigman Soldier
-[18:20:31] [Server thread/INFO] [tombstone]: The last known grave of Lea_Matt is at location [name:Last Grave, x:-226, y:44, z:-16] in the dimension -1
-[18:20:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Donde rayos te abrás metido
-[18:20:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> No te encontraba
-[18:20:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> literal en donde mori antes
-[18:21:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> muy cerca por no decir alado
-[18:21:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Pues no sé , no te vi
-[18:22:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt is bleeding...
-[18:22:54] [Server thread/INFO] [tombstone]: The death event of the player Lea_Matt was cancelled by another mod
-[18:22:54] [Server thread/INFO] [tombstone]: Lea_Matt has successfully been saved
-[18:23:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> okay
-[18:23:53] [Server thread/INFO] [OverLast]: Saving data to disk.
-[18:23:53] [Server thread/INFO] [OverLast]: Rain is on the way in 6871 ticks.
-[18:23:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Winter, day 2.
-[18:23:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wake dafaq up samora, we've gott a city to burn!
-[18:23:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: howdy howdy Doom City, have you found some bugs on the ground? Don't worry about them threatening your food, because you may not need other food soon!
-[18:23:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for winter.
-[18:23:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Winter, day 2.
-[18:23:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: My friends, have you ever cared what is in the endless sky on this land full of monsters? Is it endless loneliness or endless hope?
-[18:23:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for winter.
-[18:24:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> ya me voy que me muro a cada rato
-[18:24:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lea_Matt moved too quickly! -521.3833736346553,57.0,519.8236398869742
-[18:24:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> hahahah
-[18:24:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> No es problema para mi preciosa
-[18:25:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> es problema para mi
-[18:25:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KevinCrax lost connection: Disconnected
-[18:25:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax left the game
-[18:25:15] [Server thread/INFO] [FML]: Unloading dimension -1
-[18:25:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> y me desanima
-[18:26:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] Ups
-[18:26:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> ?
-[18:26:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] Se me crasheó el juego. Ya vuelvo
-[18:26:56] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[18:26:56] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 27 mods : minecraft@1.12.2,buildcraftlib@7.99.24.8,buildcraftsilicon@7.99.24.8,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1012,buildcrafttransport@7.99.24.8,howlingmoon@0.9,techguns_core@1.12.2-1.0,actuallyadditions@1.12.2-r152,xaerominimap@24.2.0,mcp@9.42,buildcraftfactory@7.99.24.8,xaeroworldmap@1.38.8,FML@8.0.99.99,tombstone@4.6.6,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,msic@1.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,buildcraftcore@7.99.24.8,overlast@0.2.9,techguns@2.0.2.0
-[18:26:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[18:26:57] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@4b047c88)
-[18:26:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KevinCrax[/127.39.143.144:40771] logged in with entity id 14186 at (-154.02904629574292, 73.0, 41.68320405930349)
-[18:26:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax joined the game
-[18:26:58] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KevinCrax'/14186, l='world', x=-154.03, y=73.00, z=41.68] connected. Sending ping
-[18:26:58] [Server thread/INFO] [Actually Additions]: Sending Player Data to player KevinCrax with UUID 59c9e25f-7c7f-386b-aa38-a9952379eda5.
-[18:27:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Yau volvi
-[18:28:00] [Server thread/INFO] [FML]: Unloading dimension -1
-[18:28:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ya wolwi !
-[18:28:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> yey!
-[18:28:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> *abacho por detras
-[18:28:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> que pacho?
-[18:28:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Haha
-[18:30:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> abacho
-[18:30:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> A la hora que respondes
-[18:31:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
-[18:31:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> quiero otro
-[18:31:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> awww
-[18:31:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> *hug*
-[18:31:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> perai peraii
-[18:31:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ok
-[18:31:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> *abacho*
-[18:31:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> *y besito*
-[18:31:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> *abracho mientras trabaja*
-[18:31:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> hahaha
-[18:31:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Te quiero mucho
-[18:32:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> igual mente
-[18:32:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> mi hermano te dice negro
-[18:32:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> *gasp
-[18:32:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Sisoi
-[18:32:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Aunque en la vida real soy *Blanco.*
-[18:32:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Yo tengo derechos
-[18:32:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> HASKAKSJASJKSA
-[18:32:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> hahaha
-[18:33:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> seguro pregunta
-[18:33:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> en el juego no tienes derechos dice
-[18:33:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Zi
-[18:33:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Cho zoi gringo
-[18:33:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> y en el juego no tengo derechos, Nao
-[18:33:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Pero no tengo que tenerlos
-[18:33:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Por que yo tengo el Poder absoluto
-[18:33:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Y me la pela los derechos
-[18:33:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
-[18:34:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> XD
-[18:34:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> destruis todo si quieres
-[18:34:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Si lit
-[18:34:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Especialmente que tengo mi TGX :)
-[18:34:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> De hecho
-[18:34:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Voy a mostrarle de que soy capaz
-[18:34:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Lea veni
-[18:37:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> perdon
-[18:37:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> nao worry
-[18:37:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> rompieron algo en casa
-[18:37:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Oof XD
-[18:37:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> aqui estoy
-[18:37:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ah si, queria mostrarle a tu hermanito
-[18:37:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> El *Power*
-[18:37:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> *pat pat*
-[18:38:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> a
-[18:38:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> esta lastimado
-[18:38:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Sí
-[18:38:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> No tengo carne para curarlo
-[18:38:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Tu hermanito esta ahi para que aprecie mi poder ?
-[18:38:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
-[18:38:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> ahora esta mirando
-[18:38:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> -w-
-[18:39:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> eso es un arma radiactiba dice
-[18:39:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Zi
-[18:39:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> bue dice
-[18:39:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
-[18:39:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> sus pedos son mas potentes que eso
-[18:39:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> HAKSJKSAKJASKJAS
-[18:40:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Aun asi que vea
-[18:40:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Poder destructivo -w-
-[18:41:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ci
-[18:41:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> los pedos de el derriten y probocan terremotos una placa tectonica entera
-[18:41:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> HAKSKJASKHSAKH
-[18:43:53] [Server thread/INFO] [OverLast]: Saving data to disk.
-[18:43:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Winter, day 3.
-[18:43:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: May this hot summer be over soon. May the endless wind and snow never stop, and may we live in this land for a long time until we go to the next planet. Cheers up!
-[18:43:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mankind will prevail! Parasitic beasts can't defeat humans!
-[18:43:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Winter, day 3.
-[18:43:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: {carzy lanugh} Now, the whole world is on fire hahahaha...... {crazy laugh}
-[18:43:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for winter.
-[18:44:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> tengo tan bien organizado las cosas que no encuentro las cosas por estar tan desacostumbrada
-[18:44:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> hahahahah
-[18:44:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Entendible
-[18:45:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Lea
-[18:45:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Hechizeria
-[18:45:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Veni
-[18:46:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax has reached the goal [New Path]
-[18:46:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> como consiges de esas?
-[18:46:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> TACHAN
-[18:46:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
-[18:46:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no tengo montura pero wow
-[18:47:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Magi
-[18:47:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> a
-[18:47:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Puedo revivir a mi lobo por cierto también
-[18:47:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> OwO!
-[18:47:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ???
-[18:47:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> y a mi?
-[18:47:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ah no
-[18:47:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Lamentablemente
-[18:47:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
-[18:47:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> nooooo
-[18:47:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Tambien tengo 2 receptáculos de alma
-[18:48:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Que me permiten autorevivir
-[18:49:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> tengo mi armadura por completa
-[18:49:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> AH
-[18:49:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> FUEGO
-[18:49:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> LEA FUEGOOOOOOOOOOO
-[18:50:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> mi casa
-[18:50:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> TU CASA TÍOOOOOOOOOOOOOOOO
-[18:50:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> Mi casa tio QnQ
-[18:50:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> AAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHH
-[18:51:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Pero
-[18:51:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Pero cómo ?!
-[18:51:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Cuando llego el fuego !?
-[18:51:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no se
-[18:51:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Por eso mis casas y estructuras nunca son de madera
-[18:51:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Hooolyyyy
-[18:52:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> son las mas faciel en materiales sin ir ful a terminar el juego
-[18:52:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Naah
-[18:52:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> La piedra
-[18:52:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> La piedra es mucho mas fácil de conseguir
-[18:52:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Piedra obtienes cantidades masivas
-[18:52:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> todo el dia minar y romper muchos picos
-[18:52:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Picos ?
-[18:52:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Usa taladros !
-[18:52:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> pero bueno
-[18:52:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Que ni son tan caros
-[18:53:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> para el taladro tenes que avanzar mucho
-[18:53:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Tonterías
-[18:53:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> hahashsakksakjas
-[18:53:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> El taladro lo consegui hace un buen tiempo
-[18:53:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> no fue dificil de conseguir
-[18:53:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> a mi me re custa consegirlo
-[18:53:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> nah
-[18:53:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> y eso que ni tengo mejoras
-[18:53:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Si pues para colmo
-[18:54:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Las mejoras son indispensables
-[18:55:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> bueno tendre que repara
-[18:55:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> O puedes dejarlo así
-[18:56:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Total, ya es el fin prácticamente de esta serie
-[18:56:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> encerio?
-[18:56:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Pues claro.. ?????
-[18:56:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Que más tenemos que hacer ?
-[18:56:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> tu nada
-[18:57:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> A ti te falta poco
-[18:57:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Realmente
-[18:57:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ah por cierto
-[18:57:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Evolucioné "
-[18:57:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ahora dejaré de usar las PO3
-[18:57:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Digo
-[18:57:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Las PDW
-[18:58:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ahora usaré las pistolas de tesla
-[18:58:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> O bueno
-[18:58:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Armas de tesla
-[18:58:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Oh por cierto linda, tienes...
-[18:58:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Cactus ?
-[18:58:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> bueno
-[18:58:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Me falta muchisimo tinte verde
-[18:58:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> tengo 4
-[18:58:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Pfff
-[18:58:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Necesitaria como
-[18:58:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> 20 !
-[18:58:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> O 30 !
-[18:59:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Bueno tampoco tanto-
-[18:59:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Pero si necesito una buena cantidad para los cableados
-[18:59:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> perdon pero no tengo nada
-[18:59:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> No te preocupes
-[18:59:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Me temo que tendré que usar mi máquina esta.. aunque.. mmr...
-[18:59:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Podria usar tu
-[18:59:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Farmer ?
-[18:59:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> usa lo que quieras
-[18:59:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Yo tengo una cantidad casi ilimitada de canola, te puedo dar cuanta quieres
-[18:59:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> si es que lo tengo
-[18:59:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Okay, gracias
-[19:00:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Lo mio es tuyo también, nunca lo olvides
-[19:00:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Tienes un cofre lleno de canola
-[19:00:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
-[19:00:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> lo se
-[19:01:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Que te parece mi nuevo juguetito por cierto ? haha
-[19:01:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> y por que lo estas replantando ?!
-[19:01:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> la vi ya
-[19:02:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> hey
-[19:02:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ?
-[19:02:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> porque haces eso?
-[19:02:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Dijiste que podia usarlo.. ???
-[19:02:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> ah
-[19:02:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Hace un momento literalmente dijiste que podia usarlo
-[19:02:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> esto era
-[19:02:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Si
-[19:02:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> El farmer
-[19:02:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Eso es el farmer .-.
-[19:03:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ahi tienes mas que de sobra canola
-[19:03:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> yo tambien puedo darte por mis propios farmer que son como 20 veces mas rápidos
-[19:03:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Asi que tranqui
-[19:03:53] [Server thread/INFO] [OverLast]: Saving data to disk.
-[19:03:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Spring, day 1.
-[19:03:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: In the east parasites beasts with the Himuras of the abandoned building. Guess who won?
-[19:03:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This is a special radio station for spring.
-[19:03:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Spring, day 1.
-[19:03:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: I don't know if you have time to sit down and listen to me talk about our great God... The Flying Spaghetti Monster! I'm so hungry!
-[19:03:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: The weather is great, parasites are ready for a picnic.
-[19:04:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Cactus..
-[19:04:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Mmr..d
-[19:04:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Pasame Lea
-[19:04:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> el cactus que tengas
-[19:04:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ahm.. okay ? XD
-[19:05:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Asi es mas eficiente
-[19:05:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> okey
-[19:05:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ah, y ..
-[19:05:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Tu canola ?
-[19:05:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Digo, si quieres te ayudo a transportarlo
-[19:05:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no pasa nada
-[19:05:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Okaay..
-[19:09:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Oh..
-[19:09:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Al final nunca use mi anill
-[19:09:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> i
-[19:09:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> o
-[19:10:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> buu
-[19:10:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Que susto
-[19:10:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
-[19:10:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Oye no en serio me asustó un poquito asjjkaskjsa
-[19:10:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> OYE NO UN COHETE NO-
-[19:10:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> XD
-[19:10:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> QUE TE DIFUMINO EN EL AIRE
-[19:11:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> XD
-[19:11:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> jksakjjksasa
-[19:11:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> le fakta potencia
-[19:11:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> a cual
-[19:11:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> caboom
-[19:11:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> no
-[19:13:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> mas kaboom
-[19:13:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> NO KRIKO
-[19:13:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> KABOOM NO
-[19:14:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> 32 booms
-[19:14:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ñao
-[19:15:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Voy a mimir
-[19:15:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> zzz
-[19:15:32] [Server thread/INFO] [OverLast]: Saving data to disk.
-[19:15:32] [Server thread/INFO] [OverLast]: Rain is on the way in 2897 ticks.
-[19:15:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Spring, day 2.
-[19:15:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: In the east parasites beasts with the Himuras of the abandoned building. Guess who won?
-[19:15:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: The weather is great, parasites are ready for a picnic.
-[19:15:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Spring, day 2.
-[19:15:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dear survivors, according to the latest information, please be alert to the partner who has been separated from you for more than a day. He may no longer be him.
-[19:15:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Happy new year survivors, do you want a parasites combo? It's on sale now~
-[19:15:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Lea..
-[19:15:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Obtuve..
-[19:15:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> LAS GREBAS
-[19:16:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> no, la bomba nuclear no
-[19:16:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> NO LEA, TRANQUILIZATE
-[19:16:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> NO
-[19:16:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> NO LEA
-[19:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no esta cargado
-[19:16:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> IGUAL LO TIENES EN LA PATA
-[19:16:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> TENGO MEO
-[19:16:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> y las nucle aun no la se hacer
-[19:16:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Espera
-[19:16:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> No es la nuclear ? ..
-[19:16:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no
-[19:16:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Pasame..
-[19:17:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ?
-[19:17:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> pero ya la hare
-[19:17:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ah
-[19:17:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Es la de alta velocidad
-[19:17:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> mas rapida mejor
-[19:17:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Le da menos radio de explosion
-[19:17:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Tecnicamente es menos daño
-[19:17:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Pero si, va mas rapida
-[19:17:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> encerio?
-[19:17:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> pense que era mas consetrada
-[19:17:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Si, ahi no vees las caracteristicas ?
-[19:17:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Es menos radio de explosion
-[19:18:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Afectará a menos enemigos la explosion
-[19:18:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> y destruira menos bloques
-[19:18:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Lo bueno
-[19:18:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Sera bien rápida y sera graciosa de ver XD
-[19:18:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> pero hace lo mismo de daño
-[19:18:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Si, hace el mismo daño
-[19:18:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Pero menos area = menos daño
-[19:18:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> menos are mas consetrada
-[19:18:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> mira
-[19:18:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Nope
-[19:18:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Hace menos daño
-[19:18:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> tengo un amiguito
-[19:18:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> A ver, dejame te lo explico mejor
-[19:19:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> hace el mismo daño
-[19:19:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Si, pero ..
-[19:19:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ash, no me entiendes
-[19:19:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Cuando digo que hace menos daño
-[19:19:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Es que afectará a menos enemigos
-[19:19:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Por lo tanto tiene menos daño máximo potencial
-[19:19:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> No es el daño como tal, si no me refiero al daño potencial que puede dar el arma
-[19:19:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> menos enemigos, mismo daño
-[19:19:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> pas consetrado
-[19:19:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> y al tener menor radio, afecta si o si a menos enemigos
-[19:19:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> No es concentradooo
-[19:19:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Concentrado seria si tuviera el radio reducido pero el daño aumentado
-[19:19:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Eso simplemente es el radio reducido
-[19:20:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> y que hace el aca ? xd
-[19:20:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no se pero eligui mi casa destruida
-[19:20:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Qué haces aca, zombie - cerdo ?
-[19:20:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Con una espada de oro encantada con x cosa.. ?
-[19:20:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> mmmmmmmmmmmmm
-[19:21:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Debería de fusilarlo ?
-[19:21:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> es mi amigo
-[19:21:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ah weno
-[19:21:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Lo dejo vivo tonces
-[19:21:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ponle una etiqueta para que no desaparezca
-[19:21:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> yey
-[19:22:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no tengo qnq
-[19:22:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Mrr
-[19:22:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no tengo nada
-[19:22:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Creo que yo tenía
-[19:22:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Espera
-[19:22:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> ya me voy
-[19:22:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> awwh ;-;
-[19:22:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Rayos donde estaba mi etiqueta..
-[19:22:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> ninguno tiene
-[19:22:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Por cierto, cuídate linda
-[19:23:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> me quedo un rato mas
-[19:23:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Juraria que si tenia Lea !
-[19:23:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Given [Name Tag] * 1 to KevinCrax]
-[19:23:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> me avisaron que no estan
-[19:23:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Juraria
-[19:23:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ah weno XD
-[19:23:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> HEY LA ENCONTRE
-[19:24:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Lea Lea Lea
-[19:24:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Como quieres que lo llame ?
-[19:24:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Lea !
-[19:24:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> am...
-[19:24:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> william
-[19:25:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> William !
-[19:25:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Espera, él no es William
-[19:25:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Hey no te robes mis nombres
-[19:25:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> JAJKkjsakjkjsakjs
-[19:25:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> el ahora es william
-[19:25:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> noo pero
-[19:25:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> jasjkasjk
-[19:25:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Okay, estás segura?
-[19:25:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> William ?
-[19:25:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> si
-[19:26:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Okay
-[19:26:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> mas segura de que esta casas fueron un desperdicio total
-[19:26:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> jkasjksajksajkasjk
-[19:26:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> No digas eso
-[19:26:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Está linda
-[19:26:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> bien... Hombre cerdo zombie
-[19:26:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ahora te llamo
-[19:26:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> WILLIAM
-[19:26:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
-[19:26:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> yey!
-[19:27:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Mmr
-[19:27:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> y una cosa más
-[19:27:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> que'
-[19:27:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Necesita una vacuna
-[19:27:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Contra parásitos
-[19:27:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ( por siacaso )
-[19:27:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> oh si
-[19:27:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Listo
-[19:27:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ya le di
-[19:27:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> no se vee creo ?
-[19:27:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> oh bueno gracias
-[19:27:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> haha
-[19:28:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Es una vacuna contra parasitos
-[19:28:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ah y. ..
-[19:28:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Deberias de tenerlo encerrado en algun sitio seguro
-[19:28:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> No quizieras que se vaya, no ?
-[19:28:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> por eso puse puertas pero tambien le hare ballas
-[19:28:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> okayy
-[19:30:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> como lo traigo hasta aqui?
-[19:30:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Haciendo más..
-[19:30:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ah ?
-[19:30:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Um, con unas riendas ?
-[19:30:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no tengo nada
-[19:30:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> hilo tienes ?
-[19:31:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> creo que si
-[19:31:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Sí si tienes
-[19:31:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ya agarre un poco
-[19:31:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ah que no funciona
-[19:31:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Rayos
-[19:31:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> se volvio loco
-[19:31:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> No funciona las correaaas
-[19:32:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Oof
-[19:32:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> es intomable
-[19:32:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> A donde lo quieres llevar por cierto ?
-[19:32:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ah ya vi
-[19:32:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Listo :D
-[19:32:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Foto Lea foto para discord
-[19:32:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> vienvenido a tu nueva casa willam
-[19:32:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> a ya me llamorn
-[19:32:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> awh
-[19:33:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Espera un segundo
-[19:33:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> la foto
-[19:33:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Listop
-[19:33:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Gracias haha
-[19:33:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> Yey
-[19:33:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lea_Matt lost connection: Disconnected
-[19:33:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt left the game
-[19:35:32] [Server thread/INFO] [OverLast]: Saving data to disk.
-[19:35:32] [Server thread/INFO] [OverLast]: Rain is on the way in 2276 ticks.
-[19:35:32] [Server thread/INFO] [OverLast]: It's raining now. It's false that it is thundering. It'll last for 16615 ticks.
-[19:35:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Good morning, Doom City! Today is a brand-new day. The current season is Spring, day 3.
-[19:35:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: howdy howdy Doom City, have you found some bugs on the ground? Don't worry about them threatening your food, because you may not need other food soon!
-[19:35:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: The weather is great, parasites are ready for a picnic.
-[19:35:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KevinCrax lost connection: Disconnected
-[19:35:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax left the game
-[19:36:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[19:36:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[19:36:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[19:36:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[19:36:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[19:36:10] [Server thread/INFO] [FML]: Unloading dimension 0
-[19:36:10] [Server thread/INFO] [Actually Additions]: Unloaded WorldData!
-[19:36:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[19:36:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[19:36:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[02:44:25] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 658 advancements
+[02:44:25] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@20866edc)
+[02:44:25] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@20866edc)
+[02:44:25] [Server thread/INFO] [FML]: Loading dimension 24 (world) (net.minecraft.server.dedicated.DedicatedServer@20866edc)
+[02:44:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[02:44:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 6%
+[02:44:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 88%
+[02:44:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.694s)! For help, type "help" or "?"
+[02:44:28] [Server thread/INFO] [Actually Additions]: Successfully loaded WorldData!
+[02:44:28] [Server thread/INFO] [OverLast]: Stored 64 biome temperatures.
+[02:44:28] [Server thread/INFO] [OverLast]: Loaded world data. Current season is SPRING and we are 3 days into this season.
+[02:44:28] [Server thread/INFO] [FML]: Unloading dimension -1
+[02:44:28] [Server thread/INFO] [FML]: Unloading dimension 1
+[02:44:28] [Server thread/INFO] [FML]: Unloading dimension 24
+[02:45:36] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[02:45:36] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[02:45:36] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[02:45:36] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[02:45:37] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[02:45:37] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 27 mods : minecraft@1.12.2,buildcraftlib@7.99.24.8,buildcraftsilicon@7.99.24.8,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1012,buildcrafttransport@7.99.24.8,howlingmoon@0.9,techguns_core@1.12.2-1.0,actuallyadditions@1.12.2-r152,xaerominimap@24.2.0,mcp@9.42,buildcraftfactory@7.99.24.8,xaeroworldmap@1.38.8,FML@8.0.99.99,tombstone@4.6.6,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,msic@1.0,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,buildcraftcore@7.99.24.8,overlast@0.2.9,techguns@2.0.2.0
+[02:45:38] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:45:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KevinCrax[/127.39.143.144:49601] logged in with entity id 297 at (-600.2947985238105, 109.0, 577.432233406591)
+[02:45:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax joined the game
+[02:45:39] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KevinCrax'/297, l='world', x=-600.29, y=109.00, z=577.43] connected. Sending ping
+[02:45:39] [Server thread/INFO] [Actually Additions]: Sending Player Data to player KevinCrax with UUID 59c9e25f-7c7f-386b-aa38-a9952379eda5.
+[02:48:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[02:48:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:48:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[02:48:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[02:48:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[02:48:09] [Server thread/INFO] [FML]: Unloading dimension 0
+[02:48:09] [Server thread/INFO] [Actually Additions]: Unloaded WorldData!
+[02:48:09] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
