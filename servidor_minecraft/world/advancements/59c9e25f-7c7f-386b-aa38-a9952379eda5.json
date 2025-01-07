@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-07 01:47:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-07-25 21:42:02 +0000"
@@ -332,6 +338,12 @@
   "tombstone:tutorial/almost_unkillable": {
     "criteria": {
       "coded_trigger": "2024-12-15 01:32:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/use_purification": {
+    "criteria": {
+      "coded_trigger": "2025-01-07 01:35:35 +0000"
     },
     "done": true
   },
@@ -1698,6 +1710,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-07 01:47:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2024-07-26 18:23:01 +0000"
@@ -2273,6 +2291,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-07-25 19:59:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/use_unstable_intangibility": {
+    "criteria": {
+      "coded_trigger": "2025-01-07 01:35:27 +0000"
     },
     "done": true
   },
