@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/elements": {
+    "criteria": {
+      "ice": "2025-01-08 03:01:25 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/sign_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2025-01-07 02:44:56 +0000"
@@ -254,6 +260,18 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-01-07 02:54:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-01-08 03:05:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2025-01-08 02:58:23 +0000"
     },
     "done": true
   },
@@ -482,9 +500,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-01-08 03:05:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-01-07 02:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2025-01-08 02:58:23 +0000"
     },
     "done": true
   },
@@ -521,6 +551,18 @@
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2025-01-07 02:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-08 03:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-08 03:04:48 +0000"
     },
     "done": true
   },
@@ -614,6 +656,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2025-01-08 02:57:56 +0000"
+    },
+    "done": true
+  },
   "ebwizardry:discover_spell": {
     "criteria": {
       "criteria_0": "2025-01-08 02:15:48 +0000"
@@ -630,6 +678,7 @@
     "criteria": {
       "forest": "2025-01-07 02:42:25 +0000",
       "forest_hills": "2025-01-07 02:51:55 +0000",
+      "roofed_forest": "2025-01-08 03:06:16 +0000",
       "river": "2025-01-07 02:49:49 +0000"
     },
     "done": false
@@ -745,6 +794,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-01-07 02:49:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-01-08 03:05:15 +0000"
     },
     "done": true
   },
@@ -868,6 +923,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-07 02:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2025-01-08 03:05:15 +0000"
     },
     "done": true
   },
