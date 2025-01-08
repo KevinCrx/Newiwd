@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-08 02:24:22 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_cherry": {
     "criteria": {
       "entered_water": "2025-01-07 02:41:49 +0000"
@@ -289,7 +295,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_mutton": "2025-01-08 02:03:52 +0000"
+      "cooked_mutton": "2025-01-08 02:03:52 +0000",
+      "apple": "2025-01-08 02:19:41 +0000"
     },
     "done": false
   },
@@ -314,6 +321,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-01-08 02:10:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2025-01-08 02:25:04 +0000"
     },
     "done": true
   },
@@ -571,6 +584,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-08 02:17:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-01-07 02:51:16 +0000"
@@ -687,6 +706,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "skeleton": "2025-01-08 02:18:28 +0000",
       "zombie": "2025-01-07 02:53:34 +0000",
       "spider": "2025-01-08 02:17:33 +0000"
     },
@@ -797,6 +817,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-07 02:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-08 02:26:47 +0000"
     },
     "done": true
   }
