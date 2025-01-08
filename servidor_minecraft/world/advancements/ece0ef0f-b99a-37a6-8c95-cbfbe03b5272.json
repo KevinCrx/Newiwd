@@ -113,15 +113,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magenta_wool": {
-    "criteria": {
-      "has_white_wool": "2025-01-08 02:10:24 +0000"
-    },
-    "done": true
-  },
   "ebwizardry:crystal": {
     "criteria": {
       "criteria_0": "2025-01-08 02:10:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-08 02:10:24 +0000"
     },
     "done": true
   },
@@ -164,6 +164,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-01-07 02:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-01-08 02:31:55 +0000"
     },
     "done": true
   },
@@ -324,15 +330,22 @@
     },
     "done": true
   },
+  "ebwizardry:root": {
+    "criteria": {
+      "criteria_0": "2025-01-08 02:10:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_log": "2025-01-08 02:25:04 +0000"
     },
     "done": true
   },
-  "ebwizardry:root": {
+  "biomesoplenty:biomesoplenty/root": {
     "criteria": {
-      "criteria_0": "2025-01-08 02:10:19 +0000"
+      "yellow_flower": "2025-01-08 02:31:55 +0000",
+      "red_flower": "2025-01-08 02:31:55 +0000"
     },
     "done": true
   },
@@ -495,6 +508,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-01-08 02:10:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2025-01-08 02:36:41 +0000"
     },
     "done": true
   },
