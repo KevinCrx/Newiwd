@@ -1,13 +1,13 @@
 {
-  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+  "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
-      "has_bed": "2025-01-07 02:57:39 +0000"
+      "has_string": "2025-01-08 02:10:23 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_mahogany": {
+  "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
-      "entered_water": "2025-01-07 02:41:49 +0000"
+      "has_white_wool": "2025-01-08 02:10:24 +0000"
     },
     "done": true
   },
@@ -17,21 +17,21 @@
     },
     "done": true
   },
+  "ebwizardry:arcane_initiate": {
+    "criteria": {
+      "criteria_0": "2025-01-08 02:15:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-08 02:10:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-01-07 02:51:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "zombie": "2025-01-07 02:53:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2025-01-07 02:57:39 +0000"
     },
     "done": true
   },
@@ -41,21 +41,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/crafting_table_from_bop_wood": {
+  "minecraft:recipes/redstone/observer": {
     "criteria": {
-      "has_the_recipe": "2025-01-07 02:47:41 +0000"
+      "has_quartz": "2025-01-08 02:10:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+  "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
-      "has_double_plant": "2025-01-07 02:43:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2025-01-07 02:57:39 +0000"
+      "has_white_wool": "2025-01-08 02:10:24 +0000"
     },
     "done": true
   },
@@ -71,27 +65,39 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/trapdoor_from_bop_wood": {
+  "minecraft:recipes/decorations/white_bed": {
     "criteria": {
-      "has_the_recipe": "2025-01-07 02:47:41 +0000"
+      "has_white_wool": "2025-01-08 02:10:24 +0000"
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
+  "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
-      "get_stone": "2025-01-07 02:51:16 +0000"
+      "has_white_wool": "2025-01-08 02:10:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/furnace": {
+  "ebwizardry:all_spells": {
     "criteria": {
-      "has_cobblestone": "2025-01-07 02:51:16 +0000"
+      "magic_missile": "2025-01-08 02:16:41 +0000"
     },
-    "done": true
+    "done": false
   },
   "biomesoplenty:recipes/decorations/sign_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2025-01-07 02:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-08 02:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-08 02:10:24 +0000"
     },
     "done": true
   },
@@ -101,29 +107,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "forest": "2025-01-07 02:41:38 +0000",
-      "forest_hills": "2025-01-07 02:52:29 +0000",
-      "river": "2025-01-07 02:51:49 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-01-07 02:47:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+  "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
-      "has_bed": "2025-01-07 02:57:39 +0000"
+      "has_white_wool": "2025-01-08 02:10:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_pickaxe": {
+  "ebwizardry:crystal": {
     "criteria": {
-      "has_stick": "2025-01-07 02:47:43 +0000"
+      "criteria_0": "2025-01-08 02:10:19 +0000"
     },
     "done": true
   },
@@ -145,45 +143,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "entered_water": "2025-01-07 02:41:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/stone_sword": {
-    "criteria": {
-      "has_cobblestone": "2025-01-07 02:51:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-07 02:57:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_stairs": {
+  "minecraft:recipes/decorations/painting": {
     "criteria": {
-      "has_planks": "2025-01-07 02:47:41 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_willow": {
-    "criteria": {
-      "entered_water": "2025-01-07 02:41:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2025-01-07 02:51:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2025-01-07 02:47:43 +0000"
+      "has_wool": "2025-01-08 02:10:19 +0000"
     },
     "done": true
   },
@@ -193,9 +161,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
-      "entered_water": "2025-01-07 02:41:49 +0000"
+      "has_stick": "2025-01-07 02:47:43 +0000"
     },
     "done": true
   },
@@ -205,9 +173,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_pickaxe": {
+  "minecraft:recipes/decorations/torch": {
     "criteria": {
-      "has_cobblestone": "2025-01-07 02:51:16 +0000"
+      "has_stone_pickaxe": "2025-01-08 02:10:18 +0000"
     },
     "done": true
   },
@@ -217,9 +185,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_redwood": {
+  "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
-      "entered_water": "2025-01-07 02:41:49 +0000"
+      "has_white_wool": "2025-01-08 02:10:24 +0000"
     },
     "done": true
   },
@@ -229,27 +197,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2025-01-07 02:57:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-01-07 02:57:09 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
-      "killed_something": "2025-01-07 02:53:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/boat": {
-    "criteria": {
-      "entered_water": "2025-01-07 02:41:49 +0000"
+      "has_black_wool": "2025-01-08 02:10:19 +0000"
     },
     "done": true
   },
@@ -259,15 +215,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2025-01-07 02:41:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
+  "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
-      "entered_water": "2025-01-07 02:41:49 +0000"
+      "has_quartz": "2025-01-08 02:10:23 +0000"
     },
     "done": true
   },
@@ -277,9 +233,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+  "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
-      "has_bed": "2025-01-07 02:57:39 +0000"
+      "has_white_wool": "2025-01-08 02:10:24 +0000"
     },
     "done": true
   },
@@ -313,57 +269,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2025-01-07 02:57:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2025-01-07 02:51:16 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/boat_cherry": {
     "criteria": {
       "entered_water": "2025-01-07 02:41:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
-      "entered_water": "2025-01-07 02:41:49 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_jacaranda": {
-    "criteria": {
-      "entered_water": "2025-01-07 02:41:49 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_umbran": {
-    "criteria": {
-      "entered_water": "2025-01-07 02:41:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "zombie": "2025-01-07 02:53:34 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/green_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2025-01-07 02:57:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2025-01-07 02:57:39 +0000"
+      "has_white_wool": "2025-01-08 02:10:24 +0000"
     },
     "done": true
   },
@@ -372,6 +286,12 @@
       "has_planks": "2025-01-07 02:47:41 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-01-08 02:03:52 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -385,21 +305,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+  "minecraft:recipes/decorations/black_banner": {
     "criteria": {
-      "has_bed": "2025-01-07 02:57:39 +0000"
+      "has_black_wool": "2025-01-08 02:10:19 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/wooden_button_from_bop_wood": {
+  "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
-      "has_the_recipe": "2025-01-07 02:47:41 +0000"
+      "has_string": "2025-01-08 02:10:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
+  "ebwizardry:root": {
     "criteria": {
-      "has_cobblestone": "2025-01-07 02:51:16 +0000"
+      "criteria_0": "2025-01-08 02:10:19 +0000"
     },
     "done": true
   },
@@ -412,18 +332,6 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-07 02:57:39 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_magic": {
-    "criteria": {
-      "entered_water": "2025-01-07 02:41:49 +0000"
-    },
-    "done": true
-  },
-  "ebwizardry:wizard_tower": {
-    "criteria": {
-      "criteria_0": "2025-01-07 03:06:35 +0000"
     },
     "done": true
   },
@@ -451,15 +359,414 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-07 02:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-01-08 02:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-08 02:10:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_eucalyptus": {
+    "criteria": {
+      "entered_water": "2025-01-07 02:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-08 02:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-01-07 02:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-08 02:10:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2025-01-08 02:10:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_mahogany": {
+    "criteria": {
+      "entered_water": "2025-01-07 02:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-08 02:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-08 02:10:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2025-01-07 02:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-01-07 02:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2025-01-07 02:43:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/crafting_table_from_bop_wood": {
+    "criteria": {
+      "has_the_recipe": "2025-01-07 02:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-01-07 02:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-08 02:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-08 02:10:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/trapdoor_from_bop_wood": {
+    "criteria": {
+      "has_the_recipe": "2025-01-07 02:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-07 02:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-08 02:10:23 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:discover_spell": {
+    "criteria": {
+      "criteria_0": "2025-01-08 02:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-01-07 02:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2025-01-07 02:41:38 +0000",
+      "forest_hills": "2025-01-07 02:52:29 +0000",
+      "river": "2025-01-07 02:51:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-01-07 02:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-08 01:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-08 02:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-01-07 02:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-08 02:03:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2025-01-07 02:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-01-07 02:51:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_willow": {
+    "criteria": {
+      "entered_water": "2025-01-07 02:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-07 02:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-01-07 02:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2025-01-07 02:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-07 02:51:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_redwood": {
+    "criteria": {
+      "entered_water": "2025-01-07 02:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-01-07 02:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-07 02:53:34 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/arcane_workbench": {
+    "criteria": {
+      "criteria_0": "2025-01-08 02:10:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2025-01-07 02:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-08 02:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2025-01-07 02:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-01-08 02:10:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-01-07 02:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-08 02:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-01-07 02:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-07 02:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2025-01-07 02:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-08 02:10:23 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/crystal_flowers": {
+    "criteria": {
+      "criteria_0": "2025-01-08 02:10:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_jacaranda": {
+    "criteria": {
+      "entered_water": "2025-01-07 02:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-08 02:10:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_umbran": {
+    "criteria": {
+      "entered_water": "2025-01-07 02:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie": "2025-01-07 02:53:34 +0000",
+      "spider": "2025-01-08 02:17:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-01-07 02:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-01-07 02:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-01-07 02:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-01-08 02:10:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/wooden_button_from_bop_wood": {
+    "criteria": {
+      "has_the_recipe": "2025-01-07 02:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-01-07 02:51:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_magic": {
+    "criteria": {
+      "entered_water": "2025-01-07 02:41:49 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:wizard_tower": {
+    "criteria": {
+      "criteria_0": "2025-01-07 03:06:35 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:anger_wizard": {
+    "criteria": {
+      "criteria_0": "2025-01-08 02:08:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-08 02:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-08 02:10:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-07 02:57:39 +0000"
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
-      "crafting_table": "2025-01-07 02:47:42 +0000"
+      "has_white_wool": "2025-01-08 02:10:24 +0000"
     },
     "done": true
   },
@@ -475,21 +782,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2025-01-07 02:57:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2025-01-07 02:47:41 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_eucalyptus": {
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
-      "entered_water": "2025-01-07 02:41:49 +0000"
+      "has_bed": "2025-01-07 02:57:39 +0000"
     },
     "done": true
   },
