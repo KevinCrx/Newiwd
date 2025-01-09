@@ -220,7 +220,8 @@
       "cooked_mutton": "2025-01-08 02:00:39 +0000",
       "cooked_beef": "2025-01-08 02:33:46 +0000",
       "apple": "2025-01-07 02:50:18 +0000",
-      "bread": "2025-01-07 02:54:19 +0000"
+      "bread": "2025-01-07 02:54:19 +0000",
+      "rotten_flesh": "2025-01-09 18:41:52 +0000"
     },
     "done": false
   },
@@ -251,6 +252,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-01-09 18:45:28 +0000"
     },
     "done": true
   },
@@ -737,6 +744,12 @@
   "ebwizardry:crystal": {
     "criteria": {
       "criteria_0": "2025-01-08 02:03:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2025-01-09 18:45:28 +0000"
     },
     "done": true
   },
