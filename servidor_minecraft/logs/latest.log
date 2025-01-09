@@ -1,338 +1,338 @@
-[17:31:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[17:31:41] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[17:31:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[17:31:41] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[17:31:41] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[17:31:41] [main/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
-[17:31:41] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[17:31:41] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[17:31:41] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
-[17:31:41] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.2.1.jar
-[17:31:41] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from MyServerIsCompatible-1.12.2-1.0.jar
-[17:31:41] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine-OptiFine-1.12.2_HD_U_G5.jar
-[17:31:41] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_24.2.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[17:31:41] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
-[17:31:41] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in XaerosWorldMap_1.38.8_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[17:31:41] [main/WARN] [FML]: The coremod XaeroWorldMapPlugin (xaero.map.core.XaeroWorldMapPlugin) is not signed!
-[17:31:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[17:31:41] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[17:31:41] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/Newiwd/servidor_minecraft/./mods/MyServerIsCompatible-1.12.2-1.0.jar Service=LaunchWrapper Env=SERVER
-[17:31:41] [main/WARN] [FML]: The coremod com.focamacho.myserveriscompatible.asm.MSICCoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[17:31:41] [main/WARN] [FML]: The coremod MSICCoreMod (com.focamacho.myserveriscompatible.asm.MSICCoreMod) is not signed!
-[17:31:41] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[17:31:41] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[17:31:41] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
-[17:31:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[17:31:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[17:31:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[17:31:41] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
-[17:31:41] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
-[17:31:41] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
-[17:31:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings$2, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings$Options, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.LoadingScreenRenderer, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.util.ScreenShotHelper, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.FontRenderer, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiIngame, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiIngame$1, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiOverlayDebug, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiOverlayDebug$1, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiSlot, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiMainMenu, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiVideoSettings, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.TexturedQuad, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.ModelBox, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.ModelRenderer, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$1, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$2, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$3, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$4, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$1, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$2, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$3, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$4, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.entity.AbstractClientPlayer, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$1, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$2, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$State, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$1, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$2, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$3, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$4, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.ItemRenderer, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.ItemRenderer$1, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$1, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$2, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$ContainerLocalRenderInformation, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockFluidRenderer, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$1, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$EnumNeighborInfo, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$AmbientOcclusionFace, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$VertexTranslations, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$Orientation, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.BakedQuad, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.BakedQuadRetextured, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.FaceBakery, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.FaceBakery$5, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ItemOverrideList, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.tileentity.TileEntityRendererDispatcher, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.tileentity.TileEntitySpecialRenderer, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$1, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$2, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$3, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$PendingUpload, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.RenderChunk, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderManager, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderItemFrame, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$1, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$9, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$10, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$2, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$3, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$4, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$5, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$6, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$7, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$8, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderLivingBase, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderLivingBase$1, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.layers.LayerArmorBase, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.LayeredColorMaskTexture, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher$Holder, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher$Slot, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$1, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$2, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$3, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureAtlasSprite, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureAtlasSprite$1, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureManager, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureManager$1, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureUtil, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$2, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$3, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$Entry, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelRotation, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$1, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$2, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$3, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$1, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$2, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$3, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper$1, but received non-empty
-[17:31:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper$FboMode, but received non-empty
-[17:31:43] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[17:31:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:31:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:31:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:31:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:31:44] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[17:31:44] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@31fc71ab
-[17:31:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[17:31:44] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[17:31:44] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[17:31:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[17:31:44] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[17:31:44] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
-[17:31:44] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
-[17:31:44] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer
-[17:31:44] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
-[17:31:44] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.management.PlayerList
-[17:31:44] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
-[17:31:44] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayer
-[17:31:44] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[17:31:47] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
-[17:31:47] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayerMP
-[17:31:48] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
-[17:31:48] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.storage.SaveFormatOld
-[17:31:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[17:31:48] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[17:31:48] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[17:31:49] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[17:31:49] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[17:31:49] [Server thread/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
-[17:31:51] [Server thread/INFO] [FML]: Forge Mod Loader has identified 33 mods to load
-[17:31:51] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[17:31:51] [Server thread/WARN] [FML]: Missing English translation for extendedrenderer: assets/extendedrenderer/lang/en_us.lang
-[17:31:51] [Server thread/WARN] [FML]: Missing English translation for configmod: assets/configmod/lang/en_us.lang
-[17:31:51] [Server thread/WARN] [FML]: Missing English translation for dldungeonsjbg: assets/dldungeonsjbg/lang/en_us.lang
-[17:31:51] [Server thread/WARN] [FML]: Missing English translation for enhancedvisuals: assets/enhancedvisuals/lang/en_us.lang
-[17:31:51] [Server thread/WARN] [FML]: Missing English translation for msic: assets/msic/lang/en_us.lang
-[17:31:51] [Server thread/WARN] [FML]: Missing English translation for roughmobs: assets/roughmobs/lang/en_us.lang
-[17:31:51] [Server thread/WARN] [FML]: Missing English translation for teamlapen-lib: assets/teamlapen-lib/lang/en_us.lang
-[17:31:52] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, xaerominimap_core, xaeroworldmap_core, biomesoplenty, extendedrenderer, coroutil, configmod, creativecore, dldungeonsjbg, dsurround, ebwizardry, enhancedvisuals, waila, infernalmobs, jei, lycanitesmobs, msic, playerrevive, roughmobs, silentlib, toughasnails, teamlapen-lib, vampirism, vampirism_integrations, xaerominimap, xaeroworldmap, xpbook, zombieawareness, orelib] at CLIENT
-[17:31:52] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, xaerominimap_core, xaeroworldmap_core, biomesoplenty, extendedrenderer, coroutil, configmod, creativecore, dldungeonsjbg, dsurround, ebwizardry, enhancedvisuals, waila, infernalmobs, jei, lycanitesmobs, msic, playerrevive, roughmobs, silentlib, toughasnails, teamlapen-lib, vampirism, vampirism_integrations, xaerominimap, xaeroworldmap, xpbook, zombieawareness, orelib] at SERVER
-[17:31:53] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[17:31:53] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
-[17:31:54] [Server thread/INFO] [FML]: Found 1898 ObjectHolder annotations
-[17:31:54] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[17:31:54] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[17:31:54] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
-[17:31:54] [Server thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.chunk.Chunk
-[17:31:54] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[17:31:54] [Forge Version Check/INFO] [forge.VersionCheck]: [dsurround] Starting version check at https://raw.githubusercontent.com/OreCruncher/DynamicSurroundings/master/version.json
-[17:31:54] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[17:31:54] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[17:31:54] [Forge Version Check/INFO] [forge.VersionCheck]: [ebwizardry] Starting version check at https://github.com/Electroblob77/Wizardry/blob/1.12.2/.forge/update.json
-[17:31:55] [Forge Version Check/INFO] [forge.VersionCheck]: [vampirism] Starting version check at https://maxanier.de/projects/vampirism/versions.json
-[17:31:55] [Forge Version Check/INFO] [forge.VersionCheck]: [vampirism] Found status: UP_TO_DATE Target: null
-[17:31:55] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Starting version check at https://raw.githubusercontent.com/OreCruncher/OreLib/master/version.json
-[17:31:55] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Found status: UP_TO_DATE Target: null
-[17:31:55] [Forge Version Check/INFO] [forge.VersionCheck]: [vampirism_integrations] Starting version check at http://maxanier.de/projects/vampirism/versions_integrations.json
-[17:31:55] [Forge Version Check/INFO] [forge.VersionCheck]: [vampirism_integrations] Found status: OUTDATED Target: 1.3.0
-[17:31:56] [Server thread/INFO] [DLDUNGEONS]: Doomlike Dungeons is in preInit, should now load config.
-[17:31:56] [Server thread/INFO] [DLDUNGEONS]: themesdir is /workspaces/Newiwd/servidor_minecraft/config/DLDungeonsJBG
-[17:31:56] [Server thread/INFO] [DLDUNGEONS]: Frequency Scaling Factor Set To: 8
-[17:31:56] [Server thread/INFO] [DLDUNGEONS]: Minimum X Factor Set To: 16
-[17:31:56] [Server thread/INFO] [DLDUNGEONS]: Difficulty set to: Normal difficulty.
-[17:31:56] [Server thread/INFO] [DLDUNGEONS]: Will spawn dungeons in with world generation? true
-[17:31:56] [Server thread/INFO] [DLDUNGEONS]: Will spawn dungeons even with structures disabled? false
-[17:31:56] [Server thread/INFO] [DLDUNGEONS]: Will export item, block, and mob lists? false
-[17:31:56] [Server thread/INFO] [DLDUNGEONS]: Will announce use of OP/cheat commands? true
-[17:31:56] [Server thread/INFO] [DLDUNGEONS]: Will dungeons be easy to find? true
-[17:31:56] [Server thread/INFO] [DLDUNGEONS]: Hub room (entrances and boss rooms) will have high ceiling? false
-[17:31:56] [Server thread/INFO] [DLDUNGEONS]: All dungeon will be huge? false
-[17:31:56] [Server thread/INFO] [DLDUNGEONS]: Will dungeon all have single entrances? true
-[17:31:56] [Server thread/INFO] [DLDUNGEONS]: Will themes be automatically install if themes folder is empty? true
-[17:31:56] [Server thread/INFO] [DLDUNGEONS]: Can themes be (re)installed by command? true
-[17:31:56] [Server thread/INFO] [DLDUNGEONS]: adding END to excusion list
-[17:31:56] [Server thread/INFO] [DLDUNGEONS]: Will use API? true
-[17:31:56] [Server thread/INFO] [DLDUNGEONS]: Will allow API base mob change? true
-[17:31:56] [Server thread/INFO] [DLDUNGEONS]: Will self-profile? false
-[17:31:56] [Server thread/INFO] [DLDUNGEONS]: themesdir will be set to /workspaces/Newiwd/servidor_minecraft/config/DLDungeonsJBG/themes/
-[17:31:56] [Server thread/INFO] [DLDUNGEONS]: themesdir File is be set to /workspaces/Newiwd/servidor_minecraft/config/DLDungeonsJBG/themes
-[17:31:56] [Server thread/INFO] [DLDUNGEONS]: themesdir is /workspaces/Newiwd/servidor_minecraft/config/DLDungeonsJBG/themes
-[17:31:56] [Server thread/INFO] [STDOUT]: [jaredbgreat.dldungeons.setup.Externalizer:makeChestCfg:206]: [DLDUNGEONS] Installing files /workspaces/Newiwd/servidor_minecraft/config/DLDungeonsJBG/chests.cfg
-[17:31:56] [Server thread/INFO] [DLDUNGEONS]: Config should now be loaded.
-[17:31:56] [Server thread/INFO] [orelib]: Loading language resources [orelib:en_us]
-[17:31:56] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$profiles::PATH]
-[17:31:56] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands::PATH]
-[17:31:56] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$calc::PATH]
-[17:31:56] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$ds::PATH]
-[17:31:56] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$speechbubbles::PATH]
-[17:31:56] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$player::PATH]
-[17:31:56] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$sound::PATH]
-[17:31:56] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$effects::PATH]
-[17:31:56] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$biomes::PATH]
-[17:31:56] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$aurora::PATH]
-[17:31:56] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$general::PATH]
-[17:31:56] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$fog::PATH]
-[17:31:56] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$rain::PATH]
-[17:31:56] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$logging::PATH]
-[17:31:56] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$asm::PATH]
-[17:31:56] [Server thread/INFO] [orelib]: Loading language resources [dsurround:en_us]
-[17:31:56] [Server thread/INFO] [ebwizardry]: Setting up main config
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config version created successfully.
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config general created successfully.
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config itemlists created successfully.
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item pale_soup from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_arisaur_meat from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_yale_meat from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_silex_meat from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item explorers_risotto from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_silex_meat from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item searing_taco from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_pinky_meat from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_bobeko_meat from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_pinky_meat from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_ika_meat from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item paleo_salad from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_chupacabra_meat from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item tropical_curry from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_cephignis_meat from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_ika_meat from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item devil_lasagna from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_chupacabra_meat from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item battle_burrito from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_aspid_meat from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_aspid_meat from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item blood_chili from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item bulwark_burger from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_maka_meat from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item seashell_maki from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item amber_cake from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_arisaur_meat from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_concapede_meat from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item lapis_fish_and_chips from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item caecilian_ramen from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_concapede_meat from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item peaks_kebab from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_krake_meat from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_joust_meat from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_maka_meat from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_krake_meat from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_joust_meat from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_yale_meat from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item moss_pie from JSON...
-[17:31:56] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_bobeko_meat from JSON...
-[17:31:57] [Server thread/INFO] [STDERR]: [com.lycanitesmobs.LycanitesMobs:logWarning:302]: [LycanitesMobs] [WARNING] [] Another fluid was registered as poison
-[17:31:57] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xtile.air@32767 = 6xitem.sugar@0
-[17:31:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.summoningpedestal`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
-[17:31:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipmentforge`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
-[17:31:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipment_infuser`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
-[17:31:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipment_station`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
-[17:31:58] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config spawning created successfully.
-[17:31:58] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.AgeableCreatureEntity
-[17:31:58] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.AgeableCreatureEntity
-[17:31:58] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
-[17:31:58] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
-[17:31:58] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
-[17:31:58] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
-[17:31:59] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 90 JSON Spawners...
-[17:31:59] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 90 JSON Spawners Loaded In Total.
-[17:31:59] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config mobevents created successfully.
-[17:32:00] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config worldgen created successfully.
-[17:32:00] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 8 JSON Dungeon Themes...
-[17:32:00] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 8 JSON Dungeon Themes Loaded In Total.
-[17:32:00] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 1 JSON Dungeon Structures...
-[17:32:00] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 1 JSON Dungeon Structures Loaded In Total.
-[17:32:00] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 14 JSON Dungeon Sectors...
-[17:32:00] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 14 JSON Dungeon Sectors Loaded In Total.
-[17:32:00] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 9 JSON Dungeon Schematics...
-[17:32:00] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 9 JSON Dungeon Schematics Loaded In Total.
-[17:32:00] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `temperature_spread`, expected `toughasnails`. This could be a intended override, but in most cases indicates a broken mod.
-[17:32:00] [Server thread/INFO] [vampirism]: [Configs]Loaded configuration
-[17:32:00] [Server thread/INFO] [vampirism]: [Balance]Loaded balance configuration
-[17:32:01] [Server thread/INFO] [FML]: Applying holder lookups
-[17:32:01] [Server thread/INFO] [FML]: Holder lookups applied
-[17:32:01] [Server thread/INFO] [FML]: Applying holder lookups
-[17:32:01] [Server thread/INFO] [FML]: Holder lookups applied
-[17:32:01] [Server thread/WARN] [vampirism]: [NightVision]-------Please ignore the following error!------
-[17:32:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `night_vision`, expected `vampirism`. This could be a intended override, but in most cases indicates a broken mod.
-[17:32:01] [Server thread/WARN] [vampirism]: [NightVision]-----------------------------------------------
-[17:32:01] [Server thread/INFO] [FML]: Applying holder lookups
-[17:32:01] [Server thread/INFO] [FML]: Holder lookups applied
-[17:32:01] [Server thread/INFO] [FML]: Applying holder lookups
-[17:32:01] [Server thread/INFO] [FML]: Holder lookups applied
-[17:32:01] [Server thread/INFO] [FML]: Applying holder lookups
-[17:32:01] [Server thread/INFO] [FML]: Holder lookups applied
-[17:32:01] [Server thread/INFO] [FML]: Injecting itemstacks
-[17:32:01] [Server thread/INFO] [FML]: Itemstack injection complete
-[17:32:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[17:32:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[17:32:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[17:32:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[17:32:02] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[17:32:02] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:32:02] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[17:32:02] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:32:02] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:32:02] [Server thread/ERROR] [FML]: Parsing error loading recipe lycanitesmobs:belpharm_break
+[18:24:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:24:20] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:24:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:24:20] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[18:24:20] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[18:24:20] [main/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
+[18:24:21] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18:24:21] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:24:21] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[18:24:21] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.2.1.jar
+[18:24:21] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from MyServerIsCompatible-1.12.2-1.0.jar
+[18:24:21] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine-OptiFine-1.12.2_HD_U_G5.jar
+[18:24:21] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_24.2.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18:24:21] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
+[18:24:21] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in XaerosWorldMap_1.38.8_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18:24:21] [main/WARN] [FML]: The coremod XaeroWorldMapPlugin (xaero.map.core.XaeroWorldMapPlugin) is not signed!
+[18:24:21] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:24:21] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[18:24:21] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/Newiwd/servidor_minecraft/./mods/MyServerIsCompatible-1.12.2-1.0.jar Service=LaunchWrapper Env=SERVER
+[18:24:21] [main/WARN] [FML]: The coremod com.focamacho.myserveriscompatible.asm.MSICCoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:24:21] [main/WARN] [FML]: The coremod MSICCoreMod (com.focamacho.myserveriscompatible.asm.MSICCoreMod) is not signed!
+[18:24:21] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[18:24:21] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[18:24:21] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[18:24:21] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:24:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:24:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:24:21] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[18:24:21] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[18:24:21] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[18:24:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings$2, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings$Options, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.LoadingScreenRenderer, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.util.ScreenShotHelper, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.FontRenderer, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiIngame, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiIngame$1, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiOverlayDebug, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiOverlayDebug$1, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiSlot, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiMainMenu, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiVideoSettings, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.TexturedQuad, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.ModelBox, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.ModelRenderer, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$1, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$2, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$3, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$4, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$1, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$2, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$3, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$4, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.entity.AbstractClientPlayer, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$1, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$2, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$State, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$1, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$2, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$3, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$4, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.ItemRenderer, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.ItemRenderer$1, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$1, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$2, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$ContainerLocalRenderInformation, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockFluidRenderer, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$1, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$EnumNeighborInfo, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$AmbientOcclusionFace, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$VertexTranslations, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$Orientation, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.BakedQuad, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.BakedQuadRetextured, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.FaceBakery, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.FaceBakery$5, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ItemOverrideList, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.tileentity.TileEntityRendererDispatcher, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.tileentity.TileEntitySpecialRenderer, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$1, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$2, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$3, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$PendingUpload, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.RenderChunk, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderManager, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderItemFrame, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$1, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$9, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$10, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$2, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$3, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$4, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$5, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$6, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$7, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$8, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderLivingBase, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderLivingBase$1, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.layers.LayerArmorBase, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.LayeredColorMaskTexture, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher$Holder, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher$Slot, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$1, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$2, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$3, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureAtlasSprite, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureAtlasSprite$1, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureManager, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureManager$1, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureUtil, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$2, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$3, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$Entry, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelRotation, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$1, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$2, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$3, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$1, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$2, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$3, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper$1, but received non-empty
+[18:24:23] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper$FboMode, but received non-empty
+[18:24:23] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[18:24:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:24:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:24:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:24:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:24:23] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[18:24:23] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@31fc71ab
+[18:24:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:24:24] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:24:24] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[18:24:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:24:24] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[18:24:24] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[18:24:24] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
+[18:24:24] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer
+[18:24:24] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
+[18:24:24] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.management.PlayerList
+[18:24:24] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
+[18:24:24] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayer
+[18:24:24] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[18:24:26] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
+[18:24:26] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayerMP
+[18:24:28] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
+[18:24:28] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.storage.SaveFormatOld
+[18:24:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[18:24:28] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[18:24:28] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[18:24:29] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[18:24:29] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[18:24:29] [Server thread/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
+[18:24:30] [Server thread/INFO] [FML]: Forge Mod Loader has identified 33 mods to load
+[18:24:30] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[18:24:30] [Server thread/WARN] [FML]: Missing English translation for extendedrenderer: assets/extendedrenderer/lang/en_us.lang
+[18:24:30] [Server thread/WARN] [FML]: Missing English translation for configmod: assets/configmod/lang/en_us.lang
+[18:24:30] [Server thread/WARN] [FML]: Missing English translation for dldungeonsjbg: assets/dldungeonsjbg/lang/en_us.lang
+[18:24:30] [Server thread/WARN] [FML]: Missing English translation for enhancedvisuals: assets/enhancedvisuals/lang/en_us.lang
+[18:24:30] [Server thread/WARN] [FML]: Missing English translation for msic: assets/msic/lang/en_us.lang
+[18:24:30] [Server thread/WARN] [FML]: Missing English translation for roughmobs: assets/roughmobs/lang/en_us.lang
+[18:24:30] [Server thread/WARN] [FML]: Missing English translation for teamlapen-lib: assets/teamlapen-lib/lang/en_us.lang
+[18:24:31] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, xaerominimap_core, xaeroworldmap_core, biomesoplenty, extendedrenderer, coroutil, configmod, creativecore, dldungeonsjbg, dsurround, ebwizardry, enhancedvisuals, waila, infernalmobs, jei, lycanitesmobs, msic, playerrevive, roughmobs, silentlib, toughasnails, teamlapen-lib, vampirism, vampirism_integrations, xaerominimap, xaeroworldmap, xpbook, zombieawareness, orelib] at CLIENT
+[18:24:31] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, xaerominimap_core, xaeroworldmap_core, biomesoplenty, extendedrenderer, coroutil, configmod, creativecore, dldungeonsjbg, dsurround, ebwizardry, enhancedvisuals, waila, infernalmobs, jei, lycanitesmobs, msic, playerrevive, roughmobs, silentlib, toughasnails, teamlapen-lib, vampirism, vampirism_integrations, xaerominimap, xaeroworldmap, xpbook, zombieawareness, orelib] at SERVER
+[18:24:32] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[18:24:32] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[18:24:33] [Server thread/INFO] [FML]: Found 1898 ObjectHolder annotations
+[18:24:33] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[18:24:33] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[18:24:33] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
+[18:24:33] [Server thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.chunk.Chunk
+[18:24:33] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[18:24:33] [Forge Version Check/INFO] [forge.VersionCheck]: [dsurround] Starting version check at https://raw.githubusercontent.com/OreCruncher/DynamicSurroundings/master/version.json
+[18:24:33] [Forge Version Check/INFO] [forge.VersionCheck]: [vampirism_integrations] Starting version check at http://maxanier.de/projects/vampirism/versions_integrations.json
+[18:24:34] [Forge Version Check/INFO] [forge.VersionCheck]: [vampirism_integrations] Found status: OUTDATED Target: 1.3.0
+[18:24:34] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Starting version check at https://raw.githubusercontent.com/OreCruncher/OreLib/master/version.json
+[18:24:34] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Found status: UP_TO_DATE Target: null
+[18:24:34] [Forge Version Check/INFO] [forge.VersionCheck]: [ebwizardry] Starting version check at https://github.com/Electroblob77/Wizardry/blob/1.12.2/.forge/update.json
+[18:24:34] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[18:24:35] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[18:24:35] [Forge Version Check/INFO] [forge.VersionCheck]: [vampirism] Starting version check at https://maxanier.de/projects/vampirism/versions.json
+[18:24:35] [Server thread/INFO] [DLDUNGEONS]: Doomlike Dungeons is in preInit, should now load config.
+[18:24:35] [Server thread/INFO] [DLDUNGEONS]: themesdir is /workspaces/Newiwd/servidor_minecraft/config/DLDungeonsJBG
+[18:24:35] [Server thread/INFO] [DLDUNGEONS]: Frequency Scaling Factor Set To: 8
+[18:24:35] [Server thread/INFO] [DLDUNGEONS]: Minimum X Factor Set To: 16
+[18:24:35] [Server thread/INFO] [DLDUNGEONS]: Difficulty set to: Normal difficulty.
+[18:24:35] [Server thread/INFO] [DLDUNGEONS]: Will spawn dungeons in with world generation? true
+[18:24:35] [Server thread/INFO] [DLDUNGEONS]: Will spawn dungeons even with structures disabled? false
+[18:24:35] [Server thread/INFO] [DLDUNGEONS]: Will export item, block, and mob lists? false
+[18:24:35] [Server thread/INFO] [DLDUNGEONS]: Will announce use of OP/cheat commands? true
+[18:24:35] [Server thread/INFO] [DLDUNGEONS]: Will dungeons be easy to find? true
+[18:24:35] [Server thread/INFO] [DLDUNGEONS]: Hub room (entrances and boss rooms) will have high ceiling? false
+[18:24:35] [Server thread/INFO] [DLDUNGEONS]: All dungeon will be huge? false
+[18:24:35] [Server thread/INFO] [DLDUNGEONS]: Will dungeon all have single entrances? true
+[18:24:35] [Server thread/INFO] [DLDUNGEONS]: Will themes be automatically install if themes folder is empty? true
+[18:24:35] [Server thread/INFO] [DLDUNGEONS]: Can themes be (re)installed by command? true
+[18:24:35] [Server thread/INFO] [DLDUNGEONS]: adding END to excusion list
+[18:24:35] [Server thread/INFO] [DLDUNGEONS]: Will use API? true
+[18:24:35] [Server thread/INFO] [DLDUNGEONS]: Will allow API base mob change? true
+[18:24:35] [Server thread/INFO] [DLDUNGEONS]: Will self-profile? false
+[18:24:35] [Forge Version Check/INFO] [forge.VersionCheck]: [vampirism] Found status: UP_TO_DATE Target: null
+[18:24:35] [Server thread/INFO] [DLDUNGEONS]: themesdir will be set to /workspaces/Newiwd/servidor_minecraft/config/DLDungeonsJBG/themes/
+[18:24:35] [Server thread/INFO] [DLDUNGEONS]: themesdir File is be set to /workspaces/Newiwd/servidor_minecraft/config/DLDungeonsJBG/themes
+[18:24:35] [Server thread/INFO] [DLDUNGEONS]: themesdir is /workspaces/Newiwd/servidor_minecraft/config/DLDungeonsJBG/themes
+[18:24:35] [Server thread/INFO] [STDOUT]: [jaredbgreat.dldungeons.setup.Externalizer:makeChestCfg:206]: [DLDUNGEONS] Installing files /workspaces/Newiwd/servidor_minecraft/config/DLDungeonsJBG/chests.cfg
+[18:24:35] [Server thread/INFO] [DLDUNGEONS]: Config should now be loaded.
+[18:24:35] [Server thread/INFO] [orelib]: Loading language resources [orelib:en_us]
+[18:24:35] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$profiles::PATH]
+[18:24:35] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands::PATH]
+[18:24:35] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$calc::PATH]
+[18:24:35] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$ds::PATH]
+[18:24:35] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$speechbubbles::PATH]
+[18:24:35] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$player::PATH]
+[18:24:35] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$sound::PATH]
+[18:24:35] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$effects::PATH]
+[18:24:35] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$biomes::PATH]
+[18:24:35] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$aurora::PATH]
+[18:24:35] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$general::PATH]
+[18:24:35] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$fog::PATH]
+[18:24:35] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$rain::PATH]
+[18:24:35] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$logging::PATH]
+[18:24:35] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$asm::PATH]
+[18:24:35] [Server thread/INFO] [orelib]: Loading language resources [dsurround:en_us]
+[18:24:35] [Server thread/INFO] [ebwizardry]: Setting up main config
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config version created successfully.
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config general created successfully.
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config itemlists created successfully.
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item pale_soup from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_arisaur_meat from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_yale_meat from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_silex_meat from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item explorers_risotto from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_silex_meat from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item searing_taco from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_pinky_meat from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_bobeko_meat from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_pinky_meat from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_ika_meat from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item paleo_salad from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_chupacabra_meat from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item tropical_curry from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_cephignis_meat from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_ika_meat from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item devil_lasagna from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_chupacabra_meat from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item battle_burrito from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_aspid_meat from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_aspid_meat from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item blood_chili from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item bulwark_burger from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_maka_meat from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item seashell_maki from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item amber_cake from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_arisaur_meat from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_concapede_meat from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item lapis_fish_and_chips from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item caecilian_ramen from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_concapede_meat from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item peaks_kebab from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_krake_meat from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_joust_meat from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_maka_meat from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_krake_meat from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_joust_meat from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_yale_meat from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item moss_pie from JSON...
+[18:24:36] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_bobeko_meat from JSON...
+[18:24:36] [Server thread/INFO] [STDERR]: [com.lycanitesmobs.LycanitesMobs:logWarning:302]: [LycanitesMobs] [WARNING] [] Another fluid was registered as poison
+[18:24:36] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xtile.air@32767 = 6xitem.sugar@0
+[18:24:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.summoningpedestal`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
+[18:24:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipmentforge`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
+[18:24:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipment_infuser`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
+[18:24:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipment_station`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
+[18:24:38] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config spawning created successfully.
+[18:24:38] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.AgeableCreatureEntity
+[18:24:38] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.AgeableCreatureEntity
+[18:24:38] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
+[18:24:38] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
+[18:24:38] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
+[18:24:38] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
+[18:24:38] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 90 JSON Spawners...
+[18:24:39] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 90 JSON Spawners Loaded In Total.
+[18:24:40] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config mobevents created successfully.
+[18:24:40] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config worldgen created successfully.
+[18:24:40] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 8 JSON Dungeon Themes...
+[18:24:40] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 8 JSON Dungeon Themes Loaded In Total.
+[18:24:40] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 1 JSON Dungeon Structures...
+[18:24:40] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 1 JSON Dungeon Structures Loaded In Total.
+[18:24:40] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 14 JSON Dungeon Sectors...
+[18:24:40] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 14 JSON Dungeon Sectors Loaded In Total.
+[18:24:40] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 9 JSON Dungeon Schematics...
+[18:24:40] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 9 JSON Dungeon Schematics Loaded In Total.
+[18:24:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `temperature_spread`, expected `toughasnails`. This could be a intended override, but in most cases indicates a broken mod.
+[18:24:40] [Server thread/INFO] [vampirism]: [Configs]Loaded configuration
+[18:24:40] [Server thread/INFO] [vampirism]: [Balance]Loaded balance configuration
+[18:24:41] [Server thread/INFO] [FML]: Applying holder lookups
+[18:24:41] [Server thread/INFO] [FML]: Holder lookups applied
+[18:24:41] [Server thread/INFO] [FML]: Applying holder lookups
+[18:24:41] [Server thread/INFO] [FML]: Holder lookups applied
+[18:24:41] [Server thread/WARN] [vampirism]: [NightVision]-------Please ignore the following error!------
+[18:24:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `night_vision`, expected `vampirism`. This could be a intended override, but in most cases indicates a broken mod.
+[18:24:41] [Server thread/WARN] [vampirism]: [NightVision]-----------------------------------------------
+[18:24:41] [Server thread/INFO] [FML]: Applying holder lookups
+[18:24:41] [Server thread/INFO] [FML]: Holder lookups applied
+[18:24:41] [Server thread/INFO] [FML]: Applying holder lookups
+[18:24:41] [Server thread/INFO] [FML]: Holder lookups applied
+[18:24:41] [Server thread/INFO] [FML]: Applying holder lookups
+[18:24:41] [Server thread/INFO] [FML]: Holder lookups applied
+[18:24:41] [Server thread/INFO] [FML]: Injecting itemstacks
+[18:24:41] [Server thread/INFO] [FML]: Itemstack injection complete
+[18:24:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[18:24:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[18:24:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[18:24:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[18:24:41] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[18:24:41] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:24:41] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[18:24:41] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:24:41] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:24:42] [Server thread/ERROR] [FML]: Parsing error loading recipe lycanitesmobs:belpharm_break
 com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -350,404 +350,161 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[17:32:02] [Server thread/INFO] [FML]: Applying holder lookups
-[17:32:02] [Server thread/INFO] [FML]: Holder lookups applied
-[17:32:02] [Server thread/INFO] [ebwizardry]: Setting up spells config for 188 spells
-[17:32:02] [Server thread/INFO] [ebwizardry]: Setting up artefacts config
-[17:32:02] [Server thread/INFO] [ebwizardry]: Setting up resistances config
-[17:32:02] [Server thread/INFO] [ebwizardry]: Loading spell properties from config folder
-[17:32:02] [Server thread/INFO] [ebwizardry]: Loading built-in spell properties for 189 spells in mod ebwizardry
-[17:32:02] [Server thread/INFO] [infernalmobs]: InfernalMobsCore load() completed! Modifiers ready: 27, config file at: /workspaces/Newiwd/servidor_minecraft/config/infernalmobs.cfg
-[17:32:02] [Thread-4/INFO] [teamlapen-lib]: [VersionChecker]Starting version check at https://maxanier.de/projects/vampirism/versions.php
-[17:32:02] [Thread-5/INFO] [teamlapen-lib]: [VersionChecker]Starting version check at http://maxanier.de/projects/vampirism/versions_integrations.json
-[17:32:02] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[17:32:02] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 1/2 (Server)
-[17:32:02] [Server thread/INFO] [FML]: Injecting itemstacks
-[17:32:02] [Server thread/INFO] [FML]: Itemstack injection complete
-[17:32:02] [Server thread/INFO] [DLDUNGEONS]: Loading custom NBT tags (nbt.cfg)
-[17:32:02] [Server thread/INFO] [DLDUNGEONS]: Loading chest loot file (chests.cfg)
-[17:32:02] [Server thread/INFO] [DLDUNGEONS]: Found 1 special chest configs.
-[17:32:02] [Server thread/INFO] [DLDUNGEONS]: Loading chest loot file (oceanic_chests.cfg)
-[17:32:02] [Server thread/INFO] [DLDUNGEONS]: Found 6 block family configs.
-[17:32:02] [Server thread/INFO] [DLDUNGEONS]: Found 12 themes.
-[17:32:03] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityVillager with blood 15 and handler de.teamlapen.vampirism.entity.converted.EntityConvertedVillager$ConvertingHandler@34c8f1b8
-[17:32:03] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityHorse with blood 13 and handler de.teamlapen.vampirism.entity.converted.EntityConvertedHorse$ConvertingHandler@397f0b00
-[17:32:03] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntitySheep with blood 5 and handler de.teamlapen.vampirism.entity.converted.EntityConvertedSheep$ConvertingHandler@53f584de
-[17:32:03] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityCow with blood 10 and handler null
-[17:32:03] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityPig with blood 5 and handler null
-[17:32:03] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityLlama with blood 8 and handler null
-[17:32:03] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityRabbit with blood 2 and handler null
-[17:32:03] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityOcelot with blood 5 and handler null
-[17:32:03] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.monster.EntityPolarBear with blood 10 and handler null
-[17:32:03] [Server thread/INFO] [vampirism]: [Potion]Fixing vanilla night vision potion types
-[17:32:03] [Server thread/INFO] [vampirism_integrations]: [ToughAsNails]Substituting Hyperthermia potion
-[17:32:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `toughasnails` for name `hyperthermia`, expected `vampirism_integrations`. This could be a intended override, but in most cases indicates a broken mod.
-[17:32:03] [Server thread/INFO] [vampirism_integrations]: [ToughAsNails]Substituting Hypothermia potion
-[17:32:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `toughasnails` for name `hypothermia`, expected `vampirism_integrations`. This could be a intended override, but in most cases indicates a broken mod.
-[17:32:03] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[17:32:03] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 2/2 (Server)
-[17:32:03] [Server thread/INFO] [dsurround]: Initializing registry [Dimension Registry]
-[17:32:03] [Server thread/INFO] [Waila]: Starting Waila...
-[17:32:03] [Server thread/INFO] [Waila]: Gathering annotated plugins...
-[17:32:03] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
-[17:32:03] [Server thread/INFO] [Waila]: Registering plugins...
-[17:32:03] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
-[17:32:03] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[17:32:03] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
-[17:32:03] [Server thread/INFO] [Waila]: Registering plugin at de.teamlapen.vampirism_integrations.waila.WailaHandler
-[17:32:03] [Server thread/ERROR] [Waila]: Error registering wrapped plugin from vampirism_integrations at de.teamlapen.vampirism_integrations.waila.WailaHandler.onRegister
-[17:32:03] [Server thread/INFO] [Waila]: Starting Waila took 35.96 ms
-[17:32:03] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 33 mods
-[17:32:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[17:32:03] [Server thread/ERROR] [FML.ModTracker]: This world was saved with mod epicsiegemod which appears to be missing, things may not work well
-[17:32:03] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[17:32:03] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world scalinghealth:crystalore
-[17:32:03] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world simpledifficulty:purifiedwater
-[17:32:03] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world simpledifficulty:heater
-[17:32:03] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world simpledifficulty:chiller
-[17:32:03] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world simpledifficulty:rain_collector
-[17:32:03] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world simpledifficulty:spit
-[17:32:03] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world simpledifficulty:campfire
-[17:32:04] [Server thread/INFO] [FML]: Applying holder lookups
-[17:32:04] [Server thread/INFO] [FML]: Holder lookups applied
-[17:32:04] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@21040d12)
-[17:32:04] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table minecraft:structure/house1
-[17:32:04] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 760 advancements
-[17:32:04] [Server thread/INFO] [ebwizardry]: Loading custom spell properties for world world
-[17:32:04] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [overworld]
-[17:32:04] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@21040d12)
-[17:32:04] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
-[17:32:04] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
-[17:32:05] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@21040d12)
-[17:32:05] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
-[17:32:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[17:32:05] [Server thread/INFO] [coroutil]: CoroUtil detected Infernal Mobs Installed for use
-[17:32:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 22%
-[17:32:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.404s)! For help, type "help" or "?"
-[17:32:07] [Server thread/INFO] [coroutil]: CoroUtil being reinitialized
-[17:32:07] [Server thread/INFO] [FML]: Unloading dimension 1
-[17:32:07] [Server thread/INFO] [FML]: Unloading dimension -1
-[17:34:08] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[17:34:08] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 34 mods : minecraft@1.12.2,extendedrenderer@v1.0,dldungeonsjbg@1.14.12,biomesoplenty@7.0.1.2445,silentlib@3.0.13,vampirism_integrations@vampirism_integrations,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,ebwizardry@4.3.14,jei@4.16.1.1012,lycanitesmobs@2.0.8.9 - MC 1.12.2,xaerominimap@24.2.0,mcp@9.42,enhancedvisuals@1.3.0,xaeroworldmap@1.38.8,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,FML@8.0.99.99,coroutil@1.12.1-1.2.37,roughmobs@2.0.0,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,msic@1.0,teamlapen-lib@1.6.2,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,orelib@3.6.0.1,dsurround@3.6.2.1,infernalmobs@1.7.6,xpbook@v1.1.6
-[17:34:09] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[17:34:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KevinCrax[/127.7.215.76:40465] logged in with entity id 432 at (-248.52803709482072, 77.0, 216.6248718417176)
-[17:34:09] [Server thread/INFO] [dsurround]: Player [KevinCrax] connected with Dynamic Surroundings 3.6.2.1
-[17:34:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax joined the game
-[17:34:09] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KevinCrax
-[17:34:09] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for KevinCrax
-[17:34:09] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for KevinCrax
-[17:34:09] [Server thread/INFO] [ebwizardry]: Synchronising config settings for KevinCrax
-[17:34:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[17:34:09] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KevinCrax'/432, l='world', x=-248.53, y=77.00, z=216.62] connected. Sending ping
-[17:34:10] [Thread-9/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 59c9e25f-7c7f-386b-aa38-a9952379eda5.
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.obsidian]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.woodSlab.oak]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.doorOak]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.stonebrick]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.stoneMoss]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.stonebrick]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.log.birch]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.raw_krake_meat]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.log.birch]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.stonebrick]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.stonebrick]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.stonebrick]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.stonebrick]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.stonebrick]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.rottenFlesh]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.log.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.bone]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.arrow]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.string]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.arrow]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sand.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.apple]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.bone]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.doublePlant.paeonia]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.rottenFlesh]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.flower1.dandelion]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.apple]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.log.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.log.birch]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.log.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.arrow]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.bone]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.seeds]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.ebwizardry:crystal_magic]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.seeds]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.string]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.log.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.arrow]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.birch]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.string]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.apple]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.sapling.oak]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.porkchopRaw]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.porkchopRaw]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.rottenFlesh]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.rottenFlesh]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.log.birch]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.dirt.default]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.seeds]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.cloth.white]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.muttonRaw]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.cloth.black]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.muttonRaw]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.beefRaw]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.egg]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.doublePlant.rose]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.egg]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.egg]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.egg]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.egg]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.egg]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.torch]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.torch]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.torch]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.torch]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.egg]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.egg]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.rail]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.rail]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.string]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.torch]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.torch]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.rail]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.rail]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.torch]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.rail]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.torch]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.cloth.black]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.muttonRaw]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.torch]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.rail]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.rail]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.egg]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.egg]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.rail]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.rail]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.rail]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.rail]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.item.egg]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.torch]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.torch]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.torch]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.rail]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.rail]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.rail]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.rail]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.rail]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed item.tile.gravel]
-[17:35:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax is bleeding...
-[17:36:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> f
-[17:36:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax burned to death
-[17:36:42] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KevinCrax
-[17:36:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Set own game mode to Creative Mode]
-[17:37:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Set own game mode to Survival Mode]
-[17:37:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[17:37:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[17:37:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax has made the advancement [Into Fire]
-[17:37:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[17:42:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[17:42:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[17:42:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[17:42:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[17:42:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[17:42:41] [Server thread/INFO] [FML]: Unloading dimension 0
-[17:42:41] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[17:42:41] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[17:42:41] [Server Shutdown Thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KevinCrax lost connection: Server closed
+[18:24:42] [Server thread/INFO] [FML]: Applying holder lookups
+[18:24:42] [Server thread/INFO] [FML]: Holder lookups applied
+[18:24:42] [Server thread/INFO] [ebwizardry]: Setting up spells config for 188 spells
+[18:24:42] [Server thread/INFO] [ebwizardry]: Setting up artefacts config
+[18:24:42] [Server thread/INFO] [ebwizardry]: Setting up resistances config
+[18:24:42] [Server thread/INFO] [ebwizardry]: Loading spell properties from config folder
+[18:24:42] [Server thread/INFO] [ebwizardry]: Loading built-in spell properties for 189 spells in mod ebwizardry
+[18:24:42] [Server thread/INFO] [infernalmobs]: InfernalMobsCore load() completed! Modifiers ready: 27, config file at: /workspaces/Newiwd/servidor_minecraft/config/infernalmobs.cfg
+[18:24:42] [Thread-4/INFO] [teamlapen-lib]: [VersionChecker]Starting version check at https://maxanier.de/projects/vampirism/versions.php
+[18:24:42] [Thread-5/INFO] [teamlapen-lib]: [VersionChecker]Starting version check at http://maxanier.de/projects/vampirism/versions_integrations.json
+[18:24:42] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[18:24:42] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 1/2 (Server)
+[18:24:42] [Server thread/INFO] [FML]: Injecting itemstacks
+[18:24:42] [Server thread/INFO] [FML]: Itemstack injection complete
+[18:24:42] [Server thread/INFO] [DLDUNGEONS]: Loading custom NBT tags (nbt.cfg)
+[18:24:42] [Server thread/INFO] [DLDUNGEONS]: Loading chest loot file (chests.cfg)
+[18:24:42] [Server thread/INFO] [DLDUNGEONS]: Found 1 special chest configs.
+[18:24:42] [Server thread/INFO] [DLDUNGEONS]: Loading chest loot file (oceanic_chests.cfg)
+[18:24:42] [Server thread/INFO] [DLDUNGEONS]: Found 6 block family configs.
+[18:24:42] [Server thread/INFO] [DLDUNGEONS]: Found 12 themes.
+[18:24:42] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityVillager with blood 15 and handler de.teamlapen.vampirism.entity.converted.EntityConvertedVillager$ConvertingHandler@10f8222d
+[18:24:42] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityHorse with blood 13 and handler de.teamlapen.vampirism.entity.converted.EntityConvertedHorse$ConvertingHandler@172c2af7
+[18:24:42] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntitySheep with blood 5 and handler de.teamlapen.vampirism.entity.converted.EntityConvertedSheep$ConvertingHandler@4e1d38b2
+[18:24:42] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityCow with blood 10 and handler null
+[18:24:42] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityPig with blood 5 and handler null
+[18:24:42] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityLlama with blood 8 and handler null
+[18:24:42] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityRabbit with blood 2 and handler null
+[18:24:42] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityOcelot with blood 5 and handler null
+[18:24:42] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.monster.EntityPolarBear with blood 10 and handler null
+[18:24:42] [Server thread/INFO] [vampirism]: [Potion]Fixing vanilla night vision potion types
+[18:24:42] [Server thread/INFO] [vampirism_integrations]: [ToughAsNails]Substituting Hyperthermia potion
+[18:24:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `toughasnails` for name `hyperthermia`, expected `vampirism_integrations`. This could be a intended override, but in most cases indicates a broken mod.
+[18:24:42] [Server thread/INFO] [vampirism_integrations]: [ToughAsNails]Substituting Hypothermia potion
+[18:24:42] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `toughasnails` for name `hypothermia`, expected `vampirism_integrations`. This could be a intended override, but in most cases indicates a broken mod.
+[18:24:42] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[18:24:42] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 2/2 (Server)
+[18:24:42] [Server thread/INFO] [dsurround]: Initializing registry [Dimension Registry]
+[18:24:43] [Server thread/INFO] [Waila]: Starting Waila...
+[18:24:43] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[18:24:43] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[18:24:43] [Server thread/INFO] [Waila]: Registering plugins...
+[18:24:43] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[18:24:43] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[18:24:43] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[18:24:43] [Server thread/INFO] [Waila]: Registering plugin at de.teamlapen.vampirism_integrations.waila.WailaHandler
+[18:24:43] [Server thread/ERROR] [Waila]: Error registering wrapped plugin from vampirism_integrations at de.teamlapen.vampirism_integrations.waila.WailaHandler.onRegister
+[18:24:43] [Server thread/INFO] [Waila]: Starting Waila took 61.68 ms
+[18:24:43] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 33 mods
+[18:24:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[18:24:43] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[18:24:43] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world scalinghealth:crystalore
+[18:24:43] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world simpledifficulty:purifiedwater
+[18:24:43] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world simpledifficulty:heater
+[18:24:43] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world simpledifficulty:chiller
+[18:24:43] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world simpledifficulty:rain_collector
+[18:24:43] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world simpledifficulty:spit
+[18:24:43] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world simpledifficulty:campfire
+[18:24:44] [Server thread/INFO] [FML]: Applying holder lookups
+[18:24:44] [Server thread/INFO] [FML]: Holder lookups applied
+[18:24:44] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@3b29b8c1)
+[18:24:44] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table minecraft:structure/house1
+[18:24:44] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 760 advancements
+[18:24:44] [Server thread/INFO] [ebwizardry]: Loading custom spell properties for world world
+[18:24:44] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [overworld]
+[18:24:45] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@3b29b8c1)
+[18:24:45] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
+[18:24:45] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[18:24:45] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@3b29b8c1)
+[18:24:45] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[18:24:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[18:24:45] [Server thread/INFO] [coroutil]: CoroUtil detected Infernal Mobs Installed for use
+[18:24:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 5%
+[18:24:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 59%
+[18:24:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (4.308s)! For help, type "help" or "?"
+[18:24:47] [Server thread/INFO] [coroutil]: CoroUtil being reinitialized
+[18:24:48] [Server thread/INFO] [FML]: Unloading dimension 1
+[18:24:48] [Server thread/INFO] [FML]: Unloading dimension -1
+[18:25:57] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[18:25:57] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 34 mods : minecraft@1.12.2,extendedrenderer@v1.0,dldungeonsjbg@1.14.12,biomesoplenty@7.0.1.2445,silentlib@3.0.13,vampirism_integrations@vampirism_integrations,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,ebwizardry@4.3.14,jei@4.16.1.1012,lycanitesmobs@2.0.8.9 - MC 1.12.2,xaerominimap@24.2.0,mcp@9.42,enhancedvisuals@1.3.0,xaeroworldmap@1.38.8,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,FML@8.0.99.99,coroutil@1.12.1-1.2.37,roughmobs@2.0.0,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,msic@1.0,teamlapen-lib@1.6.2,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,orelib@3.6.0.1,dsurround@3.6.2.1,infernalmobs@1.7.6,xpbook@v1.1.6
+[18:25:58] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:25:58] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KevinCrax[/127.7.215.76:52419] logged in with entity id 286 at (-246.764937764654, 82.0, 217.14690228892923)
+[18:25:58] [Server thread/INFO] [dsurround]: Player [KevinCrax] connected with Dynamic Surroundings 3.6.2.1
+[18:25:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax joined the game
+[18:25:58] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KevinCrax
+[18:25:58] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for KevinCrax
+[18:25:58] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for KevinCrax
+[18:25:58] [Server thread/INFO] [ebwizardry]: Synchronising config settings for KevinCrax
+[18:25:58] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
+[18:25:58] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KevinCrax'/286, l='world', x=-246.76, y=82.00, z=217.15] connected. Sending ping
+[18:25:58] [Thread-9/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 59c9e25f-7c7f-386b-aa38-a9952379eda5.
+[18:26:30] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[18:26:30] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 34 mods : minecraft@1.12.2,extendedrenderer@v1.0,dldungeonsjbg@1.14.12,biomesoplenty@7.0.1.2445,silentlib@3.0.13,vampirism_integrations@vampirism_integrations,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,ebwizardry@4.3.14,jei@4.16.1.1012,lycanitesmobs@2.0.8.9 - MC 1.12.2,xaerominimap@24.2.0,mcp@9.42,enhancedvisuals@1.3.0,xaeroworldmap@1.38.8,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,FML@8.0.99.99,coroutil@1.12.1-1.2.37,roughmobs@2.0.0,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,msic@1.0,teamlapen-lib@1.6.2,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,orelib@3.6.0.1,dsurround@3.6.2.1,infernalmobs@1.7.6,xpbook@v1.1.6
+[18:26:31] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:26:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lea_Matt[/127.219.176.237:35411] logged in with entity id 843 at (-249.69999998807907, 77.5, 218.69999998807907)
+[18:26:31] [Server thread/INFO] [dsurround]: Player [Lea_Matt] connected with Dynamic Surroundings 3.6.2.1
+[18:26:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt joined the game
+[18:26:31] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
+[18:26:31] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for Lea_Matt
+[18:26:31] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Lea_Matt
+[18:26:31] [Server thread/INFO] [ebwizardry]: Synchronising config settings for Lea_Matt
+[18:26:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[18:26:31] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Lea_Matt'/843, l='world', x=-249.70, y=77.50, z=218.70] connected. Sending ping
+[18:26:31] [Thread-11/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for ece0ef0f-b99a-37a6-8c95-cbfbe03b5272.
+[18:26:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> e
+[18:27:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ola
+[18:27:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lea_Matt lost connection: Disconnected
+[18:27:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt left the game
+[18:27:14] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[18:27:14] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 34 mods : minecraft@1.12.2,extendedrenderer@v1.0,dldungeonsjbg@1.14.12,biomesoplenty@7.0.1.2445,silentlib@3.0.13,vampirism_integrations@vampirism_integrations,creativecoredummy@1.0.0,creativecore@1.10.0,configmod@v1.0,ebwizardry@4.3.14,jei@4.16.1.1012,lycanitesmobs@2.0.8.9 - MC 1.12.2,xaerominimap@24.2.0,mcp@9.42,enhancedvisuals@1.3.0,xaeroworldmap@1.38.8,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,FML@8.0.99.99,coroutil@1.12.1-1.2.37,roughmobs@2.0.0,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,msic@1.0,teamlapen-lib@1.6.2,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,orelib@3.6.0.1,dsurround@3.6.2.1,infernalmobs@1.7.6,xpbook@v1.1.6
+[18:27:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:27:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lea_Matt[/127.219.176.237:46839] logged in with entity id 1968 at (-249.69999998807907, 77.5, 218.69999998807907)
+[18:27:15] [Server thread/INFO] [dsurround]: Player [Lea_Matt] connected with Dynamic Surroundings 3.6.2.1
+[18:27:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt joined the game
+[18:27:15] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
+[18:27:15] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for Lea_Matt
+[18:27:15] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Lea_Matt
+[18:27:15] [Server thread/INFO] [ebwizardry]: Synchronising config settings for Lea_Matt
+[18:27:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[18:27:15] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Lea_Matt'/1968, l='world', x=-249.70, y=77.50, z=218.70] connected. Sending ping
+[18:27:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Lea ?
+[18:27:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Estas parada por cierto
+[18:27:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Relax
+[18:27:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Vees como que un vacio ?
+[18:28:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Esperate a que carge
+[18:28:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Teleported Lea_Matt to KevinCrax]
+[18:28:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Set own game mode to Creative Mode]
+[18:28:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Set own game mode to Survival Mode]
+[18:29:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt is bleeding...
+[18:29:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed Lea_Matt]
+[18:29:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ahora ?
+[18:30:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> tggfjsatGR
+[18:30:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> estoy escribiendo?
+[18:30:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Si
+[18:30:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Te veo escribir
+[18:31:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt is bleeding...
+[18:31:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed Lea_Matt]
+[18:31:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed Lea_Matt]
+[18:32:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt fell out of the world
+[18:32:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Teleported Lea_Matt to KevinCrax]
+[18:32:30] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
+[18:32:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> ahora veo
+[18:32:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> yay
+[18:32:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> ya veo!!!
+[18:32:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Teleported Lea_Matt to KevinCrax]
+[18:32:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
+[18:32:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no estoy ciega!
+[18:32:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Te cure la ceguera
+[18:32:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> JKASKJJKSA
+[18:33:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> dios
+[18:33:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> que paso aca?
+[18:33:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> El epic siegue mod pasó
+[18:33:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ya lo quite igual jkasasjkjak
+[18:33:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> por ahi se puede jugar con ese mod
+[18:33:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Yo si pued jugar con es mod eh
+[18:33:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> pero probemos despues
+[18:33:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Te gusta que haya vuelto el sistema normal de vida ?
+[18:34:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> aunque ahora los mobs son muchisimo mas fuertes, pero obvio, son menos
+[18:34:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> y la ceguera primero y despues crayeo pero no se porque paso eso
