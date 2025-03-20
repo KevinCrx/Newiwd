@@ -1,81 +1,83 @@
-[02:54:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[02:54:19] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[02:54:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[02:54:19] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[02:54:19] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.8.0-1021-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[02:54:19] [main/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
-[02:54:19] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in techguns-1.12.2-2.0.2.0_pre3.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[02:54:19] [main/WARN] [FML]: The coremod Techguns Core (techguns.core.TechgunsFMLPlugin) is not signed!
-[02:54:19] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_24.2.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[02:54:19] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
-[02:54:19] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in XaerosWorldMap_1.38.8_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[02:54:19] [main/WARN] [FML]: The coremod XaeroWorldMapPlugin (xaero.map.core.XaeroWorldMapPlugin) is not signed!
-[02:54:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[02:54:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[02:54:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[02:54:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[02:54:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[02:54:21] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[02:54:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[02:54:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[02:54:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[02:54:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[02:54:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[02:54:21] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[02:54:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[02:54:21] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
-[02:54:21] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer
-[02:54:22] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
-[02:54:22] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.management.PlayerList
-[02:54:22] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
-[02:54:22] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayer
-[02:54:22] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[02:54:24] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
-[02:54:24] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayerMP
-[02:54:25] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
-[02:54:25] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.storage.SaveFormatOld
-[02:54:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[02:54:25] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[02:54:25] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[02:54:26] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[02:54:26] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[02:54:26] [Server thread/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
-[02:54:27] [Server thread/INFO] [FML]: Forge Mod Loader has identified 14 mods to load
-[02:54:27] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[02:54:28] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, xaeroworldmap_core, techguns_core, waila, jei, lucky, srparasites, techguns, xaerominimap, xaeroworldmap] at CLIENT
-[02:54:28] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, xaeroworldmap_core, techguns_core, waila, jei, lucky, srparasites, techguns, xaerominimap, xaeroworldmap] at SERVER
-[02:54:29] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[02:54:29] [Server thread/INFO] [FML]: Found 1187 ObjectHolder annotations
-[02:54:29] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[02:54:29] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[02:54:29] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
-[02:54:29] [Server thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.chunk.Chunk
-[02:54:29] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[02:54:29] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[02:54:30] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
-[02:54:30] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[02:54:30] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Starting version check at https://raw.githubusercontent.com/pWn3d1337/Techguns2/master/update.json
-[02:54:30] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Found status: AHEAD Target: null
-[02:54:31] [Server thread/INFO] [FML]: Applying holder lookups
-[02:54:31] [Server thread/INFO] [FML]: Holder lookups applied
-[02:54:31] [Server thread/INFO] [FML]: Applying holder lookups
-[02:54:31] [Server thread/INFO] [FML]: Holder lookups applied
-[02:54:31] [Server thread/INFO] [FML]: Applying holder lookups
-[02:54:31] [Server thread/INFO] [FML]: Holder lookups applied
-[02:54:31] [Server thread/INFO] [FML]: Applying holder lookups
-[02:54:31] [Server thread/INFO] [FML]: Holder lookups applied
-[02:54:31] [Server thread/INFO] [FML]: Injecting itemstacks
-[02:54:31] [Server thread/INFO] [FML]: Itemstack injection complete
-[02:54:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[02:54:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[02:54:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[02:54:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[02:54:32] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[02:54:32] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:54:32] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[02:54:32] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:54:32] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:54:32] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual_alt
+[00:45:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[00:45:14] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[00:45:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[00:45:14] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[00:45:14] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.8.0-1021-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[00:45:14] [main/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
+[00:45:14] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in techguns-1.12.2-2.0.2.0_pre3.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[00:45:14] [main/WARN] [FML]: The coremod Techguns Core (techguns.core.TechgunsFMLPlugin) is not signed!
+[00:45:14] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_24.2.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[00:45:14] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
+[00:45:14] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in XaerosWorldMap_1.38.8_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[00:45:14] [main/WARN] [FML]: The coremod XaeroWorldMapPlugin (xaero.map.core.XaeroWorldMapPlugin) is not signed!
+[00:45:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:45:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[00:45:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:45:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:45:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:45:16] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[00:45:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:45:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:45:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:45:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[00:45:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:45:17] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[00:45:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[00:45:17] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
+[00:45:17] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer
+[00:45:17] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
+[00:45:17] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.management.PlayerList
+[00:45:17] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
+[00:45:17] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayer
+[00:45:17] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[00:45:20] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
+[00:45:20] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayerMP
+[00:45:21] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
+[00:45:21] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.storage.SaveFormatOld
+[00:45:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[00:45:21] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[00:45:21] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[00:45:21] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[00:45:21] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[00:45:22] [Server thread/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
+[00:45:23] [Server thread/INFO] [FML]: Forge Mod Loader has identified 15 mods to load
+[00:45:23] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[00:45:23] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, xaeroworldmap_core, techguns_core, waila, jei, lucky, srparasites, techguns, tombstone, xaerominimap, xaeroworldmap] at CLIENT
+[00:45:23] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, xaeroworldmap_core, techguns_core, waila, jei, lucky, srparasites, techguns, tombstone, xaerominimap, xaeroworldmap] at SERVER
+[00:45:25] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[00:45:25] [Server thread/INFO] [FML]: Found 1197 ObjectHolder annotations
+[00:45:25] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[00:45:25] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[00:45:25] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
+[00:45:25] [Server thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.chunk.Chunk
+[00:45:25] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[00:45:25] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[00:45:26] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
+[00:45:26] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[00:45:26] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[00:45:26] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: UP_TO_DATE Target: null
+[00:45:26] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Starting version check at https://raw.githubusercontent.com/pWn3d1337/Techguns2/master/update.json
+[00:45:26] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Found status: AHEAD Target: null
+[00:45:27] [Server thread/INFO] [FML]: Applying holder lookups
+[00:45:27] [Server thread/INFO] [FML]: Holder lookups applied
+[00:45:27] [Server thread/INFO] [FML]: Applying holder lookups
+[00:45:27] [Server thread/INFO] [FML]: Holder lookups applied
+[00:45:28] [Server thread/INFO] [FML]: Applying holder lookups
+[00:45:28] [Server thread/INFO] [FML]: Holder lookups applied
+[00:45:28] [Server thread/INFO] [FML]: Applying holder lookups
+[00:45:28] [Server thread/INFO] [FML]: Holder lookups applied
+[00:45:28] [Server thread/INFO] [FML]: Injecting itemstacks
+[00:45:28] [Server thread/INFO] [FML]: Itemstack injection complete
+[00:45:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[00:45:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[00:45:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[00:45:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[00:45:28] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[00:45:28] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:45:28] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[00:45:28] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:45:28] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:45:28] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual_alt
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
@@ -91,7 +93,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[02:54:32] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual
+[00:45:28] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
@@ -107,7 +109,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[02:54:32] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap_alt
+[00:45:28] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap_alt
 com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:254) ~[ShapedOreRecipe.class:?]
@@ -123,7 +125,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[02:54:32] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap
+[00:45:28] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap
 com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:254) ~[ShapedOreRecipe.class:?]
@@ -139,506 +141,79 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[02:54:32] [Server thread/INFO] [FML]: Applying holder lookups
-[02:54:32] [Server thread/INFO] [FML]: Holder lookups applied
-[02:54:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `luckyblockdata`, expected `lucky`. This could be a intended override, but in most cases indicates a broken mod.
-[02:54:32] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[02:54:32] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 1/2 (Server)
-[02:54:32] [Server thread/INFO] [FML]: Injecting itemstacks
-[02:54:32] [Server thread/INFO] [FML]: Itemstack injection complete
-[02:54:32] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
-[02:54:33] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[02:54:33] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 2/2 (Server)
-[02:54:33] [Server thread/INFO] [Waila]: Starting Waila...
-[02:54:33] [Server thread/INFO] [Waila]: Gathering annotated plugins...
-[02:54:33] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
-[02:54:33] [Server thread/INFO] [Waila]: Registering plugins...
-[02:54:33] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
-[02:54:33] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
-[02:54:33] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[02:54:33] [Server thread/INFO] [Waila]: Starting Waila took 51.39 ms
-[02:54:33] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 14 mods
-[02:54:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "SkyWars in Vanilla Minecraft by Nixinova"
-[02:54:33] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[02:54:33] [Server thread/INFO] [FML]: Applying holder lookups
-[02:54:33] [Server thread/INFO] [FML]: Holder lookups applied
-[02:54:33] [Server thread/INFO] [FML]: Loading dimension 0 (SkyWars in Vanilla Minecraft by Nixinova) (net.minecraft.server.dedicated.DedicatedServer@544fc789)
-[02:54:34] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
-[02:54:34] [Server thread/INFO] [FML]: Loading dimension -1 (SkyWars in Vanilla Minecraft by Nixinova) (net.minecraft.server.dedicated.DedicatedServer@544fc789)
-[02:54:34] [Server thread/INFO] [FML]: Loading dimension 1 (SkyWars in Vanilla Minecraft by Nixinova) (net.minecraft.server.dedicated.DedicatedServer@544fc789)
-[02:54:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[02:54:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.364s)! For help, type "help" or "?"
-[02:54:36] [Server thread/INFO] [FML]: Unloading dimension -1
-[02:54:36] [Server thread/INFO] [FML]: Unloading dimension 1
-[02:54:38] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[02:54:38] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[02:54:38] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[02:54:38] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[02:54:38] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[02:54:38] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 15 mods : minecraft@1.12.2,lucky@7.6.0,FML@8.0.99.99,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1012,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,techguns_core@1.12.2-1.0,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,techguns@2.0.2.0
-[02:54:39] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[02:54:39] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KevinCrax[/127.56.63.92:42003] logged in with entity id 100 at (-413.5240810256315, 4.0, -72.72677629635689)
-[02:54:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax joined the game
-[02:54:39] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KevinCrax'/100, l='SkyWars in Vanilla Minecraft by Nixinova', x=-413.52, y=4.00, z=-72.73] connected. Sending ping
-[02:54:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax fell out of the world
-[02:54:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Killed KevinCrax]
-[02:55:43] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[02:55:43] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 15 mods : minecraft@1.12.2,lucky@7.6.0,FML@8.0.99.99,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1012,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,techguns_core@1.12.2-1.0,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,techguns@2.0.2.0
-[02:55:44] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[02:55:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SANDERPRO24[/127.134.176.120:44991] logged in with entity id 367741 at (-412.5128453509958, 4.0, -81.59283497134767)
-[02:55:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 joined the game
-[02:55:44] [Server thread/INFO] [Waila]: Player EntityPlayerMP['SANDERPRO24'/367741, l='SkyWars in Vanilla Minecraft by Nixinova', x=-412.51, y=4.00, z=-81.59] connected. Sending ping
-[02:55:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Pequeño dato
-[02:55:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> no tenemos el rule inventory
-[02:56:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> mañana pondre el mod este de tumbas
-[02:56:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> para evitar que nuestros items se quemen acada rato
-[02:56:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> no te preocupes manu
-[02:56:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Por ahora esto es HARDCORE
-[02:56:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Si mueres
-[02:56:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> el otro año comprare server.pro
-[02:56:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> pierdes todo
-[02:56:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> o quiza no
-[02:56:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> quien sabe
-[02:56:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Bien
-[02:56:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> inicias tu o yo ?
-[02:56:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> tu
-[02:56:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Vale
-[02:56:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> TACATACRAAAN
-[02:56:45] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: ID=dropper,amount=8@luck=0
-[02:56:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Xd
-[02:56:50] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=structure,ID=bedrock_problem,rotation=#pDirect@luck=-1
-[02:56:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> xdd
-[02:56:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> " BUENO, AQUI ESTA TU PROBLEMA "
-[02:57:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> literalmente dice eso
-[02:57:04] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: ID=obsidian,amount=14@luck=1
-[02:57:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax has made the advancement [Ice Bucket Challenge]
-[02:57:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> obsidiana
-[02:57:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> te toca
-[02:57:21] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=Bat,NBTTag=(Silent=true,ActiveEffects=[(Id=14,Duration=100000,Amplifier=1,ShowParticles=false)],Passengers=[(id=skeleton_horse,Tame=true,Type=4,Passengers=[(id=Skeleton,HandItems=[(id=bow,Count=1,tag=(ench=#luckyBowEnchantments))],ArmorItems=[(id=chainmail_boots,Count=1,tag=(ench=#luckyBootsEnchantments)),(id=chainmail_leggings,Count=1,tag=(ench=#luckyLeggingsEnchantments)),(id=chainmail_chestplate,Count=1,tag=(ench=#luckyChestplateEnchantments)),(id=chainmail_helmet,Count=1,tag=(ench=#luckyHelmetEnchantments))],HandDropChances=[0.5f,0f],ArmorDropChances=[0.3f,0.3f,0.3f,0.3f],CustomName="$7$lGhostly Horseman",CustomNameVisible=true)])]))@luck=-2
-[02:57:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> AA
-[02:57:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> MATALO
-[02:57:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> DISPARALEEE
-[02:57:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax has made the advancement [Monster Hunter]
-[02:57:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> c muri
-[02:57:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
-[02:57:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> literalmente los venezolanos al llegar al peru
-[02:58:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> lol
-[02:58:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> mira mira
-[02:58:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> sus items
-[02:58:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> el vicho salio de tu lucky block
-[02:58:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> epico
-[02:58:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> asi que es para ti
-[02:58:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> ni la policia de peru esta tan aarmado
-[02:58:24] [Server thread/WARN] [FML]: Techguns loaded a new chunk [-17, -16] in dimension 0 (overworld) while populating chunk [-16, -16], causing cascading worldgen lag.
-[02:58:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:58:24] [Server thread/WARN] [FML]: Techguns loaded a new chunk [-18, -16] in dimension 0 (overworld) while populating chunk [-16, -16], causing cascading worldgen lag.
-[02:58:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:58:28] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=fill,ID=air,size=(1,8,1);type=entity,ID=falling_block,posY=#bPosY+7,NBTTag=(Block=gold_block);type=particle,ID=flame,size=(1,2,1),particleAmount=500;type=sound,ID=entity.ghast.shoot)@luck=0
-[02:58:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> increíble
-[02:58:34] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: ID=enchanted_book,NBTTag=(StoredEnchantments=#randEnchantment),amount=#rand(7,10)@luck=1
-[02:58:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> lo que nos robaron los españoles
-[02:58:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Lit
-[02:58:52] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=Witch;type=entity,ID=Bat,posY=#bPosY+#rand(0,2),posOffset=#circleOffset(0,1),amount=64)@luck=-1
-[02:59:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> muelta
-[02:59:09] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: ID=beacon@luck=2
-[02:59:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> beacon
-[02:59:20] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=structure,ID=lucky_temple,pos=#pPos@chance=0.4@luck=2
-[02:59:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> OH
-[02:59:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> toca que abra
-[02:59:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> tooooodo eso
-[02:59:34] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=entity,ID=egg,NBTTag=(Motion=#randLaunchMotion(0.6,15)),amount=40;type=entity,ID=Item,NBTTag=(Item=(id=diamond,Count=1),Motion=#randLaunchMotion(0.7,18)),amount=20)@luck=2
-[02:59:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax has made the advancement [Diamonds!]
-[02:59:37] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=structure,ID=giant_lucky_block_good,rotation=#pDirect@luck=2
-[02:59:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> what
-[02:59:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> epico
-[02:59:44] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:135]: Chosen Lucky Block Drop: group(group(ID=giant_block_break_stage_1;ID=giant_block_break_stage_2,delay=1;ID=giant_block_break_stage_3,delay=2;ID=giant_block_break_stage_4,delay=3;ID=giant_block_break_stage_5,delay=4),type=structure,pos=(-390.5,4.0,-69.5),rotation=2;type=fill,ID=air,pos=(-387,4,-63),pos2=(-394,11,-70),delay=5;type=entity,ID=fireworks_rocket,pos=(-391,8,-67),posOffset=(#rand(-4,4),#rand(-4,4),#rand(-4,4)),amount=50,NBTTag=(LifeTime=5,FireworksItem=(id=fireworks,Count=1,tag=#randFireworksRocket)),delay=5;group(ID=iron_ingot;ID=gold_ingot;ID=diamond;ID=emerald),pos=(-391,8,-67),amount=#rand(16,24),delay=5)
-[02:59:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> mielcoles
-[02:59:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax has made the advancement [Acquire Hardware]
-[02:59:54] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(ID=ender_pearl,amount=#rand(1,3);ID=blaze_rod,amount=#rand(1,3);ID=ghast_tear,amount=#rand(1,3);ID=gold_nugget,amount=#rand(1,3);ID=nether_wart,amount=#rand(1,3);ID=spider_eye,amount=#rand(1,3);ID=fermented_spider_eye,amount=#rand(1,3);ID=blaze_powder,amount=#rand(1,3);ID=magma_cream,amount=#rand(1,3);ID=ender_eye,amount=#rand(1,3);ID=speckled_melon,amount=#rand(1,3);ID=rabbit_foot,amount=#rand(1,3);type=particle,ID=splashpotion,potion="fire_resistance")@luck=2
-[02:59:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> vaya
-[02:59:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax has made the advancement [Into Fire]
-[02:59:58] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=structure,ID=giant_lucky_block_good,rotation=#pDirect@luck=2
-[03:00:01] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:135]: Chosen Lucky Block Drop: group(group(ID=giant_block_break_stage_1;ID=giant_block_break_stage_2,delay=1;ID=giant_block_break_stage_3,delay=2;ID=giant_block_break_stage_4,delay=3;ID=giant_block_break_stage_5,delay=4),type=structure,pos=(-392.5,4.0,-73.5),rotation=0;type=fill,ID=air,pos=(-397,4,-81),pos2=(-390,11,-74),delay=5;type=entity,ID=fireworks_rocket,pos=(-393,8,-77),posOffset=(#rand(-4,4),#rand(-4,4),#rand(-4,4)),amount=50,NBTTag=(LifeTime=5,FireworksItem=(id=fireworks,Count=1,tag=#randFireworksRocket)),delay=5;group(ID=iron_ingot;ID=gold_ingot;ID=diamond;ID=emerald),pos=(-393,8,-77),amount=#rand(16,24),delay=5)
-[03:00:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> asumare
-[03:00:10] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group:1:(group(ID=porkchop,amount=#rand(8,16);ID=cooked_porkchop,amount=#rand(4,8));group(ID=fish,amount=#rand(8,16);ID=cooked_fish,amount=#rand(4,8));group(ID=beef,amount=#rand(8,16);ID=cooked_beef,amount=#rand(4,8));group(ID=chicken,amount=#rand(8,16);ID=cooked_chicken,amount=#rand(4,8));group(ID=mutton,amount=#rand(8,16);ID=cooked_mutton,amount=#rand(4,8));group(ID=rabbit,amount=#rand(8,16);ID=cooked_rabbit,amount=#rand(4,8)))@luck=1
-[03:00:12] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=structure,ID=wishing_well;type=message,ID="A wishing well? Maybe you should throw in a coin...";type=command,ID="/give #pName gold_nugget 1 0 {display:{Name:\"$6Coin\"}}";type=block,ID=lucky:lucky_block,posY=#bPosY-3,NBTTag=(Drops=["group(type=message,ID=\"$bYour wish came true!\";type=block,ID=air,posY='#'bPosY+3;type=block,ID=beacon,posY='#'bPosY+2;type=entity,ID=fireworks_rocket,NBTTag=(LifeTime=20,FireworksItem=(id=fireworks,Count=1,tag='#'randFireworksRocket)),amount=20,posY='#'bPosY+3,posOffset='#'circleOffset(2);ID=gold_ingot,amount=#rand(20,30),posY='#'bPosY+10,posOffset='#'circleOffset(2);ID=diamond,amount=#rand(20,30),posY='#'bPosY+10,posOffset='#'circleOffset(2);ID=emerald,amount=#rand(20,30),posY='#'bPosY+10,posOffset='#'circleOffset(2);ID=dye,damage=4,amount=#rand(20,30),posY='#'bPosY+10,posOffset='#'circleOffset(2))"]))@luck=2
-[03:00:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Given [Coin] * 1 to KevinCrax]
-[03:00:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> la suerte la suerte
-[03:00:17] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:135]: Chosen Lucky Block Drop: group(type=message,ID="Your wish came true!";type=block,ID=air,posY=#bPosY+3;type=block,ID=beacon,posY=#bPosY+2;type=entity,ID=fireworks_rocket,NBTTag=(LifeTime=20,FireworksItem=(id=fireworks,Count=1,tag=#randFireworksRocket)),amount=20,posY=#bPosY+3,posOffset=#circleOffset(2);ID=gold_ingot,amount=#rand(20,30),posY=#bPosY+10,posOffset=#circleOffset(2);ID=diamond,amount=#rand(20,30),posY=#bPosY+10,posOffset=#circleOffset(2);ID=emerald,amount=#rand(20,30),posY=#bPosY+10,posOffset=#circleOffset(2);ID=dye,damage=4,amount=#rand(20,30),posY=#bPosY+10,posOffset=#circleOffset(2))
-[03:00:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax has made the advancement [Bring Home the Beacon]
-[03:00:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 has made the advancement [Bring Home the Beacon]
-[03:00:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> tira
-[03:00:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 has made the advancement [Diamonds!]
-[03:00:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ASUMARE
-[03:00:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> QUE RACHA
-[03:00:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> DAMN
-[03:00:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> GANE LA LOTERIA LIT
-[03:00:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> perate un momentito
-[03:00:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Set the time to 1000]
-[03:00:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> tengo que
-[03:00:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ir a hacer cositas
-[03:00:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> con madera
-[03:00:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Vamo a la aldea
-[03:00:55] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group:1:(group(ID=porkchop,amount=#rand(8,16);ID=cooked_porkchop,amount=#rand(4,8));group(ID=fish,amount=#rand(8,16);ID=cooked_fish,amount=#rand(4,8));group(ID=beef,amount=#rand(8,16);ID=cooked_beef,amount=#rand(4,8));group(ID=chicken,amount=#rand(8,16);ID=cooked_chicken,amount=#rand(4,8));group(ID=mutton,amount=#rand(8,16);ID=cooked_mutton,amount=#rand(4,8));group(ID=rabbit,amount=#rand(8,16);ID=cooked_rabbit,amount=#rand(4,8)))@luck=1
-[03:00:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> primero rompe tu lucky eso si
-[03:00:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> pescao XD
-[03:01:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> vamo ala iglesia
-[03:01:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> hola padre
-[03:01:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax has made the advancement [Cover Me With Diamonds]
-[03:01:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> deseo confesarme
-[03:01:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> YO SE QUE TU ERES EL AMANTE DE ADAM SMITH
-[03:01:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] Confesasrse de que mijo ?
-[03:02:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> QUE TIENES QUE DECIR CON ESO
-[03:02:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] espera que ?
-[03:02:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] Callate mijo
-[03:02:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] estas bien pendejo
-[03:02:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
-[03:02:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> eso dices
-[03:02:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> ahora veras
-[03:02:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> se que no eres un padre
-[03:02:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> eres un incubierto
-[03:02:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] QUE
-[03:02:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> MATALO
-[03:02:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> que vive aca haciendo se pasar por padre
-[03:02:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] AAAHHH..
-[03:02:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
-[03:02:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> c murió
-[03:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> bueno no lo mate por eso
-[03:03:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> man quieres tu armadurita tambien ?
-[03:03:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> esque no pagaba impuestos
-[03:03:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 has made the advancement [Cover Me With Diamonds]
-[03:03:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> hola padre
-[03:03:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> el nuevo padre
-[03:03:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> LOL
-[03:03:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> bien
-[03:03:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> me toca
-[03:03:38] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=structure,ID=water_trap,pos=#pPos@luck=-2
-[03:03:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> JASJKJAS
-[03:03:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ME SALVE
-[03:03:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> no se ni como
-[03:03:52] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group:#rand(1,2):(ID=diamond_helmet,NBTTag=(ench=#luckyHelmetEnchantments,display=(Name="$9$lHero's Helmet"));ID=diamond_chestplate,NBTTag=(ench=#luckyChestplateEnchantments,display=(Name="$9$lHero's Chestplate"));ID=diamond_leggings,NBTTag=(ench=#luckyLeggingsEnchantments,display=(Name="$9$lHero's Leggings"));ID=diamond_boots,NBTTag=(ench=#luckyBootsEnchantments,display=(Name="$9$lHero's Boots")))@luck=2
-[03:03:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> wooow
-[03:04:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> encantadita
-[03:04:03] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: ID=obsidian,amount=14@luck=1
-[03:04:07] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=item,ID=lucky:lucky_sword@chance=1.5@luck=2
-[03:04:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> mas obsidiana
-[03:04:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> increíble
-[03:04:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> una espada
-[03:04:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> a ver que hace
-[03:04:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> golpeale a un aldeano
-[03:04:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> con la espada
-[03:04:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> me refiero
-[03:04:49] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=nothing@luck=0@chance=24
-[03:04:52] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=nothing@luck=0@chance=24
-[03:04:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> a ver mas ?
-[03:04:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> xd
-[03:05:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> es que creo qeu hace algo
-[03:05:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> esa espada
-[03:05:06] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=nothing@luck=0@chance=24
-[03:05:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> fijate
-[03:05:10] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=effect,ID=special_fire,range=4,excludePlayer=true,duration=#rand(5,10);type=particle,ID=flame,pos=#pExactPos,size=(1.0,0.3,1.0),particleAmount=2000)@luck=2
-[03:05:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ala
-[03:05:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> lo quemaste XD
-[03:05:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> no
-[03:05:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> espamea clicks a ver
-[03:05:24] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=egg,pos=#pExactPos,posOffsetY=1.5,NBTTag=(Motion=#motionFromDirection(#pYaw+#rand(-10,10),#pPitch+#rand(-10,10), 1.0)),amount=25,delay=#rand(0.0,2.0)@luck=2
-[03:05:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> JASKJAS
-[03:05:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> LE LANZASTE HUEVOS
-[03:05:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> lo viste no ?
-[03:05:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> bueno me toca
-[03:05:45] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: ID=ender_chest,amount=2@luck=0
-[03:05:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> si
-[03:05:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ender chests
-[03:05:52] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=structure,ID=wishing_well;type=message,ID="A wishing well? Maybe you should throw in a coin...";type=command,ID="/give #pName gold_nugget 1 0 {display:{Name:\"$6Coin\"}}";type=block,ID=lucky:lucky_block,posY=#bPosY-3,NBTTag=(Drops=["group(type=message,ID=\"$eYour wish came true! (If you like potatoes)\";type=block,ID=air,posY='#'bPosY+3;type=block,ID=beacon,posY='#'bPosY+2;ID=potato,amount=128,posY='#'bPosY+10,posOffset='#'circleOffset(2);ID=baked_potato,amount=64,posY='#'bPosY+10,posOffset='#'circleOffset(2);ID=poisonous_potato,amount=32,posY='#'bPosY+10,posOffset='#'circleOffset(2))"]))@luck=1
-[03:05:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Given [Coin] * 1 to SANDERPRO24]
-[03:05:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Un pozo
-[03:05:58] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:135]: Chosen Lucky Block Drop: group(type=message,ID="Your wish came true! (If you like potatoes)";type=block,ID=air,posY=#bPosY+3;type=block,ID=beacon,posY=#bPosY+2;ID=potato,amount=128,posY=#bPosY+10,posOffset=#circleOffset(2);ID=baked_potato,amount=64,posY=#bPosY+10,posOffset=#circleOffset(2);ID=poisonous_potato,amount=32,posY=#bPosY+10,posOffset=#circleOffset(2))
-[03:06:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> PATATAS
-[03:06:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> xd
-[03:06:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> pollo ala brasa
-[03:06:16] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: ID=nether_star@luck=2
-[03:06:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> OOH
-[03:06:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Una estrella
-[03:06:28] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: ID=rotten_flesh@luck=-1
-[03:06:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> increíble drop
-[03:06:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> XD
-[03:06:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
-[03:06:37] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(ID=bucket,amount=#rand(1,2);ID=water_bucket,amount=#rand(1,2);ID=lava_bucket,amount=#rand(1,2);ID=milk_bucket,amount=#rand(1,2))@luck=0
-[03:06:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax has made the advancement [Hot Stuff]
-[03:06:45] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(ID=bow;ID=arrow,amount=#rand(16,32))@luck=1
-[03:06:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> wow
-[03:06:50] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=Zombie,NBTTag=(HandItems=[(id=diamond_sword,Count=1,tag=(ench=#luckySwordEnchantments))],ArmorItems=[(id=diamond_boots,Count=1,tag=(ench=#luckyBootsEnchantments)),(id=diamond_leggings,Count=1,tag=(ench=#luckyLeggingsEnchantments)),(id=diamond_chestplate,Count=1,tag=(ench=#luckyChestplateEnchantments)),(id=diamond_helmet,Count=1,tag=(ench=#luckyHelmetEnchantments))],HandDropChances=[0.5f,0f],ArmorDropChances=[0.3f,0.3f,0.3f,0.3f],CustomName="$9$lBob",CustomNameVisible=true))@luck=-2
-[03:06:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> A
-[03:07:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> el diavlo
-[03:07:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> PFFF
-[03:07:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> SU ARMADURA
-[03:07:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> QUE VRG
-[03:07:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> MIRAA
-[03:07:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> luego me la devuelves
-[03:07:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> epico
-[03:07:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> haha
-[03:07:36] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: ID=rabbit_stew,amount=#rand(5,7)@luck=1
-[03:07:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> estofado
-[03:07:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> sopa
-[03:07:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> me siento estafado
-[03:07:49] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: ID=red_flower,NBTTag=(display=(Name="$cRomantic Rose"))@luck=-1
-[03:07:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> :O
-[03:07:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> epico
-[03:07:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> una rosa
-[03:07:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> una rosa
-[03:07:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> para otra rosa
-[03:08:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 has made the advancement [Monster Hunter]
-[03:08:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
-[03:08:09] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=Arrow,pos=#pExactPos,posOffsetY=1.5,NBTTag=(Motion=#motionFromDirection(#pYaw+#rand(-10,10),#pPitch+#rand(-10,10),1.0)),amount=50,delay=#rand(0.0,4.0)@luck=2
-[03:08:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 has made the advancement [Take Aim]
-[03:08:10] [Server thread/INFO] [STDERR]: [mod.lucky.drop.value.DropValue:initialize:37]: Lucky Block: Error processing value: #rand(0.0,4.0)
-[03:08:10] [Server thread/INFO] [STDERR]: [mod.lucky.drop.value.DropValue:initialize:38]: java.lang.NumberFormatException: For input string: "4.4171506E"
-[03:08:10] [Server thread/INFO] [STDERR]: [mod.lucky.drop.value.DropValue:initialize:38]: 	at sun.misc.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2043)
-[03:08:10] [Server thread/INFO] [STDERR]: [mod.lucky.drop.value.DropValue:initialize:38]: 	at sun.misc.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
-[03:08:10] [Server thread/INFO] [STDERR]: [mod.lucky.drop.value.DropValue:initialize:38]: 	at java.lang.Double.parseDouble(Double.java:538)
-[03:08:10] [Server thread/INFO] [STDERR]: [mod.lucky.drop.value.DropValue:initialize:38]: 	at java.lang.Double.valueOf(Double.java:502)
-[03:08:10] [Server thread/INFO] [STDERR]: [mod.lucky.drop.value.DropValue:initialize:38]: 	at mod.lucky.drop.value.ValueParser.calculateNum(ValueParser.java:90)
-[03:08:10] [Server thread/INFO] [STDERR]: [mod.lucky.drop.value.DropValue:initialize:38]: 	at mod.lucky.drop.value.ValueParser.getFloat(ValueParser.java:140)
-[03:08:10] [Server thread/INFO] [STDERR]: [mod.lucky.drop.value.DropValue:initialize:38]: 	at mod.lucky.drop.value.ValueParser.getObject(ValueParser.java:30)
-[03:08:10] [Server thread/INFO] [STDERR]: [mod.lucky.drop.value.DropValue:initialize:38]: 	at mod.lucky.drop.value.DropValue.initialize(DropValue.java:34)
-[03:08:10] [Server thread/INFO] [STDERR]: [mod.lucky.drop.value.DropValue:initialize:38]: 	at mod.lucky.drop.DropProperties.initialize(DropProperties.java:187)
-[03:08:10] [Server thread/INFO] [STDERR]: [mod.lucky.drop.value.DropValue:initialize:38]: 	at mod.lucky.drop.func.DropProcessor.processDelayDrop(DropProcessor.java:90)
-[03:08:10] [Server thread/INFO] [STDERR]: [mod.lucky.drop.value.DropValue:initialize:38]: 	at mod.lucky.world.DelayLuckyDrop.update(DelayLuckyDrop.java:26)
-[03:08:10] [Server thread/INFO] [STDERR]: [mod.lucky.drop.value.DropValue:initialize:38]: 	at mod.lucky.world.LuckyTickHandler.onServerTick(LuckyTickHandler.java:76)
-[03:08:10] [Server thread/INFO] [STDERR]: [mod.lucky.drop.value.DropValue:initialize:38]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_84_LuckyTickHandler_onServerTick_ServerTickEvent.invoke(.dynamic)
-[03:08:10] [Server thread/INFO] [STDERR]: [mod.lucky.drop.value.DropValue:initialize:38]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
-[03:08:10] [Server thread/INFO] [STDERR]: [mod.lucky.drop.value.DropValue:initialize:38]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
-[03:08:10] [Server thread/INFO] [STDERR]: [mod.lucky.drop.value.DropValue:initialize:38]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPostServerTick(FMLCommonHandler.java:266)
-[03:08:10] [Server thread/INFO] [STDERR]: [mod.lucky.drop.value.DropValue:initialize:38]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:712)
-[03:08:10] [Server thread/INFO] [STDERR]: [mod.lucky.drop.value.DropValue:initialize:38]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
-[03:08:10] [Server thread/INFO] [STDERR]: [mod.lucky.drop.value.DropValue:initialize:38]: 	at java.lang.Thread.run(Thread.java:750)
-[03:08:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> EL DIAVLO
-[03:08:14] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=nothing@luck=0@chance=24
-[03:08:14] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=nothing@luck=0@chance=24
-[03:08:15] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=nothing@luck=0@chance=24
-[03:08:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=nothing@luck=0@chance=24
-[03:08:19] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=nothing@luck=0@chance=24
-[03:08:20] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=nothing@luck=0@chance=24
-[03:08:23] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=structure,ID=water_trap,pos=#pPos@luck=-2
-[03:08:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> JKASJKAS
-[03:08:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> NOOO TE AHOGAS
-[03:08:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> AHI
-[03:08:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> TE LIBERE
-[03:08:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> SAL WEY
-[03:08:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
-[03:08:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> xd
-[03:08:58] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group:#rand(2,3):(ID=chainmail_helmet;ID=chainmail_chestplate;ID=chainmail_leggings;ID=chainmail_boots)@luck=2
-[03:09:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> me
-[03:09:04] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group:1:(type=entity,ID=Pig,NBTTag=(CustomName="$e$lLucky Pig",CustomNameVisible=true);type=entity,ID=Cow,NBTTag=(CustomName="$e$lLucky Cow",CustomNameVisible=true);type=entity,ID=Chicken,NBTTag=(CustomName="$e$lLucky Chicken",CustomNameVisible=true);type=entity,ID=Sheep,NBTTag=(CustomName="$e$lLucky Sheep",CustomNameVisible=true);type=entity,ID=Rabbit,NBTTag=(CustomName="$e$lLucky Rabbit",CustomNameVisible=true);type=entity,ID=Squid,NBTTag=(CustomName="$e$lUnlucky Squid",CustomNameVisible=true))@luck=0
-[03:09:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Increíble
-[03:09:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> la vaca lola
-[03:09:23] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: ID=end_portal_frame,amount=#rand(2,6)@luck=2
-[03:09:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> portal
-[03:09:29] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: ID=obsidian,amount=14@luck=1
-[03:09:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> obvisiana
-[03:09:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 has made the advancement [Ice Bucket Challenge]
-[03:09:39] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: ID=fishing_rod,NBTTag=(ench=#luckyFishingRodEnchantments,display=(Name="$9$lHero's Fishing Rod"))@luck=2
-[03:09:46] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=structure,ID=bouncing_castle,pos=#pPos,rotation=#pDirect
-[03:09:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> wow
-[03:09:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> un castillito :D
-[03:09:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Set the time to 1000]
-[03:09:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> trapolin
-[03:10:14] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=structure,ID=water_trap,pos=#pPos@luck=-2
-[03:10:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> JJAKSJKAS
-[03:10:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ME SALVE OTRA VEZ
-[03:10:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> NO SE NI COMO
-[03:10:35] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group:#rand(1,2):(ID=diamond_shovel,NBTTag=(ench=#luckyToolEnchantments,display=(Name="$9$lHero's Shovel"));ID=diamond_pickaxe,NBTTag=(ench=#luckyToolEnchantments,display=(Name="$9$lHero's Pickaxe"));ID=diamond_axe,NBTTag=(ench=#luckyAxeEnchantments,display=(Name="$9$lHero's Axe"));ID=diamond_hoe,NBTTag=(ench=#luckyToolEnchantments,display=(Name="$9$lHero's Hoe")))@luck=2
-[03:10:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> pala
-[03:10:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
-[03:10:44] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=Bat,NBTTag=(Silent=true,ActiveEffects=[(Id=14,Duration=100000,Amplifier=1,ShowParticles=false)],Passengers=[(id=skeleton_horse,Tame=true,Type=4,Passengers=[(id=Skeleton,HandItems=[(id=bow,Count=1,tag=(ench=#luckyBowEnchantments))],ArmorItems=[(id=chainmail_boots,Count=1,tag=(ench=#luckyBootsEnchantments)),(id=chainmail_leggings,Count=1,tag=(ench=#luckyLeggingsEnchantments)),(id=chainmail_chestplate,Count=1,tag=(ench=#luckyChestplateEnchantments)),(id=chainmail_helmet,Count=1,tag=(ench=#luckyHelmetEnchantments))],HandDropChances=[0.5f,0f],ArmorDropChances=[0.3f,0.3f,0.3f,0.3f],CustomName="$7$lGhostly Horseman",CustomNameVisible=true)])]))@luck=-2
-[03:10:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> OTRA VEZ TU
-[03:11:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> wao
-[03:11:13] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=egg,pos=#pExactPos,posOffsetY=1.5,NBTTag=(Motion=#motionFromDirection(#pYaw+#rand(-10,10),#pPitch+#rand(-10,10), 1.0)),amount=25,delay=#rand(0.0,2.0)@luck=2
-[03:11:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> mielda cuanto gore
-[03:11:16] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=nothing@luck=0@chance=24
-[03:11:17] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=tnt,pos=#pExactPos,posOffsetY=1.5,NBTTag=(Fuse=40b,Motion=#motionFromDirection(#pYaw,#pPitch,0.8))@luck=2
-[03:11:17] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=lucky:LuckyProjectile,pos=#pExactPos,posOffsetY=1.5,NBTTag=(Motion=#motionFromDirection(#pYaw+#rand(-10,10),#pPitch+#rand(-10,10),1.0),item=(id=blaze_powder,Count=1),impact=["type=effect,ID=special_fire,target=hitEntity,duration=5"],damage=0.0),amount=50,delay=#rand(0.0,2.0)@luck=2
-[03:11:17] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:17] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:17] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:17] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:17] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:17] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:17] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:17] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:17] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:17] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:17] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:17] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:17] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:17] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=nothing@luck=0@chance=24
-[03:11:17] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:17] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:17] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
-[03:11:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> asumaquina
-[03:11:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Xd
-[03:11:25] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=Arrow,pos=#pExactPos,posOffsetY=1.5,NBTTag=(Motion=#motionFromDirection(#pYaw+#rand(-10,10),#pPitch+#rand(-10,10),1.0)),amount=50,delay=#rand(0.0,4.0)@luck=2
-[03:11:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ksajksakjsa
-[03:11:39] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=nothing@luck=0@chance=24
-[03:11:39] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(ID=jukebox;ID=#rand(2256,2267),amount=#rand(1,3))@luck=1
-[03:11:40] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=egg,pos=#pExactPos,posOffsetY=1.5,NBTTag=(Motion=#motionFromDirection(#pYaw+#rand(-10,10),#pPitch+#rand(-10,10), 1.0)),amount=25,delay=#rand(0.0,2.0)@luck=2
-[03:11:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> disco y
-[03:11:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ooh ?
-[03:11:52] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=block,ID=chest,tileEntity=(Items=#chestLootTable("chests/village_blacksmith"))@luck=1
-[03:11:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ojo
-[03:12:00] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=effect,ID=special_knockback,range=6,excludePlayer=true,power=1.8,pos=#pPos,delay=0.1;type=particle,ID=explode,size=(1.0,0.3,1.0),particleAmount=500,pos=#pExactPos)@luck=2
-[03:12:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> mira
-[03:12:02] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=nothing@luck=0@chance=24
-[03:12:03] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=effect,ID=19,target=hitEntity,amplifier=2,duration=5;type=particle,ID=splashpotion,potion="poison")@luck=2
-[03:12:05] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=nothing@luck=0@chance=24
-[03:12:05] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=nothing@luck=0@chance=24
-[03:12:06] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=lucky:LuckyProjectile,pos=#pExactPos,posOffsetY=1.5,NBTTag=(Motion=#motionFromDirection(#pYaw,#pPitch,1.5),item=(id=web,Count=1),impact=["type=fill,ID=web,size=(2,2,2)"])@luck=2@chance=0.5
-[03:12:06] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=fill,ID=web,size=(2,2,2)
-[03:12:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> UI NO
-[03:12:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> MUSICA DE EL DIAVLO
-[03:12:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> XD
-[03:12:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> dejalo ahi
-[03:12:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> es buena musica
-[03:12:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Xd
-[03:12:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Hay que escuchar
-[03:12:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> XD
-[03:13:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> no
-[03:13:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> apague mi volumen
-[03:13:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> mejor que el pigstep
-[03:13:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> QUE
-[03:13:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> COMO PUDISTE HACER ESO
-[03:13:21] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=Giant)@luck=-2
-[03:13:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> WOW
-[03:13:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> HOLA
-[03:13:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> parece pacifico
-[03:13:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SANDERPRO24 lost connection: Timed out
-[03:13:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 left the game
-[03:13:41] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[03:13:41] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 15 mods : minecraft@1.12.2,lucky@7.6.0,FML@8.0.99.99,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1012,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,techguns_core@1.12.2-1.0,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,techguns@2.0.2.0
-[03:13:42] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:13:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SANDERPRO24[/127.134.176.120:37009] logged in with entity id 6698751 at (-477.3671521709899, 4.0, -87.32529355978805)
-[03:13:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 joined the game
-[03:13:43] [Server thread/INFO] [Waila]: Player EntityPlayerMP['SANDERPRO24'/6698751, l='SkyWars in Vanilla Minecraft by Nixinova', x=-477.37, y=4.00, z=-87.33] connected. Sending ping
-[03:13:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> tu lag XD
-[03:13:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> asumare
-[03:13:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> mira ese weon
-[03:13:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Es bien alto
-[03:13:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> es como
-[03:14:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Como se llamaba el alto del aula ? xd
-[03:14:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> el mas alto ?
-[03:14:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SANDERPRO24 lost connection: Timed out
-[03:14:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 left the game
-[03:14:23] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[03:14:23] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 15 mods : minecraft@1.12.2,lucky@7.6.0,FML@8.0.99.99,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1012,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,techguns_core@1.12.2-1.0,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,techguns@2.0.2.0
-[03:14:24] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:14:24] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SANDERPRO24[/127.134.176.120:49721] logged in with entity id 6963672 at (-488.5000922144975, 4.0, -82.34475951260893)
-[03:14:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 joined the game
-[03:14:24] [Server thread/INFO] [Waila]: Player EntityPlayerMP['SANDERPRO24'/6963672, l='SkyWars in Vanilla Minecraft by Nixinova', x=-488.50, y=4.00, z=-82.34] connected. Sending ping
-[03:14:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> yacsahuache entro al juegp
-[03:14:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
-[03:14:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> matadlo.
-[03:14:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SANDERPRO24 lost connection: Timed out
-[03:14:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 left the game
-[03:15:11] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[03:15:11] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 15 mods : minecraft@1.12.2,lucky@7.6.0,FML@8.0.99.99,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1012,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,techguns_core@1.12.2-1.0,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,techguns@2.0.2.0
-[03:15:12] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:15:12] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SANDERPRO24[/127.134.176.120:43809] logged in with entity id 7261631 at (-474.5923641731157, 4.0, -84.96679570314188)
-[03:15:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 joined the game
-[03:15:12] [Server thread/INFO] [Waila]: Player EntityPlayerMP['SANDERPRO24'/7261631, l='SkyWars in Vanilla Minecraft by Nixinova', x=-474.59, y=4.00, z=-84.97] connected. Sending ping
-[03:15:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> que buena pc
-[03:15:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> digo
-[03:15:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> inter
-[03:15:21] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(ID=dispenser,amount=2;ID=noteblock,amount=1;ID=sticky_piston,amount=4;ID=piston,amount=4;ID=tnt,amount=6;ID=lever,amount=2;ID=stone_pressure_plate,amount=2;ID=wooden_pressure_plate,amount=2;ID=redstone_torch,amount=8;ID=stone_button,amount=2;ID=trapdoor,amount=2;ID=iron_trapdoor,amount=2;ID=fence_gate,amount=1;ID=redstone_lamp,amount=4;ID=tripwire_hook,amount=2;ID=wooden_button,amount=2;ID=light_weighted_pressure_plate,amount=1;ID=heavy_weighted_pressure_plate,amount=1;ID=daylight_detector,amount=1;ID=hopper,amount=4;ID=dropper,amount=#rand(2,4);ID=wooden_door,amount=1;ID=iron_door,amount=1;ID=redstone,amount=#rand(32,64);ID=repeater,amount=8;ID=comparator,amount=2;type=particle,ID=splashpotion,potion="healing")@luck=2
-[03:15:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> puff
-[03:15:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> items inutiles
-[03:15:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SANDERPRO24 lost connection: Timed out
-[03:15:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 left the game
-[03:15:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> kaboom
-[03:16:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax has made the advancement [Stone Age]
-[03:16:11] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[03:16:11] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 15 mods : minecraft@1.12.2,lucky@7.6.0,FML@8.0.99.99,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1012,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,techguns_core@1.12.2-1.0,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,techguns@2.0.2.0
-[03:16:12] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:16:12] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SANDERPRO24[/127.134.176.120:46545] logged in with entity id 7628125 at (-477.12564472244253, 5.252203340253724, -88.26055550015035)
-[03:16:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 joined the game
-[03:16:12] [Server thread/INFO] [Waila]: Player EntityPlayerMP['SANDERPRO24'/7628125, l='SkyWars in Vanilla Minecraft by Nixinova', x=-477.13, y=5.25, z=-88.26] connected. Sending ping
-[03:16:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> xd
-[03:16:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> tuuu inter
-[03:16:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> manu
-[03:16:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Eu
-[03:16:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> habia algo descargando
-[03:16:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ??
-[03:16:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> enXD
-[03:16:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> GOGLE
-[03:16:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> naaa
-[03:16:34] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=structure,ID=lucky_temple,pos=#pPos@chance=0.4@luck=2
-[03:16:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ASU
-[03:16:38] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=Sheep,NBTTag=(CustomName="$cM$6r. $eR$aa$2i$bn$3b$5o$dw",CustomNameVisible=true,Color=#rand(0,15)),posOffset=#circleOffset(4),amount=16@luck=1
-[03:16:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> OVEJAS RAIMBOW
-[03:16:43] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: ID=enchanting_table@luck=2
-[03:16:50] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=item,ID=lucky:lucky_potion,NBTTag=(Luck=#randList(100,-100)),amount=#rand(10,15)@chance=1.5@luck=2
-[03:16:55] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: ID=beacon@luck=2
-[03:17:08] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=fill,ID=air,size=(1,51,1);group(NBTTag=(Block=stained_hardened_clay,Data=14),posY=#bPosY+5;NBTTag=(Block=stained_hardened_clay,Data=1),posY=#bPosY+10;NBTTag=(Block=stained_hardened_clay,Data=4),posY=#bPosY+15;NBTTag=(Block=stained_hardened_clay,Data=5),posY=#bPosY+20;NBTTag=(Block=stained_hardened_clay,Data=3),posY=#bPosY+25;NBTTag=(Block=stained_hardened_clay,Data=11),posY=#bPosY+30;NBTTag=(Block=stained_hardened_clay,Data=10),posY=#bPosY+35;NBTTag=(Block=stained_hardened_clay,Data=2),posY=#bPosY+40;NBTTag=(Block=stained_hardened_clay,Data=6),posY=#bPosY+45),type=entity,ID=falling_block;type=entity,ID=falling_block,NBTTag=(Block=diamond_block),posY=#bPosY+50;type=entity,ID=LightningBolt,posY=#bPosY+10,delay=5.3)@luck=2
-[03:17:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SANDERPRO24 lost connection: Timed out
-[03:17:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 left the game
-[03:17:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> alabestia
-[03:17:42] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[03:17:42] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 15 mods : minecraft@1.12.2,lucky@7.6.0,FML@8.0.99.99,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1012,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,techguns_core@1.12.2-1.0,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,techguns@2.0.2.0
-[03:17:44] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:17:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SANDERPRO24[/127.134.176.120:56029] logged in with entity id 8164991 at (-485.69999998807907, 4.0, -71.24905266948966)
-[03:17:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 joined the game
-[03:17:44] [Server thread/INFO] [Waila]: Player EntityPlayerMP['SANDERPRO24'/8164991, l='SkyWars in Vanilla Minecraft by Nixinova', x=-485.70, y=4.00, z=-71.25] connected. Sending ping
-[03:17:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> increible
-[03:17:48] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: ID=rabbit_stew,amount=#rand(5,7)@luck=1
-[03:17:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> te saliste por un rayo
-[03:18:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SANDERPRO24 lost connection: Timed out
-[03:18:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 left the game
-[03:18:18] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: ID=gold_ingot,amount=#rand(8,16)@luck=1
-[03:19:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Set the time to 1000]
-[03:19:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax has made the advancement [Not Today, Thank You]
-[03:22:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Set game difficulty to Peaceful]
-[03:22:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> difficulty easy
-[03:22:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KevinCrax lost connection: Disconnected
-[03:22:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax left the game
-[03:22:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[03:22:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[03:22:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[03:22:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[03:22:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'SkyWars in Vanilla Minecraft by Nixinova'/overworld
-[03:22:58] [Server thread/INFO] [FML]: Unloading dimension 0
-[03:22:58] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[03:22:58] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[03:22:58] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:45:28] [Server thread/INFO] [FML]: Applying holder lookups
+[00:45:28] [Server thread/INFO] [FML]: Holder lookups applied
+[00:45:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `luckyblockdata`, expected `lucky`. This could be a intended override, but in most cases indicates a broken mod.
+[00:45:28] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[00:45:28] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 1/2 (Server)
+[00:45:28] [Server thread/INFO] [FML]: Injecting itemstacks
+[00:45:28] [Server thread/INFO] [FML]: Itemstack injection complete
+[00:45:28] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
+[00:45:29] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[00:45:29] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 2/2 (Server)
+[00:45:29] [Server thread/INFO] [Waila]: Starting Waila...
+[00:45:29] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[00:45:29] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[00:45:29] [Server thread/INFO] [Waila]: Registering plugins...
+[00:45:29] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[00:45:29] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[00:45:29] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[00:45:29] [Server thread/INFO] [Waila]: Registering plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
+[00:45:29] [Server thread/INFO] [Waila]: Starting Waila took 34.36 ms
+[00:45:30] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 15 mods
+[00:45:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "SkyWars in Vanilla Minecraft by Nixinova"
+[00:45:30] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:ghostly_shape Expected: 45 Got: 57
+[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:lightning_resistance Expected: 54 Got: 58
+[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:feather_fall Expected: 49 Got: 60
+[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:frost_resistance Expected: 55 Got: 61
+[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:diversion Expected: 48 Got: 62
+[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:exorcism Expected: 52 Got: 63
+[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:bone_shield Expected: 56 Got: 64
+[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:aquatic_life Expected: 58 Got: 65
+[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:unstable_intangibility Expected: 47 Got: 66
+[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:purification Expected: 50 Got: 67
+[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:bait Expected: 57 Got: 68
+[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:preservation Expected: 46 Got: 69
+[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:true_sight Expected: 51 Got: 70
+[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:reach Expected: 53 Got: 71
+[00:45:30] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: tombstone:ghost02 Expected: 755 Got: 909
+[00:45:30] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: tombstone:ghost03 Expected: 756 Got: 910
+[00:45:30] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: tombstone:ghost01 Expected: 754 Got: 911
+[00:45:30] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: tombstone:magic_use01 Expected: 753 Got: 912
+[00:45:30] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: tombstone:grave_guardian Expected: 258 Got: 260
+[00:45:30] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: tombstone:spectral_wolf Expected: 259 Got: 261
+[00:45:30] [Server thread/INFO] [FML]: Applying holder lookups
+[00:45:30] [Server thread/INFO] [FML]: Holder lookups applied
+[00:45:30] [Server thread/INFO] [FML]: Loading dimension 0 (SkyWars in Vanilla Minecraft by Nixinova) (net.minecraft.server.dedicated.DedicatedServer@14f61477)
+[00:45:30] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 625 advancements
+[00:45:30] [Server thread/INFO] [FML]: Loading dimension -1 (SkyWars in Vanilla Minecraft by Nixinova) (net.minecraft.server.dedicated.DedicatedServer@14f61477)
+[00:45:30] [Server thread/INFO] [FML]: Loading dimension 1 (SkyWars in Vanilla Minecraft by Nixinova) (net.minecraft.server.dedicated.DedicatedServer@14f61477)
+[00:45:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[00:45:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (1.707s)! For help, type "help" or "?"
+[00:45:32] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:45:32] [Server thread/INFO] [FML]: Unloading dimension 1
+[00:45:36] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[00:45:36] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[00:45:36] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[00:45:36] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[00:45:36] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[00:45:36] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,lucky@7.6.0,FML@8.0.99.99,tombstone@4.7.5,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1012,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,techguns_core@1.12.2-1.0,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,techguns@2.0.2.0
+[00:45:37] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:45:37] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KevinCrax[/127.183.80.232:52913] logged in with entity id 169 at (-446.3122226131349, 4.0, -93.3664855456844)
+[00:45:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax joined the game
+[00:45:38] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KevinCrax'/169, l='SkyWars in Vanilla Minecraft by Nixinova', x=-446.31, y=4.00, z=-93.37] connected. Sending ping
+[00:51:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax has made the advancement [Knowledge of Death]
+[00:51:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax has made the advancement [Neighborhood Brawl]
+[00:52:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Set the time to 0]
+[00:52:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Set game difficulty to Peaceful]
+[00:52:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Set game difficulty to Easy]
+[00:53:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[00:53:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[00:53:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[00:53:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:53:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:53:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:53:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'SkyWars in Vanilla Minecraft by Nixinova'/overworld
+[00:53:23] [Server thread/INFO] [FML]: Unloading dimension 0
+[00:53:23] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
