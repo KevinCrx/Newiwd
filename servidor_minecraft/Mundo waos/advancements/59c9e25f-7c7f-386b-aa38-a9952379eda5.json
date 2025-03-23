@@ -217,6 +217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-23 21:33:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-03-23 21:26:36 +0000"
@@ -241,6 +247,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/find_easter_egg": {
+    "criteria": {
+      "coded_trigger": "2025-03-23 21:30:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-03-23 19:53:57 +0000"
@@ -250,6 +262,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-03-23 20:01:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-03-23 21:33:10 +0000"
     },
     "done": true
   },
@@ -366,6 +384,18 @@
       "has_planks": "2025-03-23 21:28:52 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2025-03-23 21:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-03-23 21:34:40 +0000"
+    },
+    "done": false
   },
   "tombstone:recipes/from_grave_key": {
     "criteria": {
@@ -484,6 +514,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-23 19:25:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-23 21:33:11 +0000"
     },
     "done": true
   },
