@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-03-23 01:30:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-03-23 01:22:24 +0000"
@@ -56,6 +62,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-03-16 02:59:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-03-23 01:31:57 +0000"
     },
     "done": true
   },
@@ -188,6 +200,12 @@
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-16 03:01:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/find_easter_egg": {
+    "criteria": {
+      "coded_trigger": "2025-03-23 01:28:02 +0000"
     },
     "done": true
   },
@@ -325,7 +343,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-03-16 02:57:53 +0000"
+      "cooked_porkchop": "2025-03-16 02:57:53 +0000",
+      "enchanted_golden_apple": "2025-03-23 01:30:19 +0000"
     },
     "done": false
   },
@@ -386,6 +405,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-03-16 02:59:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-23 01:30:45 +0000"
     },
     "done": true
   },
@@ -497,9 +522,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-03-23 01:30:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-03-16 02:59:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2025-03-23 01:30:45 +0000"
     },
     "done": true
   },
@@ -826,6 +863,7 @@
       "slime": "2025-03-16 03:08:20 +0000",
       "skeleton": "2025-03-16 02:57:45 +0000",
       "zombie": "2025-03-16 03:07:09 +0000",
+      "cave_spider": "2025-03-23 01:25:55 +0000",
       "witch": "2025-03-16 02:59:01 +0000"
     },
     "done": false

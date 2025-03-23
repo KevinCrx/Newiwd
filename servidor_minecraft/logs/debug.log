@@ -8655,3 +8655,255 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [01:25:48] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=effect,ID=19,range=4,duration=30;type=particle,ID=splashpotion,potion="poison";type=difficulty,ID=hard;type=entity,ID=cave_spider;type=item,ID=#randList(rotten_flesh,spider_eye,fermented_spider_eye),posOffset=#circleOffset(0.0,2.0),amount=30)@luck=-2
 [01:25:51] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=effect,ID=7,range=4;type=particle,ID=splashpotion,potion="harming";type=entity,ID=lucky:LuckyProjectile,NBTTag=(Motion=#motionFromDirection(#rand(0,360),-50,0.4),item=(id=iron_sword),damage=4.0),amount=20)@luck=-2
 [01:25:54] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=entity,ID=potion,NBTTag=(Potion=(id=splash_potion,tag=(Potion=#randList("slowness","harming","poison","weakness")),Count=1),Motion=#motionFromDirection(#rand(0,360),-70,0.4)),amount=10)@luck=-2
+[01:25:58] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=effect,ID=20,range=4,duration=30;type=particle,ID=splashpotion,potion="weakness";type=item,ID=bone,posOffset=#circleOffset(0.0,2.0),amount=10;type=item,ID=dye,damage=15,posOffset=#circleOffset(0.0,2.0),amount=10;type=item,ID=skull,posOffset=#circleOffset(0.0,2.0),amount=10)@luck=-2
+[01:26:03] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=effect,ID=6,range=4,amplifier=3;type=effect,ID=10,range=4,amplifier=1,duration=300;type=particle,ID=splashpotion,potion="healing";type=particle,ID=heart,size=(1.5,0.5,1.5),particleAmount=300)@luck=2
+[01:26:09] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=entity,ID=potion,NBTTag=(Potion=(id=splash_potion,tag=(Potion=#randList("night_vision","leaping","fire_resistance","swiftness","water_breathing","healing","regeneration","strength")),Count=1),Motion=#motionFromDirection(#rand(0,360),-70,0.4)),amount=10)@luck=2
+[01:26:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Set the time to 0]
+[01:26:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> hora de romper
+[01:26:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> LUCKY BLOCKS
+[01:26:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save SkyWars in Vanilla Minecraft by Nixinova
+[01:26:29] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=item,ID=lucky:lucky_bow@chance=1.5@luck=2
+[01:26:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> luck
+[01:26:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> bo
+[01:26:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> w
+[01:26:51] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=structure,ID=bouncing_castle,pos=#pPos,rotation=#pDirect
+[01:26:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> increíble
+[01:27:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save SkyWars in Vanilla Minecraft by Nixinova
+[01:27:15] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: ID=#randList(potion,splash_potion),NBTTag=(Potion=#randPotion),amount=#rand(4,8)@luck=1
+[01:27:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 has made the advancement [Acquire Hardware]
+[01:27:36] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=Zombie,NBTTag=(HandItems=[(id=diamond_sword,Count=1,tag=(ench=#luckySwordEnchantments))],ArmorItems=[(id=diamond_boots,Count=1,tag=(ench=#luckyBootsEnchantments)),(id=diamond_leggings,Count=1,tag=(ench=#luckyLeggingsEnchantments)),(id=diamond_chestplate,Count=1,tag=(ench=#luckyChestplateEnchantments)),(id=diamond_helmet,Count=1,tag=(ench=#luckyHelmetEnchantments))],HandDropChances=[0.5f,0f],ArmorDropChances=[0.3f,0.3f,0.3f,0.3f],CustomName="$9$lBob",CustomNameVisible=true))@luck=-2
+[01:27:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> BOB
+[01:27:40] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=lucky:LuckyProjectile,pos=#pExactPos,posOffsetY=1.5,NBTTag=(Motion=#motionFromDirection(#pYaw+#rand(-10,10),#pPitch+#rand(-10,10),1.0),item=(id=blaze_powder,Count=1),impact=["type=effect,ID=special_fire,target=hitEntity,duration=5"],damage=0.0),amount=50,delay=#rand(0.0,2.0)@luck=2
+[01:27:40] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:40] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:40] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:40] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:40] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:40] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:40] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:40] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:40] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:40] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:40] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:40] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[01:27:43] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=LightningBolt@luck=2
+[01:27:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save SkyWars in Vanilla Minecraft by Nixinova
+[01:28:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax has made the advancement [Easter Egg Searcher]
+[01:28:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> murio
+[01:28:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SANDERPRO24 lost connection: Timed out
+[01:28:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 left the game
+[01:28:21] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:28:21] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:28:21] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:28:21] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:28:21] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[01:28:21] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:16 mods->FMLHandshakeServerState$2:HELLO
+[01:28:21] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,lucky@7.6.0,FML@8.0.99.99,tombstone@4.7.5,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1012,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,techguns_core@1.12.2-1.0,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,techguns@2.0.2.0
+[01:28:21] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[01:28:21] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:28:21] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[01:28:22] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:28:22] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[01:28:22] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:28:22] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:28:22] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SANDERPRO24[/127.156.241.189:49815] logged in with entity id 3864642 at (-485.1271870590683, 4.0, -60.13105363299785)
+[01:28:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 joined the game
+[01:28:22] [Server thread/INFO] [Waila]: Player EntityPlayerMP['SANDERPRO24'/3864642, l='SkyWars in Vanilla Minecraft by Nixinova', x=-485.13, y=4.00, z=-60.13] connected. Sending ping
+[01:28:22] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:28:29] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=fill,ID=air,size=(1,8,1);type=entity,ID=falling_block,posY=#bPosY+7,NBTTag=(Block=emerald_block);type=particle,ID=happyVillager,size=(1,2,1),particleAmount=500;type=sound,ID=block.grass.break)@luck=0
+[01:28:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save SkyWars in Vanilla Minecraft by Nixinova
+[01:28:41] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group:#rand(1,2):(ID=diamond_sword;ID=diamond_shovel;ID=diamond_pickaxe;ID=diamond_axe;ID=diamond_hoe)@luck=2
+[01:28:46] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group:1:(type=entity,ID=Pig,NBTTag=(CustomName="$e$lLucky Pig",CustomNameVisible=true);type=entity,ID=Cow,NBTTag=(CustomName="$e$lLucky Cow",CustomNameVisible=true);type=entity,ID=Chicken,NBTTag=(CustomName="$e$lLucky Chicken",CustomNameVisible=true);type=entity,ID=Sheep,NBTTag=(CustomName="$e$lLucky Sheep",CustomNameVisible=true);type=entity,ID=Rabbit,NBTTag=(CustomName="$e$lLucky Rabbit",CustomNameVisible=true);type=entity,ID=Squid,NBTTag=(CustomName="$e$lUnlucky Squid",CustomNameVisible=true))@luck=0
+[01:28:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> XD
+[01:28:57] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=tnt,NBTTag=(Fuse=50b,Motion=#randLaunchMotion),amount=15@luck=-2
+[01:29:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 blew up
+[01:29:00] [Server thread/INFO] [tombstone]: The last known grave of SANDERPRO24 is at location [name:Last Grave, x:-487, y:3, z:-62] in the dimension 0
+[01:29:00] [Server thread/INFO] [tombstone]: SANDERPRO24 has successfully been saved
+[01:29:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> JKASJKSAJKSA
+[01:29:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> increíble
+[01:29:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save SkyWars in Vanilla Minecraft by Nixinova
+[01:29:50] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=item,ID=lucky:lucky_bow@chance=1.5@luck=2
+[01:29:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> jaison
+[01:29:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> voy a cocinar
+[01:29:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> asi que
+[01:30:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> XD
+[01:30:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> DEJAIME ENJ PAZ POR UN RATO
+[01:30:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save SkyWars in Vanilla Minecraft by Nixinova
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=lucky:LuckyProjectile,pos=#bowPos,NBTTag=(Motion=#bowMotion,item=(id=tnt),trail=(frequency=0.2,drops=["type=particle,ID=smoke)"]),impact=["group(type=difficulty,ID=hard;type=explosion,damage=4)"])@luck=2
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke)
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke)
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke)
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke)
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke)
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke)
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke)
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke)
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke)
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke)
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke)
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke)
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke)
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke)
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke)
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke)
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke)
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke)
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke)
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke)
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=explosion,damage=4)
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke)
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke)
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke)
+[01:30:11] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke)
+[01:30:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> oof
+[01:30:29] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=lucky:LuckyProjectile,pos=#bowPos,NBTTag=(Motion=#bowMotion,item=(id=skull,Damage=4),impact=["group(type=difficulty,ID=hard;type=entity,ID=Creeper;type=entity,ID=LightningBolt)"])@luck=2
+[01:30:29] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=Creeper;type=entity,ID=LightningBolt)
+[01:30:32] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=Arrow,pos=#bowPos,NBTTag=(Motion=#bowMotion)@chance=20
+[01:30:34] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=lucky:LuckyProjectile,pos=#bowPos,NBTTag=(Motion=#bowMotion,item=(id=iron_pickaxe),trail=(frequency=0.5,drops=["type=particle,ID=blockcrack_3"]),impact=["group(type=structure,ID=drill_hole,posY=#bPosY-1;type=particle,ID=blockcrack_3,posY=#bExactPosY-7,size=(2.0,3.0,2.0),particleAmount=2000;type=sound,ID=block.gravel.break,volume=2.0)"])@luck=2
+[01:30:34] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=blockcrack_3
+[01:30:34] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=blockcrack_3
+[01:30:34] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=blockcrack_3
+[01:30:34] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=blockcrack_3
+[01:30:34] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=blockcrack_3
+[01:30:34] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=blockcrack_3
+[01:30:34] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=blockcrack_3
+[01:30:34] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=blockcrack_3
+[01:30:34] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=blockcrack_3
+[01:30:34] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=blockcrack_3
+[01:30:34] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=blockcrack_3
+[01:30:34] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=blockcrack_3
+[01:30:34] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=blockcrack_3
+[01:30:34] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=blockcrack_3
+[01:30:34] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=blockcrack_3
+[01:30:34] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=blockcrack_3
+[01:30:35] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=blockcrack_3
+[01:30:35] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=blockcrack_3
+[01:30:35] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=blockcrack_3
+[01:30:35] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=blockcrack_3
+[01:30:35] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=blockcrack_3
+[01:30:35] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=blockcrack_3
+[01:30:35] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=structure,ID=drill_hole,posY=#bPosY-1;type=particle,ID=blockcrack_3,posY=#bExactPosY-7,size=(2.0,3.0,2.0),particleAmount=2000;type=sound,ID=block.gravel.break,volume=2.0)
+[01:30:35] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=blockcrack_3
+[01:30:35] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=blockcrack_3
+[01:30:37] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=lucky:LuckyProjectile,pos=#bowPos,NBTTag=(Motion=#bowMotion(1.0,2.0),item=(id=spawn_egg,tag=(EntityTag=(id=#randList("Zombie","Skeleton","Spider")))),impact=["group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))"]),amount=#rand(7,10)@luck=2
+[01:30:38] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
+[01:30:38] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
+[01:30:38] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
+[01:30:38] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
+[01:30:38] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
+[01:30:38] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
+[01:30:38] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
+[01:30:38] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
+[01:30:38] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
+[01:30:40] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=Arrow,pos=#bowPos,NBTTag=(Motion=#bowMotion)@chance=20
+[01:30:42] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=Arrow,pos=#bowPos,NBTTag=(Motion=#bowMotion)@chance=20
+[01:30:44] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=Arrow,pos=#bowPos,NBTTag=(Motion=#bowMotion)@chance=20
+[01:30:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save SkyWars in Vanilla Minecraft by Nixinova
+[01:30:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 has made the advancement [Not Today, Thank You]
+[01:31:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 was slain by KevinCrax
+[01:31:00] [Server thread/INFO] [tombstone]: The last known grave of SANDERPRO24 is at location [name:Last Grave, x:-491, y:1, z:-55] in the dimension 0
+[01:31:00] [Server thread/INFO] [tombstone]: SANDERPRO24 has successfully been saved
+[01:31:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
+[01:31:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save SkyWars in Vanilla Minecraft by Nixinova
+[01:31:35] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group:#rand(2,3):(ID=chainmail_helmet;ID=chainmail_chestplate;ID=chainmail_leggings;ID=chainmail_boots)@luck=2
+[01:31:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ok, voy a quedar protegido por
+[01:31:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Set own game mode to Creative Mode]
+[01:31:57] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: ID=hay_block,amount=8@luck=0
+[01:32:02] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(ID=jukebox;ID=#rand(2256,2267),amount=#rand(1,3))@luck=1
+[01:32:03] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: ID=splash_potion,NBTTag=(Potion="harming",CustomPotionEffects=#unluckyPotionEffects,display=(Name="$4$lEvil Potion"))@luck=1
+[01:32:05] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=armor_stand,NBTTag=(Small=true,NoBasePlate=true,ShowArms=true,HandItems=[(id=stone_pickaxe,Count=1)],ArmorItems=[(id=leather_boots,Count=1,tag=(display=(color=#rand(0,16777215)))),(id=leather_leggings,Count=1,tag=(display=(color=#rand(0,16777215)))),(id=leather_chestplate,Count=1,tag=(display=(color=#rand(0,16777215)))),(id=skull,Damage=3,Count=1,tag=(SkullOwner=#pName))],Rotation=[#pYaw+180f,0f],CustomName="Baby #pName",CustomNameVisible=true)@luck=0
+[01:32:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> mano
+[01:32:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> salte
+[01:32:10] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=item,ID=lucky:lucky_sword@chance=1.5@luck=2
+[01:32:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> antes de que te mate
+[01:32:12] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: ID=beacon@luck=2
+[01:32:17] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=entity,ID=egg,NBTTag=(Motion=#randLaunchMotion(0.6,15)),amount=40;type=entity,ID=Item,NBTTag=(Item=(id=diamond,Count=1),Motion=#randLaunchMotion(0.7,18)),amount=20)@luck=2
+[01:32:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save SkyWars in Vanilla Minecraft by Nixinova
+[01:32:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 was slain by Mangler
+[01:32:21] [Server thread/INFO] [tombstone]: The last known grave of SANDERPRO24 is at location [name:Last Grave, x:-504, y:6, z:16] in the dimension 0
+[01:32:21] [Server thread/INFO] [tombstone]: SANDERPRO24 has successfully been saved
+[01:32:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 has made the advancement [Knowledge of Death]
+[01:32:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 has reached the goal [Here They Come]
+[01:32:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 has reached the goal [Chain Death]
+[01:32:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 was slain by Mangler
+[01:32:50] [Server thread/INFO] [tombstone]: SANDERPRO24 has successfully been saved
+[01:33:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save SkyWars in Vanilla Minecraft by Nixinova
+[01:33:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> xd
+[01:33:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
+[01:33:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 was slain by Mangler
+[01:33:30] [Server thread/INFO] [tombstone]: SANDERPRO24 has successfully been saved
+[01:33:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> te dije
+[01:33:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> no
+[01:33:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ahora estas
+[01:33:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> PERDIDO
+[01:33:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> xq
+[01:33:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> voy a cocinar dejame en paz por un rato
+[01:33:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> hay eso
+[01:33:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save SkyWars in Vanilla Minecraft by Nixinova
+[01:33:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
+[01:33:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> con mi nombre
+[01:33:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> son infestados tuyos
+[01:33:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> dejame los mato
+[01:34:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> mano asi suenan las calles de pueblo nuevo
+[01:34:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
+[01:34:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ahora
+[01:34:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> salte de aca
+[01:34:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> antes de que
+[01:34:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> TE MATE
+[01:34:33] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=fill,ID=air,size=(1,8,1);type=entity,ID=falling_block,posY=#bPosY+7,NBTTag=(Block=iron_block);type=particle,ID=largesmoke,size=(1,2,1),particleAmount=500;type=sound,ID=block.fire.extinguish)@luck=0
+[01:34:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save SkyWars in Vanilla Minecraft by Nixinova
+[01:34:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 was slain by Mangler
+[01:34:36] [Server thread/INFO] [tombstone]: The last known grave of SANDERPRO24 is at location [name:Last Grave, x:-503, y:6, z:7] in the dimension 0
+[01:34:36] [Server thread/INFO] [tombstone]: SANDERPRO24 has successfully been saved
+[01:34:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> te avise
+[01:34:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ahora tu soluciona a ese vicho solo
+[01:34:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> y mi llave
+[01:34:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> si no tienes llave
+[01:35:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ven aca
+[01:35:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> has shift encima de tu tumba
+[01:35:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> y ya
+[01:35:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 has made the advancement [A Strange Grave's Dust]
+[01:35:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 was slain by Feral Human
+[01:35:18] [Server thread/INFO] [tombstone]: SANDERPRO24 has successfully been saved
+[01:35:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save SkyWars in Vanilla Minecraft by Nixinova
+[01:35:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Si
+[01:35:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> mano
+[01:35:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> q cocinas
