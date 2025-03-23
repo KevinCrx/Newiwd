@@ -1,83 +1,83 @@
-[00:45:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[00:45:14] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[00:45:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[00:45:14] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[00:45:14] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.8.0-1021-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[00:45:14] [main/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
-[00:45:14] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in techguns-1.12.2-2.0.2.0_pre3.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[00:45:14] [main/WARN] [FML]: The coremod Techguns Core (techguns.core.TechgunsFMLPlugin) is not signed!
-[00:45:14] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_24.2.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[00:45:14] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
-[00:45:14] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in XaerosWorldMap_1.38.8_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[00:45:14] [main/WARN] [FML]: The coremod XaeroWorldMapPlugin (xaero.map.core.XaeroWorldMapPlugin) is not signed!
-[00:45:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[00:45:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[00:45:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[00:45:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[00:45:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:45:16] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[00:45:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:45:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:45:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:45:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[00:45:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:45:17] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[00:45:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[00:45:17] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
-[00:45:17] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer
-[00:45:17] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
-[00:45:17] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.management.PlayerList
-[00:45:17] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
-[00:45:17] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayer
-[00:45:17] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[00:45:20] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
-[00:45:20] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayerMP
-[00:45:21] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
-[00:45:21] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.storage.SaveFormatOld
-[00:45:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[00:45:21] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[00:45:21] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[00:45:21] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[00:45:21] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[00:45:22] [Server thread/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
-[00:45:23] [Server thread/INFO] [FML]: Forge Mod Loader has identified 15 mods to load
-[00:45:23] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[00:45:23] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, xaeroworldmap_core, techguns_core, waila, jei, lucky, srparasites, techguns, tombstone, xaerominimap, xaeroworldmap] at CLIENT
-[00:45:23] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, xaeroworldmap_core, techguns_core, waila, jei, lucky, srparasites, techguns, tombstone, xaerominimap, xaeroworldmap] at SERVER
-[00:45:25] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[00:45:25] [Server thread/INFO] [FML]: Found 1197 ObjectHolder annotations
-[00:45:25] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[00:45:25] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[00:45:25] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
-[00:45:25] [Server thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.chunk.Chunk
-[00:45:25] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[00:45:25] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[00:45:26] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
-[00:45:26] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[00:45:26] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[00:45:26] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: UP_TO_DATE Target: null
-[00:45:26] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Starting version check at https://raw.githubusercontent.com/pWn3d1337/Techguns2/master/update.json
-[00:45:26] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Found status: AHEAD Target: null
-[00:45:27] [Server thread/INFO] [FML]: Applying holder lookups
-[00:45:27] [Server thread/INFO] [FML]: Holder lookups applied
-[00:45:27] [Server thread/INFO] [FML]: Applying holder lookups
-[00:45:27] [Server thread/INFO] [FML]: Holder lookups applied
-[00:45:28] [Server thread/INFO] [FML]: Applying holder lookups
-[00:45:28] [Server thread/INFO] [FML]: Holder lookups applied
-[00:45:28] [Server thread/INFO] [FML]: Applying holder lookups
-[00:45:28] [Server thread/INFO] [FML]: Holder lookups applied
-[00:45:28] [Server thread/INFO] [FML]: Injecting itemstacks
-[00:45:28] [Server thread/INFO] [FML]: Itemstack injection complete
-[00:45:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[00:45:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[00:45:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[00:45:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[00:45:28] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[00:45:28] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:45:28] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[00:45:28] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:45:28] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:45:28] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual_alt
+[01:16:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:16:02] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:16:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:16:02] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[01:16:02] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.8.0-1021-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[01:16:03] [main/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
+[01:16:03] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in techguns-1.12.2-2.0.2.0_pre3.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:16:03] [main/WARN] [FML]: The coremod Techguns Core (techguns.core.TechgunsFMLPlugin) is not signed!
+[01:16:03] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_24.2.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:16:03] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
+[01:16:03] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in XaerosWorldMap_1.38.8_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:16:03] [main/WARN] [FML]: The coremod XaeroWorldMapPlugin (xaero.map.core.XaeroWorldMapPlugin) is not signed!
+[01:16:03] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:16:03] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:16:03] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:16:03] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:16:03] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:16:06] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[01:16:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:16:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:16:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:16:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:16:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:16:07] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:16:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:16:07] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
+[01:16:07] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer
+[01:16:07] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
+[01:16:07] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.management.PlayerList
+[01:16:07] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
+[01:16:07] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayer
+[01:16:08] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[01:16:11] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
+[01:16:11] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayerMP
+[01:16:14] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
+[01:16:14] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.storage.SaveFormatOld
+[01:16:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[01:16:14] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[01:16:14] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[01:16:14] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[01:16:15] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[01:16:15] [Server thread/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
+[01:16:18] [Server thread/INFO] [FML]: Forge Mod Loader has identified 15 mods to load
+[01:16:18] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[01:16:18] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, xaeroworldmap_core, techguns_core, waila, jei, lucky, srparasites, techguns, tombstone, xaerominimap, xaeroworldmap] at CLIENT
+[01:16:18] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, xaeroworldmap_core, techguns_core, waila, jei, lucky, srparasites, techguns, tombstone, xaerominimap, xaeroworldmap] at SERVER
+[01:16:22] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[01:16:22] [Server thread/INFO] [FML]: Found 1197 ObjectHolder annotations
+[01:16:22] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[01:16:22] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[01:16:22] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
+[01:16:22] [Server thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.chunk.Chunk
+[01:16:22] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[01:16:22] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Starting version check at https://raw.githubusercontent.com/pWn3d1337/Techguns2/master/update.json
+[01:16:24] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
+[01:16:25] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Found status: AHEAD Target: null
+[01:16:25] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[01:16:25] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: UP_TO_DATE Target: null
+[01:16:25] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[01:16:26] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[01:16:26] [Server thread/INFO] [FML]: Applying holder lookups
+[01:16:26] [Server thread/INFO] [FML]: Holder lookups applied
+[01:16:27] [Server thread/INFO] [FML]: Applying holder lookups
+[01:16:27] [Server thread/INFO] [FML]: Holder lookups applied
+[01:16:27] [Server thread/INFO] [FML]: Applying holder lookups
+[01:16:27] [Server thread/INFO] [FML]: Holder lookups applied
+[01:16:27] [Server thread/INFO] [FML]: Applying holder lookups
+[01:16:27] [Server thread/INFO] [FML]: Holder lookups applied
+[01:16:27] [Server thread/INFO] [FML]: Injecting itemstacks
+[01:16:27] [Server thread/INFO] [FML]: Itemstack injection complete
+[01:16:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[01:16:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[01:16:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[01:16:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[01:16:27] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[01:16:28] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:16:28] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[01:16:28] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:16:28] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:16:28] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual_alt
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
@@ -93,7 +93,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[00:45:28] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual
+[01:16:28] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
@@ -109,7 +109,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[00:45:28] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap_alt
+[01:16:28] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap_alt
 com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:254) ~[ShapedOreRecipe.class:?]
@@ -125,7 +125,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[00:45:28] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap
+[01:16:28] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap
 com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:254) ~[ShapedOreRecipe.class:?]
@@ -141,79 +141,119 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[00:45:28] [Server thread/INFO] [FML]: Applying holder lookups
-[00:45:28] [Server thread/INFO] [FML]: Holder lookups applied
-[00:45:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `luckyblockdata`, expected `lucky`. This could be a intended override, but in most cases indicates a broken mod.
-[00:45:28] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[00:45:28] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 1/2 (Server)
-[00:45:28] [Server thread/INFO] [FML]: Injecting itemstacks
-[00:45:28] [Server thread/INFO] [FML]: Itemstack injection complete
-[00:45:28] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
-[00:45:29] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[00:45:29] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 2/2 (Server)
-[00:45:29] [Server thread/INFO] [Waila]: Starting Waila...
-[00:45:29] [Server thread/INFO] [Waila]: Gathering annotated plugins...
-[00:45:29] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
-[00:45:29] [Server thread/INFO] [Waila]: Registering plugins...
-[00:45:29] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
-[00:45:29] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[00:45:29] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
-[00:45:29] [Server thread/INFO] [Waila]: Registering plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
-[00:45:29] [Server thread/INFO] [Waila]: Starting Waila took 34.36 ms
-[00:45:30] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 15 mods
-[00:45:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "SkyWars in Vanilla Minecraft by Nixinova"
-[00:45:30] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:ghostly_shape Expected: 45 Got: 57
-[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:lightning_resistance Expected: 54 Got: 58
-[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:feather_fall Expected: 49 Got: 60
-[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:frost_resistance Expected: 55 Got: 61
-[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:diversion Expected: 48 Got: 62
-[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:exorcism Expected: 52 Got: 63
-[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:bone_shield Expected: 56 Got: 64
-[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:aquatic_life Expected: 58 Got: 65
-[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:unstable_intangibility Expected: 47 Got: 66
-[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:purification Expected: 50 Got: 67
-[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:bait Expected: 57 Got: 68
-[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:preservation Expected: 46 Got: 69
-[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:true_sight Expected: 51 Got: 70
-[00:45:30] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: tombstone:reach Expected: 53 Got: 71
-[00:45:30] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: tombstone:ghost02 Expected: 755 Got: 909
-[00:45:30] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: tombstone:ghost03 Expected: 756 Got: 910
-[00:45:30] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: tombstone:ghost01 Expected: 754 Got: 911
-[00:45:30] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: tombstone:magic_use01 Expected: 753 Got: 912
-[00:45:30] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: tombstone:grave_guardian Expected: 258 Got: 260
-[00:45:30] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: tombstone:spectral_wolf Expected: 259 Got: 261
-[00:45:30] [Server thread/INFO] [FML]: Applying holder lookups
-[00:45:30] [Server thread/INFO] [FML]: Holder lookups applied
-[00:45:30] [Server thread/INFO] [FML]: Loading dimension 0 (SkyWars in Vanilla Minecraft by Nixinova) (net.minecraft.server.dedicated.DedicatedServer@14f61477)
-[00:45:30] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 625 advancements
-[00:45:30] [Server thread/INFO] [FML]: Loading dimension -1 (SkyWars in Vanilla Minecraft by Nixinova) (net.minecraft.server.dedicated.DedicatedServer@14f61477)
-[00:45:30] [Server thread/INFO] [FML]: Loading dimension 1 (SkyWars in Vanilla Minecraft by Nixinova) (net.minecraft.server.dedicated.DedicatedServer@14f61477)
-[00:45:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[00:45:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (1.707s)! For help, type "help" or "?"
-[00:45:32] [Server thread/INFO] [FML]: Unloading dimension -1
-[00:45:32] [Server thread/INFO] [FML]: Unloading dimension 1
-[00:45:36] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[00:45:36] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[00:45:36] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[00:45:36] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[00:45:36] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[00:45:36] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,lucky@7.6.0,FML@8.0.99.99,tombstone@4.7.5,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1012,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,techguns_core@1.12.2-1.0,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,techguns@2.0.2.0
-[00:45:37] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:45:37] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KevinCrax[/127.183.80.232:52913] logged in with entity id 169 at (-446.3122226131349, 4.0, -93.3664855456844)
-[00:45:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax joined the game
-[00:45:38] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KevinCrax'/169, l='SkyWars in Vanilla Minecraft by Nixinova', x=-446.31, y=4.00, z=-93.37] connected. Sending ping
-[00:51:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax has made the advancement [Knowledge of Death]
-[00:51:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax has made the advancement [Neighborhood Brawl]
-[00:52:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Set the time to 0]
-[00:52:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Set game difficulty to Peaceful]
-[00:52:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Set game difficulty to Easy]
-[00:53:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[00:53:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[00:53:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[00:53:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[00:53:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[00:53:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[00:53:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'SkyWars in Vanilla Minecraft by Nixinova'/overworld
-[00:53:23] [Server thread/INFO] [FML]: Unloading dimension 0
-[00:53:23] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:16:28] [Server thread/INFO] [FML]: Applying holder lookups
+[01:16:28] [Server thread/INFO] [FML]: Holder lookups applied
+[01:16:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `luckyblockdata`, expected `lucky`. This could be a intended override, but in most cases indicates a broken mod.
+[01:16:28] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[01:16:28] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 1/2 (Server)
+[01:16:28] [Server thread/INFO] [FML]: Injecting itemstacks
+[01:16:28] [Server thread/INFO] [FML]: Itemstack injection complete
+[01:16:29] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
+[01:16:29] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[01:16:29] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 2/2 (Server)
+[01:16:29] [Server thread/INFO] [Waila]: Starting Waila...
+[01:16:29] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[01:16:29] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[01:16:29] [Server thread/INFO] [Waila]: Registering plugins...
+[01:16:29] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[01:16:29] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[01:16:29] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[01:16:29] [Server thread/INFO] [Waila]: Registering plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
+[01:16:29] [Server thread/INFO] [Waila]: Starting Waila took 121.5 ms
+[01:16:31] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 15 mods
+[01:16:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "SkyWars in Vanilla Minecraft by Nixinova"
+[01:16:31] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[01:16:31] [Server thread/INFO] [FML]: Applying holder lookups
+[01:16:31] [Server thread/INFO] [FML]: Holder lookups applied
+[01:16:32] [Server thread/INFO] [FML]: Loading dimension 0 (SkyWars in Vanilla Minecraft by Nixinova) (net.minecraft.server.dedicated.DedicatedServer@6126a5cf)
+[01:16:33] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 625 advancements
+[01:16:33] [Server thread/INFO] [FML]: Loading dimension -1 (SkyWars in Vanilla Minecraft by Nixinova) (net.minecraft.server.dedicated.DedicatedServer@6126a5cf)
+[01:16:33] [Server thread/INFO] [FML]: Loading dimension 1 (SkyWars in Vanilla Minecraft by Nixinova) (net.minecraft.server.dedicated.DedicatedServer@6126a5cf)
+[01:16:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[01:16:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 26%
+[01:16:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (4.487s)! For help, type "help" or "?"
+[01:16:35] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:16:35] [Server thread/INFO] [FML]: Unloading dimension 1
+[01:17:34] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[01:17:34] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[01:17:34] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[01:17:34] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[01:17:34] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[01:17:34] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,lucky@7.6.0,FML@8.0.99.99,tombstone@4.7.5,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1012,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,techguns_core@1.12.2-1.0,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,techguns@2.0.2.0
+[01:17:35] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:17:35] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KevinCrax[/127.82.162.188:39695] logged in with entity id 127 at (-452.32226671172, 7.0, -98.60217600115313)
+[01:17:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax joined the game
+[01:17:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax has reached the goal [Easter]
+[01:17:35] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KevinCrax'/127, l='SkyWars in Vanilla Minecraft by Nixinova', x=-452.32, y=7.00, z=-98.60] connected. Sending ping
+[01:20:15] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[01:20:15] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,lucky@7.6.0,FML@8.0.99.99,tombstone@4.7.5,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1012,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,techguns_core@1.12.2-1.0,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,techguns@2.0.2.0
+[01:20:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:20:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SANDERPRO24[/127.156.241.189:59959] logged in with entity id 925748 at (-485.69999998807907, 4.0, -71.24905266948966)
+[01:20:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 joined the game
+[01:20:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 has reached the goal [Easter]
+[01:20:16] [Server thread/INFO] [Waila]: Player EntityPlayerMP['SANDERPRO24'/925748, l='SkyWars in Vanilla Minecraft by Nixinova', x=-485.70, y=4.00, z=-71.25] connected. Sending ping
+[01:20:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> oal
+[01:20:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> como stai
+[01:20:57] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: ID=splash_potion,NBTTag=(Potion="harming",CustomPotionEffects=#unluckyPotionEffects,display=(Name="$4$lEvil Potion"))@luck=1
+[01:21:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SANDERPRO24 lost connection: Timed out
+[01:21:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 left the game
+[01:21:34] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[01:21:34] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,lucky@7.6.0,FML@8.0.99.99,tombstone@4.7.5,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1012,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,techguns_core@1.12.2-1.0,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,techguns@2.0.2.0
+[01:21:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:21:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SANDERPRO24[/127.156.241.189:55275] logged in with entity id 1419653 at (-485.69999998807907, 4.0, -71.09141722035412)
+[01:21:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 joined the game
+[01:21:36] [Server thread/INFO] [Waila]: Player EntityPlayerMP['SANDERPRO24'/1419653, l='SkyWars in Vanilla Minecraft by Nixinova', x=-485.70, y=4.00, z=-71.09] connected. Sending ping
+[01:21:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> epico
+[01:21:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Epicardo
+[01:21:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Jason
+[01:21:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> mira
+[01:22:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SANDERPRO24 lost connection: Timed out
+[01:22:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 left the game
+[01:22:50] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[01:22:50] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,lucky@7.6.0,FML@8.0.99.99,tombstone@4.7.5,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1012,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,techguns_core@1.12.2-1.0,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,techguns@2.0.2.0
+[01:22:51] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:22:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SANDERPRO24[/127.156.241.189:39143] logged in with entity id 1865453 at (-485.69999998807907, 4.0, -71.09141722035412)
+[01:22:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 joined the game
+[01:22:51] [Server thread/INFO] [Waila]: Player EntityPlayerMP['SANDERPRO24'/1865453, l='SkyWars in Vanilla Minecraft by Nixinova', x=-485.70, y=4.00, z=-71.09] connected. Sending ping
+[01:22:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> epico
+[01:22:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> JASON
+[01:23:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> TU INTERNET ES DE LA NASA
+[01:23:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> XD
+[01:23:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> ya se arreglo
+[01:23:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ah ya
+[01:23:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> por cierto
+[01:23:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> tienes tu
+[01:23:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> eh
+[01:23:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> pocion
+[01:23:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> No la quieres ?
+[01:24:00] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=effect,ID=23,range=4,amplifier=3,duration=600;type=particle,ID=splashpotion,potion="strength";type=block,ID=cake;type=item,ID=#randList(apple,baked_potato,bread,carrot,cooked_chicken,cooked_fish,cooked_mutton,cooked_porkchop,cooked_beef,cooked_rabbit,cookie,golden_apple,golden_carrot,melon,mushroom_stew,potato,pumpkin_pie,rabbit_stew,beef,fish,mutton,porkchop),amount=20)@luck=2
+[01:24:02] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=effect,ID=1,range=4,amplifier=2,duration=600;type=particle,ID=splashpotion,potion="swiftness";type=item,ID=#randList(cookie,sugar),posOffset=#circleOffset(0.0,2.0),amount=30)@luck=2
+[01:24:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> no la quieeeeres ?
+[01:24:10] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=effect,ID=23,range=4,amplifier=3,duration=600;type=particle,ID=splashpotion,potion="strength";type=block,ID=cake;type=item,ID=#randList(apple,baked_potato,bread,carrot,cooked_chicken,cooked_fish,cooked_mutton,cooked_porkchop,cooked_beef,cooked_rabbit,cookie,golden_apple,golden_carrot,melon,mushroom_stew,potato,pumpkin_pie,rabbit_stew,beef,fish,mutton,porkchop),amount=20)@luck=2
+[01:24:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> jason
+[01:24:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> si manu
+[01:24:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <SANDERPRO24> XDDDDDDDDDDDD
+[01:24:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
+[01:24:43] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=effect,ID=special_knockback,power=2.5,range=4,delay=0.1;type=particle,ID=splashpotion,potion="swiftness";type=particle,ID=explode,size=(1.5,1.0,1.5),particleAmount=500)@luck=-2
+[01:24:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> creo que
+[01:24:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> no era muy buena la pocion
+[01:24:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
+[01:24:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 withered away
+[01:24:49] [Server thread/INFO] [tombstone]: The last known grave of SANDERPRO24 is at location [name:Last Grave, x:-476, y:4, z:-57] in the dimension 0
+[01:24:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 has made the advancement [Your First Grave]
+[01:24:50] [Server thread/INFO] [tombstone]: SANDERPRO24 has successfully been saved
+[01:24:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> JKSAKJSKJA
+[01:25:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SANDERPRO24 lost connection: Timed out
+[01:25:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 left the game
+[01:25:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> viste que si era util ?
+[01:25:28] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[01:25:28] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,lucky@7.6.0,FML@8.0.99.99,tombstone@4.7.5,srparasites@1.9.21,xaerominimap_core@1.12.2-1.0,waila@1.8.26,jei@4.16.1.1012,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,techguns_core@1.12.2-1.0,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,techguns@2.0.2.0
+[01:25:29] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:25:29] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SANDERPRO24[/127.156.241.189:56263] logged in with entity id 2806740 at (-473.7631116193312, 4.0, -57.72182442575857)
+[01:25:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SANDERPRO24 joined the game
+[01:25:29] [Server thread/INFO] [Waila]: Player EntityPlayerMP['SANDERPRO24'/2806740, l='SkyWars in Vanilla Minecraft by Nixinova', x=-473.76, y=4.00, z=-57.72] connected. Sending ping
+[01:25:34] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=effect,ID=18,range=4,duration=30;type=particle,ID=splashpotion,potion="weakness";type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0.0,2.0),amount=#rand(7,10))@luck=-2
+[01:25:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Viste que si era util el mod ?
+[01:25:48] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=effect,ID=19,range=4,duration=30;type=particle,ID=splashpotion,potion="poison";type=difficulty,ID=hard;type=entity,ID=cave_spider;type=item,ID=#randList(rotten_flesh,spider_eye,fermented_spider_eye),posOffset=#circleOffset(0.0,2.0),amount=30)@luck=-2
+[01:25:51] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=effect,ID=7,range=4;type=particle,ID=splashpotion,potion="harming";type=entity,ID=lucky:LuckyProjectile,NBTTag=(Motion=#motionFromDirection(#rand(0,360),-50,0.4),item=(id=iron_sword),damage=4.0),amount=20)@luck=-2
+[01:25:54] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=entity,ID=potion,NBTTag=(Potion=(id=splash_potion,tag=(Potion=#randList("slowness","harming","poison","weakness")),Count=1),Motion=#motionFromDirection(#rand(0,360),-70,0.4)),amount=10)@luck=-2
