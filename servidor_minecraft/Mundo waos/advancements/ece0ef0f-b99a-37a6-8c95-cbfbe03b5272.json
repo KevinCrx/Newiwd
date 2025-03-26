@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-03-26 00:36:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-03-23 22:09:54 +0000"
@@ -250,7 +256,8 @@
       "apple": "2025-03-23 21:29:44 +0000",
       "cooked_cod": "2025-03-23 22:45:17 +0000",
       "bread": "2025-03-23 21:54:10 +0000",
-      "rotten_flesh": "2025-03-26 00:20:39 +0000"
+      "rotten_flesh": "2025-03-26 00:20:39 +0000",
+      "cooked_salmon": "2025-03-26 00:36:24 +0000"
     },
     "done": false
   },
@@ -497,9 +504,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-03-26 00:36:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-23 21:26:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-26 00:31:13 +0000"
     },
     "done": true
   },
@@ -701,6 +720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-03-26 00:36:31 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_sacred_oak": {
     "criteria": {
       "entered_water": "2025-03-23 21:27:27 +0000"
@@ -851,6 +876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-03-26 00:36:31 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "yellow_flower": "2025-03-23 22:54:24 +0000",
@@ -930,6 +961,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-26 00:31:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2025-03-23 21:50:43 +0000"
@@ -1004,6 +1041,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "birch_forest": "2025-03-26 00:38:40 +0000",
       "deep_ocean": "2025-03-23 21:27:31 +0000",
       "ocean": "2025-03-23 22:52:14 +0000"
     },
