@@ -704,6 +704,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2025-03-26 00:02:51 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
     "criteria": {
       "has_gravel": "2025-03-23 21:26:07 +0000"
@@ -801,6 +807,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-03-23 22:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2025-03-26 00:08:53 +0000"
     },
     "done": true
   },
@@ -1007,6 +1019,12 @@
       "coded_trigger": "2025-03-23 21:45:43 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie": "2025-03-26 00:02:51 +0000"
+    },
+    "done": false
   },
   "tombstone:tutorial/easter": {
     "criteria": {

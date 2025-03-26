@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_fir": {
+    "criteria": {
+      "entered_water": "2025-03-26 00:04:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-03-23 19:53:57 +0000"
@@ -137,15 +143,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2025-03-26 00:02:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-03-23 21:26:36 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_sacred_oak": {
+    "criteria": {
+      "entered_water": "2025-03-26 00:04:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-03-26 00:11:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-03-23 21:29:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_pine": {
+    "criteria": {
+      "entered_water": "2025-03-26 00:04:22 +0000"
     },
     "done": true
   },
@@ -203,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2025-03-26 00:04:22 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/wooden_pressure_plate_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2025-03-23 19:53:57 +0000"
@@ -239,6 +275,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_ethereal": {
+    "criteria": {
+      "entered_water": "2025-03-26 00:04:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-23 19:25:05 +0000"
@@ -251,9 +293,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_cherry": {
+    "criteria": {
+      "entered_water": "2025-03-26 00:04:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log2": "2025-03-23 21:26:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/first_blood": {
+    "criteria": {
+      "flower": "2025-03-26 00:06:16 +0000"
     },
     "done": true
   },
@@ -329,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-03-26 00:02:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-03-25 23:53:17 +0000"
@@ -338,6 +398,13 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-03-25 23:53:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "yellow_flower": "2025-03-26 00:11:23 +0000",
+      "red_flower": "2025-03-26 00:11:23 +0000"
     },
     "done": true
   },
@@ -371,6 +438,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_ebony": {
+    "criteria": {
+      "entered_water": "2025-03-26 00:04:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_hellbark": {
+    "criteria": {
+      "entered_water": "2025-03-26 00:04:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2025-03-23 19:53:57 +0000"
@@ -380,6 +459,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-03-23 21:26:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_mangrove": {
+    "criteria": {
+      "entered_water": "2025-03-26 00:04:22 +0000"
     },
     "done": true
   },
@@ -410,6 +495,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2025-03-25 23:53:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_eucalyptus": {
+    "criteria": {
+      "entered_water": "2025-03-26 00:04:22 +0000"
     },
     "done": true
   },
@@ -467,6 +558,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_mahogany": {
+    "criteria": {
+      "entered_water": "2025-03-26 00:04:22 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/root": {
     "criteria": {
       "auto": "2025-03-23 19:24:40 +0000"
@@ -497,6 +594,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2025-03-26 00:04:23 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
     "criteria": {
       "has_gravel": "2025-03-23 19:25:05 +0000"
@@ -523,6 +626,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "maple_woods": "2025-03-26 00:04:16 +0000",
+      "coral_reef": "2025-03-26 00:04:14 +0000",
       "seasonal_forest": "2025-03-23 19:24:40 +0000",
       "gravel_beach": "2025-03-23 19:24:51 +0000"
     },
@@ -571,6 +676,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2025-03-26 00:08:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-03-23 21:26:36 +0000"
@@ -595,6 +706,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2025-03-26 00:04:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-03-23 21:28:35 +0000"
@@ -604,6 +721,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-03-23 19:53:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_willow": {
+    "criteria": {
+      "entered_water": "2025-03-26 00:04:22 +0000"
     },
     "done": true
   },
@@ -637,6 +760,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2025-03-26 00:04:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-03-23 21:28:35 +0000"
@@ -649,15 +778,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_redwood": {
+    "criteria": {
+      "entered_water": "2025-03-26 00:04:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-03-23 21:33:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2025-03-26 00:04:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-03-25 23:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2025-03-26 00:04:22 +0000"
     },
     "done": true
   },
@@ -691,9 +838,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2025-03-26 00:04:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-03-25 23:53:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_jacaranda": {
+    "criteria": {
+      "entered_water": "2025-03-26 00:04:22 +0000"
     },
     "done": true
   },
@@ -703,11 +862,23 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_umbran": {
+    "criteria": {
+      "entered_water": "2025-03-26 00:04:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-03-23 21:28:52 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie": "2025-03-26 00:04:23 +0000"
+    },
+    "done": false
   },
   "tombstone:tutorial/easter": {
     "criteria": {
@@ -769,6 +940,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_magic": {
+    "criteria": {
+      "entered_water": "2025-03-26 00:04:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-03-23 21:28:52 +0000"
@@ -778,6 +955,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-03-23 21:29:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_palm": {
+    "criteria": {
+      "entered_water": "2025-03-26 00:04:22 +0000"
     },
     "done": true
   },
