@@ -1,82 +1,82 @@
-[00:57:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[00:57:26] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[00:57:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[00:57:26] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[00:57:26] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.8.0-1021-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[00:57:26] [main/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
-[00:57:26] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[00:57:26] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[00:57:26] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
-[00:57:26] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from MyServerIsCompatible-1.12.2-1.0.jar
-[00:57:26] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in techguns-1.12.2-2.0.2.0_pre3.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[00:57:26] [main/WARN] [FML]: The coremod Techguns Core (techguns.core.TechgunsFMLPlugin) is not signed!
-[00:57:26] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_24.2.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[00:57:26] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
-[00:57:26] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in XaerosWorldMap_1.38.8_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[00:57:26] [main/WARN] [FML]: The coremod XaeroWorldMapPlugin (xaero.map.core.XaeroWorldMapPlugin) is not signed!
-[00:57:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[00:57:26] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[00:57:26] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/Newiwd/servidor_minecraft/./mods/MyServerIsCompatible-1.12.2-1.0.jar Service=LaunchWrapper Env=SERVER
-[00:57:26] [main/WARN] [FML]: The coremod com.focamacho.myserveriscompatible.asm.MSICCoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[00:57:26] [main/WARN] [FML]: The coremod MSICCoreMod (com.focamacho.myserveriscompatible.asm.MSICCoreMod) is not signed!
-[00:57:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[00:57:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[00:57:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[00:57:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:57:28] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[00:57:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:57:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:57:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:57:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:57:29] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[00:57:29] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[00:57:29] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@1d3e6d34
-[00:57:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[00:57:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:57:29] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[00:57:29] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[00:57:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[00:57:29] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[00:57:29] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
-[00:57:29] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer
-[00:57:29] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
-[00:57:29] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.management.PlayerList
-[00:57:29] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
-[00:57:29] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayer
-[00:57:29] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[00:57:31] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
-[00:57:31] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayerMP
-[00:57:33] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
-[00:57:33] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.storage.SaveFormatOld
-[00:57:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[00:57:33] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[00:57:33] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[00:57:34] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[00:57:34] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[00:57:34] [Server thread/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
-[00:57:36] [Server thread/INFO] [FML]: Forge Mod Loader has identified 27 mods to load
-[00:57:36] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[00:57:36] [Server thread/WARN] [FML]: Missing English translation for msic: assets/msic/lang/en_us.lang
-[00:57:36] [Server thread/WARN] [FML]: Missing English translation for teamlapen-lib: assets/teamlapen-lib/lang/en_us.lang
-[00:57:36] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, xaerominimap_core, xaeroworldmap_core, techguns_core, actuallyadditions, biomesoplenty, creativecore, ebwizardry, howlingmoon, waila, jei, lucky, lycanitesmobs, msic, playerrevive, srparasites, techguns, tombstone, teamlapen-lib, vampirism, xaerominimap, xaeroworldmap, xpbook] at CLIENT
-[00:57:36] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, xaerominimap_core, xaeroworldmap_core, techguns_core, actuallyadditions, biomesoplenty, creativecore, ebwizardry, howlingmoon, waila, jei, lucky, lycanitesmobs, msic, playerrevive, srparasites, techguns, tombstone, teamlapen-lib, vampirism, xaerominimap, xaeroworldmap, xpbook] at SERVER
-[00:57:39] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[00:57:39] [Server thread/INFO] [FML]: Found 1918 ObjectHolder annotations
-[00:57:39] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[00:57:39] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[00:57:39] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
-[00:57:39] [Server thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.chunk.Chunk
-[00:57:39] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[00:57:39] [Forge Version Check/INFO] [forge.VersionCheck]: [vampirism] Starting version check at https://maxanier.de/projects/vampirism/versions.json
-[00:57:39] [Server thread/INFO] [Actually Additions]: Starting PreInitialization Phase...
-[00:57:39] [Server thread/INFO] [Actually Additions]: Grabbing Configurations...
-[00:57:39] [Server thread/INFO] [Actually Additions]: Initializing Tool Materials...
-[00:57:39] [Server thread/INFO] [Actually Additions]: Initializing Armor Materials...
-[00:57:39] [Server thread/INFO] [Actually Additions]: Initializing Update Checker...
-[00:57:39] [Actually Additions Update Checker/INFO] [Actually Additions]: Starting Update Check...
-[00:57:39] [Server thread/INFO] [Actually Additions]: PreInitializing ServerProxy...
-[00:57:39] [Server thread/INFO] [Actually Additions]: PreInitialization Finished.
-[00:57:40] [Actually Additions Update Checker/ERROR] [Actually Additions]: Update Check failed!
+[02:29:15] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:29:15] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:29:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:29:15] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[02:29:15] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.8.0-1021-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[02:29:18] [main/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
+[02:29:18] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[02:29:18] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[02:29:18] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[02:29:18] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from MyServerIsCompatible-1.12.2-1.0.jar
+[02:29:18] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in techguns-1.12.2-2.0.2.0_pre3.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[02:29:18] [main/WARN] [FML]: The coremod Techguns Core (techguns.core.TechgunsFMLPlugin) is not signed!
+[02:29:18] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_24.2.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[02:29:18] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
+[02:29:18] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in XaerosWorldMap_1.38.8_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[02:29:18] [main/WARN] [FML]: The coremod XaeroWorldMapPlugin (xaero.map.core.XaeroWorldMapPlugin) is not signed!
+[02:29:18] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[02:29:18] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[02:29:18] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/Newiwd/servidor_minecraft/./mods/MyServerIsCompatible-1.12.2-1.0.jar Service=LaunchWrapper Env=SERVER
+[02:29:18] [main/WARN] [FML]: The coremod com.focamacho.myserveriscompatible.asm.MSICCoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[02:29:18] [main/WARN] [FML]: The coremod MSICCoreMod (com.focamacho.myserveriscompatible.asm.MSICCoreMod) is not signed!
+[02:29:18] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[02:29:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[02:29:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[02:29:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:29:21] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[02:29:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:29:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:29:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:29:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:29:22] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[02:29:22] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[02:29:22] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@1d3e6d34
+[02:29:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[02:29:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:29:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[02:29:23] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[02:29:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[02:29:23] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[02:29:23] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
+[02:29:23] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer
+[02:29:23] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
+[02:29:23] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.management.PlayerList
+[02:29:23] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
+[02:29:23] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayer
+[02:29:23] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[02:29:26] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
+[02:29:26] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayerMP
+[02:29:29] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
+[02:29:29] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.storage.SaveFormatOld
+[02:29:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[02:29:29] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[02:29:29] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[02:29:30] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[02:29:30] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[02:29:31] [Server thread/INFO] [FML]: Searching /workspaces/Newiwd/servidor_minecraft/./mods for mods
+[02:29:34] [Server thread/INFO] [FML]: Forge Mod Loader has identified 27 mods to load
+[02:29:34] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[02:29:34] [Server thread/WARN] [FML]: Missing English translation for msic: assets/msic/lang/en_us.lang
+[02:29:34] [Server thread/WARN] [FML]: Missing English translation for teamlapen-lib: assets/teamlapen-lib/lang/en_us.lang
+[02:29:34] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, xaerominimap_core, xaeroworldmap_core, techguns_core, actuallyadditions, biomesoplenty, creativecore, ebwizardry, howlingmoon, waila, jei, lucky, lycanitesmobs, msic, playerrevive, srparasites, techguns, tombstone, teamlapen-lib, vampirism, xaerominimap, xaeroworldmap, xpbook] at CLIENT
+[02:29:34] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, xaerominimap_core, xaeroworldmap_core, techguns_core, actuallyadditions, biomesoplenty, creativecore, ebwizardry, howlingmoon, waila, jei, lucky, lycanitesmobs, msic, playerrevive, srparasites, techguns, tombstone, teamlapen-lib, vampirism, xaerominimap, xaeroworldmap, xpbook] at SERVER
+[02:29:39] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[02:29:39] [Server thread/INFO] [FML]: Found 1918 ObjectHolder annotations
+[02:29:39] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[02:29:39] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[02:29:40] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
+[02:29:40] [Server thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.chunk.Chunk
+[02:29:40] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[02:29:40] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[02:29:40] [Server thread/INFO] [Actually Additions]: Starting PreInitialization Phase...
+[02:29:40] [Server thread/INFO] [Actually Additions]: Grabbing Configurations...
+[02:29:40] [Server thread/INFO] [Actually Additions]: Initializing Tool Materials...
+[02:29:40] [Server thread/INFO] [Actually Additions]: Initializing Armor Materials...
+[02:29:40] [Server thread/INFO] [Actually Additions]: Initializing Update Checker...
+[02:29:40] [Server thread/INFO] [Actually Additions]: PreInitializing ServerProxy...
+[02:29:40] [Server thread/INFO] [Actually Additions]: PreInitialization Finished.
+[02:29:40] [Actually Additions Update Checker/INFO] [Actually Additions]: Starting Update Check...
+[02:29:41] [Actually Additions Update Checker/ERROR] [Actually Additions]: Update Check failed!
 java.io.FileNotFoundException: https://raw.githubusercontent.com/Ellpeck/ActuallyAdditions/main/update/updateVersions.properties
 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1913) ~[?:1.8.0_432]
 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92) ~[?:1.8.0_432]
@@ -88,115 +88,115 @@ java.io.FileNotFoundException: https://raw.githubusercontent.com/Ellpeck/Actuall
 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268) ~[?:1.8.0_432]
 	at java.net.URL.openStream(URL.java:1093) ~[?:1.8.0_432]
 	at de.ellpeck.actuallyadditions.mod.update.ThreadUpdateChecker.run(ThreadUpdateChecker.java:35) [ThreadUpdateChecker.class:?]
-[00:57:40] [Forge Version Check/INFO] [forge.VersionCheck]: [vampirism] Found status: UP_TO_DATE Target: null
-[00:57:40] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Starting version check at https://raw.githubusercontent.com/pWn3d1337/Techguns2/master/update.json
-[00:57:40] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Found status: AHEAD Target: null
-[00:57:40] [Forge Version Check/INFO] [forge.VersionCheck]: [ebwizardry] Starting version check at https://github.com/Electroblob77/Wizardry/blob/1.12.2/.forge/update.json
-[00:57:41] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[00:57:41] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[00:57:41] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[00:57:41] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: UP_TO_DATE Target: null
-[00:57:41] [Server thread/INFO] [ebwizardry]: Setting up main config
-[00:57:42] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config version created successfully.
-[00:57:42] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config general created successfully.
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config itemlists created successfully.
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item pale_soup from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_arisaur_meat from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_yale_meat from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_silex_meat from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item explorers_risotto from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_silex_meat from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item searing_taco from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_pinky_meat from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_bobeko_meat from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_pinky_meat from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_ika_meat from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item paleo_salad from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_chupacabra_meat from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item tropical_curry from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_cephignis_meat from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_ika_meat from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item devil_lasagna from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_chupacabra_meat from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item battle_burrito from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_aspid_meat from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_aspid_meat from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item blood_chili from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item bulwark_burger from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_maka_meat from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item seashell_maki from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item amber_cake from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_arisaur_meat from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_concapede_meat from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item lapis_fish_and_chips from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item caecilian_ramen from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_concapede_meat from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item peaks_kebab from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_krake_meat from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_joust_meat from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_maka_meat from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_krake_meat from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_joust_meat from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_yale_meat from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item moss_pie from JSON...
-[00:57:43] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_bobeko_meat from JSON...
-[00:57:43] [Server thread/INFO] [STDERR]: [com.lycanitesmobs.LycanitesMobs:logWarning:302]: [LycanitesMobs] [WARNING] [] Another fluid was registered as poison
-[00:57:43] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xtile.air@32767 = 6xitem.sugar@0
-[00:57:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.summoningpedestal`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
-[00:57:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipmentforge`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
-[00:57:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipment_infuser`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
-[00:57:44] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipment_station`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
-[00:57:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config spawning created successfully.
-[00:57:45] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.AgeableCreatureEntity
-[00:57:45] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.AgeableCreatureEntity
-[00:57:45] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
-[00:57:45] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
-[00:57:45] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
-[00:57:45] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
-[00:57:46] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 90 JSON Spawners...
-[00:57:46] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 90 JSON Spawners Loaded In Total.
-[00:57:46] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config mobevents created successfully.
-[00:57:46] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config worldgen created successfully.
-[00:57:46] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 8 JSON Dungeon Themes...
-[00:57:46] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 8 JSON Dungeon Themes Loaded In Total.
-[00:57:46] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 1 JSON Dungeon Structures...
-[00:57:46] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 1 JSON Dungeon Structures Loaded In Total.
-[00:57:46] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 14 JSON Dungeon Sectors...
-[00:57:46] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 14 JSON Dungeon Sectors Loaded In Total.
-[00:57:46] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 9 JSON Dungeon Schematics...
-[00:57:46] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 9 JSON Dungeon Schematics Loaded In Total.
-[00:57:47] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
-[00:57:47] [Server thread/INFO] [vampirism]: [Configs]Loaded configuration
-[00:57:47] [Server thread/INFO] [vampirism]: [Balance]Loaded balance configuration
-[00:57:48] [Server thread/INFO] [Actually Additions]: Initializing Blocks...
-[00:57:48] [Server thread/INFO] [FML]: Applying holder lookups
-[00:57:48] [Server thread/INFO] [FML]: Holder lookups applied
-[00:57:48] [Server thread/INFO] [Actually Additions]: Initializing Items...
-[00:57:48] [Server thread/INFO] [Actually Additions]: Initializing OreDictionary Entries...
-[00:57:48] [Server thread/INFO] [FML]: Applying holder lookups
-[00:57:48] [Server thread/INFO] [FML]: Holder lookups applied
-[00:57:49] [Server thread/WARN] [vampirism]: [NightVision]-------Please ignore the following error!------
-[00:57:49] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `night_vision`, expected `vampirism`. This could be a intended override, but in most cases indicates a broken mod.
-[00:57:49] [Server thread/WARN] [vampirism]: [NightVision]-----------------------------------------------
-[00:57:49] [Server thread/INFO] [Actually Additions]: Initializing Village Addons...
-[00:57:49] [Server thread/INFO] [FML]: Applying holder lookups
-[00:57:49] [Server thread/INFO] [FML]: Holder lookups applied
-[00:57:49] [Server thread/INFO] [FML]: Applying holder lookups
-[00:57:49] [Server thread/INFO] [FML]: Holder lookups applied
-[00:57:49] [Server thread/INFO] [FML]: Applying holder lookups
-[00:57:49] [Server thread/INFO] [FML]: Holder lookups applied
-[00:57:49] [Server thread/INFO] [FML]: Injecting itemstacks
-[00:57:49] [Server thread/INFO] [FML]: Itemstack injection complete
-[00:57:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[00:57:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[00:57:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[00:57:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[00:57:49] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[00:57:50] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:57:50] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[00:57:50] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:57:50] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:57:50] [Server thread/ERROR] [FML]: Parsing error loading recipe lycanitesmobs:belpharm_break
+[02:29:41] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[02:29:41] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[02:29:41] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: UP_TO_DATE Target: null
+[02:29:41] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Starting version check at https://raw.githubusercontent.com/pWn3d1337/Techguns2/master/update.json
+[02:29:41] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Found status: AHEAD Target: null
+[02:29:41] [Forge Version Check/INFO] [forge.VersionCheck]: [vampirism] Starting version check at https://maxanier.de/projects/vampirism/versions.json
+[02:29:42] [Forge Version Check/INFO] [forge.VersionCheck]: [vampirism] Found status: UP_TO_DATE Target: null
+[02:29:42] [Forge Version Check/INFO] [forge.VersionCheck]: [ebwizardry] Starting version check at https://github.com/Electroblob77/Wizardry/blob/1.12.2/.forge/update.json
+[02:29:43] [Server thread/INFO] [ebwizardry]: Setting up main config
+[02:29:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config version created successfully.
+[02:29:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config general created successfully.
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config itemlists created successfully.
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item pale_soup from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_arisaur_meat from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_yale_meat from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_silex_meat from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item explorers_risotto from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_silex_meat from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item searing_taco from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_pinky_meat from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_bobeko_meat from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_pinky_meat from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_ika_meat from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item paleo_salad from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_chupacabra_meat from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item tropical_curry from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_cephignis_meat from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_ika_meat from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item devil_lasagna from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_chupacabra_meat from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item battle_burrito from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_aspid_meat from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_aspid_meat from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item blood_chili from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item bulwark_burger from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_maka_meat from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item seashell_maki from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item amber_cake from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_arisaur_meat from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_concapede_meat from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item lapis_fish_and_chips from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item caecilian_ramen from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_concapede_meat from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item peaks_kebab from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_krake_meat from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_joust_meat from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_maka_meat from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_krake_meat from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_joust_meat from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_yale_meat from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item moss_pie from JSON...
+[02:29:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_bobeko_meat from JSON...
+[02:29:45] [Server thread/INFO] [STDERR]: [com.lycanitesmobs.LycanitesMobs:logWarning:302]: [LycanitesMobs] [WARNING] [] Another fluid was registered as poison
+[02:29:45] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xtile.air@32767 = 6xitem.sugar@0
+[02:29:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.summoningpedestal`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
+[02:29:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipmentforge`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
+[02:29:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipment_infuser`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
+[02:29:47] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipment_station`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
+[02:29:47] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config spawning created successfully.
+[02:29:48] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.AgeableCreatureEntity
+[02:29:48] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.AgeableCreatureEntity
+[02:29:48] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
+[02:29:48] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
+[02:29:48] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
+[02:29:48] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
+[02:29:49] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 90 JSON Spawners...
+[02:29:49] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 90 JSON Spawners Loaded In Total.
+[02:29:49] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config mobevents created successfully.
+[02:29:49] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config worldgen created successfully.
+[02:29:49] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 8 JSON Dungeon Themes...
+[02:29:49] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 8 JSON Dungeon Themes Loaded In Total.
+[02:29:49] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 1 JSON Dungeon Structures...
+[02:29:49] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 1 JSON Dungeon Structures Loaded In Total.
+[02:29:49] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 14 JSON Dungeon Sectors...
+[02:29:49] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 14 JSON Dungeon Sectors Loaded In Total.
+[02:29:49] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 9 JSON Dungeon Schematics...
+[02:29:49] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 9 JSON Dungeon Schematics Loaded In Total.
+[02:29:50] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
+[02:29:51] [Server thread/INFO] [vampirism]: [Configs]Loaded configuration
+[02:29:51] [Server thread/INFO] [vampirism]: [Balance]Loaded balance configuration
+[02:29:52] [Server thread/INFO] [Actually Additions]: Initializing Blocks...
+[02:29:52] [Server thread/INFO] [FML]: Applying holder lookups
+[02:29:52] [Server thread/INFO] [FML]: Holder lookups applied
+[02:29:53] [Server thread/INFO] [Actually Additions]: Initializing Items...
+[02:29:53] [Server thread/INFO] [Actually Additions]: Initializing OreDictionary Entries...
+[02:29:53] [Server thread/INFO] [FML]: Applying holder lookups
+[02:29:53] [Server thread/INFO] [FML]: Holder lookups applied
+[02:29:54] [Server thread/WARN] [vampirism]: [NightVision]-------Please ignore the following error!------
+[02:29:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `night_vision`, expected `vampirism`. This could be a intended override, but in most cases indicates a broken mod.
+[02:29:54] [Server thread/WARN] [vampirism]: [NightVision]-----------------------------------------------
+[02:29:54] [Server thread/INFO] [Actually Additions]: Initializing Village Addons...
+[02:29:54] [Server thread/INFO] [FML]: Applying holder lookups
+[02:29:54] [Server thread/INFO] [FML]: Holder lookups applied
+[02:29:54] [Server thread/INFO] [FML]: Applying holder lookups
+[02:29:54] [Server thread/INFO] [FML]: Holder lookups applied
+[02:29:54] [Server thread/INFO] [FML]: Applying holder lookups
+[02:29:54] [Server thread/INFO] [FML]: Holder lookups applied
+[02:29:54] [Server thread/INFO] [FML]: Injecting itemstacks
+[02:29:54] [Server thread/INFO] [FML]: Itemstack injection complete
+[02:29:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[02:29:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[02:29:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[02:29:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[02:29:54] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[02:29:54] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:29:54] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[02:29:54] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:29:54] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:29:55] [Server thread/ERROR] [FML]: Parsing error loading recipe lycanitesmobs:belpharm_break
 com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -214,7 +214,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[00:57:50] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual_alt
+[02:29:55] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual_alt
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
@@ -230,7 +230,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[00:57:50] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual
+[02:29:55] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
@@ -246,7 +246,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[00:57:50] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap_alt
+[02:29:55] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap_alt
 com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:254) ~[ShapedOreRecipe.class:?]
@@ -262,7 +262,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[00:57:50] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap
+[02:29:55] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap
 com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:254) ~[ShapedOreRecipe.class:?]
@@ -278,646 +278,210 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[00:57:50] [Server thread/INFO] [Actually Additions]: Initializing Crafting Recipes...
-[00:57:50] [Server thread/INFO] [FML]: Applying holder lookups
-[00:57:50] [Server thread/INFO] [FML]: Holder lookups applied
-[00:57:50] [Server thread/INFO] [Actually Additions]: Starting Initialization Phase...
-[00:57:50] [Server thread/INFO] [Actually Additions]: Initializing GuiHandler...
-[00:57:50] [Server thread/INFO] [Actually Additions]: Registering World Generator...
-[00:57:50] [Server thread/INFO] [Actually Additions]: Registering TileEntities...
-[00:57:50] [Server thread/INFO] [Actually Additions]: Initializing Entities...
-[00:57:50] [Server thread/INFO] [Actually Additions]: Initializing ServerProxy...
-[00:57:50] [Server thread/INFO] [Actually Additions]: Initialization Finished.
-[00:57:50] [Server thread/INFO] [ebwizardry]: Setting up spells config for 188 spells
-[00:57:50] [Server thread/INFO] [ebwizardry]: Setting up artefacts config
-[00:57:50] [Server thread/INFO] [ebwizardry]: Setting up resistances config
-[00:57:51] [Server thread/INFO] [ebwizardry]: Loading spell properties from config folder
-[00:57:51] [Server thread/INFO] [ebwizardry]: Loading built-in spell properties for 189 spells in mod ebwizardry
-[00:57:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `luckyblockdata`, expected `lucky`. This could be a intended override, but in most cases indicates a broken mod.
-[00:57:51] [Thread-6/INFO] [teamlapen-lib]: [VersionChecker]Starting version check at https://maxanier.de/projects/vampirism/versions.php
-[00:57:51] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[00:57:51] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 1/2 (Server)
-[00:57:51] [Server thread/INFO] [FML]: Injecting itemstacks
-[00:57:51] [Server thread/INFO] [FML]: Itemstack injection complete
-[00:57:51] [Server thread/INFO] [Actually Additions]: Starting PostInitialization Phase...
-[00:57:51] [Server thread/INFO] [Actually Additions]: Initializing Crusher Recipes...
-[00:57:52] [Server thread/INFO] [Actually Additions]: Registered a total of 105 booklet chapters, where 294 out of 412 booklet pages contain information about items or fluids!
-[00:57:52] [Server thread/INFO] [Actually Additions]: PostInitializing ServerProxy...
-[00:57:52] [Server thread/INFO] [Actually Additions]: PostInitialization Finished.
-[00:57:52] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[00:57:52] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
-[00:57:52] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityRabbit with blood 2 and handler null
-[00:57:52] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityCow with blood 10 and handler null
-[00:57:52] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityVillager with blood 15 and handler de.teamlapen.vampirism.entity.converted.EntityConvertedVillager$ConvertingHandler@95a73cb
-[00:57:52] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityLlama with blood 8 and handler null
-[00:57:52] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntitySheep with blood 5 and handler de.teamlapen.vampirism.entity.converted.EntityConvertedSheep$ConvertingHandler@24613a63
-[00:57:52] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityPig with blood 5 and handler null
-[00:57:52] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityOcelot with blood 5 and handler null
-[00:57:52] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityHorse with blood 13 and handler de.teamlapen.vampirism.entity.converted.EntityConvertedHorse$ConvertingHandler@293ef075
-[00:57:52] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.monster.EntityPolarBear with blood 10 and handler null
-[00:57:52] [Server thread/INFO] [vampirism]: [Potion]Fixing vanilla night vision potion types
-[00:57:52] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[00:57:52] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 2/2 (Server)
-[00:57:52] [Server thread/INFO] [Waila]: Starting Waila...
-[00:57:52] [Server thread/INFO] [Waila]: Gathering annotated plugins...
-[00:57:52] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
-[00:57:52] [Server thread/INFO] [Waila]: Registering plugins...
-[00:57:52] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
-[00:57:52] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
-[00:57:52] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[00:57:52] [Server thread/INFO] [Waila]: Registering plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
-[00:57:52] [Server thread/INFO] [Waila]: Starting Waila took 49.52 ms
-[00:57:52] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 27 mods
-[00:57:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "Mundo waos"
-[00:57:52] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[00:57:53] [Server thread/INFO] [FML]: Applying holder lookups
-[00:57:53] [Server thread/INFO] [FML]: Holder lookups applied
-[00:57:53] [Netty Epoll Server IO #2/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[00:57:53] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
-[00:57:53] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
-[00:57:53] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:89]: ChunkGeneratorOverworldBOP json: 
-[00:57:53] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:96]: ChunkGeneratorOverworldBOP settings: {"landScheme":"vanilla","tempScheme":"medium_zones","rainScheme":"medium_zones","biomeSize":"medium","amplitude":1.0,"generateBopOre":true,"generatePoisonIvy":false,"generateBerryBushes":true,"generateThorns":true,"generateQuicksand":true,"generateLiquidPoison":true,"generateHotSprings":true,"generateNetherHives":true,"generateEndFeatures":true,"mainNoiseScaleX":80.0,"mainNoiseScaleY":160.0,"mainNoiseScaleZ":80.0,"coordinateScale":684.412,"heightScale":684.412,"upperLimitScale":512.0,"lowerLimitScale":512.0}
-[00:57:54] [Server thread/INFO] [FML]: Loading dimension 0 (Mundo waos) (net.minecraft.server.dedicated.DedicatedServer@63dc6d02)
-[00:57:54] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table minecraft:structure/house1
-[00:57:54] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 897 advancements
-[00:57:54] [Server thread/INFO] [ebwizardry]: Loading custom spell properties for world Mundo waos
-[00:57:54] [Server thread/INFO] [FML]: Loading dimension 1 (Mundo waos) (net.minecraft.server.dedicated.DedicatedServer@63dc6d02)
-[00:57:54] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
-[00:57:54] [Server thread/INFO] [FML]: Loading dimension -1 (Mundo waos) (net.minecraft.server.dedicated.DedicatedServer@63dc6d02)
-[00:57:54] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
-[00:57:54] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
-[00:57:54] [Server thread/INFO] [FML]: Loading dimension 24 (Mundo waos) (net.minecraft.server.dedicated.DedicatedServer@63dc6d02)
-[00:57:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[00:57:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 20%
-[00:57:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.550s)! For help, type "help" or "?"
-[00:57:56] [Server thread/INFO] [Actually Additions]: Successfully loaded WorldData!
-[00:57:56] [Server thread/INFO] [FML]: Unloading dimension 1
-[00:57:56] [Server thread/INFO] [FML]: Unloading dimension -1
-[00:57:56] [Server thread/INFO] [FML]: Unloading dimension 24
-[00:58:03] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[00:58:03] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[00:58:03] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[00:58:03] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
-[00:58:04] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[00:58:04] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 28 mods : minecraft@1.12.2,lucky@7.6.0,biomesoplenty@7.0.1.2445,creativecoredummy@1.0.0,creativecore@1.10.0,ebwizardry@4.3.14,jei@4.16.1.1012,lycanitesmobs@2.0.8.9 - MC 1.12.2,howlingmoon@0.9,techguns_core@1.12.2-1.0,actuallyadditions@1.12.2-r152,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,FML@8.0.99.99,tombstone@4.7.5,srparasites@1.9.21,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,msic@1.0,teamlapen-lib@1.6.2,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,techguns@2.0.2.0,xpbook@v1.1.6
-[00:58:05] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[00:58:05] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 28 mods : minecraft@1.12.2,lucky@7.6.0,biomesoplenty@7.0.1.2445,creativecoredummy@1.0.0,creativecore@1.10.0,ebwizardry@4.3.14,jei@4.16.1.1012,lycanitesmobs@2.0.8.9 - MC 1.12.2,howlingmoon@0.9,techguns_core@1.12.2-1.0,actuallyadditions@1.12.2-r152,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,FML@8.0.99.99,tombstone@4.7.5,srparasites@1.9.21,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,msic@1.0,teamlapen-lib@1.6.2,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,techguns@2.0.2.0,xpbook@v1.1.6
-[00:58:06] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:58:06] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KevinCrax[/127.145.192.69:37313] logged in with entity id 63 at (75.96778271951545, 73.0, -199.44541060486887)
-[00:58:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax joined the game
-[00:58:06] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KevinCrax
-[00:58:06] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for KevinCrax
-[00:58:06] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for KevinCrax
-[00:58:06] [Server thread/INFO] [ebwizardry]: Synchronising config settings for KevinCrax
-[00:58:06] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[00:58:06] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KevinCrax'/63, l='Mundo waos', x=75.97, y=73.00, z=-199.45] connected. Sending ping
-[00:58:06] [Server thread/INFO] [Actually Additions]: Sending Player Data to player KevinCrax with UUID 59c9e25f-7c7f-386b-aa38-a9952379eda5.
-[00:58:06] [Thread-11/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 59c9e25f-7c7f-386b-aa38-a9952379eda5.
-[00:58:17] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:58:17] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lea_Matt[/127.201.131.70:34631] logged in with entity id 64 at (84.73818515795732, 66.0, 88.74372268626784)
-[00:58:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt joined the game
-[00:58:17] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
-[00:58:18] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for Lea_Matt
-[00:58:18] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Lea_Matt
-[00:58:18] [Server thread/INFO] [ebwizardry]: Synchronising config settings for Lea_Matt
-[00:58:18] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
-[00:58:18] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Lea_Matt'/64, l='Mundo waos', x=84.74, y=66.00, z=88.74] connected. Sending ping
-[00:58:18] [Server thread/INFO] [Actually Additions]: Sending Player Data to player Lea_Matt with UUID ece0ef0f-b99a-37a6-8c95-cbfbe03b5272.
-[00:58:18] [Thread-12/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for ece0ef0f-b99a-37a6-8c95-cbfbe03b5272.
-[00:58:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Oooh no ..
-[00:58:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ahora que me doy cuenta
-[00:58:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Si habilito a los parasitos
-[00:58:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> holis
-[00:58:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Mataran a todos los animales
-[00:58:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ah y holis
-[00:58:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lea_Matt lost connection: Timed out
-[00:58:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt left the game
-[00:58:48] [Server thread/WARN] [net.minecraft.network.NetworkManager]: handleDisconnection() called twice
-[00:59:01] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[00:59:01] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 28 mods : minecraft@1.12.2,lucky@7.6.0,biomesoplenty@7.0.1.2445,creativecoredummy@1.0.0,creativecore@1.10.0,ebwizardry@4.3.14,jei@4.16.1.1012,lycanitesmobs@2.0.8.9 - MC 1.12.2,howlingmoon@0.9,techguns_core@1.12.2-1.0,actuallyadditions@1.12.2-r152,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,FML@8.0.99.99,tombstone@4.7.5,srparasites@1.9.21,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,msic@1.0,teamlapen-lib@1.6.2,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,techguns@2.0.2.0,xpbook@v1.1.6
-[00:59:30] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:59:30] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lea_Matt[/127.201.131.70:44303] logged in with entity id 1476 at (79.22696962732185, 62.9375, 100.25396067335548)
-[00:59:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt joined the game
-[00:59:30] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
-[00:59:30] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for Lea_Matt
-[00:59:30] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Lea_Matt
-[00:59:30] [Server thread/INFO] [ebwizardry]: Synchronising config settings for Lea_Matt
-[00:59:30] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
-[00:59:30] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Lea_Matt'/1476, l='Mundo waos', x=79.23, y=62.94, z=100.25] connected. Sending ping
-[00:59:30] [Server thread/INFO] [Actually Additions]: Sending Player Data to player Lea_Matt with UUID ece0ef0f-b99a-37a6-8c95-cbfbe03b5272.
-[00:59:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> que jue
-[00:59:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lea_Matt lost connection: Timed out
-[00:59:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt left the game
-[01:00:07] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[01:00:07] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 28 mods : minecraft@1.12.2,lucky@7.6.0,biomesoplenty@7.0.1.2445,creativecoredummy@1.0.0,creativecore@1.10.0,ebwizardry@4.3.14,jei@4.16.1.1012,lycanitesmobs@2.0.8.9 - MC 1.12.2,howlingmoon@0.9,techguns_core@1.12.2-1.0,actuallyadditions@1.12.2-r152,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,FML@8.0.99.99,tombstone@4.7.5,srparasites@1.9.21,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,msic@1.0,teamlapen-lib@1.6.2,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,techguns@2.0.2.0,xpbook@v1.1.6
-[01:00:09] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:00:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lea_Matt[/127.16.22.183:40003] logged in with entity id 2569 at (79.22696962732185, 62.9375, 100.25396067335548)
-[01:00:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt joined the game
-[01:00:09] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
-[01:00:09] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for Lea_Matt
-[01:00:09] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Lea_Matt
-[01:00:09] [Server thread/INFO] [ebwizardry]: Synchronising config settings for Lea_Matt
-[01:00:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
-[01:00:09] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Lea_Matt'/2569, l='Mundo waos', x=79.23, y=62.94, z=100.25] connected. Sending ping
-[01:00:09] [Server thread/INFO] [Actually Additions]: Sending Player Data to player Lea_Matt with UUID ece0ef0f-b99a-37a6-8c95-cbfbe03b5272.
-[01:00:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> ahora si
-[01:00:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
-[01:00:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> lag
-[01:01:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> suenas como en el mapa de P A R A S I T E
-[01:01:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> porque mi lobo se ve raro?
-[01:01:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ?
-[01:01:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no le chupaste nada no?
-[01:01:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> a que te refieres
-[01:01:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> como raro
-[01:01:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> hola
-[01:01:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> coca cola
-[01:01:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> camaron
-[01:01:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> na te hice venir
-[01:01:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> con cola
-[01:02:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ?
-[01:02:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> me hiciste venir ?
-[01:02:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> que tiene ?
-[01:02:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> nada XD
-[01:02:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no paso nada
-[01:02:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:02:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:02:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:02:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:02:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ok ??
-[01:02:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> estaba transportando mis cosas
-[01:02:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> hahajsaksajk
-[01:02:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> activo el parasites ?
-[01:03:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Dime
-[01:04:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> si le pones un nivel bajo si
-[01:04:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> No sé..
-[01:05:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ni a nivel 1 quereria ponerlo
-[01:06:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Bien........
-[01:06:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> bueno
-[01:07:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Está hecho
-[01:08:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> hahaha era muy tonto
-[01:09:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ?
-[01:09:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no me podia atacar porque no salia del agua
-[01:09:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Tipico
-[01:09:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> na na muy malo
-[01:09:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> bien
-[01:09:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Lea
-[01:09:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> he ocultado alos animales
-[01:10:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> bueno
-[01:10:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Lea ven
-[01:10:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> a la casa
-[01:10:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> nueva
-[01:11:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> o bueno, " casa "
-[01:12:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> yey
-[01:12:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ¿?
-[01:12:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> casa entre comillas
-[01:12:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ah
-[01:12:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> haha
-[01:12:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no me acuerdo que tenia que hacer
-[01:12:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> mudar
-[01:12:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> tus itesm
-[01:12:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> items
-[01:12:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> hacia aca
-[01:13:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> a buscar casa
-[01:13:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Tambien mudarte hacia aca
-[01:13:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> porque? yo voy a buscarme un lugar bueno y ahi me mudare
-[01:14:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> hm..
-[01:15:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> EVOLUCION
-[01:15:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> *kput
-[01:15:42] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:15:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> rayo
-[01:15:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ese fui yo
-[01:15:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> que pacho?
-[01:16:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> como?
-[01:16:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> rituales satanicos
-[01:16:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> basicamente
-[01:16:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
-[01:16:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> oh
-[01:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> no tengo suficiente sangre
-[01:16:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> rayos
-[01:16:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> me quieren violar
-[01:16:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD?
-[01:17:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:17:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:17:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:17:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:17:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> CARAJO
-[01:17:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ESTOS BICHOS ESTAN INFECTADS
-[01:18:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Como es que se exparcen tan rapido ?!
-[01:18:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no se
-[01:18:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:18:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:18:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:18:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:18:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:18:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:18:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:18:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:18:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:18:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:18:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:18:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:18:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:18:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:18:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:18:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:18:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:18:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:20:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> setas venenosas
-[01:20:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ¿?
-[01:20:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> corales
-[01:20:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> que lindos
-[01:21:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> tengo..
-[01:21:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> TENGO SUFICIENTE SANGRE EN EL ALTAR
-[01:21:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ES HORA
-[01:21:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> A MI PODER
-[01:21:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> hehe
-[01:21:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ya avanze lo suficiente
-[01:21:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ahora este altar no me sirve
-[01:22:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> uuu tengo mas poderes -w-
-[01:22:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> yey
-[01:22:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> esto se esta poniendo chido
-[01:22:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax has made the advancement [Bat mode]
-[01:22:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:22:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> SOY UN MURCIELAGO
-[01:22:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> SOY UN
-[01:22:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> MURCELAGO
-[01:22:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> PUEDO VOLAR YEEEEEEEEEEE
-[01:23:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> me fui un poco a la mierda XD
-[01:23:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> askjsakjsjksa
-[01:24:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> aldea
-[01:24:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> esa aldea esta muerta
-[01:24:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> ya estoy segura
-[01:24:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> con los parasitos no sirven las aldeas
-[01:24:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> salte de ahi XD
-[01:24:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> En 0, van a infestar a todos
-[01:24:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> te lo puedo asegurar
-[01:24:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> bueno
-[01:24:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> pero ya encontre una
-[01:24:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> SAL DE AHI OTTO
-[01:24:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ottooooooooooooooooooooooooooooooooo
-[01:25:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> ?
-[01:25:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> na
-[01:25:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Es un meme
-[01:25:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> que decia
-[01:25:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> porque oto?
-[01:25:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> " SAL DE AHI OTTO "
-[01:25:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> es de un programa
-[01:25:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> y lo hicieron meme el momento ese
-[01:25:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> ah
-[01:25:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> se
-[01:26:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> yo pense en oto
-[01:26:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> cual oto
-[01:26:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> oto
-[01:26:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> rocky
-[01:26:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> a
-[01:26:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Rooocky
-[01:26:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> hay aldeanos!
-[01:26:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> no me digas
-[01:26:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> otto
-[01:27:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no creo que sean normales
-[01:27:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> me aburro esperando añ dia
-[01:27:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> toca comprobarlo
-[01:28:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> yo me divierto en la noche pues no ando todo el rato con debuffs
-[01:28:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
-[01:28:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> un vampiro que no me puede hacer nada
-[01:28:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> pobrecito
-[01:29:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> bien !
-[01:29:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> termine de organizar
-[01:29:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> toca explorar
-[01:29:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> y minar claro
-[01:29:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> bueno
-[01:29:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> me parece que tengo suficiente sangre para explorar
-[01:30:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> bueno
-[01:30:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ?
-[01:31:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> si tiene parasitos
-[01:31:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> imaginable
-[01:31:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no me acerco porque me pego un zobie infectado
-[01:31:42] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
-[01:31:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> holy shit
-[01:31:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> eso estuvo cerca
-[01:32:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> medio corazon XD
-[01:32:26] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
-[01:32:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> que rico farmeo de corazones
-[01:33:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: KevinCrax moved wrongly!
-[01:33:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax is bleeding...
-[01:33:24] [Server thread/INFO] [tombstone]: The death event of the player KevinCrax was cancelled by another mod
-[01:33:24] [Server thread/INFO] [tombstone]: KevinCrax has successfully been saved
-[01:33:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> WTF COMO MORI JKASKJSAJKSA
-[01:33:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax did not like the sun
-[01:33:30] [Server thread/INFO] [tombstone]: The last known grave of KevinCrax is at location [name:Last Grave, x:155, y:66, z:-232] in the dimension 0
-[01:33:32] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KevinCrax
-[01:33:32] [Thread-13/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 59c9e25f-7c7f-386b-aa38-a9952379eda5.
-[01:33:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> AH
-[01:33:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> MORI POR EL SOL
-[01:33:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> NI ME DI CUENTA
-[01:33:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> ruinas!
-[01:33:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt has made the advancement [I Think My Books Are Overdue]
-[01:33:49] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
-[01:34:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> oohhh
-[01:34:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> recuerdo eso
-[01:34:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> como saco este bloque?
-[01:34:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> no puedes
-[01:34:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> el altar
-[01:34:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> si
-[01:34:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no?
-[01:34:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> es irrompible
-[01:34:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> nooooo
-[01:35:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> solo marcalo en tu mapa
-[01:35:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> tendre que hacer el lugar
-[01:36:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ALA CHUCHA
-[01:36:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ME QUITA 3 CORAZONES
-[01:36:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> EL SOL
-[01:36:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> POR SEGUNDO
-[01:36:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> JKASKJSAKJSA
-[01:39:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> matando ovejas con COTH
-[01:41:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> se esta poniendo el sol
-[01:41:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> yay
-[01:41:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> yey
-[01:42:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> aaa explorar
-[01:42:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> y a darle de comer a mis ovejas
-[01:42:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> claro cuando se me quite el COTH
-[01:42:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> aunque ahora se llama
-[01:42:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> LDLC
-[01:43:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> pero eso es por que esta en español
-[01:43:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> pense que este bicho era malo
-[01:45:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> um..
-[01:45:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> tlos parasitos estan matando todo
-[01:45:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> todos los animales
-[01:46:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> uuu
-[01:46:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> otra vez encerrada en la aldea
-[01:47:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> mas campamentos de humanos
-[01:47:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> yo en mi caso de noche mas bien me puedo mover libremente hasjkksasak
-[01:47:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> coordenadsa ?
-[01:47:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> coordenadas*
-[01:47:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> como paso corde?
-[01:47:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> 3
-[01:47:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> f3
-[01:47:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> mria arriba
-[01:47:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> donde dice Block
-[01:48:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> naaaa
-[01:48:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ?
-[01:48:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no me anda el f3
-[01:48:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ?????????
-[01:48:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> 383
-[01:48:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Solo dale a f3
-[01:48:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> una vez
-[01:48:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> al boton de arriba
-[01:48:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> _660
-[01:48:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no funciona te digo
-[01:49:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> 383 660 ?
-[01:49:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> entonces fijate en el mapa
-[01:49:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> me sube el volumen si lo todo
-[01:49:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> abajo del mapa se vee
-[01:49:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> -660
-[01:49:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> si lo se que bajo el mapa se ve
-[01:49:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> si
-[01:49:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> que coordenadas por eso
-[01:49:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> dime las 3
-[01:50:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> con esas dos sabes donde estoy
-[01:50:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ¿?
-[01:50:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> en la de la izquierda
-[01:50:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> y en la de la derecha
-[01:50:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> si
-[01:50:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> x y
-[01:50:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> si
-[01:50:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> por eso
-[01:50:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> dime
-[01:50:47] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group:1:(type=entity,ID=lucky:LuckyProjectile,pos=#bowPos,NBTTag=(Motion=#bowMotion,item=(id=water_bucket),trail=(frequency=0.5,drops=["type=particle,ID=splash"]),impact=["type=block,ID=flowing_water"]);type=entity,ID=lucky:LuckyProjectile,pos=#bowPos,NBTTag=(Motion=#bowMotion,item=(id=lava_bucket),trail=(frequency=0.5,drops=["type=particle,ID=smoke"]),impact=["type=block,ID=flowing_lava"]))@luck=2
-[01:50:47] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke
-[01:50:47] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke
-[01:50:47] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=block,ID=flowing_lava
-[01:50:47] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke
-[01:50:47] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=particle,ID=smoke
-[01:50:49] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=Arrow,pos=#bowPos,NBTTag=(Motion=#bowMotion)@chance=20
-[01:50:51] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=Arrow,pos=#bowPos,NBTTag=(Motion=#bowMotion)@chance=20
-[01:51:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> . . .
-[01:52:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> torre de mago!
-[01:52:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> dime ¿??¿?¿?¿¿?¿
-[01:52:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt has made the advancement [Who Lives Here?]
-[01:52:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
-[01:52:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax has made the advancement [I Think My Books Are Overdue]
-[01:52:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:52:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> oh mira ve que encontre
-[01:52:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> unas ruinas
-[01:52:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ahh te llevaste los receptaculos
-[01:53:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> PERO NO TE LLEVASTE LOS LIBROS ????????
-[01:53:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:53:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt has made the advancement [Righteousness]
-[01:53:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
-[01:53:09] [Server thread/WARN] [vampirism]: [EntityEventHandler]Could not replace zombie target task
-[01:53:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:53:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax has made the advancement [Trial And Error]
-[01:53:09] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[01:53:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> mago malo!!
-[01:53:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
-[01:53:27] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
-[01:54:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> barita cargada y armada
-[01:54:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> bien bien
-[01:54:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ya era hora
-[01:54:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> HAY UN REEKER POR AHI WTF
-[01:54:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
-[01:54:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ESTAMOS EN FASE 1 DE LOS PARASITOS COMO ESTAN TAN FUERTES ????????
-[01:54:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> El DIAVLO
-[01:55:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> hahaha
-[01:55:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt has made the advancement [Trial And Error]
-[01:55:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
-[01:55:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> fuego y rayo
-[01:55:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> igualita que Lea
-[01:55:49] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=lucky:LuckyProjectile,pos=#bowPos,NBTTag=(Motion=#bowMotion,item=(id=feather),impact=["group(type=effect,ID=special_knockback,power=2.5,range=4,delay=0.1;type=particle,ID=explode,size=(1.5,1.0,1.5),particleAmount=500)"])@luck=2
-[01:55:49] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=effect,ID=special_knockback,power=2.5,range=4,delay=0.1;type=particle,ID=explode,size=(1.5,1.0,1.5),particleAmount=500)
-[01:56:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> oh una aldea
-[01:56:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lea_Matt lost connection: Timed out
-[01:56:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt left the game
-[01:56:34] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[01:56:34] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 28 mods : minecraft@1.12.2,lucky@7.6.0,biomesoplenty@7.0.1.2445,creativecoredummy@1.0.0,creativecore@1.10.0,ebwizardry@4.3.14,jei@4.16.1.1012,lycanitesmobs@2.0.8.9 - MC 1.12.2,howlingmoon@0.9,techguns_core@1.12.2-1.0,actuallyadditions@1.12.2-r152,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,FML@8.0.99.99,tombstone@4.7.5,srparasites@1.9.21,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,msic@1.0,teamlapen-lib@1.6.2,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,techguns@2.0.2.0,xpbook@v1.1.6
-[01:56:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:56:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lea_Matt[/127.108.117.27:46887] logged in with entity id 1079836 at (540.3905433512587, 81.0, -542.4275044070081)
-[01:56:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt joined the game
-[01:56:36] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
-[01:56:36] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for Lea_Matt
-[01:56:36] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Lea_Matt
-[01:56:36] [Server thread/INFO] [ebwizardry]: Synchronising config settings for Lea_Matt
-[01:56:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
-[01:56:36] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Lea_Matt'/1079836, l='Mundo waos', x=540.39, y=81.00, z=-542.43] connected. Sending ping
-[01:56:36] [Server thread/INFO] [Actually Additions]: Sending Player Data to player Lea_Matt with UUID ece0ef0f-b99a-37a6-8c95-cbfbe03b5272.
-[01:56:36] [Thread-14/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for ece0ef0f-b99a-37a6-8c95-cbfbe03b5272.
-[01:56:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> what
-[01:56:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> que pacho
-[01:56:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> lag
-[01:57:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> se nota
-[01:57:13] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
-[01:57:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ALAVRG
-[01:57:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> UN CAZADOR DE VAMPIROS CON 300 DE VIDA
-[01:57:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> KJASKJSAKJSA
-[01:58:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> aca hay muchas cosas antivampiros yo me voy
-[01:58:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
-[02:00:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> estoy pensando si venir aqui a vivir
-[02:00:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> HOLY SHIT LEA
-[02:00:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> esta lindo mas o menos
-[02:00:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> 3 ESMERALDAS POR 9 CORAZONES DE HUMANO
-[02:00:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> QUE OFERTÓN MALDICION
-[02:00:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> necesito esmeralda
-[02:00:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> s
-[02:01:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> ya me desidi
-[02:01:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> aqui sera mi casa
-[02:01:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> woah
-[02:01:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> yo creo que vivire en esta aldea
-[02:01:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> si pudiera
-[02:01:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> OH TENGO UNA IDEA !
-[02:02:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Mmm... sí..
-[02:02:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> voy a hacer esto
-[02:03:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> obsidiana , vidrio y hierro
-[02:03:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> es todo lo que necesito
-[02:03:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> y viviré aqui
-[02:03:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> en esta aldea
-[02:03:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> tu donde estas ?
-[02:04:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ay necesito obsidiana
-[02:04:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> rayos
-[02:05:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> el chupa cabras
-[02:06:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> existe
-[02:06:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> me disparan por todos lados
-[02:06:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
-[02:06:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> y los paracitos
-[02:06:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> si
-[02:06:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ni decir
-[02:06:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> alguien mas para la fiesta?
-[02:06:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> mmm
-[02:06:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> los primitivos parasitos
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:06:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:07:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> bueno tengo mi lugar y un monto de recursos para caser mi casa
-[02:07:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> nno se cuanto falta para el dia
-[02:07:39] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=lucky:LuckyProjectile,pos=#bowPos,NBTTag=(Motion=#bowMotion(1.0,2.0),item=(id=spawn_egg,tag=(EntityTag=(id=#randList("Zombie","Skeleton","Spider")))),impact=["group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))"]),amount=#rand(7,10)@luck=2
-[02:07:39] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
-[02:07:39] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
-[02:07:39] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
-[02:07:39] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
-[02:07:39] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
-[02:07:39] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
-[02:07:39] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
-[02:07:39] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
-[02:08:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax is bleeding...
-[02:08:06] [Server thread/INFO] [tombstone]: The death event of the player KevinCrax was cancelled by another mod
-[02:08:06] [Server thread/INFO] [tombstone]: KevinCrax has successfully been saved
-[02:08:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Skeleton scorched KevinCrax
-[02:08:08] [Server thread/INFO] [tombstone]: The last known grave of KevinCrax is at location [name:Last Grave, x:79, y:64, z:-269] in the dimension 0
-[02:08:09] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KevinCrax
-[02:08:09] [Thread-15/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 59c9e25f-7c7f-386b-aa38-a9952379eda5.
-[02:08:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> fk
-[02:08:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> nooo
-[02:08:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> como sabes cuando podes mejorar tu barita?
-[02:08:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> se tiene que fijar en la mesa esta
-[02:08:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> aparte la varita brilal
-[02:08:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> como encantada
-[02:08:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> a en la mesa
-[02:09:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> si tambien
-[02:09:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax has made the advancement [Into Fire]
-[02:09:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:09:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:09:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:09:56] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=Arrow,pos=#bowPos,NBTTag=(Motion=#bowMotion)@chance=20
-[02:10:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt is bleeding...
-[02:10:08] [Server thread/INFO] [tombstone]: The death event of the player Lea_Matt was cancelled by another mod
-[02:10:08] [Server thread/INFO] [tombstone]: Lea_Matt has successfully been saved
-[02:10:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt has reached the goal [Strong or Careful]
-[02:10:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
-[02:10:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt was shot by Zombie Soldier
-[02:10:11] [Server thread/INFO] [tombstone]: The last known grave of Lea_Matt is at location [name:Last Grave, x:462, y:63, z:-449] in the dimension 0
-[02:10:13] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
-[02:10:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> de todo y me destrozaron la armadura
-[02:10:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ni me lo digas a mi
-[02:10:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt is bleeding...
-[02:10:58] [Server thread/INFO] [tombstone]: The death event of the player Lea_Matt was cancelled by another mod
-[02:10:58] [Server thread/INFO] [tombstone]: Lea_Matt has successfully been saved
-[02:11:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt was pummeled by Afrit  Lvl 3
-[02:11:00] [Server thread/INFO] [tombstone]: The last known grave of Lea_Matt is at location [name:Last Grave, x:474, y:63, z:-478] in the dimension 0
-[02:11:02] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
-[02:11:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt is bleeding...
-[02:11:28] [Server thread/INFO] [tombstone]: The death event of the player Lea_Matt was cancelled by another mod
-[02:11:28] [Server thread/INFO] [tombstone]: Lea_Matt has successfully been saved
-[02:11:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt was shot by Zombie Soldier
-[02:11:30] [Server thread/INFO] [tombstone]: The last known grave of Lea_Matt is at location [name:Last Grave, x:468, y:63, z:-471] in the dimension 0
-[02:11:32] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
-[02:11:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> na no se puede
-[02:11:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> se nota
-[02:11:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> hehe
-[02:11:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> tengo lo que quería
-[02:12:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ahora puedo..
-[02:12:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> INFESTAR LA CIUDAD
-[02:12:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> *Infestar """""""""
-[02:12:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> por asi decirlo
-[02:12:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> por asi decirlo.
-[02:12:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> me diparan fuego, nieve y los paracitos mas 3 ametralladora
-[02:12:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Si
-[02:12:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> te ngo que correr
-[02:12:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ahora
-[02:12:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> por que es de dia
-[02:12:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
-[02:13:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> maldición
-[02:13:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> la aldea esta
-[02:13:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> literalmente al otro lado del oceano
-[02:13:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> SIN NADA PARA CUBRIRME
-[02:13:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ;-;
-[02:13:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> siw
-[02:15:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> no hay forma de ser inmune al sol
-[02:15:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> por lo menos con efectos o algo que me ponga
-[02:15:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> rayos
-[02:16:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> tendré que esperar nomas
-[02:17:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax is bleeding...
-[02:17:05] [Server thread/INFO] [tombstone]: The death event of the player KevinCrax was cancelled by another mod
-[02:17:05] [Server thread/INFO] [tombstone]: KevinCrax has successfully been saved
-[02:17:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> SU PTMR
-[02:17:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> QUE PASA CON LOS BLOQUES ?!?!
-[02:17:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ESTABA QUE INTENTABA COLOCAR PERO NO ME DEJABA WTF
-[02:17:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KevinCrax lost connection: Disconnected
-[02:17:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax left the game
-[02:17:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax did not like the sun
-[02:17:21] [Server thread/INFO] [tombstone]: The last known grave of KevinCrax is at location [name:Last Grave, x:347, y:65, z:-293] in the dimension 0
-[02:17:29] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[02:17:29] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 28 mods : minecraft@1.12.2,lucky@7.6.0,biomesoplenty@7.0.1.2445,creativecoredummy@1.0.0,creativecore@1.10.0,ebwizardry@4.3.14,jei@4.16.1.1012,lycanitesmobs@2.0.8.9 - MC 1.12.2,howlingmoon@0.9,techguns_core@1.12.2-1.0,actuallyadditions@1.12.2-r152,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,FML@8.0.99.99,tombstone@4.7.5,srparasites@1.9.21,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,msic@1.0,teamlapen-lib@1.6.2,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,techguns@2.0.2.0,xpbook@v1.1.6
-[02:17:31] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[02:17:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KevinCrax[/127.145.192.69:42581] logged in with entity id 1564179 at (348.49479479435627, 65.0, -292.6999999880791)
-[02:17:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax joined the game
-[02:17:31] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KevinCrax
-[02:17:31] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for KevinCrax
-[02:17:31] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for KevinCrax
-[02:17:31] [Server thread/INFO] [ebwizardry]: Synchronising config settings for KevinCrax
-[02:17:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
-[02:17:31] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KevinCrax'/1564179, l='Mundo waos', x=348.49, y=65.00, z=-292.70] connected. Sending ping
-[02:17:31] [Server thread/INFO] [Actually Additions]: Sending Player Data to player KevinCrax with UUID 59c9e25f-7c7f-386b-aa38-a9952379eda5.
-[02:17:33] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KevinCrax
-[02:17:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> pto lag
-[02:17:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> me quieren matar
+[02:29:55] [Server thread/INFO] [Actually Additions]: Initializing Crafting Recipes...
+[02:29:55] [Server thread/INFO] [FML]: Applying holder lookups
+[02:29:55] [Server thread/INFO] [FML]: Holder lookups applied
+[02:29:55] [Server thread/INFO] [Actually Additions]: Starting Initialization Phase...
+[02:29:55] [Server thread/INFO] [Actually Additions]: Initializing GuiHandler...
+[02:29:55] [Server thread/INFO] [Actually Additions]: Registering World Generator...
+[02:29:55] [Server thread/INFO] [Actually Additions]: Registering TileEntities...
+[02:29:55] [Server thread/INFO] [Actually Additions]: Initializing Entities...
+[02:29:55] [Server thread/INFO] [Actually Additions]: Initializing ServerProxy...
+[02:29:55] [Server thread/INFO] [Actually Additions]: Initialization Finished.
+[02:29:56] [Server thread/INFO] [ebwizardry]: Setting up spells config for 188 spells
+[02:29:56] [Server thread/INFO] [ebwizardry]: Setting up artefacts config
+[02:29:56] [Server thread/INFO] [ebwizardry]: Setting up resistances config
+[02:29:56] [Server thread/INFO] [ebwizardry]: Loading spell properties from config folder
+[02:29:56] [Server thread/INFO] [ebwizardry]: Loading built-in spell properties for 189 spells in mod ebwizardry
+[02:29:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `luckyblockdata`, expected `lucky`. This could be a intended override, but in most cases indicates a broken mod.
+[02:29:56] [Thread-5/INFO] [teamlapen-lib]: [VersionChecker]Starting version check at https://maxanier.de/projects/vampirism/versions.php
+[02:29:56] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[02:29:56] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 1/2 (Server)
+[02:29:56] [Server thread/INFO] [FML]: Injecting itemstacks
+[02:29:56] [Server thread/INFO] [FML]: Itemstack injection complete
+[02:29:56] [Server thread/INFO] [Actually Additions]: Starting PostInitialization Phase...
+[02:29:56] [Server thread/INFO] [Actually Additions]: Initializing Crusher Recipes...
+[02:29:56] [Server thread/INFO] [Actually Additions]: Registered a total of 105 booklet chapters, where 294 out of 412 booklet pages contain information about items or fluids!
+[02:29:56] [Server thread/INFO] [Actually Additions]: PostInitializing ServerProxy...
+[02:29:56] [Server thread/INFO] [Actually Additions]: PostInitialization Finished.
+[02:29:56] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
+[02:29:57] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityRabbit with blood 2 and handler null
+[02:29:57] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityCow with blood 10 and handler null
+[02:29:57] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityVillager with blood 15 and handler de.teamlapen.vampirism.entity.converted.EntityConvertedVillager$ConvertingHandler@40dd48a5
+[02:29:57] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityLlama with blood 8 and handler null
+[02:29:57] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntitySheep with blood 5 and handler de.teamlapen.vampirism.entity.converted.EntityConvertedSheep$ConvertingHandler@424683b2
+[02:29:57] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityPig with blood 5 and handler null
+[02:29:57] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityOcelot with blood 5 and handler null
+[02:29:57] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.passive.EntityHorse with blood 13 and handler de.teamlapen.vampirism.entity.converted.EntityConvertedHorse$ConvertingHandler@79bc43e6
+[02:29:57] [Server thread/INFO] [vampirism]: [VampirismEntityRegistry] Registering convertible net.minecraft.entity.monster.EntityPolarBear with blood 10 and handler null
+[02:29:57] [Server thread/INFO] [vampirism]: [Potion]Fixing vanilla night vision potion types
+[02:29:57] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[02:29:57] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 2/2 (Server)
+[02:29:57] [Server thread/INFO] [Waila]: Starting Waila...
+[02:29:57] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[02:29:57] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[02:29:57] [Server thread/INFO] [Waila]: Registering plugins...
+[02:29:57] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[02:29:57] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[02:29:57] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[02:29:57] [Server thread/INFO] [Waila]: Registering plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
+[02:29:57] [Server thread/INFO] [Waila]: Starting Waila took 57.32 ms
+[02:29:58] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 27 mods
+[02:29:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "Mundo waos"
+[02:29:58] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[02:29:59] [Server thread/INFO] [FML]: Applying holder lookups
+[02:29:59] [Server thread/INFO] [FML]: Holder lookups applied
+[02:29:59] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[02:29:59] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[02:29:59] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:89]: ChunkGeneratorOverworldBOP json: 
+[02:29:59] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:96]: ChunkGeneratorOverworldBOP settings: {"landScheme":"vanilla","tempScheme":"medium_zones","rainScheme":"medium_zones","biomeSize":"medium","amplitude":1.0,"generateBopOre":true,"generatePoisonIvy":false,"generateBerryBushes":true,"generateThorns":true,"generateQuicksand":true,"generateLiquidPoison":true,"generateHotSprings":true,"generateNetherHives":true,"generateEndFeatures":true,"mainNoiseScaleX":80.0,"mainNoiseScaleY":160.0,"mainNoiseScaleZ":80.0,"coordinateScale":684.412,"heightScale":684.412,"upperLimitScale":512.0,"lowerLimitScale":512.0}
+[02:29:59] [Server thread/INFO] [FML]: Loading dimension 0 (Mundo waos) (net.minecraft.server.dedicated.DedicatedServer@2ee5e488)
+[02:30:00] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table minecraft:structure/house1
+[02:30:00] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 897 advancements
+[02:30:00] [Server thread/INFO] [ebwizardry]: Loading custom spell properties for world Mundo waos
+[02:30:00] [Server thread/INFO] [FML]: Loading dimension 1 (Mundo waos) (net.minecraft.server.dedicated.DedicatedServer@2ee5e488)
+[02:30:00] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[02:30:00] [Server thread/INFO] [FML]: Loading dimension -1 (Mundo waos) (net.minecraft.server.dedicated.DedicatedServer@2ee5e488)
+[02:30:00] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[02:30:00] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[02:30:00] [Server thread/INFO] [FML]: Loading dimension 24 (Mundo waos) (net.minecraft.server.dedicated.DedicatedServer@2ee5e488)
+[02:30:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[02:30:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
+[02:30:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 31%
+[02:30:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (5.312s)! For help, type "help" or "?"
+[02:30:03] [Server thread/INFO] [Actually Additions]: Successfully loaded WorldData!
+[02:30:04] [Server thread/INFO] [FML]: Unloading dimension 1
+[02:30:04] [Server thread/INFO] [FML]: Unloading dimension -1
+[02:30:04] [Server thread/INFO] [FML]: Unloading dimension 24
+[02:30:10] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[02:30:10] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[02:30:10] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[02:30:10] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[02:30:10] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[02:30:10] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 28 mods : minecraft@1.12.2,lucky@7.6.0,biomesoplenty@7.0.1.2445,creativecoredummy@1.0.0,creativecore@1.10.0,ebwizardry@4.3.14,jei@4.16.1.1012,lycanitesmobs@2.0.8.9 - MC 1.12.2,howlingmoon@0.9,techguns_core@1.12.2-1.0,actuallyadditions@1.12.2-r152,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,FML@8.0.99.99,tombstone@4.7.5,srparasites@1.9.21,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,msic@1.0,teamlapen-lib@1.6.2,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,techguns@2.0.2.0,xpbook@v1.1.6
+[02:30:12] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:30:12] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KevinCrax[/127.145.192.69:36779] logged in with entity id 340 at (261.6552310811939, 89.09628715430577, -542.3454000446601)
+[02:30:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax joined the game
+[02:30:12] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KevinCrax
+[02:30:13] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for KevinCrax
+[02:30:13] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for KevinCrax
+[02:30:13] [Server thread/INFO] [ebwizardry]: Synchronising config settings for KevinCrax
+[02:30:13] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
+[02:30:13] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KevinCrax'/340, l='Mundo waos', x=261.66, y=90.10, z=-542.35] connected. Sending ping
+[02:30:13] [Server thread/INFO] [Actually Additions]: Sending Player Data to player KevinCrax with UUID 59c9e25f-7c7f-386b-aa38-a9952379eda5.
+[02:30:13] [Thread-10/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 59c9e25f-7c7f-386b-aa38-a9952379eda5.
+[02:30:16] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2778ms behind, skipping 55 tick(s)
+[02:30:54] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[02:30:54] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 28 mods : minecraft@1.12.2,lucky@7.6.0,biomesoplenty@7.0.1.2445,creativecoredummy@1.0.0,creativecore@1.10.0,ebwizardry@4.3.14,jei@4.16.1.1012,lycanitesmobs@2.0.8.9 - MC 1.12.2,howlingmoon@0.9,techguns_core@1.12.2-1.0,actuallyadditions@1.12.2-r152,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,FML@8.0.99.99,tombstone@4.7.5,srparasites@1.9.21,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,msic@1.0,teamlapen-lib@1.6.2,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,techguns@2.0.2.0,xpbook@v1.1.6
+[02:30:56] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:30:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lea_Matt[/127.108.117.27:50031] logged in with entity id 8683 at (88.47438387051544, 63.0, 85.30000001192093)
+[02:30:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt joined the game
+[02:30:56] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
+[02:30:56] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for Lea_Matt
+[02:30:56] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Lea_Matt
+[02:30:56] [Server thread/INFO] [ebwizardry]: Synchronising config settings for Lea_Matt
+[02:30:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[02:30:56] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Lea_Matt'/8683, l='Mundo waos', x=88.47, y=63.00, z=85.30] connected. Sending ping
+[02:30:56] [Server thread/INFO] [Actually Additions]: Sending Player Data to player Lea_Matt with UUID ece0ef0f-b99a-37a6-8c95-cbfbe03b5272.
+[02:30:56] [Thread-12/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for ece0ef0f-b99a-37a6-8c95-cbfbe03b5272.
+[02:31:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> wtf cuantos parasitos
+[02:32:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[02:32:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[02:32:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[02:32:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[02:32:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[02:32:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[02:32:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[02:32:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[02:32:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[02:32:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[02:32:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> EEH Y MIS CORAZONES QUE FARMEE ?
+[02:32:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ah espera
+[02:32:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> me los consumi para subir de nivle
+[02:32:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> cierto
+[02:32:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
+[02:33:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Teleported KevinCrax to 380.5, 69.5, -702.5]
+[02:34:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> es de dia no ?
+[02:34:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt is bleeding...
+[02:34:34] [Server thread/INFO] [tombstone]: The death event of the player Lea_Matt was cancelled by another mod
+[02:34:34] [Server thread/INFO] [tombstone]: Lea_Matt has successfully been saved
+[02:34:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt was shot by Skeleton Soldier
+[02:34:36] [Server thread/INFO] [tombstone]: The last known grave of Lea_Matt is at location [name:Last Grave, x:539, y:67, z:-517] in the dimension 0
+[02:34:38] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
+[02:35:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Lea dime
+[02:35:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> de dia ?
+[02:35:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt has made the advancement [Into Fire]
+[02:35:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[02:35:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[02:35:56] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[02:36:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Lea ?
+[02:36:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[02:36:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[02:36:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[02:36:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[02:36:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[02:37:29] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
+[02:37:29] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
+[02:37:29] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
+[02:37:29] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
+[02:38:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> LEA
+[02:38:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> oye
+[02:38:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> responde
+[02:38:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> Si
+[02:39:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> al fin dios mio
+[02:39:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> te pesaba la mano
+[02:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> que pasa ?
+[02:39:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt is bleeding...
+[02:39:55] [Server thread/INFO] [tombstone]: The death event of the player Lea_Matt was cancelled by another mod
+[02:39:55] [Server thread/INFO] [tombstone]: Lea_Matt has successfully been saved
+[02:39:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt was burnt to a crisp whilst fighting Afrit  Lvl 2
+[02:39:57] [Server thread/INFO] [tombstone]: The last known grave of Lea_Matt is at location [name:Last Grave, x:518, y:66, z:-471] in the dimension 0
+[02:39:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> . . .
+[02:39:59] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
+[02:40:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> muchas cosa!
+[02:40:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[02:40:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[02:40:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[02:40:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt is bleeding...
+[02:40:43] [Server thread/INFO] [tombstone]: The death event of the player Lea_Matt was cancelled by another mod
+[02:40:43] [Server thread/INFO] [tombstone]: Lea_Matt has successfully been saved
+[02:40:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[02:40:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt went up in flames
+[02:40:45] [Server thread/INFO] [tombstone]: The last known grave of Lea_Matt is at location [name:Last Grave, x:490, y:63, z:-475] in the dimension 0
+[02:40:47] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
+[02:40:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> uh..
+[02:40:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> solo dire que es de deia
+[02:40:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> dia
+[02:41:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> lo se
+[02:41:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> de noche peor
+[02:41:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> bueno yo ya no me tengo que preocupar por el dia
+[02:41:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> al menos en mi casa
+[02:42:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> lo malo
+[02:42:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ahora no me puedes visitar aunque quieras
+[02:42:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> o aunque quiera
+[02:43:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> desactivo los parasitos ?
+[02:45:22] [Server thread/INFO] [ebwizardry]: Synchronising advancements for KevinCrax
+[02:46:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> de noche nooooo
+[02:46:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> duermo ?
+[02:46:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> porfa
+[02:46:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> perate busco la..
+[02:46:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> oh
+[02:46:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> no tengo lana
+[02:46:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ni cama
+[02:46:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> rayos
+[02:46:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> uhhm..
+[02:46:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> dejame regreso hacia allá al fondo
+[02:47:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ya tengo que apagar
+[02:47:37] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[02:47:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ya llegue
+[02:47:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> a la cama
+[02:47:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> durmiendo
+[02:48:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Zzzzzzzz
+[02:48:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> gracias!
+[02:48:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ya
+[02:48:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ahora dime tu como regreso a la aldea
+[02:48:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
+[02:48:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no la marcaste
+[02:48:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Si
+[02:48:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> puedo tepearme pero seria tecnicamente trampa..
+[02:48:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Pero a quien le importa eso
