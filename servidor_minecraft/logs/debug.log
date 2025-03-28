@@ -30483,3 +30483,173 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 [01:58:56] [Server thread/INFO] [tombstone]: The last known grave of Lea_Matt is at location [name:Last Grave, x:518, y:46, z:-485] in the dimension 0
 [01:58:58] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
 [01:59:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[01:59:44] [Server thread/DEBUG] [FML]: The world 2c457c6c (Mundo waos) may have leaked: seen 1025 times.
+
+[01:59:44] [Server thread/DEBUG] [FML]: The world 563732aa (Mundo waos) may have leaked: seen 1025 times.
+
+[01:59:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt is bleeding...
+[01:59:50] [Server thread/INFO] [tombstone]: The death event of the player Lea_Matt was cancelled by another mod
+[01:59:50] [Server thread/INFO] [tombstone]: Lea_Matt has successfully been saved
+[01:59:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt was slain by Hunter
+[01:59:52] [Server thread/INFO] [tombstone]: The last known grave of Lea_Matt is at location [name:Last Grave, x:516, y:44, z:-485] in the dimension 0
+[01:59:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[01:59:54] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
+[02:00:34] [Server thread/DEBUG] [FML]: The world 2c457c6c (Mundo waos) may have leaked: seen 1030 times.
+
+[02:00:34] [Server thread/DEBUG] [FML]: The world 563732aa (Mundo waos) may have leaked: seen 1030 times.
+
+[02:00:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[02:01:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt is bleeding...
+[02:01:22] [Server thread/INFO] [tombstone]: The death event of the player Lea_Matt was cancelled by another mod
+[02:01:22] [Server thread/INFO] [tombstone]: Lea_Matt has successfully been saved
+[02:01:24] [Server thread/DEBUG] [FML]: The world 2c457c6c (Mundo waos) may have leaked: seen 1035 times.
+
+[02:01:24] [Server thread/DEBUG] [FML]: The world 563732aa (Mundo waos) may have leaked: seen 1035 times.
+
+[02:01:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[02:01:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt tried to swim in lava
+[02:01:25] [Server thread/INFO] [tombstone]: The last known grave of Lea_Matt is at location [name:Last Grave, x:526, y:9, z:-496] in the dimension 0
+[02:01:27] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
+[02:01:28] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=lucky:LuckyProjectile,pos=#bowPos,NBTTag=(Motion=#bowMotion,item=(id=iron_pickaxe),trail=(frequency=0.5,drops=["type=particle,ID=blockcrack_3"]),impact=["group(type=structure,ID=drill_hole,posY=#bPosY-1;type=particle,ID=blockcrack_3,posY=#bExactPosY-7,size=(2.0,3.0,2.0),particleAmount=2000;type=sound,ID=block.gravel.break,volume=2.0)"])@luck=2
+[02:01:28] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=structure,ID=drill_hole,posY=#bPosY-1;type=particle,ID=blockcrack_3,posY=#bExactPosY-7,size=(2.0,3.0,2.0),particleAmount=2000;type=sound,ID=block.gravel.break,volume=2.0)
+[02:01:34] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=Arrow,pos=#bowPos,NBTTag=(Motion=#bowMotion)@chance=20
+[02:01:35] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=Arrow,pos=#bowPos,NBTTag=(Motion=#bowMotion)@chance=20
+[02:01:37] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=Arrow,pos=#bowPos,NBTTag=(Motion=#bowMotion)@chance=20
+[02:01:38] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=lucky:LuckyProjectile,pos=#bowPos,NBTTag=(Motion=#bowMotion(1.0,2.0),item=(id=spawn_egg,tag=(EntityTag=(id=#randList("Zombie","Skeleton","Spider")))),impact=["group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))"]),amount=#rand(7,10)@luck=2
+[02:01:38] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
+[02:01:38] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
+[02:01:38] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
+[02:01:38] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
+[02:01:38] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
+[02:01:38] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
+[02:01:39] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
+[02:01:39] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
+[02:01:39] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=difficulty,ID=hard;type=entity,ID=#randList(Zombie,Skeleton,Spider),posOffset=#circleOffset(0,2))
+[02:01:40] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=entity,ID=Arrow,pos=#bowPos,NBTTag=(Motion=#bowMotion)@chance=20
+[02:01:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax is bleeding...
+[02:01:43] [Server thread/INFO] [tombstone]: The death event of the player KevinCrax was cancelled by another mod
+[02:01:43] [Server thread/INFO] [tombstone]: KevinCrax has successfully been saved
+[02:01:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax was slain by Grue  Lvl 3
+[02:01:44] [Server thread/INFO] [tombstone]: The last known grave of KevinCrax is at location [name:Last Grave, x:405, y:45, z:-630] in the dimension 0
+[02:01:46] [Server thread/DEBUG] [vampirism]: [FactionPlayerHandler]Changing to PlayableFaction{playerCapability='net.minecraftforge.common.capabilities.Capability@4b5dea38'name='Vampire'} 4
+[02:01:46] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KevinCrax
+[02:01:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ah bueno
+[02:01:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> disparo una flecha para matar a un zombie y me spawnean como 20 esqueletos zombies creepers y todo
+[02:02:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
+[02:02:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Teleported KevinCrax to 405.5, 45.5, -629.5]
+[02:02:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[02:02:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt is bleeding...
+[02:02:12] [Server thread/INFO] [tombstone]: The death event of the player Lea_Matt was cancelled by another mod
+[02:02:12] [Server thread/INFO] [tombstone]: Lea_Matt has successfully been saved
+[02:02:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt tried to swim in lava
+[02:02:14] [Server thread/DEBUG] [FML]: The world 2c457c6c (Mundo waos) may have leaked: seen 1040 times.
+
+[02:02:14] [Server thread/DEBUG] [FML]: The world 563732aa (Mundo waos) may have leaked: seen 1040 times.
+
+[02:02:15] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
+[02:02:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax is bleeding...
+[02:02:39] [Server thread/INFO] [tombstone]: The death event of the player KevinCrax was cancelled by another mod
+[02:02:39] [Server thread/INFO] [tombstone]: KevinCrax has successfully been saved
+[02:02:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax was slain by Grue  Lvl 4
+[02:02:40] [Server thread/INFO] [tombstone]: The last known grave of KevinCrax is at location [name:Last Grave, x:405, y:40, z:-622] in the dimension 0
+[02:02:42] [Server thread/DEBUG] [vampirism]: [FactionPlayerHandler]Changing to PlayableFaction{playerCapability='net.minecraftforge.common.capabilities.Capability@4b5dea38'name='Vampire'} 4
+[02:02:42] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KevinCrax
+[02:02:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[02:03:04] [Server thread/DEBUG] [FML]: The world 2c457c6c (Mundo waos) may have leaked: seen 1045 times.
+
+[02:03:04] [Server thread/DEBUG] [FML]: The world 563732aa (Mundo waos) may have leaked: seen 1045 times.
+
+[02:03:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[02:03:54] [Server thread/DEBUG] [FML]: The world 2c457c6c (Mundo waos) may have leaked: seen 1050 times.
+
+[02:03:54] [Server thread/DEBUG] [FML]: The world 563732aa (Mundo waos) may have leaked: seen 1050 times.
+
+[02:04:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> mi loida aparece en cualquier lado
+[02:04:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax is bleeding...
+[02:04:06] [Server thread/INFO] [tombstone]: The death event of the player KevinCrax was cancelled by another mod
+[02:04:06] [Server thread/INFO] [tombstone]: KevinCrax has successfully been saved
+[02:04:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KevinCrax did not like the sun
+[02:04:07] [Server thread/INFO] [tombstone]: The last known grave of KevinCrax is at location [name:Last Grave, x:403, y:69, z:-676] in the dimension 0
+[02:04:10] [Server thread/DEBUG] [vampirism]: [FactionPlayerHandler]Changing to PlayableFaction{playerCapability='net.minecraftforge.common.capabilities.Capability@4b5dea38'name='Vampire'} 4
+[02:04:10] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KevinCrax
+[02:04:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> LOIA ?
+[02:04:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[02:04:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt is bleeding...
+[02:04:30] [Server thread/INFO] [tombstone]: The death event of the player Lea_Matt was cancelled by another mod
+[02:04:30] [Server thread/INFO] [tombstone]: Lea_Matt has successfully been saved
+[02:04:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt was slain by Grue  Lvl 2
+[02:04:33] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
+[02:04:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Escape
+[02:04:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> casa
+[02:04:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> AL FIN
+[02:04:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> CASA
+[02:04:44] [Server thread/DEBUG] [FML]: The world 2c457c6c (Mundo waos) may have leaked: seen 1055 times.
+
+[02:04:44] [Server thread/DEBUG] [FML]: The world 563732aa (Mundo waos) may have leaked: seen 1055 times.
+
+[02:05:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[02:05:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt is bleeding...
+[02:05:21] [Server thread/INFO] [tombstone]: The death event of the player Lea_Matt was cancelled by another mod
+[02:05:21] [Server thread/INFO] [tombstone]: Lea_Matt has successfully been saved
+[02:05:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt was slain by Grue  Lvl 2
+[02:05:23] [Server thread/INFO] [tombstone]: The last known grave of Lea_Matt is at location [name:Last Grave, x:518, y:13, z:-489] in the dimension 0
+[02:05:25] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
+[02:05:34] [Server thread/DEBUG] [FML]: The world 2c457c6c (Mundo waos) may have leaked: seen 1060 times.
+
+[02:05:34] [Server thread/DEBUG] [FML]: The world 563732aa (Mundo waos) may have leaked: seen 1060 times.
+
+[02:05:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[02:06:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[02:06:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[02:06:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[02:06:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[02:06:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[02:06:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[02:06:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[02:06:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt has made the advancement [Diamonds!]
+[02:06:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[02:06:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[02:06:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[02:06:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[02:06:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> WOW
+[02:06:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> CONSEGUISTE DIAMANTES !!!!!!
+[02:06:24] [Server thread/DEBUG] [FML]: The world 2c457c6c (Mundo waos) may have leaked: seen 1065 times.
+
+[02:06:24] [Server thread/DEBUG] [FML]: The world 563732aa (Mundo waos) may have leaked: seen 1065 times.
+
+[02:06:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> diamantes
+[02:06:28] [Server thread/DEBUG] [vampirism]: [AltarInfusion]Trying to activate. Result: -2
+[02:06:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> 5
+[02:06:29] [Server thread/DEBUG] [vampirism]: [AltarInfusion]Trying to activate. Result: -2
+[02:06:30] [Server thread/DEBUG] [vampirism]: [AltarInfusion]Trying to activate. Result: -2
+[02:06:30] [Server thread/DEBUG] [vampirism]: [AltarInfusion]Trying to activate. Result: -2
+[02:06:30] [Server thread/DEBUG] [vampirism]: [AltarInfusion]Trying to activate. Result: -2
+[02:06:30] [Server thread/DEBUG] [vampirism]: [AltarInfusion]Trying to activate. Result: -2
+[02:06:31] [Server thread/DEBUG] [vampirism]: [AltarInfusion]Trying to activate. Result: -2
+[02:06:31] [Server thread/DEBUG] [vampirism]: [AltarInfusion]Trying to activate. Result: -2
+[02:06:31] [Server thread/DEBUG] [vampirism]: [AltarInfusion]Trying to activate. Result: -2
+[02:06:31] [Server thread/DEBUG] [vampirism]: [AltarInfusion]Trying to activate. Result: -2
+[02:06:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> GENIAL
+[02:06:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[02:06:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> muy buena Lea
+[02:06:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt is bleeding...
+[02:06:53] [Server thread/INFO] [tombstone]: The death event of the player Lea_Matt was cancelled by another mod
+[02:06:53] [Server thread/INFO] [tombstone]: Lea_Matt has successfully been saved
+[02:06:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt was slain by Keppel Geonach  Lvl 3
+[02:06:55] [Server thread/INFO] [tombstone]: The last known grave of Lea_Matt is at location [name:Last Grave, x:515, y:11, z:-486] in the dimension 0
+[02:06:57] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
+[02:07:14] [Server thread/DEBUG] [FML]: The world 2c457c6c (Mundo waos) may have leaked: seen 1070 times.
+
+[02:07:14] [Server thread/DEBUG] [FML]: The world 563732aa (Mundo waos) may have leaked: seen 1070 times.
+
+[02:07:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[02:08:04] [Server thread/DEBUG] [FML]: The world 2c457c6c (Mundo waos) may have leaked: seen 1075 times.
+
+[02:08:04] [Server thread/DEBUG] [FML]: The world 563732aa (Mundo waos) may have leaked: seen 1075 times.
+
+[02:08:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[02:08:54] [Server thread/DEBUG] [FML]: The world 2c457c6c (Mundo waos) may have leaked: seen 1080 times.
+
+[02:08:54] [Server thread/DEBUG] [FML]: The world 563732aa (Mundo waos) may have leaked: seen 1080 times.
+
+[02:08:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
