@@ -1465,6 +1465,7 @@
     "criteria": {
       "apple": "2025-03-23 21:34:40 +0000",
       "potato": "2025-03-28 03:04:07 +0000",
+      "golden_apple": "2025-03-28 21:55:54 +0000",
       "beetroot": "2025-03-27 23:32:25 +0000"
     },
     "done": false
@@ -1930,6 +1931,12 @@
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2025-03-26 00:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2025-03-28 22:00:53 +0000"
     },
     "done": true
   },
