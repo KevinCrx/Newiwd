@@ -359,9 +359,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2025-03-28 20:50:14 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/crafting_table_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2025-03-23 19:53:57 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:wizard_trade": {
+    "criteria": {
+      "criteria_0": "2025-03-28 20:55:26 +0000"
     },
     "done": true
   },
@@ -391,8 +403,12 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-03-28 20:59:53 +0000",
+      "chaparral": "2025-03-28 21:04:23 +0000",
+      "flower_island": "2025-03-28 21:08:18 +0000",
       "maple_woods": "2025-03-26 00:04:16 +0000",
       "coral_reef": "2025-03-26 00:04:14 +0000",
+      "orchard": "2025-03-28 20:50:27 +0000",
       "shield": "2025-03-28 00:34:23 +0000",
       "snowy_forest": "2025-03-28 00:53:32 +0000",
       "seasonal_forest": "2025-03-23 19:24:40 +0000",
@@ -522,6 +538,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/tome_of_arcana": {
+    "criteria": {
+      "criteria_0": "2025-03-28 20:57:49 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-23 19:25:05 +0000"
@@ -541,7 +563,8 @@
       "cave_spider": "2025-03-28 02:27:02 +0000",
       "witch": "2025-03-28 01:54:12 +0000",
       "spider": "2025-03-26 01:05:13 +0000",
-      "creeper": "2025-03-26 01:03:42 +0000"
+      "creeper": "2025-03-26 01:03:42 +0000",
+      "enderman": "2025-03-28 20:50:06 +0000"
     },
     "done": false
   },
@@ -578,6 +601,12 @@
   "ebwizardry:artefact": {
     "criteria": {
       "ring_poison": "2025-03-28 20:47:58 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:anger_wizard": {
+    "criteria": {
+      "criteria_0": "2025-03-28 20:58:16 +0000"
     },
     "done": true
   },
@@ -1052,6 +1081,8 @@
       "birch_forest": "2025-03-26 01:03:18 +0000",
       "deep_ocean": "2025-03-23 19:39:04 +0000",
       "beaches": "2025-03-27 01:46:34 +0000",
+      "savanna": "2025-03-28 21:04:38 +0000",
+      "plains": "2025-03-28 20:49:09 +0000",
       "ocean": "2025-03-23 19:39:09 +0000",
       "cold_beach": "2025-03-28 00:52:48 +0000",
       "river": "2025-03-26 02:43:26 +0000"
@@ -1875,6 +1906,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-03-27 01:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-28 20:50:14 +0000"
     },
     "done": true
   },
