@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-28 00:57:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-03-23 21:27:14 +0000"
@@ -68,6 +74,12 @@
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-03-26 01:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-28 00:50:05 +0000"
     },
     "done": true
   },
@@ -998,6 +1010,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/obelisks": {
+    "criteria": {
+      "criteria_0": "2025-03-28 00:35:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-23 21:27:14 +0000"
@@ -1058,6 +1076,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2025-03-28 00:50:05 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/wooden_pressure_plate_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2025-03-23 21:27:14 +0000"
@@ -1109,6 +1133,12 @@
   "biomesoplenty:recipes/transportation/boat_cherry": {
     "criteria": {
       "entered_water": "2025-03-23 21:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-28 00:57:37 +0000"
     },
     "done": true
   },
@@ -1413,6 +1443,7 @@
       "deep_ocean": "2025-03-23 21:27:31 +0000",
       "beaches": "2025-03-27 01:21:56 +0000",
       "ocean": "2025-03-23 22:52:14 +0000",
+      "cold_beach": "2025-03-28 00:49:48 +0000",
       "river": "2025-03-26 02:37:35 +0000"
     },
     "done": false
