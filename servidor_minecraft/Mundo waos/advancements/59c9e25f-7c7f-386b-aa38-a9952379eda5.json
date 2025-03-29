@@ -508,6 +508,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-28 23:45:06 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_strange_tablet": {
     "criteria": {
       "has_ingredient": "2025-03-28 20:41:20 +0000"
@@ -604,6 +610,12 @@
       "enderman": "2025-03-28 20:50:06 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-28 23:45:27 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
@@ -1111,6 +1123,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-28 23:45:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_bonemeal": "2025-03-26 00:19:11 +0000"
@@ -1315,6 +1333,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-03-23 21:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-28 23:45:27 +0000"
     },
     "done": true
   },
