@@ -585,6 +585,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-03-29 00:22:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_reeds": "2025-03-26 02:55:56 +0000"
@@ -930,6 +936,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2025-03-29 00:22:10 +0000",
       "skeleton": "2025-03-26 01:29:54 +0000",
       "zombie": "2025-03-26 00:02:51 +0000",
       "spider": "2025-03-26 02:23:21 +0000",
