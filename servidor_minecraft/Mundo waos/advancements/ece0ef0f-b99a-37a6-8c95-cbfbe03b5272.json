@@ -397,6 +397,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-29 02:26:06 +0000",
       "chicken": "2025-03-26 02:28:56 +0000",
       "cooked_mutton": "2025-03-29 00:07:24 +0000",
       "cooked_beef": "2025-03-26 03:00:26 +0000",
@@ -1577,6 +1578,12 @@
     },
     "done": true
   },
+  "ebwizardry:visit_shrine": {
+    "criteria": {
+      "criteria_0": "2025-03-29 02:33:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-03-23 22:09:54 +0000"
@@ -1898,6 +1905,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-26 02:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-29 02:33:24 +0000"
     },
     "done": true
   },
