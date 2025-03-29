@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-29 01:39:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-23 21:26:07 +0000"
@@ -394,6 +400,7 @@
       "chicken": "2025-03-26 02:28:56 +0000",
       "cooked_mutton": "2025-03-29 00:07:24 +0000",
       "cooked_beef": "2025-03-26 03:00:26 +0000",
+      "baked_potato": "2025-03-29 01:38:19 +0000",
       "clownfish": "2025-03-26 02:08:21 +0000",
       "apple": "2025-03-23 21:29:44 +0000",
       "cooked_cod": "2025-03-23 22:45:17 +0000",
@@ -660,6 +667,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "phantasmagoric_inferno": "2025-03-29 01:39:11 +0000",
       "maple_woods": "2025-03-23 22:52:43 +0000",
       "coral_reef": "2025-03-23 22:52:32 +0000",
       "coniferous_forest": "2025-03-27 01:45:03 +0000",
@@ -1009,6 +1017,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-03-27 02:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-29 01:39:09 +0000"
     },
     "done": true
   },
