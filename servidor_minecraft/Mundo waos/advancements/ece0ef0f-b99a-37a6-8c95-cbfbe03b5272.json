@@ -424,6 +424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-03-29 01:27:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-03-23 22:09:54 +0000"
@@ -971,6 +977,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2025-03-29 01:27:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-03-28 01:05:48 +0000"
@@ -1261,6 +1273,7 @@
   "ebwizardry:all_spells": {
     "criteria": {
       "thunderbolt": "2025-03-27 01:55:17 +0000",
+      "summon_zombie": "2025-03-29 01:30:01 +0000",
       "ignite": "2025-03-27 01:55:08 +0000",
       "invigorating_presence": "2025-03-27 01:55:45 +0000",
       "agility": "2025-03-27 01:55:52 +0000"
@@ -2009,6 +2022,12 @@
   "tombstone:tutorial/easter": {
     "criteria": {
       "coded_trigger": "2025-03-23 21:21:23 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/magical_creatures": {
+    "criteria": {
+      "summon_zombie": "2025-03-29 01:30:01 +0000"
     },
     "done": true
   },
