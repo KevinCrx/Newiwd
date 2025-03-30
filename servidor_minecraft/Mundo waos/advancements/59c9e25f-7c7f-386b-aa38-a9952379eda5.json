@@ -471,9 +471,13 @@
       "coral_reef": "2025-03-26 00:04:14 +0000",
       "orchard": "2025-03-28 20:50:27 +0000",
       "shield": "2025-03-28 00:34:23 +0000",
+      "visceral_heap": "2025-03-30 02:38:30 +0000",
       "snowy_forest": "2025-03-28 00:53:32 +0000",
       "seasonal_forest": "2025-03-23 19:24:40 +0000",
+      "corrupted_sands": "2025-03-30 02:53:16 +0000",
       "kelp_forest": "2025-03-27 02:18:32 +0000",
+      "fungi_forest": "2025-03-30 02:51:38 +0000",
+      "undergarden": "2025-03-30 02:45:48 +0000",
       "gravel_beach": "2025-03-23 19:24:51 +0000",
       "grove": "2025-03-27 01:46:35 +0000"
     },
@@ -542,6 +546,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-03-28 23:45:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_voodoo_poppet": {
+    "criteria": {
+      "has_ingredient": "2025-03-30 03:05:09 +0000"
     },
     "done": true
   },
@@ -645,12 +655,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2025-03-29 01:41:34 +0000",
+      "magma_cube": "2025-03-30 02:57:25 +0000",
       "skeleton": "2025-03-27 01:12:12 +0000",
       "husk": "2025-03-30 02:14:54 +0000",
       "zombie": "2025-03-26 00:04:23 +0000",
       "cave_spider": "2025-03-28 02:27:02 +0000",
       "witch": "2025-03-28 01:54:12 +0000",
       "spider": "2025-03-26 01:05:13 +0000",
+      "ghast": "2025-03-30 02:35:26 +0000",
       "creeper": "2025-03-26 01:03:42 +0000",
       "enderman": "2025-03-28 20:50:06 +0000"
     },
@@ -830,6 +842,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/flesh_block": {
+    "criteria": {
+      "has_item": "2025-03-30 03:03:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2025-03-26 00:02:09 +0000"
@@ -919,6 +937,12 @@
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-03-27 01:18:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-03-30 03:05:09 +0000"
     },
     "done": true
   },
@@ -1243,6 +1267,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-03-30 03:05:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-03-26 02:26:42 +0000"
@@ -1384,6 +1414,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2025-03-27 01:18:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/strange_mount": {
+    "criteria": {
+      "has_skeleton_receptacle": "2025-03-30 03:05:09 +0000"
     },
     "done": true
   },
@@ -1585,6 +1621,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-03-30 03:04:44 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/mastery_1": {
     "criteria": {
       "coded_trigger": "2025-03-30 02:00:29 +0000"
@@ -1752,6 +1794,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-03-30 03:05:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-03-27 23:29:59 +0000"
@@ -1869,6 +1917,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2025-03-28 03:27:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-03-30 03:05:09 +0000"
     },
     "done": true
   },
@@ -2148,6 +2202,12 @@
       "blink": "2025-03-28 22:32:44 +0000"
     },
     "done": false
+  },
+  "biomesoplenty:biomesoplenty/flesh_and_blood": {
+    "criteria": {
+      "flesh": "2025-03-30 03:03:15 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {

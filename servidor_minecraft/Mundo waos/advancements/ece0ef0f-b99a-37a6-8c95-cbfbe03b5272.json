@@ -1913,9 +1913,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "frozen_river": "2025-03-29 03:13:25 +0000",
+      "taiga_cold_hills": "2025-03-30 03:04:56 +0000",
       "birch_forest": "2025-03-26 00:38:40 +0000",
       "deep_ocean": "2025-03-23 21:27:31 +0000",
       "beaches": "2025-03-27 01:21:56 +0000",
+      "taiga_cold": "2025-03-30 03:04:59 +0000",
       "ocean": "2025-03-23 22:52:14 +0000",
       "cold_beach": "2025-03-28 00:49:48 +0000",
       "river": "2025-03-26 02:37:35 +0000"
@@ -1979,6 +1981,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-03-23 21:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2025-03-30 02:48:20 +0000"
     },
     "done": true
   },
