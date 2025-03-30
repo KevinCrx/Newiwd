@@ -467,11 +467,13 @@
       "fen": "2025-03-30 22:47:29 +0000",
       "alps_foothills": "2025-03-30 22:41:54 +0000",
       "phantasmagoric_inferno": "2025-03-29 01:39:13 +0000",
+      "quagmire": "2025-03-30 23:23:59 +0000",
       "chaparral": "2025-03-28 21:04:23 +0000",
       "flower_island": "2025-03-28 21:08:18 +0000",
       "maple_woods": "2025-03-26 00:04:16 +0000",
       "coral_reef": "2025-03-26 00:04:14 +0000",
       "orchard": "2025-03-28 20:50:27 +0000",
+      "coniferous_forest": "2025-03-30 23:22:01 +0000",
       "shield": "2025-03-28 00:34:23 +0000",
       "alps": "2025-03-30 22:42:07 +0000",
       "boreal_forest": "2025-03-30 22:48:25 +0000",
@@ -1275,7 +1277,8 @@
       "ocean": "2025-03-23 19:39:09 +0000",
       "extreme_hills": "2025-03-30 22:44:32 +0000",
       "cold_beach": "2025-03-28 00:52:48 +0000",
-      "river": "2025-03-26 02:43:26 +0000"
+      "river": "2025-03-26 02:43:26 +0000",
+      "stone_beach": "2025-03-30 23:26:26 +0000"
     },
     "done": false
   },
@@ -1426,6 +1429,12 @@
   "tombstone:tutorial/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-03-26 00:00:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2025-03-30 23:16:26 +0000"
     },
     "done": true
   },
@@ -2247,6 +2256,7 @@
       "reversal": "2025-03-28 22:33:36 +0000",
       "magic_missile": "2025-03-28 22:26:48 +0000",
       "mind_trick": "2025-03-28 01:01:58 +0000",
+      "firebolt": "2025-03-30 23:29:40 +0000",
       "blink": "2025-03-28 22:32:44 +0000"
     },
     "done": false
@@ -2260,6 +2270,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-03-26 00:43:05 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/elements": {
+    "criteria": {
+      "lightning": "2025-03-30 23:15:44 +0000"
     },
     "done": true
   },
@@ -2423,6 +2439,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-03-25 23:53:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-03-30 23:16:24 +0000"
     },
     "done": true
   },
@@ -2627,6 +2649,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-03-26 01:45:15 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:identify_spell": {
+    "criteria": {
+      "criteria_0": "2025-03-30 23:17:56 +0000"
     },
     "done": true
   },
