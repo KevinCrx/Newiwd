@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-30 23:48:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2025-03-29 00:44:40 +0000"
@@ -419,6 +425,12 @@
       "carrot": "2025-03-29 01:20:18 +0000"
     },
     "done": false
+  },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2025-03-30 23:44:22 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -681,15 +693,20 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "phantasmagoric_inferno": "2025-03-29 01:39:11 +0000",
+      "highland": "2025-03-30 23:41:51 +0000",
       "maple_woods": "2025-03-23 22:52:43 +0000",
       "coral_reef": "2025-03-23 22:52:32 +0000",
       "coniferous_forest": "2025-03-27 01:45:03 +0000",
+      "outback": "2025-03-30 23:49:04 +0000",
       "shield": "2025-03-27 01:51:44 +0000",
       "snowy_forest": "2025-03-29 03:13:23 +0000",
       "seasonal_forest": "2025-03-23 21:22:32 +0000",
       "kelp_forest": "2025-03-27 02:31:39 +0000",
+      "grassland": "2025-03-30 23:42:15 +0000",
+      "prairie": "2025-03-30 23:45:23 +0000",
       "gravel_beach": "2025-03-23 21:21:23 +0000",
-      "grove": "2025-03-27 01:22:27 +0000"
+      "grove": "2025-03-27 01:22:27 +0000",
+      "brushland": "2025-03-30 23:45:35 +0000"
     },
     "done": false
   },
@@ -1338,6 +1355,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/elements": {
+    "criteria": {
+      "healing": "2025-03-30 23:44:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-03-23 22:04:45 +0000"
@@ -1926,7 +1949,8 @@
       "taiga_cold": "2025-03-30 03:04:59 +0000",
       "ocean": "2025-03-23 22:52:14 +0000",
       "cold_beach": "2025-03-28 00:49:48 +0000",
-      "river": "2025-03-26 02:37:35 +0000"
+      "river": "2025-03-26 02:37:35 +0000",
+      "stone_beach": "2025-03-30 23:41:27 +0000"
     },
     "done": false
   },
