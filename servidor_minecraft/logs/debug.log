@@ -28297,3 +28297,269 @@ com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
 
 [23:42:23] [Server thread/DEBUG] [FML]: The world 660cd617 (Mundo waos) may have leaked: seen 55 times.
 
+[23:42:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[23:43:13] [Server thread/DEBUG] [FML]: The world 32daa77b (Mundo waos) may have leaked: seen 60 times.
+
+[23:43:13] [Server thread/DEBUG] [FML]: The world 660cd617 (Mundo waos) may have leaked: seen 60 times.
+
+[23:43:14] [Server thread/TRACE] [FML]: Handshake channel activating
+[23:43:14] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[23:43:14] [Server thread/DEBUG] [FML]:   Next: HELLO
+[23:43:15] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:43:15] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[23:43:15] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:28 mods->FMLHandshakeServerState$2:HELLO
+[23:43:15] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 28 mods : minecraft@1.12.2,lucky@7.6.0,biomesoplenty@7.0.1.2445,creativecoredummy@1.0.0,creativecore@1.10.0,ebwizardry@4.3.14,jei@4.16.1.1012,lycanitesmobs@2.0.8.9 - MC 1.12.2,howlingmoon@0.9,techguns_core@1.12.2-1.0,actuallyadditions@1.12.2-r152,xaerominimap@24.2.0,mcp@9.42,xaeroworldmap@1.38.8,FML@8.0.99.99,tombstone@4.7.5,srparasites@1.9.21,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,msic@1.0,teamlapen-lib@1.6.2,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,playerrevive@1.0,techguns@2.0.2.0,xpbook@v1.1.6
+[23:43:15] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[23:43:15] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:43:15] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[23:43:17] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:43:17] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[23:43:17] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:43:17] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:43:17] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lea_Matt[/127.199.69.204:53551] logged in with entity id 3480 at (-2948.311286918752, 72.0, 2505.5033935357087)
+[23:43:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt joined the game
+[23:43:17] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
+[23:43:17] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:43:17] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for Lea_Matt
+[23:43:17] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Lea_Matt
+[23:43:17] [Server thread/INFO] [ebwizardry]: Synchronising config settings for Lea_Matt
+[23:43:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Lea_Matt
+[23:43:17] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Lea_Matt'/3480, l='Mundo waos', x=-2948.31, y=72.00, z=2505.50] connected. Sending ping
+[23:43:17] [Server thread/INFO] [Actually Additions]: Sending Player Data to player Lea_Matt with UUID ece0ef0f-b99a-37a6-8c95-cbfbe03b5272.
+[23:43:17] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['Lea_Matt'/3480, l='Mundo waos', x=-2948.31, y=72.00, z=2505.50])
+[23:43:17] [Thread-12/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for ece0ef0f-b99a-37a6-8c95-cbfbe03b5272.
+[23:43:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[23:44:03] [Server thread/DEBUG] [FML]: The world 32daa77b (Mundo waos) may have leaked: seen 65 times.
+
+[23:44:03] [Server thread/DEBUG] [FML]: The world 660cd617 (Mundo waos) may have leaked: seen 65 times.
+
+[23:44:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> hola
+[23:44:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[23:44:53] [Server thread/DEBUG] [FML]: The world 32daa77b (Mundo waos) may have leaked: seen 70 times.
+
+[23:44:53] [Server thread/DEBUG] [FML]: The world 660cd617 (Mundo waos) may have leaked: seen 70 times.
+
+[23:44:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ?
+[23:45:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> me pegaste
+[23:45:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> hola
+[23:45:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[23:45:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> casi me matas
+[23:45:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> si tu tambien
+[23:45:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> tenia como 3 corazones
+[23:45:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> si no saco ni uno
+[23:45:39] [Server thread/WARN] [FML]: Actually Additions loaded a new chunk [-177, 169] in dimension 0 (overworld) while populating chunk [-177, 170], causing cascading worldgen lag.
+[23:45:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:45:39] [Server thread/WARN] [FML]: Actually Additions loaded a new chunk [-177, 168] in dimension 0 (overworld) while populating chunk [-177, 170], causing cascading worldgen lag.
+[23:45:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:45:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> igual pues
+[23:45:43] [Server thread/DEBUG] [FML]: The world 32daa77b (Mundo waos) may have leaked: seen 75 times.
+
+[23:45:43] [Server thread/DEBUG] [FML]: The world 660cd617 (Mundo waos) may have leaked: seen 75 times.
+
+[23:45:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> tenia 3
+[23:45:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[23:46:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lea_Matt: Teleported Lea_Matt to 518.5, 68.5, -440.5]
+[23:46:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> perdon
+[23:46:33] [Server thread/DEBUG] [FML]: The world 32daa77b (Mundo waos) may have leaked: seen 80 times.
+
+[23:46:33] [Server thread/DEBUG] [FML]: The world 660cd617 (Mundo waos) may have leaked: seen 80 times.
+
+[23:46:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> hacemos pvp ?
+[23:46:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[23:46:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> bueno
+[23:47:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> pero creo aun que me aras pedazos agresibo
+[23:47:23] [Server thread/DEBUG] [FML]: The world 32daa77b (Mundo waos) may have leaked: seen 85 times.
+
+[23:47:23] [Server thread/DEBUG] [FML]: The world 660cd617 (Mundo waos) may have leaked: seen 85 times.
+
+[23:47:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[23:47:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> hehe
+[23:48:13] [Server thread/DEBUG] [FML]: The world 32daa77b (Mundo waos) may have leaked: seen 90 times.
+
+[23:48:13] [Server thread/DEBUG] [FML]: The world 660cd617 (Mundo waos) may have leaked: seen 90 times.
+
+[23:48:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[23:48:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[23:49:03] [Server thread/DEBUG] [FML]: The world 32daa77b (Mundo waos) may have leaked: seen 95 times.
+
+[23:49:03] [Server thread/DEBUG] [FML]: The world 660cd617 (Mundo waos) may have leaked: seen 95 times.
+
+[23:49:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> mi casa no esta simetrica
+[23:49:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Lea veni
+[23:49:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[23:49:53] [Server thread/DEBUG] [FML]: The world 32daa77b (Mundo waos) may have leaked: seen 100 times.
+
+[23:49:53] [Server thread/DEBUG] [FML]: The world 660cd617 (Mundo waos) may have leaked: seen 100 times.
+
+[23:50:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> quiero que veas algo
+[23:50:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> ya voy
+[23:50:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[23:50:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> dejame que planto algo y voy
+[23:50:43] [Server thread/DEBUG] [FML]: The world 32daa77b (Mundo waos) may have leaked: seen 105 times.
+
+[23:50:43] [Server thread/DEBUG] [FML]: The world 660cd617 (Mundo waos) may have leaked: seen 105 times.
+
+[23:51:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Quién diria que tengo el poder de casi paralizar el tiempo pero no de evitar el daño del sol..
+[23:51:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[23:51:33] [Server thread/DEBUG] [FML]: The world 32daa77b (Mundo waos) may have leaked: seen 110 times.
+
+[23:51:33] [Server thread/DEBUG] [FML]: The world 660cd617 (Mundo waos) may have leaked: seen 110 times.
+
+[23:51:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[23:52:12] [Server thread/WARN] [vampirism]: [EntityEventHandler]Could not replace zombie target task
+[23:52:23] [Server thread/DEBUG] [FML]: The world 32daa77b (Mundo waos) may have leaked: seen 115 times.
+
+[23:52:23] [Server thread/DEBUG] [FML]: The world 660cd617 (Mundo waos) may have leaked: seen 115 times.
+
+[23:52:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> quedan 9 minutos
+[23:52:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[23:53:13] [Server thread/DEBUG] [FML]: The world 32daa77b (Mundo waos) may have leaked: seen 120 times.
+
+[23:53:13] [Server thread/DEBUG] [FML]: The world 660cd617 (Mundo waos) may have leaked: seen 120 times.
+
+[23:53:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> donde estas?
+[23:53:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> en donde estabas antes
+[23:53:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[23:53:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> en esa zona de zetas
+[23:53:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> uy
+[23:53:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Teleported Lea_Matt to KevinCrax]
+[23:53:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Yap
+[23:53:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> No notas nada raro ?
+[23:54:03] [Server thread/DEBUG] [FML]: The world 32daa77b (Mundo waos) may have leaked: seen 125 times.
+
+[23:54:03] [Server thread/DEBUG] [FML]: The world 660cd617 (Mundo waos) may have leaked: seen 125 times.
+
+[23:54:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[23:54:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> hehe
+[23:54:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> compulciono
+[23:54:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Es paralizis del tiempo
+[23:54:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> No puedes casi moverte
+[23:54:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> literalmente en una pelea seria imposible que me ganas XD
+[23:54:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Ganes*
+[23:54:53] [Server thread/DEBUG] [FML]: The world 32daa77b (Mundo waos) may have leaked: seen 130 times.
+
+[23:54:53] [Server thread/DEBUG] [FML]: The world 660cd617 (Mundo waos) may have leaked: seen 130 times.
+
+[23:54:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> lit hasta puedo esquivar las balas
+[23:54:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[23:55:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> ah
+[23:55:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Se
+[23:55:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> bastante op el poder no ?
+[23:55:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> bueno ta perdia antes
+[23:55:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> aunque creo que el efecto de daño igual tienes como que
+[23:55:43] [Server thread/DEBUG] [FML]: The world 32daa77b (Mundo waos) may have leaked: seen 135 times.
+
+[23:55:43] [Server thread/DEBUG] [FML]: The world 660cd617 (Mundo waos) may have leaked: seen 135 times.
+
+[23:55:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[23:55:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> el tiempo de invulnerabilidad normal
+[23:55:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> de todas maneras
+[23:56:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> sep
+[23:56:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> igual tienes el efecto de invulnerabilidad
+[23:56:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> luego del daño
+[23:56:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> a no me hace daño?
+[23:56:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> como que no me hace daño
+[23:56:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> te golpeé con una llave
+[23:56:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[23:56:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> la cosa es que
+[23:56:33] [Server thread/DEBUG] [FML]: The world 32daa77b (Mundo waos) may have leaked: seen 140 times.
+
+[23:56:33] [Server thread/DEBUG] [FML]: The world 660cd617 (Mundo waos) may have leaked: seen 140 times.
+
+[23:56:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> eres invulnerable por la misma cantidad de ticks que si te golpeara en la velocidad normal
+[23:56:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> es decir
+[23:56:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> aunque te golpee varias veces
+[23:56:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> demoraria en recien darte un golpe y luego otro
+[23:57:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
+[23:57:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[23:57:23] [Server thread/DEBUG] [FML]: The world 32daa77b (Mundo waos) may have leaked: seen 145 times.
+
+[23:57:23] [Server thread/DEBUG] [FML]: The world 660cd617 (Mundo waos) may have leaked: seen 145 times.
+
+[23:57:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no me esta haciendo daño por la armadura?
+[23:57:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> no
+[23:57:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> a si
+[23:57:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> en realidad
+[23:57:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> te estaba golpeando con mi puño
+[23:57:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> no con mi arma
+[23:57:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> mi arma es esta
+[23:57:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt is bleeding...
+[23:57:45] [Server thread/INFO] [tombstone]: The death event of the player Lea_Matt was cancelled by another mod
+[23:57:45] [Server thread/INFO] [tombstone]: Lea_Matt has successfully been saved
+[23:57:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Oof
+[23:57:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ok quizas si quita un poquito
+[23:57:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[23:57:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt was slain by KevinCrax
+[23:57:59] [Server thread/INFO] [tombstone]: The last known grave of Lea_Matt is at location [name:Last Grave, x:-3073, y:69, z:2621] in the dimension 0
+[23:58:00] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
+[23:58:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> iba a revivirte
+[23:58:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> pero ok
+[23:58:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> aunque te bugeaste wow
+[23:58:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> a el efecto no se acaba jamas
+[23:58:13] [Server thread/DEBUG] [FML]: The world 32daa77b (Mundo waos) may have leaked: seen 150 times.
+
+[23:58:13] [Server thread/DEBUG] [FML]: The world 660cd617 (Mundo waos) may have leaked: seen 150 times.
+
+[23:58:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ah si dura 15 minutos
+[23:58:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> aunque es muy raro de encontrar
+[23:58:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> enceri tengo que esperar 15 minutos?
+[23:58:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[23:58:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Teleported Lea_Matt to KevinCrax]
+[23:58:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> aunque si me alejo
+[23:58:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> como notaras
+[23:59:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> el afecto no aplica
+[23:59:03] [Server thread/DEBUG] [FML]: The world 32daa77b (Mundo waos) may have leaked: seen 155 times.
+
+[23:59:03] [Server thread/DEBUG] [FML]: The world 660cd617 (Mundo waos) may have leaked: seen 155 times.
+
+[23:59:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> se
+[23:59:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[23:59:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> es decir
+[23:59:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> a corta distancia imposible
+[23:59:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> y desde donde pega eso?
+[23:59:53] [Server thread/DEBUG] [FML]: The world 32daa77b (Mundo waos) may have leaked: seen 160 times.
+
+[23:59:53] [Server thread/DEBUG] [FML]: The world 660cd617 (Mundo waos) may have leaked: seen 160 times.
+
+[23:59:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> como 6 bloques
+[00:00:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> de distancia
+[00:00:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ah cierto
+[00:00:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> aparte de eso
+[00:00:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> veo todo azul
+[00:00:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
+[00:00:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[00:00:43] [Server thread/DEBUG] [FML]: The world 32daa77b (Mundo waos) may have leaked: seen 165 times.
+
+[00:00:43] [Server thread/DEBUG] [FML]: The world 660cd617 (Mundo waos) may have leaked: seen 165 times.
+
+[00:00:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> me voy a quitar el efecto
+[00:00:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Set own game mode to Creative Mode]
+[00:00:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[00:01:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> yap
+[00:01:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Set own game mode to Survival Mode]
+[00:01:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ya me lo quité
+[00:01:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: KevinCrax moved wrongly!
+[00:01:33] [Server thread/DEBUG] [FML]: The world 32daa77b (Mundo waos) may have leaked: seen 170 times.
+
+[00:01:33] [Server thread/DEBUG] [FML]: The world 660cd617 (Mundo waos) may have leaked: seen 170 times.
+
+[00:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ahora si
+[00:01:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> PELEEMOS !
+[00:01:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[00:02:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> um
+[00:02:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> quito al bicho
+[00:02:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> VAMOS EMPIEZA TU
+[00:02:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt is bleeding...
+[00:02:23] [Server thread/INFO] [tombstone]: The death event of the player Lea_Matt was cancelled by another mod
+[00:02:23] [Server thread/INFO] [tombstone]: Lea_Matt has successfully been saved
+[00:02:23] [Server thread/DEBUG] [FML]: The world 32daa77b (Mundo waos) may have leaked: seen 175 times.
+
+[00:02:23] [Server thread/DEBUG] [FML]: The world 660cd617 (Mundo waos) may have leaked: seen 175 times.
+
+[00:02:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> XD
+[00:02:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Mundo waos
+[00:02:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> um
+[00:02:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> creo que me pase
+[00:02:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt is bleeding...
+[00:02:47] [Server thread/INFO] [tombstone]: The death event of the player Lea_Matt was cancelled by another mod
+[00:02:47] [Server thread/INFO] [tombstone]: Lea_Matt has successfully been saved
