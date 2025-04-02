@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-04-02 03:38:15 +0000"
+    },
+    "done": true
+  },
   "vampirism:main/vampire_forest": {
     "criteria": {
       "main": "2025-03-28 21:12:00 +0000"
@@ -419,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-04-02 03:38:15 +0000"
+    },
+    "done": true
+  },
   "ebwizardry:handbook/scrolls": {
     "criteria": {
       "criteria_0": "2025-03-27 01:53:08 +0000"
@@ -499,6 +511,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "oasis": "2025-04-01 23:38:41 +0000",
+      "woodland": "2025-04-02 00:05:41 +0000",
       "shrubland": "2025-03-28 20:59:53 +0000",
       "fen": "2025-03-30 22:47:29 +0000",
       "alps_foothills": "2025-03-30 22:41:54 +0000",
@@ -514,7 +528,9 @@
       "outback": "2025-03-30 23:49:27 +0000",
       "shield": "2025-03-28 00:34:23 +0000",
       "alps": "2025-03-30 22:42:07 +0000",
+      "wasteland": "2025-04-01 23:37:07 +0000",
       "boreal_forest": "2025-03-30 22:48:25 +0000",
+      "redwood_forest": "2025-04-02 00:09:52 +0000",
       "visceral_heap": "2025-03-30 02:38:30 +0000",
       "snowy_forest": "2025-03-28 00:53:32 +0000",
       "seasonal_forest": "2025-03-23 19:24:40 +0000",
@@ -706,13 +722,16 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2025-03-29 01:41:34 +0000",
+      "wither_skeleton": "2025-04-01 23:15:45 +0000",
       "zombie_villager": "2025-03-30 23:46:11 +0000",
       "magma_cube": "2025-03-30 02:57:25 +0000",
       "skeleton": "2025-03-27 01:12:12 +0000",
       "husk": "2025-03-30 02:14:54 +0000",
+      "blaze": "2025-04-01 23:15:40 +0000",
       "zombie": "2025-03-26 00:04:23 +0000",
       "cave_spider": "2025-03-28 02:27:02 +0000",
       "witch": "2025-03-28 01:54:12 +0000",
+      "guardian": "2025-04-02 00:44:54 +0000",
       "spider": "2025-03-26 01:05:13 +0000",
       "ghast": "2025-03-30 02:35:26 +0000",
       "creeper": "2025-03-26 01:03:42 +0000",
@@ -1331,9 +1350,11 @@
       "birch_forest": "2025-03-26 01:03:18 +0000",
       "deep_ocean": "2025-03-23 19:39:04 +0000",
       "beaches": "2025-03-27 01:46:34 +0000",
+      "desert_hills": "2025-04-01 23:37:30 +0000",
       "forest_hills": "2025-03-30 22:51:57 +0000",
       "savanna": "2025-03-28 21:04:38 +0000",
       "plains": "2025-03-28 20:49:09 +0000",
+      "mesa_clear_rock": "2025-04-01 23:59:02 +0000",
       "redwood_taiga": "2025-03-30 22:40:14 +0000",
       "taiga": "2025-03-30 22:40:09 +0000",
       "redwood_taiga_hills": "2025-03-30 22:40:17 +0000",
@@ -1345,6 +1366,7 @@
       "extreme_hills": "2025-03-30 22:44:32 +0000",
       "cold_beach": "2025-03-28 00:52:48 +0000",
       "river": "2025-03-26 02:43:26 +0000",
+      "desert": "2025-04-01 23:36:42 +0000",
       "stone_beach": "2025-03-30 23:26:26 +0000"
     },
     "done": false
@@ -1592,6 +1614,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-03-28 23:45:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2025-04-01 23:34:38 +0000"
     },
     "done": true
   },
@@ -1883,6 +1911,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-03-27 02:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-04-02 03:38:15 +0000"
     },
     "done": true
   },
@@ -2354,6 +2388,7 @@
     "criteria": {
       "spark_bomb": "2025-04-01 00:57:00 +0000",
       "sixth_sense": "2025-03-28 22:33:22 +0000",
+      "pocket_furnace": "2025-04-02 00:26:25 +0000",
       "snowball": "2025-03-28 22:34:14 +0000",
       "summon_zombie": "2025-03-27 01:53:09 +0000",
       "arc": "2025-03-28 21:22:43 +0000",
@@ -2397,6 +2432,18 @@
   "tombstone:tutorial/soul_magic": {
     "criteria": {
       "coded_trigger": "2025-04-01 02:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-01 23:15:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/disenchanter": {
+    "criteria": {
+      "coded_trigger": "2025-04-02 03:10:03 +0000"
     },
     "done": true
   },
@@ -2566,6 +2613,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-03-23 21:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2025-04-01 23:34:38 +0000"
     },
     "done": true
   },

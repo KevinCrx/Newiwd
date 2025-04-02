@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "ebwizardry:apprentice": {
+    "criteria": {
+      "healing": "2025-04-02 04:02:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-03-23 21:26:07 +0000"
@@ -374,6 +380,7 @@
       "coniferous_forest": "2025-03-27 01:45:03 +0000",
       "outback": "2025-03-30 23:49:04 +0000",
       "shield": "2025-03-27 01:51:44 +0000",
+      "visceral_heap": "2025-04-02 03:17:03 +0000",
       "snowy_forest": "2025-03-29 03:13:23 +0000",
       "seasonal_forest": "2025-03-23 21:22:32 +0000",
       "kelp_forest": "2025-03-27 02:31:39 +0000",
@@ -494,6 +501,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/tome_of_arcana": {
+    "criteria": {
+      "criteria_0": "2025-04-02 03:03:46 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-26 02:32:05 +0000"
@@ -520,6 +533,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2025-04-02 03:33:57 +0000",
       "zombie_villager": "2025-03-29 00:22:10 +0000",
       "skeleton": "2025-03-26 01:29:54 +0000",
       "zombie": "2025-03-26 00:02:51 +0000",
@@ -927,6 +941,12 @@
     },
     "done": true
   },
+  "ebwizardry:spell_failure": {
+    "criteria": {
+      "criteria_0": "2025-04-02 04:03:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-03-23 21:51:51 +0000"
@@ -1067,6 +1087,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-03-23 21:28:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-04-02 03:58:53 +0000"
     },
     "done": true
   },
@@ -1533,6 +1559,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-02 03:32:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-03-28 01:05:48 +0000"
@@ -1935,7 +1967,8 @@
       "summon_zombie": "2025-03-29 01:30:01 +0000",
       "ignite": "2025-03-27 01:55:08 +0000",
       "invigorating_presence": "2025-03-27 01:55:45 +0000",
-      "agility": "2025-03-27 01:55:52 +0000"
+      "agility": "2025-03-27 01:55:52 +0000",
+      "heal": "2025-04-02 04:03:11 +0000"
     },
     "done": false
   },
