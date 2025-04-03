@@ -560,10 +560,12 @@
     "criteria": {
       "zombie_pigman": "2025-04-02 03:33:57 +0000",
       "zombie_villager": "2025-03-29 00:22:10 +0000",
+      "magma_cube": "2025-04-03 03:42:00 +0000",
       "skeleton": "2025-03-26 01:29:54 +0000",
       "zombie": "2025-03-26 00:02:51 +0000",
       "witch": "2025-04-01 01:50:03 +0000",
       "spider": "2025-03-26 02:23:21 +0000",
+      "ghast": "2025-04-03 03:49:53 +0000",
       "creeper": "2025-03-26 02:43:22 +0000",
       "enderman": "2025-03-28 01:39:47 +0000"
     },
@@ -722,6 +724,12 @@
   "tombstone:tutorial/find_grave_dust": {
     "criteria": {
       "has_grave_dust": "2025-03-23 21:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-04-03 03:44:38 +0000"
     },
     "done": true
   },
@@ -1893,6 +1901,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-03-26 01:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2025-04-03 03:49:53 +0000"
     },
     "done": true
   },
