@@ -1253,6 +1253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-04-04 00:06:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2025-03-28 01:13:35 +0000"
@@ -1557,6 +1563,7 @@
       "clownfish": "2025-03-26 02:08:21 +0000",
       "apple": "2025-03-23 21:29:44 +0000",
       "cooked_cod": "2025-03-23 22:45:17 +0000",
+      "rabbit": "2025-04-04 00:09:09 +0000",
       "bread": "2025-03-23 21:54:10 +0000",
       "rotten_flesh": "2025-03-26 00:20:39 +0000",
       "beetroot": "2025-03-28 03:02:00 +0000",
@@ -2259,6 +2266,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-03-23 21:50:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-04-04 00:12:34 +0000"
     },
     "done": true
   },
