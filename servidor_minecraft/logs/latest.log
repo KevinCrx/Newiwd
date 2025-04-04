@@ -178,3 +178,55 @@
 [00:25:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Tengo una mejor idea
 [00:25:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Set own game mode to Creative Mode]
 [00:26:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> cual?
+[00:26:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> pera
+[00:28:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lea_Matt moved wrongly!
+[00:28:30] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(ID=bucket,amount=#rand(1,2);ID=water_bucket,amount=#rand(1,2);ID=lava_bucket,amount=#rand(1,2);ID=milk_bucket,amount=#rand(1,2))@luck=0
+[00:28:42] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(ID=pumpkin,amount=#rand(8,16);ID=lit_pumpkin,amount=#rand(8,16))@luck=0
+[00:28:54] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: ID=fishing_rod,NBTTag=(ench=#luckyFishingRodEnchantments,display=(Name="$9$lHero's Fishing Rod"))@luck=2
+[00:29:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> aqui está..
+[00:29:07] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=fill,ID=air,size=(1,8,1);type=entity,ID=falling_block,posY=#bPosY+7,NBTTag=(Block=gold_block);type=particle,ID=flame,size=(1,2,1),particleAmount=500;type=sound,ID=entity.ghast.shoot)@luck=0
+[00:29:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Set own game mode to Survival Mode]
+[00:29:22] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=structure,ID=wishing_well;type=message,ID="A wishing well? Maybe you should throw in a coin...";type=command,ID="/give #pName gold_nugget 1 0 {display:{Name:\"$6Coin\"}}";type=block,ID=lucky:lucky_block,posY=#bPosY-3,NBTTag=(Drops=["group(type=message,ID=\"$bYour wish came true!\";type=block,ID=air,posY='#'bPosY+3;type=block,ID=beacon,posY='#'bPosY+2;type=entity,ID=fireworks_rocket,NBTTag=(LifeTime=20,FireworksItem=(id=fireworks,Count=1,tag='#'randFireworksRocket)),amount=20,posY='#'bPosY+3,posOffset='#'circleOffset(2);ID=gold_ingot,amount=#rand(20,30),posY='#'bPosY+10,posOffset='#'circleOffset(2);ID=diamond,amount=#rand(20,30),posY='#'bPosY+10,posOffset='#'circleOffset(2);ID=emerald,amount=#rand(20,30),posY='#'bPosY+10,posOffset='#'circleOffset(2);ID=dye,damage=4,amount=#rand(20,30),posY='#'bPosY+10,posOffset='#'circleOffset(2))"]))@luck=2
+[00:29:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Given [Coin] * 1 to Lea_Matt]
+[00:29:27] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: group(type=entity,ID=Rabbit,amount=#rand(5,10),posOffset=#circleOffset(3),NBTTag=(RabbitType=#rand(0,5),OwnerUUID=#pUUID,Sitting=1);type=particle,ID="heart",size=(2,0,2),particleAmount=20)@luck=1
+[00:29:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt is bleeding...
+[00:29:37] [Server thread/INFO] [tombstone]: The death event of the player Lea_Matt was cancelled by another mod
+[00:29:37] [Server thread/INFO] [tombstone]: Lea_Matt has successfully been saved
+[00:29:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> mori
+[00:29:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Oof
+[00:30:02] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: ID=end_portal_frame,amount=#rand(2,6)@luck=2
+[00:30:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lea_Matt was pummeled by Void Astaroth  Lvl 4
+[00:30:16] [Server thread/INFO] [tombstone]: The last known grave of Lea_Matt is at location [name:Last Grave, x:-1120, y:61, z:-3792] in the dimension 1
+[00:30:18] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
+[00:30:18] [Thread-15/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for ece0ef0f-b99a-37a6-8c95-cbfbe03b5272.
+[00:30:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lea_Matt: Teleported Lea_Matt to 673.5, 27.5, -2121.5]
+[00:30:29] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
+[00:30:29] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Lea_Matt
+[00:30:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lea_Matt moved too quickly! -579.4897404635815,19.23363200604248,2122.3633329623667
+[00:30:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lea_Matt: Teleported Lea_Matt to -1119.5, 61.5, -3791.5]
+[00:30:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lea_Matt: Teleported Lea_Matt to -88.5, 75.5, 29.5]
+[00:31:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> ya tengo todo
+[00:31:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> bien
+[00:31:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> a donde voy?
+[00:32:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> dex?
+[00:32:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> YA VINE
+[00:32:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Digo
+[00:32:48] [Server thread/INFO] [STDOUT]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:122]: Chosen Lucky Block Drop: type=structure,ID=water_trap,pos=#pPos@luck=-2
+[00:32:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> perdon estaba super ocupado
+[00:32:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> matando miniboses
+[00:33:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> ya me tengo que ir pronto
+[00:33:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ya tengo las 2 almas que necesitaba
+[00:33:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> y
+[00:33:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> aww... ;-;
+[00:33:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KevinCrax: Teleported KevinCrax to Lea_Matt]
+[00:33:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no me estoy sintiendo bien
+[00:33:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> de salud ?
+[00:33:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> no como desde hace rato UwU
+[00:33:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> ???
+[00:34:01] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Lea_Matt
+[00:34:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lea_Matt: Teleported Lea_Matt to 518.5, 68.5, -440.5]
+[00:35:15] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to KevinCrax
+[00:35:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> PUM
+[00:35:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KevinCrax> Regrese a casa
+[00:35:29] [Server thread/INFO] [FML]: Unloading dimension 1
+[00:35:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lea_Matt> hehehe
