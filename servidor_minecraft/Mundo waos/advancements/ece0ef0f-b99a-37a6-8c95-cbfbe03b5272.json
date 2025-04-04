@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-04-04 00:05:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-03-23 22:09:54 +0000"
@@ -560,6 +566,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2025-04-02 03:33:57 +0000",
+      "shulker": "2025-04-04 00:03:29 +0000",
       "zombie_villager": "2025-03-29 00:22:10 +0000",
       "magma_cube": "2025-04-03 03:42:00 +0000",
       "skeleton": "2025-03-26 01:29:54 +0000",
@@ -1135,6 +1142,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-03-29 02:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-04-04 00:05:08 +0000"
     },
     "done": true
   },
@@ -2261,6 +2274,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-04-04 00:02:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma": {
     "criteria": {
       "has_magma_cream": "2025-03-27 02:40:43 +0000"
@@ -2339,6 +2358,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/celestial_crystal": {
+    "criteria": {
+      "has_item": "2025-04-03 23:57:59 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_willow": {
     "criteria": {
       "entered_water": "2025-03-23 21:27:27 +0000"
@@ -2384,6 +2409,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-03-27 01:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-04-04 00:05:08 +0000"
     },
     "done": true
   },
