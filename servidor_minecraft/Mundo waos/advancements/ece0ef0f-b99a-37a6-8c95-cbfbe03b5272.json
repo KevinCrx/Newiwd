@@ -2124,6 +2124,7 @@
       "summon_zombie": "2025-03-29 01:30:01 +0000",
       "ignite": "2025-03-27 01:55:08 +0000",
       "invigorating_presence": "2025-03-27 01:55:45 +0000",
+      "magic_missile": "2025-04-09 00:34:07 +0000",
       "agility": "2025-03-27 01:55:52 +0000",
       "heal": "2025-04-02 04:03:11 +0000"
     },
@@ -2343,6 +2344,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-03-23 21:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-04-09 00:45:23 +0000"
     },
     "done": true
   },
