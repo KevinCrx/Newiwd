@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-04-10 00:58:15 +0000"
+    },
+    "done": true
+  },
   "toolbelt:recipes/belt": {
     "criteria": {
       "has_leather": "2025-04-10 00:20:04 +0000"
@@ -431,6 +437,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/medium_scope": {
+    "criteria": {
+      "has_redstone": "2025-04-10 00:58:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2025-04-10 00:47:41 +0000"
@@ -459,6 +471,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-04-10 00:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-04-10 00:58:15 +0000"
     },
     "done": true
   },
@@ -501,6 +519,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-10 00:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-04-10 00:58:15 +0000"
     },
     "done": true
   },
@@ -594,6 +618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-04-10 00:58:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-04-10 00:00:37 +0000"
@@ -607,6 +637,12 @@
       "minecraft:zombie": "2025-04-10 00:49:17 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-04-10 00:58:15 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
@@ -647,6 +683,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-10 00:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-10 00:58:35 +0000"
     },
     "done": true
   },
@@ -950,6 +992,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-04-10 00:58:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2025-04-09 23:59:39 +0000"
@@ -1007,6 +1055,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/bone_pile_block": {
     "criteria": {
       "has_item": "2025-04-10 00:04:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-04-10 00:58:15 +0000"
     },
     "done": true
   },
@@ -1226,6 +1280,18 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/short_scope": {
+    "criteria": {
+      "has_redstone": "2025-04-10 00:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2025-04-10 00:58:35 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/backpacked/birch_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-04-09 23:59:39 +0000"
@@ -1247,6 +1313,12 @@
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-04-09 23:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-04-10 00:58:15 +0000"
     },
     "done": true
   },
