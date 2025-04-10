@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-10 01:24:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-04-09 23:59:36 +0000"
@@ -227,6 +233,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-04-10 01:23:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-04-10 00:26:06 +0000"
@@ -271,7 +283,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "sweet_berries": "2025-04-10 00:21:42 +0000"
+      "sweet_berries": "2025-04-10 00:21:42 +0000",
+      "bread": "2025-04-10 01:26:21 +0000"
     },
     "done": false
   },
@@ -314,6 +327,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 00:10:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-04-10 01:24:11 +0000"
     },
     "done": true
   },
@@ -446,6 +465,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-10 00:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2025-04-10 01:27:32 +0000"
     },
     "done": true
   },
@@ -618,6 +643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2025-04-10 01:24:11 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-09 23:59:36 +0000"
@@ -698,6 +729,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-04-10 01:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-10 01:27:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-10 00:29:05 +0000"
@@ -770,6 +813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-04-10 01:24:11 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/mini_gun": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 00:10:50 +0000"
@@ -818,6 +867,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-04-10 01:26:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-04-09 23:59:47 +0000"
@@ -863,6 +918,12 @@
   "biomesoplenty:recipes/redstone/fir_button": {
     "criteria": {
       "has_planks": "2025-04-09 23:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-04-10 01:24:11 +0000"
     },
     "done": true
   },
@@ -992,6 +1053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-10 01:27:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 00:10:50 +0000"
@@ -1016,6 +1083,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-04-10 01:24:09 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "coniferous_forest": "2025-04-09 20:56:37 +0000"
@@ -1031,6 +1104,12 @@
   "undergarden:recipes/undergarden_group/smogstem_boat": {
     "criteria": {
       "in_water": "2025-04-09 23:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-10 01:24:11 +0000"
     },
     "done": true
   },
@@ -1145,6 +1224,18 @@
   "backpacked:recipes/backpacked/acacia_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-04-09 23:59:39 +0000"
+    },
+    "done": true
+  },
+  "oresabovediamonds:main/find_amethyst": {
+    "criteria": {
+      "found_amethyst": "2025-04-10 01:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-10 01:27:12 +0000"
     },
     "done": true
   },
@@ -1304,6 +1395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-10 01:24:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-10 00:26:06 +0000"
@@ -1382,6 +1479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-10 01:24:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-04-10 00:58:15 +0000"
@@ -1451,6 +1554,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-04-10 00:10:50 +0000"
+    },
+    "done": true
+  },
+  "oresabovediamonds:main/find_black_opal": {
+    "criteria": {
+      "found_black_opal": "2025-04-10 01:24:31 +0000"
     },
     "done": true
   },
