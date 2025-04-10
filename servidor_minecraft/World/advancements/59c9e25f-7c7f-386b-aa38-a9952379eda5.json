@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-10 23:43:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 00:10:50 +0000"
@@ -284,6 +290,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-04-10 00:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-10 23:42:28 +0000"
     },
     "done": true
   },
@@ -590,6 +602,7 @@
       "minecraft:witch": "2025-04-10 04:16:43 +0000",
       "minecraft:husk": "2025-04-10 02:34:52 +0000",
       "minecraft:enderman": "2025-04-10 02:08:39 +0000",
+      "minecraft:stray": "2025-04-10 23:43:27 +0000",
       "minecraft:zombie": "2025-04-10 00:49:17 +0000",
       "minecraft:zombie_villager": "2025-04-10 23:04:47 +0000"
     },
@@ -736,6 +749,12 @@
   "theabyss:strange_rem_phases": {
     "criteria": {
       "strange_rem_phases": "2025-04-10 21:55:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-10 23:43:01 +0000"
     },
     "done": true
   },
@@ -898,6 +917,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 00:10:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-10 23:44:54 +0000"
     },
     "done": true
   },
@@ -1287,6 +1312,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-04-10 23:42:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2025-04-10 00:02:43 +0000"
@@ -1382,6 +1413,12 @@
       "has_cobblestone": "2025-04-10 00:00:37 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_snowy": "2025-04-10 23:41:34 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
@@ -2028,6 +2065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-10 23:44:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-04-10 01:15:33 +0000"
@@ -2085,6 +2128,12 @@
   "minecraft:recipes/decorations/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-04-10 01:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-10 23:43:48 +0000"
     },
     "done": true
   },
@@ -2358,6 +2407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-04-10 23:42:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-04-10 00:00:37 +0000"
@@ -2532,6 +2587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-10 23:43:01 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2025-04-10 03:27:26 +0000"
@@ -2589,6 +2650,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_blue_dye": "2025-04-10 02:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-10 23:43:01 +0000"
     },
     "done": true
   },
