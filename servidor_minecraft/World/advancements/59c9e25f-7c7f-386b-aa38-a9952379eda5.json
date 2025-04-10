@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-10 22:56:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-04-10 01:15:33 +0000"
@@ -578,7 +584,8 @@
       "minecraft:witch": "2025-04-10 04:16:43 +0000",
       "minecraft:husk": "2025-04-10 02:34:52 +0000",
       "minecraft:enderman": "2025-04-10 02:08:39 +0000",
-      "minecraft:zombie": "2025-04-10 00:49:17 +0000"
+      "minecraft:zombie": "2025-04-10 00:49:17 +0000",
+      "minecraft:zombie_villager": "2025-04-10 23:04:47 +0000"
     },
     "done": false
   },
@@ -864,6 +871,12 @@
     },
     "done": true
   },
+  "inventorypets:1": {
+    "criteria": {
+      "example": "2025-04-10 23:19:52 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/assault_rifle": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 00:10:50 +0000"
@@ -1105,6 +1118,7 @@
       "minecraft:river": "2025-04-10 01:35:45 +0000",
       "minecraft:lukewarm_ocean": "2025-04-10 02:26:27 +0000",
       "minecraft:snowy_taiga": "2025-04-10 01:35:48 +0000",
+      "minecraft:wooded_mountains": "2025-04-10 23:03:12 +0000",
       "minecraft:snowy_taiga_hills": "2025-04-10 02:01:43 +0000",
       "minecraft:savanna": "2025-04-10 02:27:07 +0000"
     },
@@ -1518,6 +1532,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-04-10 23:19:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-04-09 23:59:47 +0000"
@@ -1575,6 +1595,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-10 00:29:05 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:house": {
+    "criteria": {
+      "crafting_table": "2025-04-10 23:19:52 +0000"
     },
     "done": true
   },
