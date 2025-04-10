@@ -1,0 +1,30 @@
+
+#Server configuration settings
+[server]
+	#How much percentage of exp will be given back to player if a player revert a skill, between 0-1.
+	#Range: 0.0 ~ 1.0
+	globalRevertFactor = 0.8
+	#Ticks for initiative sync, default for 400 ticks (20s). Set to 0 to disable this feature
+	#Range: > 0
+	syncTicks = 400
+	#Multiplier of levels you will lose, between 0-1
+	#Range: 0.0 ~ 1.0
+	loseStatsMultiplier = 1.0
+	#A global multiplier on the bonus all stats gives
+	#Range: 0.0 ~ 1.7976931348623157E308
+	globalBonusMultiplier = 1.0
+	#A global multiplier on the max level limit of all stats
+	#Range: 0.0 ~ 1.7976931348623157E308
+	globalLimitMultiplier = 2.5
+	#When using reaper skill, the maximum health of target hostile. -1 for no limit.
+	#Range: > -1
+	reaperLimit = 20
+	#A global multiplier on the cost to upgrade all stats
+	#Range: 0.0 ~ 1.7976931348623157E308
+	globalCostMultiplier = 1.0
+	#Does your stats lose on death
+	loseStatsOnDeath = false
+	#An integer that constrains the max number of amount of the skill can be reverted. -1 for no limit. 0 to disable reverting.
+	#Range: > -1
+	globalMaxRevertLevel = -1
+

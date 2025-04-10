@@ -1,0 +1,12 @@
+#Cost multiplier for this stat
+#Range: 0.0 ~ 1.7976931348623157E308
+costMultiplier = 1.0
+#Max Level Limit for this stat, -1 for leave it as-is, 0 for disable this stat.
+#Range: > -1
+maxLevel = -1
+#Bonus multiplier for this stat
+#Range: 0.0 ~ 1.7976931348623157E308
+bonusMultiplier = 1.0
+#Support item in resource location format, like minecraft:iron_axe
+supports = []
+
