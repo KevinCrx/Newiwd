@@ -619,6 +619,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-11 01:31:32 +0000",
       "minecraft:skeleton": "2025-04-10 00:04:04 +0000",
       "minecraft:spider": "2025-04-10 02:16:17 +0000",
       "minecraft:creeper": "2025-04-10 00:08:17 +0000",
@@ -689,6 +690,12 @@
   "cgm:recipes/cgm/tactical_stock": {
     "criteria": {
       "has_gray_wool": "2025-04-10 22:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-11 01:31:32 +0000"
     },
     "done": true
   },
@@ -866,6 +873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-04-11 01:33:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 00:10:50 +0000"
@@ -881,6 +894,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2025-04-10 00:08:54 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/backpacked/backpack": {
+    "criteria": {
+      "has_hide": "2025-04-11 01:33:44 +0000"
     },
     "done": true
   },
@@ -1842,6 +1861,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-04-10 01:41:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-04-11 01:31:32 +0000"
     },
     "done": true
   },
