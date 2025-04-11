@@ -6847,3 +6847,50 @@ java.lang.NullPointerException: null
 [11Apr2025 00:32:54.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt was slain by Lamebrain
 [11Apr2025 00:32:54.159] [Server thread/DEBUG] [tombstone/]: A new grave of the player Lea_Matt was created at position [x:169, y:11, z:39, dim:minecraft:overworld]
 [11Apr2025 00:32:54.167] [Server thread/INFO] [tombstone/]: The player Lea_Matt has successfully been saved
+[11Apr2025 00:33:01.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ???????d
+[11Apr2025 00:33:03.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> te dije
+[11Apr2025 00:33:18.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt was slain by Lamebrain
+[11Apr2025 00:33:18.531] [Server thread/DEBUG] [tombstone/]: A new grave of the player Lea_Matt was created at position [x:166, y:11, z:41, dim:minecraft:overworld]
+[11Apr2025 00:33:18.545] [Server thread/INFO] [tombstone/]: The player Lea_Matt has successfully been saved
+[11Apr2025 00:33:23.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> qué mier.. ?
+[11Apr2025 00:33:26.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported Lea_Matt to KevinCrax]
+[11Apr2025 00:33:47.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ??
+[11Apr2025 00:33:51.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> pero si son zombies normales
+[11Apr2025 00:34:12.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> me sacan 5 coracones por piña
+[11Apr2025 00:34:14.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax has made the advancement [Squealer]
+[11Apr2025 00:34:51.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> interesante
+[11Apr2025 00:34:52.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> una mascotita
+[11Apr2025 00:34:54.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> quedatela
+[11Apr2025 00:35:05.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt has made the advancement [Squealer]
+[11Apr2025 00:35:26.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> gracias
+[11Apr2025 00:35:39.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> nou problem
+[11Apr2025 00:36:00.161] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save World
+[11Apr2025 00:36:00.171] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete World
+[11Apr2025 00:39:37.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> ya quiero salir
+[11Apr2025 00:39:46.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> a casa ?¿
+[11Apr2025 00:40:16.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> voy
+[11Apr2025 00:40:18.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> si
+[11Apr2025 00:41:00.201] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save World
+[11Apr2025 00:41:00.212] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete World
+[11Apr2025 00:42:51.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax fell from a high place
+[11Apr2025 00:42:51.686] [Server thread/DEBUG] [tombstone/]: A new grave of the player KevinCrax was created at position [x:185, y:39, z:-19, dim:minecraft:overworld]
+[11Apr2025 00:42:51.694] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: java.util.ConcurrentModificationException
+[11Apr2025 00:42:51.694] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1511)
+[11Apr2025 00:42:51.694] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$KeyIterator.next(HashMap.java:1534)
+[11Apr2025 00:42:51.694] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:361)
+[11Apr2025 00:42:51.695] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[11Apr2025 00:42:51.695] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[11Apr2025 00:42:51.696] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[11Apr2025 00:42:51.697] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[11Apr2025 00:42:51.697] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[11Apr2025 00:42:51.698] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[11Apr2025 00:42:51.699] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:176)
+[11Apr2025 00:42:51.700] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$9(CommandTBRecovery.java:166)
+[11Apr2025 00:42:51.701] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[11Apr2025 00:42:51.702] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[11Apr2025 00:42:51.702] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[11Apr2025 00:42:51.703] [Server thread/INFO] [tombstone/]: The player KevinCrax could not be saved
+[11Apr2025 00:42:53.203] [Thread-176/INFO] [com.lycanitesmobs.LycanitesMobs/]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 59c9e25f-7c7f-386b-aa38-a9952379eda5.
+[11Apr2025 00:42:54.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> en serio
+[11Apr2025 00:42:57.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> justo habia un hueco ahi
+[11Apr2025 00:43:03.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to 184.5, 39.0, -18.5]
