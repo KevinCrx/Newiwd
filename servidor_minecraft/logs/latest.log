@@ -288,3 +288,210 @@
 [11Apr2025 01:03:31.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> buegeo todo y mas con mod
 [11Apr2025 01:03:35.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Si lit
 [11Apr2025 01:03:35.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> XD
+[11Apr2025 01:03:39.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> mira lo que tengo
+[11Apr2025 01:03:41.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> en mi mano
+[11Apr2025 01:04:00.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> un poquito mas lejos
+[11Apr2025 01:04:02.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> no recupero mi vida
+[11Apr2025 01:04:08.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ahh
+[11Apr2025 01:04:11.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> por las estadisticas ?
+[11Apr2025 01:04:21.894] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KevinCrax lost connection: Disconnected
+[11Apr2025 01:04:21.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax left the game
+[11Apr2025 01:04:22.177] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lea_Matt lost connection: Disconnected
+[11Apr2025 01:04:22.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt left the game
+[11Apr2025 01:04:32.347] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@19debda3
+[11Apr2025 01:04:32.371] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KevinCrax[/127.100.141.87:55055] logged in with entity id 79449 at (123.9990193885269, 75.0, 33.142623296147214)
+[11Apr2025 01:04:32.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax joined the game
+[11Apr2025 01:04:32.461] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: java.io.FileNotFoundException: config/theabyss2.json (No such file or directory)
+[11Apr2025 01:04:32.461] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.open0(Native Method)
+[11Apr2025 01:04:32.461] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+[11Apr2025 01:04:32.462] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+[11Apr2025 01:04:32.462] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileReader.<init>(FileReader.java:75)
+[11Apr2025 01:04:32.462] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.yezon.theabyss.procedures.ReadConfigFileProcedure.executeProcedure(ReadConfigFileProcedure.java:50)
+[11Apr2025 01:04:32.462] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.yezon.theabyss.procedures.ReadConfigFileProcedure$GlobalTrigger.onPlayerLoggedIn(ReadConfigFileProcedure.java:36)
+[11Apr2025 01:04:32.462] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.ASMEventHandler_802_GlobalTrigger_onPlayerLoggedIn_PlayerLoggedInEvent.invoke(.dynamic)
+[11Apr2025 01:04:32.462] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[11Apr2025 01:04:32.462] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[11Apr2025 01:04:32.462] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[11Apr2025 01:04:32.462] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.firePlayerLoggedIn(BasicEventHooks.java:30)
+[11Apr2025 01:04:32.462] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.management.PlayerList.func_72355_a(PlayerList.java:232)
+[11Apr2025 01:04:32.462] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.login.ServerLoginNetHandler.func_147326_c(ServerLoginNetHandler.java:118)
+[11Apr2025 01:04:32.463] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.login.ServerLoginNetHandler.func_73660_a(ServerLoginNetHandler.java:65)
+[11Apr2025 01:04:32.463] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:222)
+[11Apr2025 01:04:32.463] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[11Apr2025 01:04:32.463] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[11Apr2025 01:04:32.463] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[11Apr2025 01:04:32.463] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[11Apr2025 01:04:32.463] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[11Apr2025 01:04:32.463] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[11Apr2025 01:04:32.463] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[11Apr2025 01:04:35.785] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7a5745e9
+[11Apr2025 01:04:35.795] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Lea_Matt[/127.57.181.81:46247] logged in with entity id 79456 at (122.38615464017741, 75.0, 34.35621980273417)
+[11Apr2025 01:04:35.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt joined the game
+[11Apr2025 01:04:35.889] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: java.io.FileNotFoundException: config/theabyss2.json (No such file or directory)
+[11Apr2025 01:04:35.889] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.open0(Native Method)
+[11Apr2025 01:04:35.889] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+[11Apr2025 01:04:35.889] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+[11Apr2025 01:04:35.889] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileReader.<init>(FileReader.java:75)
+[11Apr2025 01:04:35.889] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.yezon.theabyss.procedures.ReadConfigFileProcedure.executeProcedure(ReadConfigFileProcedure.java:50)
+[11Apr2025 01:04:35.890] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.yezon.theabyss.procedures.ReadConfigFileProcedure$GlobalTrigger.onPlayerLoggedIn(ReadConfigFileProcedure.java:36)
+[11Apr2025 01:04:35.890] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.ASMEventHandler_802_GlobalTrigger_onPlayerLoggedIn_PlayerLoggedInEvent.invoke(.dynamic)
+[11Apr2025 01:04:35.890] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[11Apr2025 01:04:35.890] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[11Apr2025 01:04:35.890] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[11Apr2025 01:04:35.890] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.firePlayerLoggedIn(BasicEventHooks.java:30)
+[11Apr2025 01:04:35.892] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.management.PlayerList.func_72355_a(PlayerList.java:232)
+[11Apr2025 01:04:35.892] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.login.ServerLoginNetHandler.func_147326_c(ServerLoginNetHandler.java:118)
+[11Apr2025 01:04:35.893] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.login.ServerLoginNetHandler.func_73660_a(ServerLoginNetHandler.java:65)
+[11Apr2025 01:04:35.894] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:222)
+[11Apr2025 01:04:35.894] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[11Apr2025 01:04:35.895] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[11Apr2025 01:04:35.896] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[11Apr2025 01:04:35.897] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[11Apr2025 01:04:35.898] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[11Apr2025 01:04:35.899] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[11Apr2025 01:04:35.899] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[11Apr2025 01:04:38.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> XD
+[11Apr2025 01:04:39.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Lagazo
+[11Apr2025 01:04:43.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt was blown up by KevinCrax
+[11Apr2025 01:04:43.040] [Server thread/INFO] [tombstone/]: The player Lea_Matt has successfully been saved
+[11Apr2025 01:04:45.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax was slain by Iron Hit
+[11Apr2025 01:04:45.784] [Server thread/INFO] [tombstone/]: The player KevinCrax has successfully been saved
+[11Apr2025 01:04:50.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> sí..
+[11Apr2025 01:05:24.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> creo que..
+[11Apr2025 01:05:25.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> no..
+[11Apr2025 01:05:27.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> no es muy bueno esto
+[11Apr2025 01:05:31.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax was shot by Bloody Driver
+[11Apr2025 01:05:31.790] [Server thread/INFO] [tombstone/]: The player KevinCrax has successfully been saved
+[11Apr2025 01:05:43.344] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KevinCrax lost connection: Disconnected
+[11Apr2025 01:05:43.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax left the game
+[11Apr2025 01:05:54.184] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@425d928b
+[11Apr2025 01:05:54.193] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KevinCrax[/127.100.141.87:51193] logged in with entity id 79775 at (122.39065990892718, 75.0, 33.01758630034841)
+[11Apr2025 01:05:54.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax joined the game
+[11Apr2025 01:05:54.299] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: java.io.FileNotFoundException: config/theabyss2.json (No such file or directory)
+[11Apr2025 01:05:54.300] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.open0(Native Method)
+[11Apr2025 01:05:54.300] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+[11Apr2025 01:05:54.301] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+[11Apr2025 01:05:54.301] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileReader.<init>(FileReader.java:75)
+[11Apr2025 01:05:54.301] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.yezon.theabyss.procedures.ReadConfigFileProcedure.executeProcedure(ReadConfigFileProcedure.java:50)
+[11Apr2025 01:05:54.302] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.yezon.theabyss.procedures.ReadConfigFileProcedure$GlobalTrigger.onPlayerLoggedIn(ReadConfigFileProcedure.java:36)
+[11Apr2025 01:05:54.302] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.ASMEventHandler_802_GlobalTrigger_onPlayerLoggedIn_PlayerLoggedInEvent.invoke(.dynamic)
+[11Apr2025 01:05:54.302] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[11Apr2025 01:05:54.302] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[11Apr2025 01:05:54.302] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[11Apr2025 01:05:54.302] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.firePlayerLoggedIn(BasicEventHooks.java:30)
+[11Apr2025 01:05:54.302] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.management.PlayerList.func_72355_a(PlayerList.java:232)
+[11Apr2025 01:05:54.305] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.login.ServerLoginNetHandler.func_147326_c(ServerLoginNetHandler.java:118)
+[11Apr2025 01:05:54.306] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.login.ServerLoginNetHandler.func_73660_a(ServerLoginNetHandler.java:65)
+[11Apr2025 01:05:54.309] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:222)
+[11Apr2025 01:05:54.309] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[11Apr2025 01:05:54.309] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[11Apr2025 01:05:54.309] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[11Apr2025 01:05:54.309] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[11Apr2025 01:05:54.309] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[11Apr2025 01:05:54.309] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[11Apr2025 01:05:54.310] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[11Apr2025 01:05:59.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ok
+[11Apr2025 01:06:01.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> maldito lag
+[11Apr2025 01:06:06.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to 153.5, 65.0, -44.5]
+[11Apr2025 01:06:10.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to 125.5, 75.0, 33.5]
+[11Apr2025 01:06:17.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to 125.5, 75.0, 33.5]
+[11Apr2025 01:06:22.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to 122.5, 75.0, 33.5]
+[11Apr2025 01:06:45.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax was shot by Bloody Driver
+[11Apr2025 01:06:45.037] [Server thread/INFO] [tombstone/]: The player KevinCrax has successfully been saved
+[11Apr2025 01:06:49.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to 125.5, 75.0, 33.5]
+[11Apr2025 01:06:52.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to 122.5, 75.0, 33.5]
+[11Apr2025 01:07:07.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Sí..
+[11Apr2025 01:07:11.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax was shot by Bloody Driver
+[11Apr2025 01:07:11.611] [Server thread/INFO] [tombstone/]: The player KevinCrax has successfully been saved
+[11Apr2025 01:07:16.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ok
+[11Apr2025 01:07:16.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> es
+[11Apr2025 01:07:18.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> insanamente op
+[11Apr2025 01:07:21.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to 125.5, 75.0, 33.5]
+[11Apr2025 01:07:24.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to 122.5, 75.0, 33.5]
+[11Apr2025 01:07:29.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> no se vale
+[11Apr2025 01:07:31.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> tu bicho era super debil
+[11Apr2025 01:07:37.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> y el mio que spawneo es un puto jefe final
+[11Apr2025 01:07:40.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> con 1000 de vida
+[11Apr2025 01:07:41.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> XD
+[11Apr2025 01:07:51.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> hahaha
+[11Apr2025 01:07:52.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax was shot by Bloody Driver
+[11Apr2025 01:07:52.185] [Server thread/INFO] [tombstone/]: The player KevinCrax has successfully been saved
+[11Apr2025 01:07:56.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to 122.5, 75.0, 33.5]
+[11Apr2025 01:08:03.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax was shot by Bloody Driver
+[11Apr2025 01:08:03.563] [Server thread/INFO] [tombstone/]: The player KevinCrax has successfully been saved
+[11Apr2025 01:08:06.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> no
+[11Apr2025 01:08:07.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> en serio
+[11Apr2025 01:08:09.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> mata instantaneamente
+[11Apr2025 01:08:10.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> que decias de tus pecados?
+[11Apr2025 01:08:13.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> y tiene 1000 de vida
+[11Apr2025 01:08:15.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to 122.5, 75.0, 33.5]
+[11Apr2025 01:08:41.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax was shot by Bloody Driver
+[11Apr2025 01:08:41.339] [Server thread/INFO] [tombstone/]: The player KevinCrax has successfully been saved
+[11Apr2025 01:08:45.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to 122.5, 75.0, 33.5]
+[11Apr2025 01:08:54.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax was shot by Bloody Driver
+[11Apr2025 01:08:54.690] [Server thread/INFO] [tombstone/]: The player KevinCrax has successfully been saved
+[11Apr2025 01:09:00.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to 102.5, 72.0, 45.5]
+[11Apr2025 01:09:06.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax was shot by Bloody Driver
+[11Apr2025 01:09:06.031] [Server thread/INFO] [tombstone/]: The player KevinCrax has successfully been saved
+[11Apr2025 01:09:08.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> WHAT
+[11Apr2025 01:09:11.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> no lo puedo esquivar
+[11Apr2025 01:09:12.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> que mrd ?
+[11Apr2025 01:09:14.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to 102.0, 95.0, 45.0]
+[11Apr2025 01:09:18.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to 94.5, 73.0, 37.5]
+[11Apr2025 01:09:24.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax was shot by Bloody Driver
+[11Apr2025 01:09:24.469] [Server thread/INFO] [tombstone/]: The player KevinCrax has successfully been saved
+[11Apr2025 01:09:27.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ALAMRD
+[11Apr2025 01:09:33.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Sus proyectiles son extremadamente rápidos KJASJKSAJKSA
+[11Apr2025 01:09:35.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to 89.5, 73.0, 33.5]
+[11Apr2025 01:09:42.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ESA MIERDA ESTA ROTISIMA
+[11Apr2025 01:10:23.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax was shot by Bloody Driver
+[11Apr2025 01:10:23.840] [Server thread/INFO] [tombstone/]: The player KevinCrax has successfully been saved
+[11Apr2025 01:10:27.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> HIJO DE PUTA
+[11Apr2025 01:10:32.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Me golpeo y evito que me mueva
+[11Apr2025 01:10:36.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to 81.0, 84.0, 17.0]
+[11Apr2025 01:10:45.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax was shot by Bloody Driver
+[11Apr2025 01:10:45.695] [Server thread/INFO] [tombstone/]: The player KevinCrax has successfully been saved
+[11Apr2025 01:10:49.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to 81.0, 86.0, 18.0]
+[11Apr2025 01:10:59.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax was shot by Bloody Driver
+[11Apr2025 01:10:59.440] [Server thread/INFO] [tombstone/]: The player KevinCrax has successfully been saved
+[11Apr2025 01:11:02.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to 80.0, 86.0, 17.0]
+[11Apr2025 01:11:49.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax was shot by Bloody Driver
+[11Apr2025 01:11:49.740] [Server thread/INFO] [tombstone/]: The player KevinCrax has successfully been saved
+[11Apr2025 01:11:54.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to 81.0, 86.0, 18.0]
+[11Apr2025 01:12:05.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax was shot by Bloody Driver
+[11Apr2025 01:12:05.135] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: java.util.ConcurrentModificationException
+[11Apr2025 01:12:05.135] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1511)
+[11Apr2025 01:12:05.136] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$KeyIterator.next(HashMap.java:1534)
+[11Apr2025 01:12:05.136] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:361)
+[11Apr2025 01:12:05.137] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[11Apr2025 01:12:05.138] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[11Apr2025 01:12:05.139] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[11Apr2025 01:12:05.139] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[11Apr2025 01:12:05.140] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[11Apr2025 01:12:05.140] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[11Apr2025 01:12:05.140] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:176)
+[11Apr2025 01:12:05.140] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$9(CommandTBRecovery.java:166)
+[11Apr2025 01:12:05.141] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[11Apr2025 01:12:05.141] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[11Apr2025 01:12:05.141] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[11Apr2025 01:12:05.142] [Server thread/INFO] [tombstone/]: The player KevinCrax could not be saved
+[11Apr2025 01:12:10.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to 84.5, 67.0, 21.5]
+[11Apr2025 01:12:20.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax was shot by Bloody Driver
+[11Apr2025 01:12:20.555] [Server thread/INFO] [tombstone/]: The player KevinCrax has successfully been saved
+[11Apr2025 01:12:24.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to 87.5, 66.0, 32.5]
+[11Apr2025 01:12:30.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax was shot by Bloody Driver
+[11Apr2025 01:12:30.839] [Server thread/INFO] [tombstone/]: The player KevinCrax has successfully been saved
+[11Apr2025 01:12:33.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to 88.5, 67.0, 31.5]
+[11Apr2025 01:12:38.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax was shot by Bloody Driver
+[11Apr2025 01:12:38.988] [Server thread/INFO] [tombstone/]: The player KevinCrax has successfully been saved
+[11Apr2025 01:12:42.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to 90.5, 65.0, 31.5]
+[11Apr2025 01:12:51.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> donde haremos la casa?
+[11Apr2025 01:12:58.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> HAAAAAAAHAHAHAHAHAHAH
+[11Apr2025 01:13:00.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> HAHAHAHAHAHHAHA
+[11Apr2025 01:13:03.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> AHAHAHAHAHAHAHAHAHAHAHAHHAHAHAHAH
+[11Apr2025 01:13:11.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> AAAAAAAHAHHAHAHA
+[11Apr2025 01:13:27.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> CON QUE NO ERES MUY FUERTE CONTRA EXPLOSIONES DE 200 DE DAÑO EH ?
+[11Apr2025 01:13:31.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt was slain by Warg Lvl 3
+[11Apr2025 01:13:31.659] [Server thread/INFO] [tombstone/]: The player Lea_Matt has successfully been saved
+[11Apr2025 01:13:32.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> HAH !
+[11Apr2025 01:13:42.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> LEA MIRA ESTO
