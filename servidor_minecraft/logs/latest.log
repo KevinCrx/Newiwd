@@ -1454,3 +1454,41 @@
 [11Apr2025 03:15:15.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> okay ¿?
 [11Apr2025 03:15:21.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> ya vuelvo
 [11Apr2025 03:15:25.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> okok
+[11Apr2025 03:17:35.075] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/113115, l='ServerLevel[World]', x=-236.01, y=85.00, z=654.47] died, message: 'Weaponsmith was killed by magic whilst trying to escape Arix Lvl 3'
+[11Apr2025 03:17:49.922] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/113116, l='ServerLevel[World]', x=-238.33, y=77.00, z=649.70] died, message: 'Weaponsmith was slain by Roc'
+[11Apr2025 03:21:35.828] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lea_Matt lost connection: Timed out
+[11Apr2025 03:21:35.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt left the game
+[11Apr2025 03:25:38.186] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3b45606a
+[11Apr2025 03:25:38.197] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Lea_Matt[/127.57.181.81:55751] logged in with entity id 125976 at (-268.5329896616077, 77.0, 591.1053771124818)
+[11Apr2025 03:25:38.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt joined the game
+[11Apr2025 03:25:38.275] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: java.io.FileNotFoundException: config/theabyss2.json (No such file or directory)
+[11Apr2025 03:25:38.276] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.open0(Native Method)
+[11Apr2025 03:25:38.277] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+[11Apr2025 03:25:38.278] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+[11Apr2025 03:25:38.278] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileReader.<init>(FileReader.java:75)
+[11Apr2025 03:25:38.279] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.yezon.theabyss.procedures.ReadConfigFileProcedure.executeProcedure(ReadConfigFileProcedure.java:50)
+[11Apr2025 03:25:38.279] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.yezon.theabyss.procedures.ReadConfigFileProcedure$GlobalTrigger.onPlayerLoggedIn(ReadConfigFileProcedure.java:36)
+[11Apr2025 03:25:38.280] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.ASMEventHandler_802_GlobalTrigger_onPlayerLoggedIn_PlayerLoggedInEvent.invoke(.dynamic)
+[11Apr2025 03:25:38.281] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[11Apr2025 03:25:38.281] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[11Apr2025 03:25:38.281] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[11Apr2025 03:25:38.281] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.firePlayerLoggedIn(BasicEventHooks.java:30)
+[11Apr2025 03:25:38.281] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.management.PlayerList.func_72355_a(PlayerList.java:232)
+[11Apr2025 03:25:38.281] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.login.ServerLoginNetHandler.func_147326_c(ServerLoginNetHandler.java:118)
+[11Apr2025 03:25:38.282] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.login.ServerLoginNetHandler.func_73660_a(ServerLoginNetHandler.java:65)
+[11Apr2025 03:25:38.282] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:222)
+[11Apr2025 03:25:38.282] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[11Apr2025 03:25:38.282] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[11Apr2025 03:25:38.282] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[11Apr2025 03:25:38.282] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[11Apr2025 03:25:38.282] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[11Apr2025 03:25:38.283] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[11Apr2025 03:25:38.283] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[11Apr2025 03:25:38.447] [Thread-323/INFO] [com.lycanitesmobs.LycanitesMobs/]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for ece0ef0f-b99a-37a6-8c95-cbfbe03b5272.
+[11Apr2025 03:25:40.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> OH
+[11Apr2025 03:25:42.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> REGRESASTE
+[11Apr2025 03:26:03.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> a desapareci por no tocar nada
+[11Apr2025 03:26:08.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> XD
+[11Apr2025 03:26:27.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ah y no
+[11Apr2025 03:26:33.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> me prepare algo para comer
+[11Apr2025 03:26:33.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> No avance nada por que necesito preguntarte algo
