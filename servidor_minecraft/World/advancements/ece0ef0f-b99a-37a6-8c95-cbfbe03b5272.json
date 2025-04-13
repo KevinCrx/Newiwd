@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-04-13 18:53:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 00:54:20 +0000"
@@ -278,6 +284,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-04-13 18:01:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-04-13 18:54:00 +0000"
     },
     "done": true
   },
@@ -510,6 +522,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-04-10 03:26:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-04-13 18:54:00 +0000"
     },
     "done": true
   },
@@ -1651,6 +1669,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-04-13 18:50:59 +0000",
       "sweet_berries": "2025-04-10 01:03:22 +0000",
       "tropical_fish": "2025-04-10 02:22:38 +0000",
       "apple": "2025-04-10 23:45:34 +0000",
@@ -2588,6 +2607,12 @@
   "backpacked:recipes/backpacked/spruce_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-04-10 00:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-04-13 18:54:00 +0000"
     },
     "done": true
   },
