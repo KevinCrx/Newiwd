@@ -567,6 +567,7 @@
       "minecraft:spider": "2025-04-10 02:34:45 +0000",
       "minecraft:creeper": "2025-04-10 22:35:44 +0000",
       "minecraft:stray": "2025-04-10 23:42:02 +0000",
+      "minecraft:enderman": "2025-04-13 17:48:46 +0000",
       "minecraft:zombie": "2025-04-10 02:15:46 +0000",
       "minecraft:zombie_villager": "2025-04-11 03:04:39 +0000"
     },
@@ -1807,6 +1808,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 00:54:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-04-13 17:49:38 +0000"
     },
     "done": true
   },
