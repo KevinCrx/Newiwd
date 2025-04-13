@@ -670,7 +670,9 @@
       "minecraft:creeper": "2025-04-10 00:08:17 +0000",
       "minecraft:phantom": "2025-04-10 02:16:38 +0000",
       "minecraft:witch": "2025-04-10 04:16:43 +0000",
+      "minecraft:wither_skeleton": "2025-04-13 19:10:59 +0000",
       "minecraft:husk": "2025-04-10 02:34:52 +0000",
+      "minecraft:cave_spider": "2025-04-13 19:14:54 +0000",
       "minecraft:enderman": "2025-04-10 02:08:39 +0000",
       "minecraft:stray": "2025-04-10 23:43:27 +0000",
       "minecraft:zombie": "2025-04-10 00:49:17 +0000",
@@ -711,6 +713,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-04-11 01:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-13 19:14:35 +0000"
     },
     "done": true
   },
@@ -1445,6 +1453,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-10 00:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-04-13 19:17:25 +0000"
     },
     "done": true
   },
