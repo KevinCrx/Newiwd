@@ -1,8 +1,3 @@
-
-
-
-
-
 # ================
 # MSX LAUNCHER 1.0
 # ================
@@ -10,10 +5,6 @@
 # 2. Haz click al botón de arriba a la derecha (►)
 
 # Si no aparece el botón, reinicia la página o cambia de navegador.
-
-
-
-
 
 
 
