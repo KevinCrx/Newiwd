@@ -491,6 +491,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/new_path": {
+    "criteria": {
+      "coded_trigger": "2025-04-15 00:50:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-04-13 18:52:41 +0000"
@@ -614,6 +620,7 @@
       "meadow_forest": "2025-04-10 03:03:22 +0000",
       "cold_desert": "2025-04-14 00:18:54 +0000",
       "tundra_bog": "2025-04-13 22:37:20 +0000",
+      "orchard": "2025-04-15 00:52:23 +0000",
       "snowy_maple_forest": "2025-04-11 02:33:17 +0000",
       "coniferous_forest": "2025-04-09 20:56:37 +0000",
       "dryland": "2025-04-10 02:41:12 +0000",
@@ -2145,6 +2152,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-04-15 00:50:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-04-10 01:41:34 +0000"
@@ -2424,6 +2437,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-04-10 00:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2025-04-15 00:43:16 +0000"
     },
     "done": true
   },
@@ -3436,6 +3455,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/blood_sprayer": {
+    "criteria": {
+      "rat_upgrade_basic": "2025-04-15 00:43:34 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-04-09 23:59:47 +0000"
@@ -3709,6 +3734,12 @@
   "cgm:recipes/cgm/shotgun": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 00:10:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_white_marble": {
+    "criteria": {
+      "has_ingredient": "2025-04-15 00:50:56 +0000"
     },
     "done": true
   },
