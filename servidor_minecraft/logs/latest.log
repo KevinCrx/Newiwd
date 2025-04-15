@@ -1,133 +1,91 @@
-[15Apr2025 00:56:44.972] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[15Apr2025 00:56:44.975] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
-[15Apr2025 00:56:45.638] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[15Apr2025 00:56:45.765] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/Newiwd/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[15Apr2025 00:56:46.830] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[15Apr2025 00:56:47.003] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[15Apr2025 00:56:47.011] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[15Apr2025 00:56:49.001] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[15Apr2025 00:56:51.194] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/GameRenderer for invalid dist DEDICATED_SERVER
-[15Apr2025 00:56:51.197] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/GameRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/GameRenderer for invalid dist DEDICATED_SERVER)
-[15Apr2025 00:56:51.199] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.GameRenderer was not found sanitydim.mixins.json:MixinGameRenderer
-[15Apr2025 00:57:03.608] [main/INFO] [PluginManager/]: Scanning classes for titanium
-[15Apr2025 00:57:03.625] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class DefaultResourceRegistryPlugin for plugin resources
-[15Apr2025 00:57:03.660] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[15Apr2025 00:57:03.666] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[15Apr2025 00:57:03.666] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[15Apr2025 00:57:03.666] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[15Apr2025 00:57:05.037] [modloading-worker-1/INFO] [PluginManager/]: Scanning classes for titanium
-[15Apr2025 00:57:05.062] [modloading-worker-1/INFO] [PluginManager/]: Constructed class DefaultResourceRegistryPlugin for plugin resources for mod titanium
-[15Apr2025 00:57:05.063] [modloading-worker-1/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class DefaultResourceRegistryPlugin
-[15Apr2025 00:57:05.509] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: tower structure registered
-[15Apr2025 00:57:05.510] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: ice_tower structure registered
-[15Apr2025 00:57:05.512] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: jungle_tower structure registered
-[15Apr2025 00:57:05.515] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: derelict_tower structure registered
-[15Apr2025 00:57:05.515] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: derelict_grass_tower structure registered
-[15Apr2025 00:57:05.517] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: ocean_tower structure registered
-[15Apr2025 00:57:05.518] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: ocean_warm_tower structure registered
-[15Apr2025 00:57:08.833] [modloading-worker-1/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.12...
-[15Apr2025 00:57:09.020] [modloading-worker-1/INFO] [JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
-[15Apr2025 00:57:16.125] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[15Apr2025 00:57:16.133] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[15Apr2025 00:57:21.070] [main/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: Config set
-[15Apr2025 00:57:21.075] [Thread-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: Config set
-[15Apr2025 00:57:21.296] [modloading-worker-1/INFO] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: HELLO FROM PREINIT
-[15Apr2025 00:57:21.296] [modloading-worker-1/INFO] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: DIRT BLOCK >> minecraft:dirt
-[15Apr2025 00:57:21.383] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:regular_bottom pattern registered.
-[15Apr2025 00:57:21.390] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ocean_warm_bottom pattern registered.
-[15Apr2025 00:57:21.395] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ocean_bottom pattern registered.
-[15Apr2025 00:57:21.399] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:jungle_bottom pattern registered.
-[15Apr2025 00:57:21.402] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ice_bottom pattern registered.
-[15Apr2025 00:57:21.403] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:derelict_bottom pattern registered.
-[15Apr2025 00:57:21.407] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:derelict_grass_bottom pattern registered.
-[15Apr2025 00:57:21.409] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:regular_top pattern registered.
-[15Apr2025 00:57:21.411] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ocean_warm_top pattern registered.
-[15Apr2025 00:57:21.411] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ocean_top pattern registered.
-[15Apr2025 00:57:21.412] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:jungle_top pattern registered.
-[15Apr2025 00:57:21.413] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ice_top pattern registered.
-[15Apr2025 00:57:21.415] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:derelict_top pattern registered.
-[15Apr2025 00:57:21.416] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:derelict_grass_top pattern registered.
-[15Apr2025 00:57:21.851] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[15Apr2025 00:57:21.871] [modloading-worker-0/INFO] [Dungeon Crawl/]: Whitelisted Dimensions:
-[15Apr2025 00:57:21.874] [modloading-worker-0/INFO] [Dungeon Crawl/]: minecraft:overworld
-[15Apr2025 00:57:22.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:anvil_pet_entity, use EntityAttributeCreationEvent instead.
-[15Apr2025 00:57:22.153] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:bed_pet_entity, use EntityAttributeCreationEvent instead.
-[15Apr2025 00:57:22.153] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:bill_gates_entity, use EntityAttributeCreationEvent instead.
-[15Apr2025 00:57:22.153] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:satya_nadella_entity, use EntityAttributeCreationEvent instead.
-[15Apr2025 00:57:22.153] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:steve_ballmer_entity, use EntityAttributeCreationEvent instead.
-[15Apr2025 00:57:22.153] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:siamese_entity, use EntityAttributeCreationEvent instead.
-[15Apr2025 00:57:22.153] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:mini_quantum_blaze_entity, use EntityAttributeCreationEvent instead.
-[15Apr2025 00:57:22.154] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:mini_quantum_enderman_entity, use EntityAttributeCreationEvent instead.
-[15Apr2025 00:57:22.321] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: Global Forge version check system disabled, no further processing.
-[15Apr2025 00:57:22.558] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
-[15Apr2025 00:57:22.593] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for theabyss:ice_skeleton, use EntityAttributeCreationEvent instead.
-[15Apr2025 00:57:30.741] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15Apr2025 00:57:31.908] [main/INFO] [croissantnova.sanitydim.SanityMod/]: Registering sanity command...
-[15Apr2025 00:57:31.970] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [lm, mobevent, random, level, subspecies] and [lm, mobevent, random, level, world] with inputs: [0, -123, 123]
-[15Apr2025 00:57:31.972] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [lm, mobevent, random, level, world] and [lm, mobevent, random, level, subspecies] with inputs: [0, -123, 123]
-[15Apr2025 00:57:31.973] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [lm, mobevent, start, mobevent, level, subspecies] and [lm, mobevent, start, mobevent, level, world] with inputs: [0, -123, 123]
-[15Apr2025 00:57:31.975] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [lm, mobevent, start, mobevent, level, world] and [lm, mobevent, start, mobevent, level, subspecies] with inputs: [0, -123, 123]
-[15Apr2025 00:57:32.005] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [sanity, add, value] and [sanity, add, targets] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[15Apr2025 00:57:32.007] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [sanity, set, value] and [sanity, set, targets] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[15Apr2025 00:57:32.016] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15Apr2025 00:57:32.020] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15Apr2025 00:57:32.024] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15Apr2025 00:57:32.026] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15Apr2025 00:57:32.030] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15Apr2025 00:57:32.042] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, sons-of-sins-1.16.5-1.0.9.jar, BrassAmberBattleTowers-1.16.5-1.6.3.jar, repurposed_structures_forge-3.4.7+1.16.5.jar, GokiStats-1.16.5-1.3.2.jar, ToolBelt-1.16.5-1.16.3.jar, titanium-1.16.5-3.2.8.9-25.jar, BiomesOPlenty-1.16.5-13.1.0.488-universal.jar, baubles-1.8.7.1-1.16.5.jar, jei-1.16.5-7.8.0.1009.jar, towers_of_the_wild-1.16.3-2.1.0.1.jar, lycanitesmobs-1.16.5-2.3.3.7.jar, curios-forge-1.16.5-4.1.0.0.jar, Waystones_1.16.5-7.6.4.jar, OresAboveDiamonds-1.16.5-v6.4.1.jar, citadel-1.8.1-1.16.5.jar, alexsmobs-1.12.1.jar, AutoRegLib-1.6-49.jar, backpacked-forge-1.16.5-2.1.13.jar, cgm-1.2.6-1.16.5.jar, elevatorid-1.16.5-1.7.13.jar, MyServerIsCompatible-1.16.5-1.0.jar, tombstone-1.16.5-6.9.6.jar, obfuscate-0.6.3-1.16.5.jar, DungeonCrawl-1.16.5-2.3.12.jar, curioofundying-forge-1.16.5-5.2.0.0.jar, u_team_core-1.16.5-3.2.1.229.jar, TheAbyss2 2.2.3-4 1.16.5.jar, relics-1.16.5-0.3.4.4.jar, PuzzlesLib-v1.0.15-1.16.5-Forge.jar, inventorypets-1.16.5-2.1.1.jar, The_Undergarden-1.16.5-0.5.5.jar, forge-1.16.5-36.2.42-universal.jar, appleskin-forge-mc1.16.x-2.5.1.jar, valhelsia_core-16.0.15.jar, valhelsia_structures-1.16.5-0.1.6.jar, geckolib-forge-1.16.5-3.0.106.jar, DungeonsArise-1.16.5-2.1.49-beta.jar, xptome-1.16.5-v2.1.5.jar, sanitydim-mc1.16-1.0.0.jar
-[15Apr2025 00:57:37.541] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_5_via_sewing as it's serializer returned null
-[15Apr2025 00:57:37.559] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_4_via_sewing as it's serializer returned null
-[15Apr2025 00:57:37.576] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:belt_via_sewing as it's serializer returned null
-[15Apr2025 00:57:37.582] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_6_via_sewing as it's serializer returned null
-[15Apr2025 00:57:37.600] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_via_sewing as it's serializer returned null
-[15Apr2025 00:57:37.624] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_1_via_sewing as it's serializer returned null
-[15Apr2025 00:57:37.626] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_7_via_sewing as it's serializer returned null
-[15Apr2025 00:57:37.630] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_2_via_sewing as it's serializer returned null
-[15Apr2025 00:57:37.654] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_3_via_sewing as it's serializer returned null
-[15Apr2025 00:57:37.656] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 9 recipes
-[15Apr2025 00:57:40.192] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[15Apr2025 00:57:40.365] [Worker-Main-2/ERROR] [net.minecraft.advancements.AdvancementManager/]: Parsing error loading custom advancement theabyss:unlockthebook: Unknown item id 'theabyss:translationletter'
-[15Apr2025 00:57:40.525] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1920 advancements
-[15Apr2025 00:57:40.553] [Worker-Main-2/INFO] [Dungeon Crawl/]: Loading data...
-[15Apr2025 00:57:41.887] [Worker-Main-2/INFO] [Dungeon Crawl/]: Done.
-[15Apr2025 00:57:49.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[15Apr2025 00:57:49.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[15Apr2025 00:57:49.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[15Apr2025 00:57:49.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[15Apr2025 00:57:49.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[15Apr2025 00:57:49.576] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[15Apr2025 00:57:49.760] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15Apr2025 00:57:49.760] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[15Apr2025 00:57:49.761] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15Apr2025 00:57:49.761] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[15Apr2025 00:57:50.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "World"
-[15Apr2025 00:57:51.299] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityVoidWorm from class com.github.alexthe666.alexsmobs.entity.EntityVoidPortal
-[15Apr2025 00:57:51.348] [Server thread/ERROR] [net.minecraft.entity.ai.brain.Brain/]: No key memories in MapLike[{}]
-[15Apr2025 00:57:51.351] [Server thread/ERROR] [net.minecraft.entity.ai.brain.Brain/]: No key memories in MapLike[{}]
-[15Apr2025 00:57:51.355] [Server thread/ERROR] [net.minecraft.entity.ai.brain.Brain/]: No key memories in MapLike[{}]
-[15Apr2025 00:57:51.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[15Apr2025 00:57:59.328] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[15Apr2025 00:57:59.331] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[15Apr2025 00:57:59.332] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[15Apr2025 00:57:59.333] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[15Apr2025 00:57:59.335] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[15Apr2025 00:57:59.337] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[15Apr2025 00:57:59.338] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[15Apr2025 00:57:59.339] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[15Apr2025 00:57:59.341] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[15Apr2025 00:57:59.342] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[15Apr2025 00:57:59.344] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[15Apr2025 00:57:59.345] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[15Apr2025 00:57:59.347] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[15Apr2025 00:57:59.348] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[15Apr2025 00:57:59.349] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[15Apr2025 00:57:59.350] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[15Apr2025 00:57:59.630] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[15Apr2025 00:58:00.170] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[15Apr2025 00:58:00.959] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 9511 ms
-[15Apr2025 00:58:00.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.156s)! For help, type "help"
-[15Apr2025 00:58:01.104] [Server thread/INFO] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: HELLO from server starting
-[15Apr2025 00:58:02.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[15Apr2025 00:58:02.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[15Apr2025 00:58:02.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[15Apr2025 00:58:02.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/minecraft:overworld
+[15Apr2025 00:59:52.483] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[15Apr2025 00:59:52.488] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
+[15Apr2025 00:59:53.276] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[15Apr2025 00:59:53.485] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/Newiwd/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[15Apr2025 00:59:54.688] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[15Apr2025 00:59:54.841] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[15Apr2025 00:59:54.869] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[15Apr2025 00:59:56.823] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[15Apr2025 00:59:58.719] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/GameRenderer for invalid dist DEDICATED_SERVER
+[15Apr2025 00:59:58.727] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/GameRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/GameRenderer for invalid dist DEDICATED_SERVER)
+[15Apr2025 00:59:58.731] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.GameRenderer was not found sanitydim.mixins.json:MixinGameRenderer
+[15Apr2025 01:00:11.171] [main/INFO] [PluginManager/]: Scanning classes for titanium
+[15Apr2025 01:00:11.198] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class DefaultResourceRegistryPlugin for plugin resources
+[15Apr2025 01:00:11.243] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15Apr2025 01:00:11.249] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15Apr2025 01:00:11.253] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15Apr2025 01:00:11.254] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15Apr2025 01:00:12.693] [modloading-worker-0/INFO] [PluginManager/]: Scanning classes for titanium
+[15Apr2025 01:00:12.722] [modloading-worker-0/INFO] [PluginManager/]: Constructed class DefaultResourceRegistryPlugin for plugin resources for mod titanium
+[15Apr2025 01:00:12.722] [modloading-worker-0/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class DefaultResourceRegistryPlugin
+[15Apr2025 01:00:13.073] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: tower structure registered
+[15Apr2025 01:00:13.081] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: ice_tower structure registered
+[15Apr2025 01:00:13.081] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: jungle_tower structure registered
+[15Apr2025 01:00:13.081] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: derelict_tower structure registered
+[15Apr2025 01:00:13.082] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: derelict_grass_tower structure registered
+[15Apr2025 01:00:13.083] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: ocean_tower structure registered
+[15Apr2025 01:00:13.086] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: ocean_warm_tower structure registered
+[15Apr2025 01:00:16.863] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.12...
+[15Apr2025 01:00:17.057] [modloading-worker-0/INFO] [JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[15Apr2025 01:00:23.407] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[15Apr2025 01:00:23.409] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[15Apr2025 01:00:28.573] [main/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: Config set
+[15Apr2025 01:00:28.584] [Thread-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: Config set
+[15Apr2025 01:00:28.783] [modloading-worker-0/INFO] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: HELLO FROM PREINIT
+[15Apr2025 01:00:28.783] [modloading-worker-0/INFO] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: DIRT BLOCK >> minecraft:dirt
+[15Apr2025 01:00:28.861] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:regular_bottom pattern registered.
+[15Apr2025 01:00:28.862] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ocean_warm_bottom pattern registered.
+[15Apr2025 01:00:28.865] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ocean_bottom pattern registered.
+[15Apr2025 01:00:28.868] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:jungle_bottom pattern registered.
+[15Apr2025 01:00:28.871] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ice_bottom pattern registered.
+[15Apr2025 01:00:28.875] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:derelict_bottom pattern registered.
+[15Apr2025 01:00:28.885] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:derelict_grass_bottom pattern registered.
+[15Apr2025 01:00:28.885] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:regular_top pattern registered.
+[15Apr2025 01:00:28.885] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ocean_warm_top pattern registered.
+[15Apr2025 01:00:28.885] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ocean_top pattern registered.
+[15Apr2025 01:00:28.886] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:jungle_top pattern registered.
+[15Apr2025 01:00:28.886] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ice_top pattern registered.
+[15Apr2025 01:00:28.886] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:derelict_top pattern registered.
+[15Apr2025 01:00:28.886] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:derelict_grass_top pattern registered.
+[15Apr2025 01:00:29.334] [modloading-worker-1/INFO] [Dungeon Crawl/]: Common Setup
+[15Apr2025 01:00:29.351] [modloading-worker-1/INFO] [Dungeon Crawl/]: Whitelisted Dimensions:
+[15Apr2025 01:00:29.356] [modloading-worker-1/INFO] [Dungeon Crawl/]: minecraft:overworld
+[15Apr2025 01:00:29.584] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:anvil_pet_entity, use EntityAttributeCreationEvent instead.
+[15Apr2025 01:00:29.584] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:bed_pet_entity, use EntityAttributeCreationEvent instead.
+[15Apr2025 01:00:29.584] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:bill_gates_entity, use EntityAttributeCreationEvent instead.
+[15Apr2025 01:00:29.585] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:satya_nadella_entity, use EntityAttributeCreationEvent instead.
+[15Apr2025 01:00:29.586] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:steve_ballmer_entity, use EntityAttributeCreationEvent instead.
+[15Apr2025 01:00:29.586] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:siamese_entity, use EntityAttributeCreationEvent instead.
+[15Apr2025 01:00:29.587] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:mini_quantum_blaze_entity, use EntityAttributeCreationEvent instead.
+[15Apr2025 01:00:29.587] [modloading-worker-1/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:mini_quantum_enderman_entity, use EntityAttributeCreationEvent instead.
+[15Apr2025 01:00:29.704] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: Global Forge version check system disabled, no further processing.
+[15Apr2025 01:00:29.884] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
+[15Apr2025 01:00:29.910] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for theabyss:ice_skeleton, use EntityAttributeCreationEvent instead.
+[15Apr2025 01:00:37.984] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15Apr2025 01:00:39.295] [main/INFO] [croissantnova.sanitydim.SanityMod/]: Registering sanity command...
+[15Apr2025 01:00:39.397] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [lm, mobevent, random, level, subspecies] and [lm, mobevent, random, level, world] with inputs: [0, -123, 123]
+[15Apr2025 01:00:39.401] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [lm, mobevent, random, level, world] and [lm, mobevent, random, level, subspecies] with inputs: [0, -123, 123]
+[15Apr2025 01:00:39.406] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [lm, mobevent, start, mobevent, level, subspecies] and [lm, mobevent, start, mobevent, level, world] with inputs: [0, -123, 123]
+[15Apr2025 01:00:39.407] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [lm, mobevent, start, mobevent, level, world] and [lm, mobevent, start, mobevent, level, subspecies] with inputs: [0, -123, 123]
+[15Apr2025 01:00:39.454] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [sanity, add, value] and [sanity, add, targets] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[15Apr2025 01:00:39.458] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [sanity, set, value] and [sanity, set, targets] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[15Apr2025 01:00:39.470] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15Apr2025 01:00:39.474] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15Apr2025 01:00:39.478] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15Apr2025 01:00:39.482] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15Apr2025 01:00:39.487] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15Apr2025 01:00:39.500] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, sons-of-sins-1.16.5-1.0.9.jar, BrassAmberBattleTowers-1.16.5-1.6.3.jar, repurposed_structures_forge-3.4.7+1.16.5.jar, GokiStats-1.16.5-1.3.2.jar, ToolBelt-1.16.5-1.16.3.jar, titanium-1.16.5-3.2.8.9-25.jar, BiomesOPlenty-1.16.5-13.1.0.488-universal.jar, baubles-1.8.7.1-1.16.5.jar, jei-1.16.5-7.8.0.1009.jar, towers_of_the_wild-1.16.3-2.1.0.1.jar, lycanitesmobs-1.16.5-2.3.3.7.jar, curios-forge-1.16.5-4.1.0.0.jar, Waystones_1.16.5-7.6.4.jar, OresAboveDiamonds-1.16.5-v6.4.1.jar, citadel-1.8.1-1.16.5.jar, alexsmobs-1.12.1.jar, AutoRegLib-1.6-49.jar, backpacked-forge-1.16.5-2.1.13.jar, cgm-1.2.6-1.16.5.jar, elevatorid-1.16.5-1.7.13.jar, MyServerIsCompatible-1.16.5-1.0.jar, tombstone-1.16.5-6.9.6.jar, obfuscate-0.6.3-1.16.5.jar, DungeonCrawl-1.16.5-2.3.12.jar, curioofundying-forge-1.16.5-5.2.0.0.jar, u_team_core-1.16.5-3.2.1.229.jar, TheAbyss2 2.2.3-4 1.16.5.jar, relics-1.16.5-0.3.4.4.jar, PuzzlesLib-v1.0.15-1.16.5-Forge.jar, inventorypets-1.16.5-2.1.1.jar, The_Undergarden-1.16.5-0.5.5.jar, forge-1.16.5-36.2.42-universal.jar, appleskin-forge-mc1.16.x-2.5.1.jar, valhelsia_core-16.0.15.jar, valhelsia_structures-1.16.5-0.1.6.jar, geckolib-forge-1.16.5-3.0.106.jar, DungeonsArise-1.16.5-2.1.49-beta.jar, xptome-1.16.5-v2.1.5.jar, sanitydim-mc1.16-1.0.0.jar
+[15Apr2025 01:00:45.608] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_5_via_sewing as it's serializer returned null
+[15Apr2025 01:00:45.632] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_4_via_sewing as it's serializer returned null
+[15Apr2025 01:00:45.648] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:belt_via_sewing as it's serializer returned null
+[15Apr2025 01:00:45.653] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_6_via_sewing as it's serializer returned null
+[15Apr2025 01:00:45.678] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_via_sewing as it's serializer returned null
+[15Apr2025 01:00:45.701] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_1_via_sewing as it's serializer returned null
+[15Apr2025 01:00:45.702] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_7_via_sewing as it's serializer returned null
+[15Apr2025 01:00:45.710] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_2_via_sewing as it's serializer returned null
+[15Apr2025 01:00:45.737] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_3_via_sewing as it's serializer returned null
+[15Apr2025 01:00:45.741] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 9 recipes
+[15Apr2025 01:00:48.272] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[15Apr2025 01:00:48.445] [Worker-Main-2/ERROR] [net.minecraft.advancements.AdvancementManager/]: Parsing error loading custom advancement theabyss:unlockthebook: Unknown item id 'theabyss:translationletter'
+[15Apr2025 01:00:48.585] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1920 advancements
+[15Apr2025 01:00:48.604] [Worker-Main-2/INFO] [Dungeon Crawl/]: Loading data...
