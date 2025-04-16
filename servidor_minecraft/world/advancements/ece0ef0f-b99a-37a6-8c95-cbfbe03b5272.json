@@ -35,6 +35,18 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/blast_cloggrum_item": {
+    "criteria": {
+      "has_OptionalNamedTag[undergarden:cloggrum_items]": "2025-04-16 00:01:07 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/utheric_sword": {
+    "criteria": {
+      "has_utherium_ingot": "2025-04-16 01:14:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-04-10 00:23:31 +0000"
@@ -137,6 +149,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/misc/veil_mushroom_to_dye": {
+    "criteria": {
+      "has_veil_mushroom": "2025-04-15 23:44:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-10 01:19:28 +0000"
@@ -146,6 +164,18 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-11 02:43:58 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/catacombs": {
+    "criteria": {
+      "enter_castle": "2025-04-16 00:00:07 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/blast_froststeel_ore": {
+    "criteria": {
+      "has_undergarden:froststeel_ore": "2025-04-16 01:08:56 +0000"
     },
     "done": true
   },
@@ -188,6 +218,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-14 01:10:21 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/blast_cloggrum_ore": {
+    "criteria": {
+      "has_undergarden:cloggrum_ore": "2025-04-15 23:43:49 +0000"
     },
     "done": true
   },
@@ -239,6 +275,14 @@
     },
     "done": true
   },
+  "undergarden:undergarden/slay_all_rotspawn": {
+    "criteria": {
+      "slay_rotling": "2025-04-16 00:18:56 +0000",
+      "slay_rotwalker": "2025-04-16 00:19:11 +0000",
+      "slay_rotbeast": "2025-04-16 00:52:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-10 00:25:50 +0000"
@@ -248,6 +292,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-04-11 02:43:58 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/food/smelt_glowing_kelp": {
+    "criteria": {
+      "has_undergarden:glowing_kelp": "2025-04-15 23:49:06 +0000"
     },
     "done": true
   },
@@ -323,9 +373,21 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/blisterbomb": {
+    "criteria": {
+      "has_blisterberry": "2025-04-16 00:00:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-04-10 22:15:19 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/cloggrum_tiles": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-04-16 00:39:40 +0000"
     },
     "done": true
   },
@@ -419,9 +481,21 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/forgotten_ingot_to_nugget": {
+    "criteria": {
+      "has_forgotten_ingot": "2025-04-16 01:26:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 00:54:20 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/bloody_stew": {
+    "criteria": {
+      "has_blood_mushroom": "2025-04-15 23:50:02 +0000"
     },
     "done": true
   },
@@ -434,6 +508,18 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-04-10 01:19:28 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/cloggrum_ingot_to_nugget": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-04-16 00:39:40 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/forgotten_hoe_smithing": {
+    "criteria": {
+      "has_undergarden:forgotten_ingot": "2025-04-16 01:26:28 +0000"
     },
     "done": true
   },
@@ -473,9 +559,21 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/depthrock_wall": {
+    "criteria": {
+      "has_depthrock": "2025-04-15 23:44:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-10 01:19:28 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/smelt_froststeel_ore": {
+    "criteria": {
+      "has_undergarden:froststeel_ore": "2025-04-16 01:08:56 +0000"
     },
     "done": true
   },
@@ -539,6 +637,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/inky_stew": {
+    "criteria": {
+      "has_ink_mushroom": "2025-04-15 23:50:50 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/medium_scope": {
     "criteria": {
       "has_redstone": "2025-04-10 01:16:05 +0000"
@@ -560,6 +664,12 @@
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_pink_dye": "2025-04-10 02:55:52 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/indigo_stew": {
+    "criteria": {
+      "has_indigo_mushroom": "2025-04-15 23:54:07 +0000"
     },
     "done": true
   },
@@ -613,6 +723,12 @@
       "undergrowth": "2025-04-14 02:12:23 +0000"
     },
     "done": false
+  },
+  "undergarden:recipes/undergarden_group/shiverstone_slab_stonecutting": {
+    "criteria": {
+      "has_undergarden:shiverstone": "2025-04-15 23:42:05 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
@@ -704,6 +820,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/depthrock_stairs": {
+    "criteria": {
+      "has_depthrock": "2025-04-15 23:44:00 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/valhelsia_structures_main/soul_brazier": {
     "criteria": {
       "has_item": "2025-04-10 23:45:11 +0000"
@@ -719,6 +841,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 00:54:20 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/shiverstone_stairs_stonecutting": {
+    "criteria": {
+      "has_undergarden:shiverstone": "2025-04-15 23:42:05 +0000"
     },
     "done": true
   },
@@ -771,9 +899,21 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/depthrock_tiles_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-04-15 23:44:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-10 00:25:50 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/chiseled_depthrock_bricks_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-04-15 23:44:00 +0000"
     },
     "done": true
   },
@@ -796,6 +936,7 @@
       "minecraft:hoglin": "2025-04-14 02:47:09 +0000",
       "minecraft:magma_cube": "2025-04-14 01:27:35 +0000",
       "minecraft:spider": "2025-04-10 02:34:45 +0000",
+      "minecraft:piglin_brute": "2025-04-16 01:59:00 +0000",
       "minecraft:creeper": "2025-04-10 22:35:44 +0000",
       "minecraft:wither_skeleton": "2025-04-13 21:11:26 +0000",
       "minecraft:cave_spider": "2025-04-13 19:15:24 +0000",
@@ -822,6 +963,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-04-14 03:32:38 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/depthrock_tile_stairs_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-04-15 23:44:00 +0000"
     },
     "done": true
   },
@@ -891,9 +1038,21 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/utherium_ingot_to_nugget": {
+    "criteria": {
+      "has_utherium_ingot": "2025-04-16 01:14:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-04-13 21:09:48 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/underbeans": {
+    "criteria": {
+      "has_bean": "2025-04-15 23:51:04 +0000"
     },
     "done": true
   },
@@ -942,6 +1101,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-10 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/utherium_chunk_to_ingot": {
+    "criteria": {
+      "has_utherium_chunk": "2025-04-15 23:43:56 +0000"
     },
     "done": true
   },
@@ -1029,6 +1194,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/coarse_deepsoil": {
+    "criteria": {
+      "has_deepsoil": "2025-04-15 23:43:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-04-10 22:41:24 +0000"
@@ -1071,9 +1242,21 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/shiverstone_wall": {
+    "criteria": {
+      "has_shiverstone": "2025-04-15 23:42:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-04-10 02:17:55 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/enter_undergarden": {
+    "criteria": {
+      "enter_undergarden": "2025-04-15 23:38:09 +0000"
     },
     "done": true
   },
@@ -1131,6 +1314,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/forgotten_axe_smithing": {
+    "criteria": {
+      "has_undergarden:forgotten_ingot": "2025-04-16 01:26:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-04-11 01:37:19 +0000"
@@ -1155,6 +1344,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/depthrock_button": {
+    "criteria": {
+      "has_depthrock": "2025-04-15 23:44:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-14 03:02:45 +0000"
@@ -1170,6 +1365,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-04-14 03:02:45 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/slay_forgotten_guardian": {
+    "criteria": {
+      "slay_forgotten_guardian": "2025-04-16 01:19:15 +0000"
     },
     "done": true
   },
@@ -1218,6 +1419,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-04-10 02:16:37 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/smoke_underbeans": {
+    "criteria": {
+      "has_undergarden:underbeans": "2025-04-15 23:51:04 +0000"
     },
     "done": true
   },
@@ -1311,6 +1518,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/sediment_glass": {
+    "criteria": {
+      "has_undergarden:sediment": "2025-04-15 23:42:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2025-04-10 22:38:22 +0000"
@@ -1362,6 +1575,12 @@
   "undergarden:recipes/undergarden_group/smogstem_boat": {
     "criteria": {
       "in_water": "2025-04-10 00:56:21 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/depthrock_bricks_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-04-15 23:44:00 +0000"
     },
     "done": true
   },
@@ -1509,9 +1728,21 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/depthrock_tile_slab_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-04-15 23:44:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-04-10 00:23:31 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/forgotten_shovel_smithing": {
+    "criteria": {
+      "has_undergarden:forgotten_ingot": "2025-04-16 01:26:28 +0000"
     },
     "done": true
   },
@@ -1601,6 +1832,18 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/wigglewood_planks": {
+    "criteria": {
+      "has_undergarden:wigglewood_logs": "2025-04-16 00:35:11 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/cloggrum_chestplate": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-04-16 00:39:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-04-10 00:23:26 +0000"
@@ -1640,6 +1883,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-04-10 00:23:31 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/cloggrum_axe": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-04-16 00:39:40 +0000"
     },
     "done": true
   },
@@ -1745,9 +1994,21 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/shiverstone_brick_slab_stonecutting": {
+    "criteria": {
+      "has_undergarden:shiverstone": "2025-04-15 23:42:05 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/heavy_rifle": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 00:54:20 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/forgotten_pickaxe_smithing": {
+    "criteria": {
+      "has_undergarden:forgotten_ingot": "2025-04-16 01:26:28 +0000"
     },
     "done": true
   },
@@ -1811,9 +2072,27 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/depthrock_pressure_plate": {
+    "criteria": {
+      "has_depthrock": "2025-04-15 23:44:00 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/slay_scintling": {
+    "criteria": {
+      "slay_rotling": "2025-04-15 23:45:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-04-13 20:10:27 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/underbean_on_a_stick": {
+    "criteria": {
+      "has_underbeans": "2025-04-15 23:51:04 +0000"
     },
     "done": true
   },
@@ -1830,6 +2109,12 @@
       "minecraft:soul_sand_valley": "2025-04-14 02:14:36 +0000"
     },
     "done": false
+  },
+  "undergarden:recipes/undergarden_group/goo_block": {
+    "criteria": {
+      "has_goo_ball": "2025-04-15 23:45:47 +0000"
+    },
+    "done": true
   },
   "dungeons_arise:find_mushroom_mines": {
     "criteria": {
@@ -1858,6 +2143,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_horse_armor": "2025-04-10 01:27:24 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/shiverstone_wall_stonecutting": {
+    "criteria": {
+      "has_undergarden:shiverstone": "2025-04-15 23:42:05 +0000"
     },
     "done": true
   },
@@ -1957,15 +2248,51 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/gloomgourd_seeds": {
+    "criteria": {
+      "has_gloomgourd": "2025-04-15 23:56:35 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/utheric_pickaxe": {
+    "criteria": {
+      "has_utherium_ingot": "2025-04-16 01:14:46 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-04-10 02:20:12 +0000"
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/forgotten_block": {
+    "criteria": {
+      "has_forgotten_ingot": "2025-04-16 01:26:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-04-10 02:17:55 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/pebbles_to_depthrock": {
+    "criteria": {
+      "has_depthrock_pebble": "2025-04-15 23:44:15 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/ink_mushroom_to_dye": {
+    "criteria": {
+      "has_ink_mushroom": "2025-04-15 23:50:50 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/forgotten_ingot": {
+    "criteria": {
+      "has_forgotten_ingot": "2025-04-16 01:26:28 +0000"
     },
     "done": true
   },
@@ -2023,6 +2350,12 @@
     },
     "done": true
   },
+  "undergarden:undergarden/forgotten_tools": {
+    "criteria": {
+      "has_shovel": "2025-04-16 01:41:28 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2025-04-13 18:37:04 +0000"
@@ -2038,6 +2371,18 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-04-14 01:25:15 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/smelt_cloggrum_ore": {
+    "criteria": {
+      "has_undergarden:cloggrum_ore": "2025-04-15 23:43:49 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/depthrock_brick_stairs_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-04-15 23:44:00 +0000"
     },
     "done": true
   },
@@ -2113,9 +2458,21 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/shiverstone_bricks": {
+    "criteria": {
+      "has_shiverstone": "2025-04-15 23:42:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-10 02:55:37 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/slay_rotling": {
+    "criteria": {
+      "slay_rotling": "2025-04-16 00:18:56 +0000"
     },
     "done": true
   },
@@ -2251,6 +2608,18 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/grongle_planks": {
+    "criteria": {
+      "has_undergarden:grongle_logs": "2025-04-16 00:43:56 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/cloggrum_bars": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-04-16 00:39:40 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-04-10 23:43:12 +0000"
@@ -2260,6 +2629,18 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-04-14 00:41:08 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/food/smoke_glowing_kelp": {
+    "criteria": {
+      "has_undergarden:glowing_kelp": "2025-04-15 23:49:06 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/shiverstone_bricks_stonecutting": {
+    "criteria": {
+      "has_undergarden:shiverstone": "2025-04-15 23:42:05 +0000"
     },
     "done": true
   },
@@ -2278,6 +2659,18 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-10 00:50:04 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/cloggrum_shield": {
+    "criteria": {
+      "has_scales": "2025-04-16 00:39:40 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/grongle_wood": {
+    "criteria": {
+      "has_grongle_log": "2025-04-16 00:43:56 +0000"
     },
     "done": true
   },
@@ -2328,6 +2721,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/cloggrum_helmet": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-04-16 00:39:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-04-13 18:22:59 +0000"
@@ -2358,6 +2757,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/cloggrum_block": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-04-16 00:39:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-04-10 00:23:31 +0000"
@@ -2379,6 +2784,12 @@
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2025-04-10 00:56:21 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/utherium_block": {
+    "criteria": {
+      "has_utherium_ingot": "2025-04-16 01:14:46 +0000"
     },
     "done": true
   },
@@ -2412,6 +2823,18 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/shard_to_chunk": {
+    "criteria": {
+      "has_shard": "2025-04-16 00:04:36 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/forgotten_battleaxe_smithing": {
+    "criteria": {
+      "has_undergarden:forgotten_ingot": "2025-04-16 01:26:28 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/rattlesnake": {
     "criteria": {
       "killed_by": "2025-04-10 02:34:27 +0000"
@@ -2442,6 +2865,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/smelt_cloggrum_item": {
+    "criteria": {
+      "has_OptionalNamedTag[undergarden:cloggrum_items]": "2025-04-16 00:01:07 +0000"
+    },
+    "done": true
+  },
   "toolbelt:recipes/belt": {
     "criteria": {
       "has_leather": "2025-04-10 01:18:50 +0000"
@@ -2460,6 +2889,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/utheric_shovel": {
+    "criteria": {
+      "has_utherium_ingot": "2025-04-16 01:14:46 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/backpacked/dark_oak_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-04-10 00:23:26 +0000"
@@ -2469,6 +2904,18 @@
   "cgm:recipes/cgm/machine_pistol": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 00:54:20 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/utheric_hoe": {
+    "criteria": {
+      "has_utherium_ingot": "2025-04-16 01:14:46 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/depthrock_pebble_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-04-15 23:44:00 +0000"
     },
     "done": true
   },
@@ -2565,6 +3012,12 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-10 02:55:37 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/depthrock_slab": {
+    "criteria": {
+      "has_depthrock": "2025-04-15 23:44:00 +0000"
     },
     "done": true
   },
@@ -2694,6 +3147,18 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/wigglewood_wood": {
+    "criteria": {
+      "has_wigglewood_log": "2025-04-16 00:35:11 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/cloggrum_leggings": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-04-16 00:39:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-04-10 01:24:32 +0000"
@@ -2760,6 +3225,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/misc/blood_mushroom_to_dye": {
+    "criteria": {
+      "has_blood_mushroom": "2025-04-15 23:50:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-04-10 01:18:50 +0000"
@@ -2778,6 +3249,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/utheric_boots": {
+    "criteria": {
+      "has_utherium_ingot": "2025-04-16 01:14:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-04-10 00:23:31 +0000"
@@ -2787,6 +3264,18 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-04-10 01:16:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/indigo_mushroom_to_dye": {
+    "criteria": {
+      "has_indigo_mushroom": "2025-04-15 23:54:07 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/cloggrum_sword": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-04-16 00:39:40 +0000"
     },
     "done": true
   },
@@ -2844,9 +3333,27 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/shiverstone_brick_wall_stonecutting": {
+    "criteria": {
+      "has_undergarden:shiverstone": "2025-04-15 23:42:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2025-04-10 01:41:24 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/depthrock_slab_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-04-15 23:44:00 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/smelt_underbeans": {
+    "criteria": {
+      "has_undergarden:underbeans": "2025-04-15 23:51:04 +0000"
     },
     "done": true
   },
@@ -2907,6 +3414,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-04-14 01:10:21 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/depthrock_stairs_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-04-15 23:44:00 +0000"
     },
     "done": true
   },
@@ -3024,6 +3537,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/shiverstone_brick_stairs_stonecutting": {
+    "criteria": {
+      "has_undergarden:shiverstone": "2025-04-15 23:42:05 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/wigglewood_boat": {
     "criteria": {
       "in_water": "2025-04-10 00:56:21 +0000"
@@ -3066,6 +3585,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/cloggrum_shovel": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-04-16 00:39:40 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/backpacked/crimson_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-04-10 00:23:26 +0000"
@@ -3075,6 +3600,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-10 00:25:50 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/veiled_stew": {
+    "criteria": {
+      "has_veil_mushroom": "2025-04-15 23:44:50 +0000"
     },
     "done": true
   },
@@ -3111,6 +3642,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-04-10 02:17:55 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/cloggrum_boots": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-04-16 00:39:40 +0000"
     },
     "done": true
   },
@@ -3162,6 +3699,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/chiseled_shiverstone_bricks_stonecutting": {
+    "criteria": {
+      "has_undergarden:shiverstone": "2025-04-15 23:42:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-15 00:08:12 +0000"
@@ -3189,6 +3732,12 @@
   "alexsmobs:alexsmobs/guster": {
     "criteria": {
       "killed_by": "2025-04-10 02:33:42 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/utheric_helmet": {
+    "criteria": {
+      "has_utherium_ingot": "2025-04-16 01:14:46 +0000"
     },
     "done": true
   },
@@ -3264,9 +3813,27 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/utheric_leggings": {
+    "criteria": {
+      "has_utherium_ingot": "2025-04-16 01:14:46 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/depthrock_brick_slab_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-04-15 23:44:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-10 01:19:28 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/shiverstone_pressure_plate": {
+    "criteria": {
+      "has_shiverstone": "2025-04-15 23:42:05 +0000"
     },
     "done": true
   },
@@ -3297,6 +3864,12 @@
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-15 00:08:12 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/depthrock_brick_wall_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-04-15 23:44:00 +0000"
     },
     "done": true
   },
@@ -3360,6 +3933,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/shiverstone_stairs": {
+    "criteria": {
+      "has_shiverstone": "2025-04-15 23:42:05 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/bazooka": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 00:54:20 +0000"
@@ -3381,6 +3960,12 @@
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "coniferous_forest": "2025-04-10 00:20:08 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/cloggrum_hoe": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-04-16 00:39:40 +0000"
     },
     "done": true
   },
@@ -3492,6 +4077,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/utheric_axe": {
+    "criteria": {
+      "has_utherium_ingot": "2025-04-16 01:14:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-04-10 23:35:13 +0000"
@@ -3546,9 +4137,27 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/shiverstone_button": {
+    "criteria": {
+      "has_shiverstone": "2025-04-15 23:42:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-04-11 00:34:35 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/depthrock_bricks": {
+    "criteria": {
+      "has_depthrock": "2025-04-15 23:44:00 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/cloggrum_pickaxe": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-04-16 00:39:40 +0000"
     },
     "done": true
   },
@@ -3564,6 +4173,18 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/shiverstone_slab": {
+    "criteria": {
+      "has_shiverstone": "2025-04-15 23:42:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/gloomgourd_pie": {
+    "criteria": {
+      "has_gloomgourd": "2025-04-15 23:56:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-04-11 03:47:31 +0000"
@@ -3575,6 +4196,18 @@
       "coded_trigger": "2025-04-10 00:20:08 +0000"
     },
     "done": true
+  },
+  "undergarden:undergarden/any_ore": {
+    "criteria": {
+      "has_cloggrum": "2025-04-15 23:43:49 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_nether_brick": "2025-04-16 01:58:01 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
@@ -3672,6 +4305,18 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/forgotten_chunk_to_ingot": {
+    "criteria": {
+      "has_forgotten_nugget": "2025-04-16 01:20:28 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/forgotten_sword_smithing": {
+    "criteria": {
+      "has_undergarden:forgotten_ingot": "2025-04-16 01:26:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-04-10 00:54:20 +0000"
@@ -3750,6 +4395,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/smogstem_wood": {
+    "criteria": {
+      "has_smogstem_log": "2025-04-16 00:35:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-14 03:02:45 +0000"
@@ -3779,6 +4430,18 @@
       "has_stone": "2025-04-10 00:25:50 +0000"
     },
     "done": true
+  },
+  "undergarden:undergarden/all_undergarden_biomes": {
+    "criteria": {
+      "frostfields": "2025-04-15 23:41:46 +0000",
+      "wigglewood_forest": "2025-04-16 00:51:50 +0000",
+      "gronglegrowth": "2025-04-16 00:43:32 +0000",
+      "barren_abyss": "2025-04-15 23:56:40 +0000",
+      "forgotten_field": "2025-04-15 23:38:10 +0000",
+      "smog_spires": "2025-04-16 00:41:43 +0000",
+      "dense_forest": "2025-04-16 00:35:04 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
@@ -3810,9 +4473,21 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/utheric_chestplate": {
+    "criteria": {
+      "has_utherium_ingot": "2025-04-16 01:14:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-04-10 22:39:17 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/smogstem_planks": {
+    "criteria": {
+      "has_undergarden:smogstem_logs": "2025-04-16 00:35:50 +0000"
     },
     "done": true
   },
@@ -3852,6 +4527,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/tools/undergarden_lead": {
+    "criteria": {
+      "has_goo_ball": "2025-04-15 23:45:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-14 01:10:21 +0000"
@@ -3861,6 +4542,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-10 02:55:37 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/depthrock_wall_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-04-15 23:44:00 +0000"
     },
     "done": true
   },
