@@ -1,576 +1,354 @@
-[04May2025 04:01:35.077] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[04May2025 04:01:35.087] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
-[04May2025 04:01:35.621] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[04May2025 04:01:35.711] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/Newiwd/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[04May2025 04:01:36.423] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[04May2025 04:01:36.520] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[04May2025 04:01:36.526] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[04May2025 04:01:37.739] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[04May2025 04:01:38.636] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/GameRenderer for invalid dist DEDICATED_SERVER
-[04May2025 04:01:38.637] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/GameRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/GameRenderer for invalid dist DEDICATED_SERVER)
-[04May2025 04:01:38.638] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.GameRenderer was not found sanitydim.mixins.json:MixinGameRenderer
-[04May2025 04:01:46.264] [main/INFO] [PluginManager/]: Scanning classes for titanium
-[04May2025 04:01:46.277] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class DefaultResourceRegistryPlugin for plugin resources
-[04May2025 04:01:46.314] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[04May2025 04:01:46.316] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[04May2025 04:01:46.316] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[04May2025 04:01:46.317] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[04May2025 04:01:47.048] [modloading-worker-3/INFO] [PluginManager/]: Scanning classes for titanium
-[04May2025 04:01:47.060] [modloading-worker-3/INFO] [PluginManager/]: Constructed class DefaultResourceRegistryPlugin for plugin resources for mod titanium
-[04May2025 04:01:47.069] [modloading-worker-3/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class DefaultResourceRegistryPlugin
-[04May2025 04:01:47.151] [modloading-worker-2/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: tower structure registered
-[04May2025 04:01:47.151] [modloading-worker-2/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: ice_tower structure registered
-[04May2025 04:01:47.152] [modloading-worker-2/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: jungle_tower structure registered
-[04May2025 04:01:47.152] [modloading-worker-2/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: derelict_tower structure registered
-[04May2025 04:01:47.152] [modloading-worker-2/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: derelict_grass_tower structure registered
-[04May2025 04:01:47.153] [modloading-worker-2/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: ocean_tower structure registered
-[04May2025 04:01:47.153] [modloading-worker-2/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: ocean_warm_tower structure registered
-[04May2025 04:01:47.938] [modloading-worker-2/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.12...
-[04May2025 04:01:48.128] [modloading-worker-2/INFO] [JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
-[04May2025 04:01:49.142] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[04May2025 04:01:49.143] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[04May2025 04:01:56.998] [main/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: Config set
-[04May2025 04:01:57.133] [modloading-worker-3/INFO] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: HELLO FROM PREINIT
-[04May2025 04:01:57.133] [modloading-worker-3/INFO] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: DIRT BLOCK >> minecraft:dirt
-[04May2025 04:01:57.158] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:regular_bottom pattern registered.
-[04May2025 04:01:57.174] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ocean_warm_bottom pattern registered.
-[04May2025 04:01:57.175] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ocean_bottom pattern registered.
-[04May2025 04:01:57.176] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:jungle_bottom pattern registered.
-[04May2025 04:01:57.179] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ice_bottom pattern registered.
-[04May2025 04:01:57.180] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:derelict_bottom pattern registered.
-[04May2025 04:01:57.182] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:derelict_grass_bottom pattern registered.
-[04May2025 04:01:57.183] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:regular_top pattern registered.
-[04May2025 04:01:57.184] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ocean_warm_top pattern registered.
-[04May2025 04:01:57.186] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ocean_top pattern registered.
-[04May2025 04:01:57.186] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:jungle_top pattern registered.
-[04May2025 04:01:57.186] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ice_top pattern registered.
-[04May2025 04:01:57.186] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:derelict_top pattern registered.
-[04May2025 04:01:57.186] [modloading-worker-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:derelict_grass_top pattern registered.
-[04May2025 04:01:57.292] [modloading-worker-3/INFO] [Dungeon Crawl/]: Common Setup
-[04May2025 04:01:57.307] [modloading-worker-3/INFO] [Dungeon Crawl/]: Whitelisted Dimensions:
-[04May2025 04:01:57.307] [modloading-worker-3/INFO] [Dungeon Crawl/]: minecraft:overworld
-[04May2025 04:01:57.389] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: Global Forge version check system disabled, no further processing.
-[04May2025 04:01:57.409] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:anvil_pet_entity, use EntityAttributeCreationEvent instead.
-[04May2025 04:01:57.412] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:bed_pet_entity, use EntityAttributeCreationEvent instead.
-[04May2025 04:01:57.413] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:bill_gates_entity, use EntityAttributeCreationEvent instead.
-[04May2025 04:01:57.413] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:satya_nadella_entity, use EntityAttributeCreationEvent instead.
-[04May2025 04:01:57.421] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:steve_ballmer_entity, use EntityAttributeCreationEvent instead.
-[04May2025 04:01:57.421] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:siamese_entity, use EntityAttributeCreationEvent instead.
-[04May2025 04:01:57.421] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:mini_quantum_blaze_entity, use EntityAttributeCreationEvent instead.
-[04May2025 04:01:57.421] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:mini_quantum_enderman_entity, use EntityAttributeCreationEvent instead.
-[04May2025 04:01:57.928] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
-[04May2025 04:01:58.014] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for theabyss:ice_skeleton, use EntityAttributeCreationEvent instead.
-[04May2025 04:02:05.486] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04May2025 04:02:06.611] [main/INFO] [croissantnova.sanitydim.SanityMod/]: Registering sanity command...
-[04May2025 04:02:06.649] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [lm, mobevent, random, level, subspecies] and [lm, mobevent, random, level, world] with inputs: [0, -123, 123]
-[04May2025 04:02:06.653] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [lm, mobevent, random, level, world] and [lm, mobevent, random, level, subspecies] with inputs: [0, -123, 123]
-[04May2025 04:02:06.658] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [lm, mobevent, start, mobevent, level, subspecies] and [lm, mobevent, start, mobevent, level, world] with inputs: [0, -123, 123]
-[04May2025 04:02:06.661] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [lm, mobevent, start, mobevent, level, world] and [lm, mobevent, start, mobevent, level, subspecies] with inputs: [0, -123, 123]
-[04May2025 04:02:06.698] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [sanity, add, value] and [sanity, add, targets] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[04May2025 04:02:06.703] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [sanity, set, value] and [sanity, set, targets] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[04May2025 04:02:06.711] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[04May2025 04:02:06.716] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04May2025 04:02:06.717] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04May2025 04:02:06.722] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[04May2025 04:02:06.724] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04May2025 04:02:06.736] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, sons-of-sins-1.16.5-1.0.9.jar, BrassAmberBattleTowers-1.16.5-1.6.3.jar, repurposed_structures_forge-3.4.7+1.16.5.jar, ToolBelt-1.16.5-1.16.3.jar, titanium-1.16.5-3.2.8.9-25.jar, BiomesOPlenty-1.16.5-13.1.0.488-universal.jar, baubles-1.8.7.1-1.16.5.jar, jei-1.16.5-7.8.0.1009.jar, towers_of_the_wild-1.16.3-2.1.0.1.jar, lycanitesmobs-1.16.5-2.3.3.7.jar, curios-forge-1.16.5-4.1.0.0.jar, Waystones_1.16.5-7.6.4.jar, OresAboveDiamonds-1.16.5-v6.4.1.jar, citadel-1.8.1-1.16.5.jar, alexsmobs-1.12.1.jar, AutoRegLib-1.6-49.jar, backpacked-forge-1.16.5-2.1.13.jar, cgm-1.2.6-1.16.5.jar, elevatorid-1.16.5-1.7.13.jar, MyServerIsCompatible-1.16.5-1.0.jar, tombstone-1.16.5-6.9.6.jar, obfuscate-0.6.3-1.16.5.jar, DungeonCrawl-1.16.5-2.3.12.jar, curioofundying-forge-1.16.5-5.2.0.0.jar, u_team_core-1.16.5-3.2.1.229.jar, TheAbyss2 2.2.3-4 1.16.5.jar, relics-1.16.5-0.3.4.4.jar, PuzzlesLib-v1.0.15-1.16.5-Forge.jar, The_Undergarden-1.16.5-0.5.5.jar, forge-1.16.5-36.2.42-universal.jar, appleskin-forge-mc1.16.x-2.5.1.jar, valhelsia_core-16.0.15.jar, valhelsia_structures-1.16.5-0.1.6.jar, geckolib-forge-1.16.5-3.0.106.jar, DungeonsArise-1.16.5-2.1.49-beta.jar, xptome-1.16.5-v2.1.5.jar, GokiStats-1.16.5-1.3.2.jar, inventorypets-1.16.5-2.1.1.jar, sanitydim-mc1.16-1.0.0.jar
-[04May2025 04:02:10.408] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_5_via_sewing as it's serializer returned null
-[04May2025 04:02:10.421] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_4_via_sewing as it's serializer returned null
-[04May2025 04:02:10.433] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:belt_via_sewing as it's serializer returned null
-[04May2025 04:02:10.437] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_6_via_sewing as it's serializer returned null
-[04May2025 04:02:10.455] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_via_sewing as it's serializer returned null
-[04May2025 04:02:10.474] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_1_via_sewing as it's serializer returned null
-[04May2025 04:02:10.476] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_7_via_sewing as it's serializer returned null
-[04May2025 04:02:10.488] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_2_via_sewing as it's serializer returned null
-[04May2025 04:02:10.517] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_3_via_sewing as it's serializer returned null
-[04May2025 04:02:10.519] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 9 recipes
-[04May2025 04:02:12.739] [Worker-Main-5/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[04May2025 04:02:12.831] [Worker-Main-5/ERROR] [net.minecraft.advancements.AdvancementManager/]: Parsing error loading custom advancement theabyss:unlockthebook: Unknown item id 'theabyss:translationletter'
-[04May2025 04:02:12.925] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1920 advancements
-[04May2025 04:02:12.937] [Worker-Main-5/INFO] [Dungeon Crawl/]: Loading data...
-[04May2025 04:02:13.802] [Worker-Main-5/INFO] [Dungeon Crawl/]: Done.
-[04May2025 04:02:20.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[04May2025 04:02:20.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[04May2025 04:02:20.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[04May2025 04:02:20.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[04May2025 04:02:20.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[04May2025 04:02:20.304] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[04May2025 04:02:20.492] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04May2025 04:02:20.492] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[04May2025 04:02:20.492] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04May2025 04:02:20.492] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[04May2025 04:02:20.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[04May2025 04:02:21.789] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityVoidWorm from class com.github.alexthe666.alexsmobs.entity.EntityVoidPortal
-[04May2025 04:02:21.831] [Server thread/ERROR] [net.minecraft.entity.ai.brain.Brain/]: No key memories in MapLike[{}]
-[04May2025 04:02:21.835] [Server thread/ERROR] [net.minecraft.entity.ai.brain.Brain/]: No key memories in MapLike[{}]
-[04May2025 04:02:21.836] [Server thread/ERROR] [net.minecraft.entity.ai.brain.Brain/]: No key memories in MapLike[{}]
-[04May2025 04:02:21.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[04May2025 04:02:25.775] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[04May2025 04:02:25.775] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[04May2025 04:02:25.776] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[04May2025 04:02:25.776] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[04May2025 04:02:25.776] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[04May2025 04:02:25.776] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[04May2025 04:02:25.780] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[04May2025 04:02:25.780] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[04May2025 04:02:26.219] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[04May2025 04:02:29.411] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[04May2025 04:02:29.413] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[04May2025 04:02:29.414] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[04May2025 04:02:29.415] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[04May2025 04:02:29.415] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[04May2025 04:02:29.416] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[04May2025 04:02:29.416] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[04May2025 04:02:29.921] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[04May2025 04:02:30.426] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
-[04May2025 04:02:30.950] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
-[04May2025 04:02:31.528] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
-[04May2025 04:02:32.023] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
-[04May2025 04:02:32.386] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 10472 ms
-[04May2025 04:02:32.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.819s)! For help, type "help"
-[04May2025 04:02:32.483] [Server thread/INFO] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: HELLO from server starting
-[04May2025 04:03:02.204] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@39247225
-[04May2025 04:03:02.249] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KevinCrax[/127.90.161.8:54485] logged in with entity id 523 at (196.72600529724374, 4.0, 1095.0122697818458)
-[04May2025 04:03:02.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax joined the game
-[04May2025 04:03:02.394] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: java.io.FileNotFoundException: config/theabyss2.json (No such file or directory)
-[04May2025 04:03:02.395] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.open0(Native Method)
-[04May2025 04:03:02.395] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
-[04May2025 04:03:02.395] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
-[04May2025 04:03:02.395] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileReader.<init>(FileReader.java:75)
-[04May2025 04:03:02.396] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.yezon.theabyss.procedures.ReadConfigFileProcedure.executeProcedure(ReadConfigFileProcedure.java:50)
-[04May2025 04:03:02.396] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.yezon.theabyss.procedures.ReadConfigFileProcedure$GlobalTrigger.onPlayerLoggedIn(ReadConfigFileProcedure.java:36)
-[04May2025 04:03:02.396] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.ASMEventHandler_903_GlobalTrigger_onPlayerLoggedIn_PlayerLoggedInEvent.invoke(.dynamic)
-[04May2025 04:03:02.396] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
-[04May2025 04:03:02.396] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
-[04May2025 04:03:02.397] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
-[04May2025 04:03:02.397] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.firePlayerLoggedIn(BasicEventHooks.java:30)
-[04May2025 04:03:02.397] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.management.PlayerList.func_72355_a(PlayerList.java:232)
-[04May2025 04:03:02.397] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.login.ServerLoginNetHandler.func_147326_c(ServerLoginNetHandler.java:118)
-[04May2025 04:03:02.397] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.login.ServerLoginNetHandler.func_73660_a(ServerLoginNetHandler.java:65)
-[04May2025 04:03:02.398] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:222)
-[04May2025 04:03:02.398] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
-[04May2025 04:03:02.398] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
-[04May2025 04:03:02.398] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
-[04May2025 04:03:02.398] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
-[04May2025 04:03:02.399] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
-[04May2025 04:03:02.399] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
-[04May2025 04:03:02.399] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.lang.Thread.run(Thread.java:829)
-[04May2025 04:03:02.503] [Thread-13/INFO] [com.lycanitesmobs.LycanitesMobs/]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 59c9e25f-7c7f-386b-aa38-a9952379eda5.
-[04May2025 04:03:12.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3865ms or 77 ticks behind
-[04May2025 04:03:33.214] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@61e9f012
-[04May2025 04:03:33.229] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Lea_Matt[/127.124.183.88:44417] logged in with entity id 1538 at (234.6458736079805, 14.0, -977.7999988928098)
-[04May2025 04:03:33.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt joined the game
-[04May2025 04:03:33.284] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: java.io.FileNotFoundException: config/theabyss2.json (No such file or directory)
-[04May2025 04:03:33.285] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.open0(Native Method)
-[04May2025 04:03:33.285] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
-[04May2025 04:03:33.285] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
-[04May2025 04:03:33.286] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileReader.<init>(FileReader.java:75)
-[04May2025 04:03:33.286] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.yezon.theabyss.procedures.ReadConfigFileProcedure.executeProcedure(ReadConfigFileProcedure.java:50)
-[04May2025 04:03:33.286] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.yezon.theabyss.procedures.ReadConfigFileProcedure$GlobalTrigger.onPlayerLoggedIn(ReadConfigFileProcedure.java:36)
-[04May2025 04:03:33.287] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.ASMEventHandler_903_GlobalTrigger_onPlayerLoggedIn_PlayerLoggedInEvent.invoke(.dynamic)
-[04May2025 04:03:33.287] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
-[04May2025 04:03:33.287] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
-[04May2025 04:03:33.288] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
-[04May2025 04:03:33.288] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.firePlayerLoggedIn(BasicEventHooks.java:30)
-[04May2025 04:03:33.288] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.management.PlayerList.func_72355_a(PlayerList.java:232)
-[04May2025 04:03:33.288] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.login.ServerLoginNetHandler.func_147326_c(ServerLoginNetHandler.java:118)
-[04May2025 04:03:33.288] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.login.ServerLoginNetHandler.func_73660_a(ServerLoginNetHandler.java:65)
-[04May2025 04:03:33.289] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:222)
-[04May2025 04:03:33.289] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
-[04May2025 04:03:33.289] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
-[04May2025 04:03:33.289] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
-[04May2025 04:03:33.290] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
-[04May2025 04:03:33.290] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
-[04May2025 04:03:33.290] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
-[04May2025 04:03:33.290] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.lang.Thread.run(Thread.java:829)
-[04May2025 04:03:33.367] [Thread-16/INFO] [com.lycanitesmobs.LycanitesMobs/]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for ece0ef0f-b99a-37a6-8c95-cbfbe03b5272.
-[04May2025 04:03:41.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> LEAA
-[04May2025 04:03:48.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> REGRESAMOS
-[04May2025 04:03:49.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> holis
-[04May2025 04:03:57.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> NI RECUERDO QUE ESTABA HACIENDO
-[04May2025 04:04:01.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> en que estabamos?
-[04May2025 04:04:09.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> KJAJSSAJKSAJK
-[04May2025 04:04:10.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> No tenog idea
-[04May2025 04:04:19.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> oh rayos todo se siente tan raro
-[04May2025 04:04:23.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> otra vez a acostumbrarse
-[04May2025 04:04:36.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> oye yo que hago a
-[04May2025 04:04:39.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> En la capa 8 XD
-[04May2025 04:04:49.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> no che
-[04May2025 04:05:02.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> yo estoy en las mazmorra
-[04May2025 04:05:07.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> mmmmmmmmmmmmmmmmmmm
-[04May2025 04:05:12.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> que hacía...
-[04May2025 04:05:14.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Ah !
-[04May2025 04:05:15.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Creo que
-[04May2025 04:05:17.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> creo que
-[04May2025 04:05:19.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> creo queeeee
-[04May2025 04:05:24.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> estaba buscando opalo negro
-[04May2025 04:05:26.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Si mal no recuerdo
-[04May2025 04:05:39.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: The difficulty has been set to Normal]
-[04May2025 04:05:57.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> see
-[04May2025 04:06:01.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Opalo negro
-[04May2025 04:06:04.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ok okoko
-[04May2025 04:06:43.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> casita
-[04May2025 04:06:50.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> WTF SPAWNEO UN SLIME XD
-[04May2025 04:07:08.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ala cucha pego re feo
-[04May2025 04:07:16.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Set sanity to 100.0 for 2 players]
-[04May2025 04:08:15.258] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/7570, l='ServerLevel[World]', x=168.10, y=14.00, z=1096.73]
-[04May2025 04:08:15.258] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/7571, l='ServerLevel[World]', x=168.10, y=14.00, z=1096.73]
-[04May2025 04:08:15.258] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/7572, l='ServerLevel[World]', x=168.10, y=14.00, z=1096.73]
-[04May2025 04:08:15.258] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/7573, l='ServerLevel[World]', x=168.10, y=14.00, z=1096.73]
-[04May2025 04:08:15.259] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/7568, l='ServerLevel[World]', x=168.10, y=14.00, z=1096.73]
-[04May2025 04:08:15.259] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/7569, l='ServerLevel[World]', x=168.10, y=14.00, z=1096.73]
-[04May2025 04:09:32.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> aaaah no me acuerdo que hacia
-[04May2025 04:09:36.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> yo menos
-[04May2025 04:09:46.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> XD
-[04May2025 04:10:05.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Set sanity to 100.0 for 2 players]
-[04May2025 04:11:06.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Killed 199 entities]
-[04May2025 04:12:49.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Killed 369 entities]
-[04May2025 04:13:10.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Set sanity to 100.0 for 2 players]
-[04May2025 04:13:15.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Killed 47 entities]
-[04May2025 04:16:04.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Sí..
-[04May2025 04:16:08.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ya veo por que estaba demorando tanto
-[04May2025 04:16:16.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> El opalo negro es ridiculamente dificil de encontrar
-[04May2025 04:16:17.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Killed 284 entities]
-[04May2025 04:16:18.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> por?
-[04May2025 04:17:42.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> tiene exactamente
-[04May2025 04:17:45.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> 1/9 posibilidades
-[04May2025 04:17:47.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> de que aparezca...
-[04May2025 04:17:49.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> POR CADA CHUNK
-[04May2025 04:17:51.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> oh
-[04May2025 04:18:06.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> pero eso no es poco?
-[04May2025 04:18:18.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> XD
-[04May2025 04:18:22.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> exacto
-[04May2025 04:18:35.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> es ridiculamente baja su probabilidad
-[04May2025 04:18:36.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> de que aparezca
-[04May2025 04:20:00.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Killed 677 entities]
-[04May2025 04:20:01.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Lea
-[04May2025 04:20:02.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> solo..
-[04May2025 04:20:03.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> mira esto
-[04May2025 04:20:16.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> te tepo ?
-[04May2025 04:20:18.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> tepeo* ?
-[04May2025 04:20:27.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> a ver
-[04May2025 04:20:42.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported Lea_Matt to KevinCrax]
-[04May2025 04:20:46.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Killed 32 entities]
-[04May2025 04:22:05.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> que estoy viendo?
-[04May2025 04:22:13.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> XD
-[04May2025 04:22:14.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Killed 84 entities]
-[04May2025 04:22:50.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> dex?
-[04May2025 04:22:53.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Si ?
-[04May2025 04:23:05.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Set sanity to 100.0 for 2 players]
-[04May2025 04:23:06.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Killed 177 entities]
-[04May2025 04:23:47.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Siii ??
-[04May2025 04:23:49.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Killed 101 entities]
-[04May2025 04:24:05.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> para que me trajiste?
-[04May2025 04:24:15.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Um
-[04May2025 04:24:20.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> para mostrarte esto ?
-[04May2025 04:24:21.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> solo era eso
-[04May2025 04:24:23.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Killed 19 entities]
-[04May2025 04:24:28.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> no hay mucho mas misterio XD
-[04May2025 04:24:51.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> AAAA
-[04May2025 04:24:54.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> solo para mostrame el pozo ?
-[04May2025 04:24:58.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> LEA
-[04May2025 04:25:03.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> MIRA ESO
-[04May2025 04:25:07.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> DIAVLO ES GIGANTE
-[04May2025 04:25:09.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Killed 109 entities]
-[04May2025 04:25:24.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> LEA !
-[04May2025 04:25:24.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> MIRA
-[04May2025 04:25:40.947] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/19075, l='ServerLevel[World]', x=202.63, y=7.71, z=1102.73]
-[04May2025 04:25:40.948] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/19075, l='ServerLevel[World]', x=202.63, y=7.71, z=1102.73]
-[04May2025 04:26:25.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> MUELTO
-[04May2025 04:26:38.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> eeeu
-[04May2025 04:26:39.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> eso
-[04May2025 04:26:56.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> veni mira
-[04May2025 04:26:59.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ah no
-[04May2025 04:27:00.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> olvidalo
-[04May2025 04:27:02.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ya se murio XD
-[04May2025 04:27:26.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> maldita sea
-[04May2025 04:27:28.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> aun no lo encuentro
-[04May2025 04:27:30.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Killed 213 entities]
-[04May2025 04:28:32.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Killed 210 entities]
-[04May2025 04:30:17.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> me vuelvo a casa?
-[04May2025 04:30:18.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> aun nada
-[04May2025 04:30:19.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> si si
-[04May2025 04:30:21.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> no te preocupes
-[04May2025 04:30:33.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> ya estoy loca
-[04May2025 04:30:35.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> [x:-268, y:77, z:584, dim:minecraft:overworld]
-[04May2025 04:30:51.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported Lea_Matt to -267.5, 77.0, 584.5]
-[04May2025 04:31:06.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> gracias
-[04May2025 04:31:10.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> no problem
-[04May2025 04:31:11.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Killed 64 entities]
-[04May2025 04:33:01.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> hmmmmmmmmm
-[04May2025 04:33:37.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> me pregunto que dia lo encontraré
-[04May2025 04:33:38.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> XD
-[04May2025 04:33:58.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> no che
-[04May2025 04:34:53.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Set sanity to 100.0 for 2 players]
-[04May2025 04:36:26.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Killed 354 entities]
-[04May2025 04:37:05.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> me voy a la otra dimencion
-[04May2025 04:37:11.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> yo voy a regresar a casa
-[04May2025 04:37:14.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> esto es una perdida de tiempo
-[04May2025 04:37:15.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ;-;
-[04May2025 04:37:21.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to -269.5, 77.0, 586.5]
-[04May2025 04:37:29.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> DIAVLO EL LAGAZO
-[04May2025 04:37:32.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Lea hay qeu dormir primero
-[04May2025 04:37:55.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> LÑewLEwlewlewlelwelwelwlewlew
-[04May2025 04:37:57.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> mimir
-[04May2025 04:38:06.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Zzzz
-[04May2025 04:38:18.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ah espera
-[04May2025 04:38:21.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> debo dejar cosas
-[04May2025 04:38:25.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> bueno
-[04May2025 04:38:37.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> casualmente trayendo 35 bloques de diamantes
-[04May2025 04:38:38.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> XD
-[04May2025 04:39:03.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> que bien!!
-[04May2025 04:39:56.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> hay que minar y encontrar a una criatura para la espadita
-[04May2025 04:40:02.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ???
-[04May2025 04:41:02.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> huh ?
-[04May2025 04:41:35.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ok listo
-[04May2025 04:41:39.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> minar y encontrar una criatura para que nos dropee el item para hacer la mejor espada
-[04May2025 04:41:53.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ok ?..
-[04May2025 04:41:56.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> aparte del crista raro
-[04May2025 04:42:21.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ooooookay
-[04May2025 04:42:23.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> minar
-[04May2025 04:43:12.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> uu
-[04May2025 04:43:13.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> cueva
-[04May2025 04:43:15.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> orita vengo por cierto
-[04May2025 04:44:03.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ya volvi
-[04May2025 04:44:08.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> sigamos
-[04May2025 04:44:25.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> hjahahahaa
-[04May2025 04:44:30.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> mira esto
-[04May2025 04:44:45.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> y me puedo tepear luego
-[04May2025 04:44:47.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ojito
-[04May2025 04:44:58.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> :D
-[04May2025 04:45:15.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax has made the advancement [Ores Ores Ores!]
-[04May2025 04:45:15.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax has made the advancement [Glacerythe!]
-[04May2025 04:45:28.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Glacerythe
-[04May2025 04:45:52.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt has made the advancement [Ores Ores Ores!]
-[04May2025 04:45:52.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt has made the advancement [Glacerythe!]
-[04May2025 04:46:15.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> encontre el crista
-[04May2025 04:46:17.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> se
-[04May2025 04:46:20.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> pero necesitamos mas
-[04May2025 04:46:27.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Glacerythe ?
-[04May2025 04:46:28.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ese ?
-[04May2025 04:46:37.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax has made the advancement [Ignisithe!]
-[04May2025 04:47:25.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> a no
-[04May2025 04:47:48.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> vamonos al portal
-[04May2025 04:47:49.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> de una vez
-[04May2025 04:47:51.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> o vamos a morir aqui
-[04May2025 04:49:06.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> casa
-[04May2025 04:49:28.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> BUENO
-[04May2025 04:49:30.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> PUES PEGAN UN POQUITO EH
-[04May2025 04:49:43.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ya
-[04May2025 04:49:46.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Oof
-[04May2025 04:50:57.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> un poquitito
-[04May2025 04:51:19.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> casi ni se sintio
-[04May2025 04:52:01.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> la..
-[04May2025 04:52:03.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> eh ?
-[04May2025 04:53:02.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ojooooooooooo
-[04May2025 04:53:09.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> ?
-[04May2025 04:53:13.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ni se que hice pero hice algo
-[04May2025 04:53:20.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> :D
-[04May2025 04:54:08.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> tambien esto !!!
-[04May2025 04:54:11.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> XD
-[04May2025 04:55:16.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> OH
-[04May2025 04:55:17.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> wow
-[04May2025 04:55:43.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> uhm..
-[04May2025 04:56:46.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> nao entiendo XD
-[04May2025 04:57:46.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> um
-[04May2025 04:57:49.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> mejor sigamos explorando
-[04May2025 04:57:53.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> quizas nos falan materiales
-[04May2025 04:58:39.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> hey Lea
-[04May2025 04:58:44.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> Quep?
-[04May2025 04:58:46.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> vamos a seguir explorando
-[04May2025 04:58:49.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> quizas nos falta materiales
-[04May2025 04:58:55.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> estas ahi todo tiesa
-[04May2025 04:58:55.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> XD
-[04May2025 04:58:55.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> chi
-[04May2025 04:59:12.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> estaba esperando
-[04May2025 04:59:19.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> vamos
-[04May2025 04:59:22.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> y mirendo los items
-[04May2025 05:00:33.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Set sanity to 100.0 for 2 players]
-[04May2025 05:00:47.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> lava ?
-[04May2025 05:00:49.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> en esta dimension ?
-[04May2025 05:00:54.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> huh
-[04May2025 05:01:13.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> lava normal
-[04May2025 05:01:39.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> haha
-[04May2025 05:01:42.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> adoro esta cosa
-[04May2025 05:01:49.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> es que es super divertido de usar
-[04May2025 05:01:51.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> mira esto
-[04May2025 05:02:00.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> XD
-[04May2025 05:02:08.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> estoy aterrado "
-[04May2025 05:02:09.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> hmm
-[04May2025 05:02:29.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ok se me paso
-[04May2025 05:02:43.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> da miedo ese efecto no ? XD
-[04May2025 05:02:50.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax has made the advancement [Aberythe!]
-[04May2025 05:02:53.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> chi
-[04May2025 05:02:55.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Abertyhe
-[04May2025 05:03:00.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt has made the advancement [Aberythe!]
-[04May2025 05:03:11.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> OHOHHHH
-[04May2025 05:03:12.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> BEDROCK
-[04May2025 05:03:17.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> o piedra madre en español
-[04May2025 05:03:31.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt has made the advancement [Incorythe!]
-[04May2025 05:03:41.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> wtf diamantes aca
-[04May2025 05:03:41.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> XD
-[04May2025 05:03:43.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> la encontre!!
-[04May2025 05:04:35.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> UU
-[04May2025 05:04:38.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Pero esa es la mejor armadura
-[04May2025 05:04:39.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> la mejor espada
-[04May2025 05:04:49.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> es la de knight
-[04May2025 05:04:55.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax has made the advancement [Incorythe!]
-[04May2025 05:05:09.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> aaaahhh
-[04May2025 05:05:14.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> de aca se hacen los loran cristals
-[04May2025 05:05:15.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ooohhh
-[04May2025 05:05:53.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> donde?
-[04May2025 05:06:48.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> toca regresar
-[04May2025 05:06:50.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Killed 325 entities]
-[04May2025 05:07:30.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> llegue justo
-[04May2025 05:07:34.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> haha
-[04May2025 05:07:46.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> mira
-[04May2025 05:07:56.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> el incorithe ?
-[04May2025 05:08:06.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> chiiiiii
-[04May2025 05:08:21.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> que bien que habia conseguido mi pico con fortuna
-[04May2025 05:08:32.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax has made the advancement [Loran Loran Loran!]
-[04May2025 05:08:35.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> yo no...
-[04May2025 05:09:05.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> hehe
-[04May2025 05:09:29.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> :D
-[04May2025 05:09:30.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> el peto
-[04May2025 05:09:36.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> me tendria que hacer uno
-[04May2025 05:09:42.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> un petito
-[04May2025 05:10:45.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> no tengo libros
-[04May2025 05:10:46.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> uuh
-[04May2025 05:11:04.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> rayos
-[04May2025 05:11:05.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> perate
-[04May2025 05:11:54.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to 81.0, 69.0, -1891.0]
-[04May2025 05:11:58.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2403ms or 48 ticks behind
-[04May2025 05:12:11.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> LAGAZO
-[04May2025 05:12:13.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> XD
-[04May2025 05:12:38.955] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KevinCrax lost connection: Timed out
-[04May2025 05:12:38.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax left the game
-[04May2025 05:12:38.993] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
-[04May2025 05:13:30.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] sep se crasheo mi minecraft
-[04May2025 05:13:41.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] directamente
-[04May2025 05:13:54.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> oh
-[04May2025 05:13:59.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> salgo?
-[04May2025 05:14:05.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] perate
-[04May2025 05:14:08.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] ahi entro
-[04May2025 05:14:14.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] pero en un rato mas tambien tendre que apagar
-[04May2025 05:14:22.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> oh
-[04May2025 05:14:30.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> lealtad 3 sirve?
-[04May2025 05:16:17.119] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@270995f9
-[04May2025 05:16:17.132] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KevinCrax[/127.90.161.8:51251] logged in with entity id 97685 at (84.9910759463939, 69.0, -1888.8780733491385)
-[04May2025 05:16:17.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax joined the game
-[04May2025 05:16:17.169] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: java.io.FileNotFoundException: config/theabyss2.json (No such file or directory)
-[04May2025 05:16:17.169] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.open0(Native Method)
-[04May2025 05:16:17.169] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
-[04May2025 05:16:17.169] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
-[04May2025 05:16:17.169] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileReader.<init>(FileReader.java:75)
-[04May2025 05:16:17.170] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.yezon.theabyss.procedures.ReadConfigFileProcedure.executeProcedure(ReadConfigFileProcedure.java:50)
-[04May2025 05:16:17.170] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.yezon.theabyss.procedures.ReadConfigFileProcedure$GlobalTrigger.onPlayerLoggedIn(ReadConfigFileProcedure.java:36)
-[04May2025 05:16:17.170] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.ASMEventHandler_903_GlobalTrigger_onPlayerLoggedIn_PlayerLoggedInEvent.invoke(.dynamic)
-[04May2025 05:16:17.170] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
-[04May2025 05:16:17.170] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
-[04May2025 05:16:17.170] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
-[04May2025 05:16:17.171] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.firePlayerLoggedIn(BasicEventHooks.java:30)
-[04May2025 05:16:17.171] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.management.PlayerList.func_72355_a(PlayerList.java:232)
-[04May2025 05:16:17.171] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.login.ServerLoginNetHandler.func_147326_c(ServerLoginNetHandler.java:118)
-[04May2025 05:16:17.171] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.login.ServerLoginNetHandler.func_73660_a(ServerLoginNetHandler.java:65)
-[04May2025 05:16:17.171] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:222)
-[04May2025 05:16:17.171] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
-[04May2025 05:16:17.171] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
-[04May2025 05:16:17.172] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
-[04May2025 05:16:17.172] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
-[04May2025 05:16:17.172] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
-[04May2025 05:16:17.172] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
-[04May2025 05:16:17.172] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.lang.Thread.run(Thread.java:829)
-[04May2025 05:16:17.310] [Thread-77/INFO] [com.lycanitesmobs.LycanitesMobs/]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 59c9e25f-7c7f-386b-aa38-a9952379eda5.
-[04May2025 05:16:30.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> VOLVI PERRAS
-[04May2025 05:16:31.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Digo digo
-[04May2025 05:16:33.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> volvi nwn
-[04May2025 05:17:17.947] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/97794, l='ServerLevel[World]', x=43.70, y=69.00, z=-1995.32] died, message: 'Villager was slain by Ventoraptor Lvl 3'
-[04May2025 05:18:03.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Teleported KevinCrax to -272.0, 77.0, 587.0]
-[04May2025 05:18:07.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ok
-[04May2025 05:19:22.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> donde estas Lea por cierto
-[04May2025 05:20:55.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Lea
-[04May2025 05:20:56.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> dfonde estas
-[04May2025 05:21:39.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> que me paso?
-[04May2025 05:21:45.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> que hiciste?
-[04May2025 05:21:49.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ??
-[04May2025 05:21:56.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> que paso de que
-[04May2025 05:22:03.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ???????????????????????????????
-[04May2025 05:22:16.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> que que que paso
-[04May2025 05:22:17.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> que hice
-[04May2025 05:22:27.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> me pegaste hasta dejarme en el portal
-[04May2025 05:22:35.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ??????????????????????????????????????????
-[04May2025 05:22:45.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> que te pege.. hasta que dejaste el portal.. ?
-[04May2025 05:22:53.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Lea estaba en otro lado del mapa
-[04May2025 05:22:58.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> hace un ratito recienvine
-[04May2025 05:23:44.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> yo estaba en la cocina de la casa y de la nada cuando volvi estaba dentro del portal con casi nada de vida y encerrada
-[04May2025 05:23:56.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Wtf ?
-[04May2025 05:24:03.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> um
-[04May2025 05:24:06.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> quizas fue una banshee
-[04May2025 05:24:20.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> sabes que esas brujas traspasan paredes y atacan asi
-[04May2025 05:24:50.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> pero me movio de mi librerias hasta meterme al portal sin matarme?
-[04May2025 05:25:02.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ni idea Lea
-[04May2025 05:25:04.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> pero yo no estaba aca
-[04May2025 05:25:17.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> eso te puedo asegurar
-[04May2025 05:25:31.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> voy a seguir con la mineria
-[04May2025 05:27:43.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> XD
-[04May2025 05:27:46.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> estuve afk por como 5 minutos
-[04May2025 05:27:52.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Set sanity to 100.0 for 2 players]
-[04May2025 05:27:56.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> y me pegaba una araña
-[04May2025 05:27:58.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> y no se como sigo vivo
-[04May2025 05:27:59.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> waos
-[04May2025 05:28:33.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> suerte o era muy debil
-[04May2025 05:28:51.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ambos
-[04May2025 05:29:21.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Lea donde esta
-[04May2025 05:29:43.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> farmeando xp en la mazmora
-[04May2025 05:29:54.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> aea
-[04May2025 05:32:22.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax has made the advancement [Magical Musical!]
-[04May2025 05:32:22.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax has made the advancement [Forget mana, somnium is better!]
-[04May2025 05:32:25.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Wtf
-[04May2025 05:33:35.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> tengo miedo de este mod
-[04May2025 05:33:36.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> XD
-[04May2025 05:33:43.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> cual?
-[04May2025 05:34:06.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> es bien complejod
-[04May2025 05:34:46.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> okey
-[04May2025 05:36:43.151] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Set sanity to 100.0 for 2 players]
-[04May2025 05:36:43.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> como me saco la locura?
-[04May2025 05:36:47.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Lea tengo que apagar
-[04May2025 05:36:48.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> a ya
-[04May2025 05:36:52.700] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lea_Matt lost connection: Disconnected
-[04May2025 05:36:52.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt left the game
-[04May2025 05:39:26.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Set KevinCrax's sanity to 100.0]
-[04May2025 05:39:30.698] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KevinCrax lost connection: Disconnected
-[04May2025 05:39:30.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax left the game
-[04May2025 05:39:53.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[04May2025 05:39:53.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[04May2025 05:39:53.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[04May2025 05:39:53.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[04May2025 05:39:53.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/minecraft:overworld
-[04May2025 05:39:53.237] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04May2025 05:39:53.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/minecraft:the_nether
-[04May2025 05:39:53.240] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04May2025 05:39:53.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/minecraft:the_end
-[04May2025 05:39:53.240] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04May2025 05:39:53.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/theabyss:dream
-[04May2025 05:39:53.241] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (dream): All chunks are saved
-[04May2025 05:39:53.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/theabyss:the_abyss
-[04May2025 05:39:53.243] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
-[04May2025 05:39:53.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/theabyss:radio
-[04May2025 05:39:53.244] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (radio): All chunks are saved
-[04May2025 05:39:53.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/theabyss:ground_lands
-[04May2025 05:39:53.245] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (ground_lands): All chunks are saved
-[04May2025 05:39:53.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/theabyss:frost_world
-[04May2025 05:39:53.246] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (frost_world): All chunks are saved
-[04May2025 05:39:53.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/undergarden:undergarden
-[04May2025 05:39:53.247] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
-[04May2025 05:39:53.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/theabyss:pocket_dimension
-[04May2025 05:39:53.249] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
-[04May2025 05:39:53.294] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04May2025 05:39:53.393] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04May2025 05:39:53.394] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04May2025 05:39:53.394] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (dream): All chunks are saved
-[04May2025 05:39:53.395] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
-[04May2025 05:39:53.398] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (radio): All chunks are saved
-[04May2025 05:39:53.399] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (ground_lands): All chunks are saved
-[04May2025 05:39:53.399] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (frost_world): All chunks are saved
-[04May2025 05:39:53.399] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
-[04May2025 05:39:53.400] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[04May2025 22:08:21.948] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[04May2025 22:08:21.950] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
+[04May2025 22:08:22.379] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[04May2025 22:08:22.463] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/Newiwd/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[04May2025 22:08:23.113] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[04May2025 22:08:23.208] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[04May2025 22:08:23.214] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[04May2025 22:08:24.157] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[04May2025 22:08:24.909] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/GameRenderer for invalid dist DEDICATED_SERVER
+[04May2025 22:08:24.910] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/GameRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/GameRenderer for invalid dist DEDICATED_SERVER)
+[04May2025 22:08:24.910] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.GameRenderer was not found sanitydim.mixins.json:MixinGameRenderer
+[04May2025 22:08:31.391] [main/INFO] [PluginManager/]: Scanning classes for titanium
+[04May2025 22:08:31.403] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class DefaultResourceRegistryPlugin for plugin resources
+[04May2025 22:08:31.442] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[04May2025 22:08:31.444] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[04May2025 22:08:31.445] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[04May2025 22:08:31.445] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[04May2025 22:08:32.355] [modloading-worker-3/INFO] [PluginManager/]: Scanning classes for titanium
+[04May2025 22:08:32.381] [modloading-worker-3/INFO] [PluginManager/]: Constructed class DefaultResourceRegistryPlugin for plugin resources for mod titanium
+[04May2025 22:08:32.381] [modloading-worker-3/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class DefaultResourceRegistryPlugin
+[04May2025 22:08:32.450] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: tower structure registered
+[04May2025 22:08:32.453] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: ice_tower structure registered
+[04May2025 22:08:32.454] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: jungle_tower structure registered
+[04May2025 22:08:32.456] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: derelict_tower structure registered
+[04May2025 22:08:32.458] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: derelict_grass_tower structure registered
+[04May2025 22:08:32.459] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: ocean_tower structure registered
+[04May2025 22:08:32.461] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: ocean_warm_tower structure registered
+[04May2025 22:08:33.098] [modloading-worker-2/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.12...
+[04May2025 22:08:33.221] [modloading-worker-2/INFO] [JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[04May2025 22:08:34.313] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[04May2025 22:08:34.313] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[04May2025 22:08:42.131] [main/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: Config set
+[04May2025 22:08:42.138] [Thread-0/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: Config set
+[04May2025 22:08:42.303] [modloading-worker-2/INFO] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: HELLO FROM PREINIT
+[04May2025 22:08:42.303] [modloading-worker-2/INFO] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: DIRT BLOCK >> minecraft:dirt
+[04May2025 22:08:42.336] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:regular_bottom pattern registered.
+[04May2025 22:08:42.337] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ocean_warm_bottom pattern registered.
+[04May2025 22:08:42.345] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ocean_bottom pattern registered.
+[04May2025 22:08:42.350] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:jungle_bottom pattern registered.
+[04May2025 22:08:42.351] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ice_bottom pattern registered.
+[04May2025 22:08:42.353] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:derelict_bottom pattern registered.
+[04May2025 22:08:42.356] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:derelict_grass_bottom pattern registered.
+[04May2025 22:08:42.356] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:regular_top pattern registered.
+[04May2025 22:08:42.357] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ocean_warm_top pattern registered.
+[04May2025 22:08:42.357] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ocean_top pattern registered.
+[04May2025 22:08:42.357] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:jungle_top pattern registered.
+[04May2025 22:08:42.357] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:ice_top pattern registered.
+[04May2025 22:08:42.360] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:derelict_top pattern registered.
+[04May2025 22:08:42.360] [modloading-worker-1/INFO] [com._idrae.towers_of_the_wild.TowersOfTheWild/]: towers_of_the_wild:derelict_grass_top pattern registered.
+[04May2025 22:08:42.449] [modloading-worker-2/INFO] [Dungeon Crawl/]: Common Setup
+[04May2025 22:08:42.461] [modloading-worker-2/INFO] [Dungeon Crawl/]: Whitelisted Dimensions:
+[04May2025 22:08:42.463] [modloading-worker-2/INFO] [Dungeon Crawl/]: minecraft:overworld
+[04May2025 22:08:42.543] [modloading-worker-2/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:anvil_pet_entity, use EntityAttributeCreationEvent instead.
+[04May2025 22:08:42.543] [modloading-worker-2/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:bed_pet_entity, use EntityAttributeCreationEvent instead.
+[04May2025 22:08:42.547] [modloading-worker-2/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:bill_gates_entity, use EntityAttributeCreationEvent instead.
+[04May2025 22:08:42.547] [modloading-worker-2/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:satya_nadella_entity, use EntityAttributeCreationEvent instead.
+[04May2025 22:08:42.547] [modloading-worker-2/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:steve_ballmer_entity, use EntityAttributeCreationEvent instead.
+[04May2025 22:08:42.547] [modloading-worker-2/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:siamese_entity, use EntityAttributeCreationEvent instead.
+[04May2025 22:08:42.547] [modloading-worker-2/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:mini_quantum_blaze_entity, use EntityAttributeCreationEvent instead.
+[04May2025 22:08:42.547] [modloading-worker-2/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for inventorypets:mini_quantum_enderman_entity, use EntityAttributeCreationEvent instead.
+[04May2025 22:08:42.549] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: Global Forge version check system disabled, no further processing.
+[04May2025 22:08:42.954] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
+[04May2025 22:08:42.975] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for theabyss:ice_skeleton, use EntityAttributeCreationEvent instead.
+[04May2025 22:08:49.082] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04May2025 22:08:50.136] [main/INFO] [croissantnova.sanitydim.SanityMod/]: Registering sanity command...
+[04May2025 22:08:50.211] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [lm, mobevent, random, level, subspecies] and [lm, mobevent, random, level, world] with inputs: [0, -123, 123]
+[04May2025 22:08:50.215] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [lm, mobevent, random, level, world] and [lm, mobevent, random, level, subspecies] with inputs: [0, -123, 123]
+[04May2025 22:08:50.216] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [lm, mobevent, start, mobevent, level, subspecies] and [lm, mobevent, start, mobevent, level, world] with inputs: [0, -123, 123]
+[04May2025 22:08:50.217] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [lm, mobevent, start, mobevent, level, world] and [lm, mobevent, start, mobevent, level, subspecies] with inputs: [0, -123, 123]
+[04May2025 22:08:50.249] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [sanity, add, value] and [sanity, add, targets] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[04May2025 22:08:50.251] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [sanity, set, value] and [sanity, set, targets] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[04May2025 22:08:50.261] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04May2025 22:08:50.266] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04May2025 22:08:50.268] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04May2025 22:08:50.271] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04May2025 22:08:50.276] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04May2025 22:08:50.293] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, sons-of-sins-1.16.5-1.0.9.jar, BrassAmberBattleTowers-1.16.5-1.6.3.jar, repurposed_structures_forge-3.4.7+1.16.5.jar, ToolBelt-1.16.5-1.16.3.jar, titanium-1.16.5-3.2.8.9-25.jar, BiomesOPlenty-1.16.5-13.1.0.488-universal.jar, baubles-1.8.7.1-1.16.5.jar, jei-1.16.5-7.8.0.1009.jar, towers_of_the_wild-1.16.3-2.1.0.1.jar, lycanitesmobs-1.16.5-2.3.3.7.jar, curios-forge-1.16.5-4.1.0.0.jar, Waystones_1.16.5-7.6.4.jar, OresAboveDiamonds-1.16.5-v6.4.1.jar, citadel-1.8.1-1.16.5.jar, alexsmobs-1.12.1.jar, AutoRegLib-1.6-49.jar, backpacked-forge-1.16.5-2.1.13.jar, cgm-1.2.6-1.16.5.jar, elevatorid-1.16.5-1.7.13.jar, MyServerIsCompatible-1.16.5-1.0.jar, tombstone-1.16.5-6.9.6.jar, obfuscate-0.6.3-1.16.5.jar, DungeonCrawl-1.16.5-2.3.12.jar, curioofundying-forge-1.16.5-5.2.0.0.jar, u_team_core-1.16.5-3.2.1.229.jar, TheAbyss2 2.2.3-4 1.16.5.jar, relics-1.16.5-0.3.4.4.jar, PuzzlesLib-v1.0.15-1.16.5-Forge.jar, The_Undergarden-1.16.5-0.5.5.jar, forge-1.16.5-36.2.42-universal.jar, appleskin-forge-mc1.16.x-2.5.1.jar, valhelsia_core-16.0.15.jar, valhelsia_structures-1.16.5-0.1.6.jar, geckolib-forge-1.16.5-3.0.106.jar, DungeonsArise-1.16.5-2.1.49-beta.jar, xptome-1.16.5-v2.1.5.jar, GokiStats-1.16.5-1.3.2.jar, inventorypets-1.16.5-2.1.1.jar, sanitydim-mc1.16-1.0.0.jar
+[04May2025 22:08:52.668] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_5_via_sewing as it's serializer returned null
+[04May2025 22:08:52.685] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_4_via_sewing as it's serializer returned null
+[04May2025 22:08:52.701] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:belt_via_sewing as it's serializer returned null
+[04May2025 22:08:52.708] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_6_via_sewing as it's serializer returned null
+[04May2025 22:08:52.723] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_via_sewing as it's serializer returned null
+[04May2025 22:08:52.748] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_1_via_sewing as it's serializer returned null
+[04May2025 22:08:52.748] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_7_via_sewing as it's serializer returned null
+[04May2025 22:08:52.753] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_2_via_sewing as it's serializer returned null
+[04May2025 22:08:52.778] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_3_via_sewing as it's serializer returned null
+[04May2025 22:08:52.779] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 9 recipes
+[04May2025 22:08:54.529] [Worker-Main-4/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[04May2025 22:08:54.639] [Worker-Main-4/ERROR] [net.minecraft.advancements.AdvancementManager/]: Parsing error loading custom advancement theabyss:unlockthebook: Unknown item id 'theabyss:translationletter'
+[04May2025 22:08:54.746] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1920 advancements
+[04May2025 22:08:54.759] [Worker-Main-4/INFO] [Dungeon Crawl/]: Loading data...
+[04May2025 22:08:55.642] [Worker-Main-4/INFO] [Dungeon Crawl/]: Done.
+[04May2025 22:09:01.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[04May2025 22:09:01.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[04May2025 22:09:01.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[04May2025 22:09:01.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[04May2025 22:09:01.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[04May2025 22:09:01.990] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[04May2025 22:09:02.252] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04May2025 22:09:02.252] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[04May2025 22:09:02.253] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04May2025 22:09:02.253] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[04May2025 22:09:02.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[04May2025 22:09:03.187] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityVoidWorm from class com.github.alexthe666.alexsmobs.entity.EntityVoidPortal
+[04May2025 22:09:03.206] [Server thread/ERROR] [net.minecraft.entity.ai.brain.Brain/]: No key memories in MapLike[{}]
+[04May2025 22:09:03.207] [Server thread/ERROR] [net.minecraft.entity.ai.brain.Brain/]: No key memories in MapLike[{}]
+[04May2025 22:09:03.208] [Server thread/ERROR] [net.minecraft.entity.ai.brain.Brain/]: No key memories in MapLike[{}]
+[04May2025 22:09:03.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[04May2025 22:09:06.097] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[04May2025 22:09:06.097] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[04May2025 22:09:06.098] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[04May2025 22:09:06.098] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[04May2025 22:09:06.099] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[04May2025 22:09:06.099] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[04May2025 22:09:06.531] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[04May2025 22:09:06.640] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[04May2025 22:09:09.518] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[04May2025 22:09:09.520] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[04May2025 22:09:09.522] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[04May2025 22:09:09.523] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[04May2025 22:09:09.523] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[04May2025 22:09:09.524] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[04May2025 22:09:09.542] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[04May2025 22:09:10.035] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[04May2025 22:09:10.317] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
+[04May2025 22:09:10.507] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[04May2025 22:09:10.778] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
+[04May2025 22:09:11.270] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
+[04May2025 22:09:11.773] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
+[04May2025 22:09:12.268] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 99%
+[04May2025 22:09:12.443] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 9188 ms
+[04May2025 22:09:12.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.171s)! For help, type "help"
+[04May2025 22:09:12.529] [Server thread/INFO] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: HELLO from server starting
+[04May2025 22:09:23.026] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@42b0d2f4
+[04May2025 22:09:23.058] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KevinCrax[/127.183.80.232:44385] logged in with entity id 523 at (-348.2588306167255, 60.314106711630124, 554.7366814430247)
+[04May2025 22:09:23.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax joined the game
+[04May2025 22:09:23.301] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: java.io.FileNotFoundException: config/theabyss2.json (No such file or directory)
+[04May2025 22:09:23.302] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.open0(Native Method)
+[04May2025 22:09:23.302] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+[04May2025 22:09:23.303] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+[04May2025 22:09:23.304] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileReader.<init>(FileReader.java:75)
+[04May2025 22:09:23.304] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.yezon.theabyss.procedures.ReadConfigFileProcedure.executeProcedure(ReadConfigFileProcedure.java:50)
+[04May2025 22:09:23.305] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.yezon.theabyss.procedures.ReadConfigFileProcedure$GlobalTrigger.onPlayerLoggedIn(ReadConfigFileProcedure.java:36)
+[04May2025 22:09:23.305] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.ASMEventHandler_903_GlobalTrigger_onPlayerLoggedIn_PlayerLoggedInEvent.invoke(.dynamic)
+[04May2025 22:09:23.306] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[04May2025 22:09:23.307] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[04May2025 22:09:23.308] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[04May2025 22:09:23.310] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.firePlayerLoggedIn(BasicEventHooks.java:30)
+[04May2025 22:09:23.310] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.management.PlayerList.func_72355_a(PlayerList.java:232)
+[04May2025 22:09:23.310] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.login.ServerLoginNetHandler.func_147326_c(ServerLoginNetHandler.java:118)
+[04May2025 22:09:23.312] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.login.ServerLoginNetHandler.func_73660_a(ServerLoginNetHandler.java:65)
+[04May2025 22:09:23.313] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:222)
+[04May2025 22:09:23.313] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[04May2025 22:09:23.313] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[04May2025 22:09:23.314] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[04May2025 22:09:23.314] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[04May2025 22:09:23.315] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[04May2025 22:09:23.315] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[04May2025 22:09:23.316] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[04May2025 22:09:23.441] [Thread-15/INFO] [com.lycanitesmobs.LycanitesMobs/]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 59c9e25f-7c7f-386b-aa38-a9952379eda5.
+[04May2025 22:10:11.758] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@19124b20
+[04May2025 22:10:11.768] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Lea_Matt[/127.124.183.88:40337] logged in with entity id 959 at (211.72381278197992, 14.0, -970.1862277042807)
+[04May2025 22:10:11.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt joined the game
+[04May2025 22:10:11.807] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: java.io.FileNotFoundException: config/theabyss2.json (No such file or directory)
+[04May2025 22:10:11.807] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.open0(Native Method)
+[04May2025 22:10:11.808] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+[04May2025 22:10:11.808] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+[04May2025 22:10:11.808] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileReader.<init>(FileReader.java:75)
+[04May2025 22:10:11.809] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.yezon.theabyss.procedures.ReadConfigFileProcedure.executeProcedure(ReadConfigFileProcedure.java:50)
+[04May2025 22:10:11.809] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.yezon.theabyss.procedures.ReadConfigFileProcedure$GlobalTrigger.onPlayerLoggedIn(ReadConfigFileProcedure.java:36)
+[04May2025 22:10:11.810] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.ASMEventHandler_903_GlobalTrigger_onPlayerLoggedIn_PlayerLoggedInEvent.invoke(.dynamic)
+[04May2025 22:10:11.810] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[04May2025 22:10:11.811] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[04May2025 22:10:11.811] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[04May2025 22:10:11.811] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.firePlayerLoggedIn(BasicEventHooks.java:30)
+[04May2025 22:10:11.812] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.management.PlayerList.func_72355_a(PlayerList.java:232)
+[04May2025 22:10:11.812] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.login.ServerLoginNetHandler.func_147326_c(ServerLoginNetHandler.java:118)
+[04May2025 22:10:11.813] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.login.ServerLoginNetHandler.func_73660_a(ServerLoginNetHandler.java:65)
+[04May2025 22:10:11.814] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:222)
+[04May2025 22:10:11.814] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[04May2025 22:10:11.814] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[04May2025 22:10:11.815] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[04May2025 22:10:11.815] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[04May2025 22:10:11.815] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[04May2025 22:10:11.816] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[04May2025 22:10:11.816] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[04May2025 22:10:11.882] [Thread-18/INFO] [com.lycanitesmobs.LycanitesMobs/]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for ece0ef0f-b99a-37a6-8c95-cbfbe03b5272.
+[04May2025 22:10:19.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> que troste
+[04May2025 22:10:20.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> ahora
+[04May2025 22:10:21.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> no hay musica
+[04May2025 22:10:37.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: The difficulty has been set to Easy]
+[04May2025 22:10:37.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3279ms or 65 ticks behind
+[04May2025 22:12:08.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> yo escucho el bello sonido del juego
+[04May2025 22:12:21.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> o sea..
+[04May2025 22:12:27.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> yo tambien escucho el sonido del juego y eso pero
+[04May2025 22:12:31.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> no hay musica
+[04May2025 22:12:43.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Set sanity to 100.0 for 2 players]
+[04May2025 22:12:44.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Killed 59 entities]
+[04May2025 22:13:09.419] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: KevinCrax moved too quickly! -9.540722608969645,3.461708447359797,-1.4556413598047016
+[04May2025 22:15:05.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Set sanity to 100.0 for 2 players]
+[04May2025 22:15:45.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Set sanity to 100.0 for 2 players]
+[04May2025 22:16:49.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Set sanity to 100.0 for 2 players]
+[04May2025 22:17:22.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Set sanity to 100.0 for 2 players]
+[04May2025 22:17:31.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Set sanity to 100.0 for 2 players]
+[04May2025 22:18:08.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> como vas?
+[04May2025 22:18:12.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> matando bichos
+[04May2025 22:18:17.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> me tengo que regresar a casa defintiivamente
+[04May2025 22:18:35.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> o sea..
+[04May2025 22:18:39.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> podria quedarme mas tiempo
+[04May2025 22:18:43.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> pero me gustaria dejar mis items
+[04May2025 22:18:47.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt has made the advancement [Loran Loran Loran!]
+[04May2025 22:19:11.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt has made the advancement [Magical Musical!]
+[04May2025 22:19:11.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt has made the advancement [Forget mana, somnium is better!]
+[04May2025 22:19:22.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ya hiciste el coso
+[04May2025 22:19:28.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> del somnium
+[04May2025 22:19:30.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> chi UwU
+[04May2025 22:19:32.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> en ese coso de
+[04May2025 22:19:34.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> que hice
+[04May2025 22:19:34.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> se
+[04May2025 22:20:35.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> Que hace?
+[04May2025 22:20:45.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Set sanity to 100.0 for 2 players]
+[04May2025 22:20:46.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> que cosa
+[04May2025 22:21:01.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> lo que arme?
+[04May2025 22:21:14.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> el somnium ?
+[04May2025 22:21:53.192] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/6487, l='ServerLevel[World]', x=-313.48, y=65.96, z=586.56]
+[04May2025 22:22:08.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> aqui vine
+[04May2025 22:22:13.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Set sanity to 100.0 for 2 players]
+[04May2025 22:22:21.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ola
+[04May2025 22:22:41.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> arena
+[04May2025 22:23:34.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Lea_Matt> arenita
+[04May2025 22:23:59.757] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-346, y=60, z=557} BlockPos{x=-347, y=59, z=557}
+[04May2025 22:25:12.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ojito
+[04May2025 22:25:14.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> tengo
+[04May2025 22:25:16.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> BOTELLAS RARAS
+[04May2025 22:25:49.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> oie
+[04May2025 22:26:06.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> LEA
+[04May2025 22:26:07.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> XD
+[04May2025 22:26:37.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> LEAA
+[04May2025 22:26:57.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> estas bien sorda o como XD
+[04May2025 22:27:10.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> LEAAAAAAAAAAAAAAAAA
+[04May2025 22:27:30.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Lea !
+[04May2025 22:27:50.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt was burnt to a crisp whilst fighting KevinCrax
+[04May2025 22:27:50.777] [Server thread/INFO] [tombstone/]: The player Lea_Matt has successfully been saved
+[04May2025 22:27:54.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> te hablé
+[04May2025 22:27:59.144] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lea_Matt lost connection: Disconnected
+[04May2025 22:27:59.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt left the game
+[04May2025 22:28:41.358] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@106650e4
+[04May2025 22:28:41.368] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Lea_Matt[/127.124.183.88:40367] logged in with entity id 8181 at (-262.30000001192093, 68.875, 586.3000000119209)
+[04May2025 22:28:41.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt joined the game
+[04May2025 22:28:41.380] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: java.io.FileNotFoundException: config/theabyss2.json (No such file or directory)
+[04May2025 22:28:41.381] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.open0(Native Method)
+[04May2025 22:28:41.381] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+[04May2025 22:28:41.381] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+[04May2025 22:28:41.381] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.io.FileReader.<init>(FileReader.java:75)
+[04May2025 22:28:41.382] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.yezon.theabyss.procedures.ReadConfigFileProcedure.executeProcedure(ReadConfigFileProcedure.java:50)
+[04May2025 22:28:41.382] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.yezon.theabyss.procedures.ReadConfigFileProcedure$GlobalTrigger.onPlayerLoggedIn(ReadConfigFileProcedure.java:36)
+[04May2025 22:28:41.382] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.ASMEventHandler_903_GlobalTrigger_onPlayerLoggedIn_PlayerLoggedInEvent.invoke(.dynamic)
+[04May2025 22:28:41.382] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[04May2025 22:28:41.382] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[04May2025 22:28:41.382] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[04May2025 22:28:41.383] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraftforge.fml.hooks.BasicEventHooks.firePlayerLoggedIn(BasicEventHooks.java:30)
+[04May2025 22:28:41.383] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.management.PlayerList.func_72355_a(PlayerList.java:232)
+[04May2025 22:28:41.383] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.login.ServerLoginNetHandler.func_147326_c(ServerLoginNetHandler.java:118)
+[04May2025 22:28:41.383] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.login.ServerLoginNetHandler.func_73660_a(ServerLoginNetHandler.java:65)
+[04May2025 22:28:41.383] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:222)
+[04May2025 22:28:41.384] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134)
+[04May2025 22:28:41.384] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:865)
+[04May2025 22:28:41.384] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[04May2025 22:28:41.384] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[04May2025 22:28:41.384] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[04May2025 22:28:41.384] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[04May2025 22:28:41.384] [Server thread/INFO] [STDERR/]: [net.yezon.theabyss.procedures.ReadConfigFileProcedure:executeProcedure:116]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[04May2025 22:28:52.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> bien sorda estabas
+[04May2025 22:28:52.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> XD
+[04May2025 22:29:15.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> te estaba hablando
+[04May2025 22:29:26.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ni pio dijiste
+[04May2025 22:29:30.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> me siento ignorado ;-;
+[04May2025 22:29:44.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinCrax: Set sanity to 100.0 for 2 players]
+[04May2025 22:29:45.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> tipo
+[04May2025 22:29:48.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Minimo dime
+[04May2025 22:29:48.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> que
+[04May2025 22:30:27.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Lea .-.
+[04May2025 22:31:31.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> LEAAAAAAA
+[04May2025 22:31:37.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> me oyes ?
+[04May2025 22:31:39.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> o no me vees
+[04May2025 22:31:43.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> o te da tanta pereza minimo decir
+[04May2025 22:31:43.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> qué
+[04May2025 22:32:19.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> *bueno algun dia
+[04May2025 22:33:09.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt was slain by KevinCrax
+[04May2025 22:33:09.199] [Server thread/INFO] [tombstone/]: The player Lea_Matt has successfully been saved
+[04May2025 22:33:13.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> WTF
+[04May2025 22:33:19.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> EL DISCO REBOTO
+[04May2025 22:33:20.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> JASKSAJKKSJAJKSA
+[04May2025 22:33:23.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> NI TE GOLPEÉ
+[04May2025 22:33:33.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> WTF EL DISCO
+[04May2025 22:33:38.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Es como una motosierra en el aire
+[04May2025 22:33:39.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> que bestia
+[04May2025 22:34:11.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> oye Lea me oyes ?
+[04May2025 22:34:12.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> di algo
+[04May2025 22:34:36.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> LEaaaa
+[04May2025 22:35:30.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt was slain by KevinCrax
+[04May2025 22:35:30.945] [Server thread/INFO] [tombstone/]: The player Lea_Matt has successfully been saved
+[04May2025 22:35:39.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> se nota el 50% más de daño por cada rebote
+[04May2025 22:35:41.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Lea me oyes ?
+[04May2025 22:35:46.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> o por que te quedas ahi
+[04May2025 22:35:47.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> no te entiendo
+[04May2025 22:35:57.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> Lea ?
+[04May2025 22:36:13.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> LEEEAaaAAAAAaaa
+[04May2025 22:36:31.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> LEA
+[04May2025 22:36:38.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt was slain by KevinCrax
+[04May2025 22:36:38.546] [Server thread/INFO] [tombstone/]: The player Lea_Matt has successfully been saved
+[04May2025 22:36:49.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> LEA PERO QUE TE PASA
+[04May2025 22:36:52.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> EN SERIO ESTAS BIEN RARA
+[04May2025 22:37:18.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> LEa si dijeras algo
+[04May2025 22:37:34.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ok sabes que
+[04May2025 22:37:35.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KevinCrax> ya
+[04May2025 22:37:37.043] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: KevinCrax lost connection: Disconnected
+[04May2025 22:37:37.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinCrax left the game
+[04May2025 22:37:48.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[04May2025 22:37:48.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04May2025 22:37:48.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04May2025 22:37:48.699] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lea_Matt lost connection: Server closed
+[04May2025 22:37:48.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lea_Matt left the game
+[04May2025 22:37:48.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04May2025 22:37:48.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/minecraft:overworld
+[04May2025 22:37:49.261] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04May2025 22:37:49.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/minecraft:the_nether
+[04May2025 22:37:49.263] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04May2025 22:37:49.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/minecraft:the_end
+[04May2025 22:37:49.264] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04May2025 22:37:49.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/theabyss:dream
+[04May2025 22:37:49.265] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (dream): All chunks are saved
+[04May2025 22:37:49.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/theabyss:the_abyss
+[04May2025 22:37:49.268] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[04May2025 22:37:49.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/theabyss:radio
+[04May2025 22:37:49.269] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (radio): All chunks are saved
+[04May2025 22:37:49.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/theabyss:ground_lands
+[04May2025 22:37:49.271] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (ground_lands): All chunks are saved
+[04May2025 22:37:49.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/theabyss:frost_world
+[04May2025 22:37:49.274] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (frost_world): All chunks are saved
+[04May2025 22:37:49.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/undergarden:undergarden
+[04May2025 22:37:49.276] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[04May2025 22:37:49.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[World]'/theabyss:pocket_dimension
+[04May2025 22:37:49.277] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[04May2025 22:37:49.325] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04May2025 22:37:49.348] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04May2025 22:37:49.349] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04May2025 22:37:49.349] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (dream): All chunks are saved
+[04May2025 22:37:49.350] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[04May2025 22:37:49.355] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (radio): All chunks are saved
+[04May2025 22:37:49.355] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (ground_lands): All chunks are saved
+[04May2025 22:37:49.356] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (frost_world): All chunks are saved
+[04May2025 22:37:49.356] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[04May2025 22:37:49.357] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
