@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-06 04:33:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-09 23:59:39 +0000"
@@ -452,6 +458,12 @@
   "undergarden:recipes/undergarden_group/chiseled_depthrock_bricks_stonecutting": {
     "criteria": {
       "has_undergarden:depthrock": "2025-04-15 23:42:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-05-06 03:12:57 +0000"
     },
     "done": true
   },
@@ -1051,6 +1063,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/disenchanter": {
+    "criteria": {
+      "coded_trigger": "2025-05-06 02:17:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-04-13 20:07:44 +0000"
@@ -1066,6 +1084,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-13 20:16:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-05-06 03:14:33 +0000"
     },
     "done": true
   },
@@ -1138,6 +1162,12 @@
   "theabyss:aboranys_ore_adv": {
     "criteria": {
       "aboranys_ore_adv": "2025-05-04 21:32:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-05-06 02:19:36 +0000"
     },
     "done": true
   },
@@ -1436,6 +1466,12 @@
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-04-11 01:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-05-06 04:37:37 +0000"
     },
     "done": true
   },
@@ -2132,6 +2168,12 @@
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-16 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/knowledge_wasted": {
+    "criteria": {
+      "coded_trigger": "2025-05-06 02:26:02 +0000"
     },
     "done": true
   },
@@ -3027,6 +3069,7 @@
       "flower_meadow": "2025-04-10 03:03:37 +0000",
       "meadow_forest": "2025-04-10 03:03:22 +0000",
       "cold_desert": "2025-04-14 00:18:54 +0000",
+      "wooded_scrubland": "2025-05-06 04:38:01 +0000",
       "tundra_bog": "2025-04-13 22:37:20 +0000",
       "orchard": "2025-04-15 00:52:23 +0000",
       "snowy_maple_forest": "2025-04-11 02:33:17 +0000",
@@ -3179,6 +3222,7 @@
     "criteria": {
       "in_mineshaft_warped": "2025-04-16 02:04:05 +0000",
       "in_mineshaft_crimson": "2025-04-14 02:46:55 +0000",
+      "in_mineshaft_taiga": "2025-05-06 02:54:19 +0000",
       "in_mineshaft_nether": "2025-04-14 02:46:50 +0000"
     },
     "done": false
@@ -3214,6 +3258,7 @@
       "minecraft:skeleton": "2025-04-10 00:04:04 +0000",
       "minecraft:ghast": "2025-04-14 02:18:41 +0000",
       "minecraft:hoglin": "2025-04-14 02:47:56 +0000",
+      "minecraft:vindicator": "2025-05-06 04:35:33 +0000",
       "minecraft:magma_cube": "2025-04-14 01:27:39 +0000",
       "minecraft:spider": "2025-04-10 02:16:17 +0000",
       "minecraft:creeper": "2025-04-10 00:08:17 +0000",
@@ -3224,10 +3269,12 @@
       "minecraft:witch": "2025-04-10 04:16:43 +0000",
       "minecraft:wither_skeleton": "2025-04-13 19:10:59 +0000",
       "minecraft:husk": "2025-04-10 02:34:52 +0000",
+      "minecraft:ender_dragon": "2025-05-06 03:12:57 +0000",
       "minecraft:cave_spider": "2025-04-13 19:14:54 +0000",
       "minecraft:piglin": "2025-04-14 01:38:36 +0000",
       "minecraft:enderman": "2025-04-10 02:08:39 +0000",
       "minecraft:stray": "2025-04-10 23:43:27 +0000",
+      "minecraft:silverfish": "2025-05-06 02:44:33 +0000",
       "minecraft:zombie": "2025-04-10 00:49:17 +0000",
       "minecraft:drowned": "2025-04-18 17:55:32 +0000",
       "minecraft:zombie_villager": "2025-04-10 23:04:47 +0000"
@@ -3390,6 +3437,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-05-06 02:41:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
     "criteria": {
       "has_light_gray_dye": "2025-04-13 20:14:40 +0000"
@@ -3423,6 +3476,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-04-10 23:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-05-06 03:04:42 +0000"
     },
     "done": true
   },
@@ -4438,6 +4497,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_reach": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-06 02:46:52 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/utheric_hoe": {
     "criteria": {
       "has_utherium_ingot": "2025-04-16 00:37:21 +0000"
@@ -4489,6 +4554,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-10 02:33:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-06 04:33:28 +0000"
     },
     "done": true
   },
@@ -4780,6 +4851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-06 04:33:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-04-10 01:41:34 +0000"
@@ -5062,6 +5139,12 @@
     },
     "done": true
   },
+  "inventorypets:10": {
+    "criteria": {
+      "example": "2025-05-06 04:38:58 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/cloggrum_hoe": {
     "criteria": {
       "has_cloggrum_ingot": "2025-04-16 00:37:21 +0000"
@@ -5161,6 +5244,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-04-10 02:42:37 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:brewingstand": {
+    "criteria": {
+      "crafting_table": "2025-05-06 04:38:58 +0000"
     },
     "done": true
   },
@@ -5329,6 +5418,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-10 02:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-05-06 03:04:42 +0000"
     },
     "done": true
   },
