@@ -1,40 +1,40 @@
-[07Jun2025 19:20:37.725] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
-[07Jun2025 19:20:37.728] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[07Jun2025 19:20:38.477] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Newiwd/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[07Jun2025 19:20:38.832] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Newiwd/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
-[07Jun2025 19:20:38.835] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Newiwd/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[07Jun2025 19:20:38.837] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Newiwd/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[07Jun2025 19:20:38.838] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Newiwd/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[07Jun2025 19:20:39.010] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
-[07Jun2025 19:20:40.658] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[07Jun2025 19:20:40.715] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[07Jun2025 19:20:40.779] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[07Jun2025 19:20:41.011] [main/WARN] [mixin/]: Error loading class: tfar/davespotioneering/blockentity/AdvancedBrewingStandBlockEntity (java.lang.ClassNotFoundException: tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity)
-[07Jun2025 19:20:41.012] [main/WARN] [mixin/]: @Mixin target tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity was not found itemproductionlib.mixins.json:davespotioneering/AdvancedBrewingStandBlockEntityMixin
-[07Jun2025 19:20:41.014] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/entity/CookingPotBlockEntity (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity)
-[07Jun2025 19:20:41.014] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity was not found itemproductionlib.mixins.json:farmersdelight/CookingPotBlockEntityMixin
-[07Jun2025 19:20:41.016] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/entity/StoveBlockEntity (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.entity.StoveBlockEntity)
-[07Jun2025 19:20:41.016] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.entity.StoveBlockEntity was not found itemproductionlib.mixins.json:farmersdelight/StoveBlockEntityMixin
-[07Jun2025 19:20:41.017] [main/WARN] [mixin/]: Error loading class: fuzs/visualworkbench/world/inventory/ModCraftingMenu (java.lang.ClassNotFoundException: fuzs.visualworkbench.world.inventory.ModCraftingMenu)
-[07Jun2025 19:20:41.018] [main/WARN] [mixin/]: @Mixin target fuzs.visualworkbench.world.inventory.ModCraftingMenu was not found itemproductionlib.mixins.json:visualworkbench/ModCraftingMenuMixin
-[07Jun2025 19:20:41.491] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.1).
-[07Jun2025 19:20:46.559] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[07Jun2025 19:20:50.720] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[07Jun2025 19:20:50.965] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loading config: /workspaces/Newiwd/servidor_minecraft/config/illageandspillage-client.toml
-[07Jun2025 19:20:50.968] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Built config: /workspaces/Newiwd/servidor_minecraft/config/illageandspillage-client.toml
-[07Jun2025 19:20:50.969] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loaded config: /workspaces/Newiwd/servidor_minecraft/config/illageandspillage-client.toml
-[07Jun2025 19:20:50.970] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loading config: /workspaces/Newiwd/servidor_minecraft/config/illageandspillage-common.toml
-[07Jun2025 19:20:50.972] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Built config: /workspaces/Newiwd/servidor_minecraft/config/illageandspillage-common.toml
-[07Jun2025 19:20:50.975] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loaded config: /workspaces/Newiwd/servidor_minecraft/config/illageandspillage-common.toml
-[07Jun2025 19:20:50.995] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
-[07Jun2025 19:20:50.995] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
-[07Jun2025 19:20:52.706] [Thread-0/FATAL] [mcjty.theoneprobe.TheOneProbe/CORE]: theoneprobe config just got changed on the file system!
-[07Jun2025 19:20:52.708] [Thread-0/FATAL] [mcjty.theoneprobe.TheOneProbe/CORE]: theoneprobe config just got changed on the file system!
-[07Jun2025 19:20:52.742] [Thread-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/]: Exception caught during firing event: 'void com.corosus.modconfig.ConfigMod.onReload(net.minecraftforge.fml.event.config.ModConfigEvent$Reloading)'
+[12Jun2025 02:17:28.352] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
+[12Jun2025 02:17:28.357] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[12Jun2025 02:17:30.180] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Newiwd/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[12Jun2025 02:17:30.918] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Newiwd/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[12Jun2025 02:17:30.921] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Newiwd/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[12Jun2025 02:17:30.923] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Newiwd/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[12Jun2025 02:17:30.925] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Newiwd/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[12Jun2025 02:17:31.328] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[12Jun2025 02:17:33.876] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[12Jun2025 02:17:33.948] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[12Jun2025 02:17:34.012] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[12Jun2025 02:17:34.469] [main/WARN] [mixin/]: Error loading class: tfar/davespotioneering/blockentity/AdvancedBrewingStandBlockEntity (java.lang.ClassNotFoundException: tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity)
+[12Jun2025 02:17:34.469] [main/WARN] [mixin/]: @Mixin target tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity was not found itemproductionlib.mixins.json:davespotioneering/AdvancedBrewingStandBlockEntityMixin
+[12Jun2025 02:17:34.470] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/entity/CookingPotBlockEntity (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity)
+[12Jun2025 02:17:34.471] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity was not found itemproductionlib.mixins.json:farmersdelight/CookingPotBlockEntityMixin
+[12Jun2025 02:17:34.474] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/entity/StoveBlockEntity (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.entity.StoveBlockEntity)
+[12Jun2025 02:17:34.474] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.entity.StoveBlockEntity was not found itemproductionlib.mixins.json:farmersdelight/StoveBlockEntityMixin
+[12Jun2025 02:17:34.476] [main/WARN] [mixin/]: Error loading class: fuzs/visualworkbench/world/inventory/ModCraftingMenu (java.lang.ClassNotFoundException: fuzs.visualworkbench.world.inventory.ModCraftingMenu)
+[12Jun2025 02:17:34.479] [main/WARN] [mixin/]: @Mixin target fuzs.visualworkbench.world.inventory.ModCraftingMenu was not found itemproductionlib.mixins.json:visualworkbench/ModCraftingMenuMixin
+[12Jun2025 02:17:35.209] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.1).
+[12Jun2025 02:17:42.055] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[12Jun2025 02:17:47.089] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[12Jun2025 02:17:47.293] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loading config: /workspaces/Newiwd/servidor_minecraft/config/illageandspillage-client.toml
+[12Jun2025 02:17:47.298] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Built config: /workspaces/Newiwd/servidor_minecraft/config/illageandspillage-client.toml
+[12Jun2025 02:17:47.300] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loaded config: /workspaces/Newiwd/servidor_minecraft/config/illageandspillage-client.toml
+[12Jun2025 02:17:47.302] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loading config: /workspaces/Newiwd/servidor_minecraft/config/illageandspillage-common.toml
+[12Jun2025 02:17:47.302] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Built config: /workspaces/Newiwd/servidor_minecraft/config/illageandspillage-common.toml
+[12Jun2025 02:17:47.308] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loaded config: /workspaces/Newiwd/servidor_minecraft/config/illageandspillage-common.toml
+[12Jun2025 02:17:47.320] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[12Jun2025 02:17:47.321] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[12Jun2025 02:17:49.609] [Thread-0/FATAL] [mcjty.theoneprobe.TheOneProbe/CORE]: theoneprobe config just got changed on the file system!
+[12Jun2025 02:17:49.611] [Thread-0/FATAL] [mcjty.theoneprobe.TheOneProbe/CORE]: theoneprobe config just got changed on the file system!
+[12Jun2025 02:17:49.639] [Thread-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/]: Exception caught during firing event: 'void com.corosus.modconfig.ConfigMod.onReload(net.minecraftforge.fml.event.config.ModConfigEvent$Reloading)'
 	Index: 1
 	Listeners:
 		0: NORMAL
-		1: net.minecraftforge.eventbus.EventBus$$Lambda$4307/0x00007a2040a2d040@167e0293
+		1: net.minecraftforge.eventbus.EventBus$$Lambda$4309/0x00007c90b8a2d270@5fd9ecda
 java.lang.NoSuchMethodError: 'void com.corosus.modconfig.ConfigMod.onReload(net.minecraftforge.fml.event.config.ModConfigEvent$Reloading)'
 	at TRANSFORMER/zombieawareness@1.19.2-1.12.3/com.corosus.zombieawareness.ZombieAwareness.onReload(ZombieAwareness.java:69)
 	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260)
@@ -49,42 +49,42 @@ java.lang.NoSuchMethodError: 'void com.corosus.modconfig.ConfigMod.onReload(net.
 	at LAYER PLUGIN/fmlcore@1.19.2-43.4.2/net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigWatcher.run(ConfigFileTypeHandler.java:147)
 	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread.run(FileWatcher.java:181)
 
-[07Jun2025 19:20:52.857] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Starting version check at https://raw.githubusercontent.com/MrCrayfish/ModUpdates/master/cgm/update.json
-[07Jun2025 19:20:52.923] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:aiming for minecraft:player
-[07Jun2025 19:20:52.924] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:reloading for minecraft:player
-[07Jun2025 19:20:52.924] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:shooting for minecraft:player
-[07Jun2025 19:20:52.929] [main/INFO] [journeymap/]: Initializing Packet Registries
-[07Jun2025 19:20:52.986] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Found status: BETA Current: 1.3.7 Target: null
-[07Jun2025 19:20:52.986] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
-[07Jun2025 19:20:52.990] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[07Jun2025 19:20:52.990] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[07Jun2025 19:20:52.991] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[07Jun2025 19:20:52.991] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[07Jun2025 19:20:53.002] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: AHEAD Current: 1.9.9-backport.1 Target: null
-[07Jun2025 19:20:53.002] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.19.2
-[07Jun2025 19:20:53.050] [modloading-worker-0/INFO] [tombstone/]: Integration TOP
-[07Jun2025 19:20:53.052] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
-[07Jun2025 19:20:53.062] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
-[07Jun2025 19:20:53.063] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
-[07Jun2025 19:20:53.066] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 45 compatible attributes.
-[07Jun2025 19:20:53.078] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 45 values from config.
-[07Jun2025 19:20:53.094] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 45 entries.
-[07Jun2025 19:20:53.094] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 45 attributes.
-[07Jun2025 19:20:53.406] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 17.2.8 Target: 17.2.8
-[07Jun2025 19:20:53.406] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsaccessories] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Accessories/update.json
-[07Jun2025 19:20:53.424] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsaccessories] Found status: AHEAD Current: 1.5.2-backport.2 Target: null
-[07Jun2025 19:20:53.426] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[07Jun2025 19:20:53.583] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.8 Target: null
-[07Jun2025 19:20:53.584] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[07Jun2025 19:20:53.638] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 8.2.39 Target: 8.2.40
-[07Jun2025 19:20:53.639] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalguns] Starting version check at https://raw.githubusercontent.com/HaloOfBlocks/VersionChecker/main/additionalguns/update.json
-[07Jun2025 19:20:53.650] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalguns] Found status: BETA Current: 0.8.2 Target: 0.8.2
-[07Jun2025 19:20:53.651] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[07Jun2025 19:20:53.661] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.2.16 Target: 8.3.7
-[07Jun2025 19:20:53.662] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [biomancy] Starting version check at https://api.modrinth.com/updates/uAAuyU4M/forge_updates.json
-[07Jun2025 19:20:53.829] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [biomancy] Found status: BETA Current: 2.3.2.0 Target: 2.3.2.0
-[07Jun2025 19:20:53.830] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[07Jun2025 19:20:53.991] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[12Jun2025 02:17:49.917] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Starting version check at https://raw.githubusercontent.com/MrCrayfish/ModUpdates/master/cgm/update.json
+[12Jun2025 02:17:49.940] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:aiming for minecraft:player
+[12Jun2025 02:17:49.943] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:reloading for minecraft:player
+[12Jun2025 02:17:49.943] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:shooting for minecraft:player
+[12Jun2025 02:17:49.957] [main/INFO] [journeymap/]: Initializing Packet Registries
+[12Jun2025 02:17:50.087] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[12Jun2025 02:17:50.091] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[12Jun2025 02:17:50.092] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[12Jun2025 02:17:50.092] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[12Jun2025 02:17:50.112] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Found status: BETA Current: 1.3.7 Target: null
+[12Jun2025 02:17:50.112] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
+[12Jun2025 02:17:50.123] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: AHEAD Current: 1.9.9-backport.1 Target: null
+[12Jun2025 02:17:50.123] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.19.2
+[12Jun2025 02:17:50.156] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[12Jun2025 02:17:50.157] [modloading-worker-0/INFO] [tombstone/]: Integration TOP
+[12Jun2025 02:17:50.173] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[12Jun2025 02:17:50.176] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[12Jun2025 02:17:50.176] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 45 compatible attributes.
+[12Jun2025 02:17:50.187] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 45 values from config.
+[12Jun2025 02:17:50.207] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 45 entries.
+[12Jun2025 02:17:50.207] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 45 attributes.
+[12Jun2025 02:17:50.501] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 17.2.8 Target: 17.2.8
+[12Jun2025 02:17:50.502] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsaccessories] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Accessories/update.json
+[12Jun2025 02:17:50.512] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsaccessories] Found status: AHEAD Current: 1.5.2-backport.2 Target: null
+[12Jun2025 02:17:50.512] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[12Jun2025 02:17:50.606] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 5.9.8 Target: null
+[12Jun2025 02:17:50.606] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[12Jun2025 02:17:50.689] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 8.2.39 Target: 8.2.40
+[12Jun2025 02:17:50.691] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalguns] Starting version check at https://raw.githubusercontent.com/HaloOfBlocks/VersionChecker/main/additionalguns/update.json
+[12Jun2025 02:17:50.754] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalguns] Found status: BETA Current: 0.8.2 Target: 0.8.2
+[12Jun2025 02:17:50.755] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[12Jun2025 02:17:50.768] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.2.16 Target: 8.3.7
+[12Jun2025 02:17:50.769] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [biomancy] Starting version check at https://api.modrinth.com/updates/uAAuyU4M/forge_updates.json
+[12Jun2025 02:17:50.912] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [biomancy] Found status: BETA Current: 2.3.2.0 Target: 2.3.2.0
+[12Jun2025 02:17:50.912] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[12Jun2025 02:17:51.077] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
@@ -99,16 +99,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
 	... 6 more
-[07Jun2025 19:20:53.992] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[07Jun2025 19:20:54.192] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.5.0
-[07Jun2025 19:20:54.192] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ultris_mr] Starting version check at https://api.modrinth.com/updates/tA7mQv7R/forge_updates.json
-[07Jun2025 19:20:54.242] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ultris_mr] Found status: OUTDATED Current: 5.6.7f Target: 5.6.7g+mod
-[07Jun2025 19:20:54.242] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
-[07Jun2025 19:20:54.252] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.5-backport.1 Target: null
-[07Jun2025 19:20:54.538] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[07Jun2025 19:20:55.616] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Newiwd/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23171!/assets/.mcassetsroot' uses unexpected schema
-[07Jun2025 19:20:55.616] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Newiwd/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23171!/data/.mcassetsroot' uses unexpected schema
-[07Jun2025 19:21:00.589] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:compacting/packed_flesh_block_from_flesh_bits
+[12Jun2025 02:17:51.078] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[12Jun2025 02:17:51.271] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.5.0
+[12Jun2025 02:17:51.271] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ultris_mr] Starting version check at https://api.modrinth.com/updates/tA7mQv7R/forge_updates.json
+[12Jun2025 02:17:51.348] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ultris_mr] Found status: OUTDATED Current: 5.6.7f Target: 5.6.7g+mod
+[12Jun2025 02:17:51.350] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
+[12Jun2025 02:17:51.367] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.5-backport.1 Target: null
+[12Jun2025 02:17:52.106] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12Jun2025 02:17:53.034] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Newiwd/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23171!/assets/.mcassetsroot' uses unexpected schema
+[12Jun2025 02:17:53.035] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Newiwd/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23171!/data/.mcassetsroot' uses unexpected schema
+[12Jun2025 02:18:00.188] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:compacting/packed_flesh_block_from_flesh_bits
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:compacting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23171!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -135,7 +135,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[07Jun2025 19:21:00.591] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
+[12Jun2025 02:18:00.192] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
 com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:275) ~[server-1.19.2-20220805.130853-srg.jar%23171!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -171,7 +171,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[07Jun2025 19:21:00.603] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:compacting/malignant_flesh_block_from_veins
+[12Jun2025 02:18:00.213] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:compacting/malignant_flesh_block_from_veins
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:compacting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23171!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -198,7 +198,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[07Jun2025 19:21:00.615] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:compacting/flesh_block_from_flesh_bits
+[12Jun2025 02:18:00.235] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:compacting/flesh_block_from_flesh_bits
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:compacting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23171!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -225,7 +225,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[07Jun2025 19:21:00.618] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:compacting/packed_flesh_block_from_flesh_blocks
+[12Jun2025 02:18:00.239] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:compacting/packed_flesh_block_from_flesh_blocks
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:compacting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23171!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -252,407 +252,437 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[07Jun2025 19:21:00.627] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 13 recipes
-[07Jun2025 19:21:01.033] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {arphex:entities/long_legs}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[07Jun2025 19:21:01.033] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {arphex:entities/silverfish_spectre}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[07Jun2025 19:21:01.033] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {arphex:entities/millipede_marauder}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[07Jun2025 19:21:01.033] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {sons_of_sins:entities/prowler}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[07Jun2025 19:21:01.033] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {sons_of_sins:entities/butcher}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[07Jun2025 19:21:01.033] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {sons_of_sins:entities/walking_bed}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[07Jun2025 19:21:01.033] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {sons_of_sins:entities/blud}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[07Jun2025 19:21:01.090] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement majruszsdifficulty:recipes/misc/enderium_upgrade_smithing_template: Unknown item id 'majruszsdifficulty:enderium_upgrade_smithing_template'
-[07Jun2025 19:21:01.195] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2279 advancements
-[07Jun2025 19:21:01.221] [main/WARN] [net.minecraftforge.registries.NamespacedHolderHelper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: 1_splatus:spellbound/hot
-[07Jun2025 19:21:02.048] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 8 milliseconds
-[07Jun2025 19:21:02.051] [main/INFO] [majruszlibrary/]: [majruszsaccessories.json] Reloading configuration file took 3 milliseconds
-[07Jun2025 19:21:02.053] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 0 milliseconds
-[07Jun2025 19:21:02.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
-[07Jun2025 19:21:02.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[07Jun2025 19:21:02.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[07Jun2025 19:21:02.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[07Jun2025 19:21:02.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[07Jun2025 19:21:02.176] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[07Jun2025 19:21:02.252] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[07Jun2025 19:21:02.253] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[07Jun2025 19:21:02.253] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[07Jun2025 19:21:02.253] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[07Jun2025 19:21:02.276] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[07Jun2025 19:21:02.338] [Server thread/INFO] [Framework/]: Loading server configs...
-[07Jun2025 19:21:02.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "WayVabe"
-[07Jun2025 19:21:03.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[07Jun2025 19:21:10.768] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jun2025 19:21:10.792] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jun2025 19:21:10.798] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jun2025 19:21:10.804] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jun2025 19:21:10.813] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jun2025 19:21:10.819] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jun2025 19:21:10.838] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jun2025 19:21:10.856] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jun2025 19:21:10.908] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jun2025 19:21:10.928] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jun2025 19:21:10.940] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jun2025 19:21:10.952] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jun2025 19:21:10.957] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jun2025 19:21:10.968] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jun2025 19:21:10.973] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jun2025 19:21:10.977] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jun2025 19:21:11.370] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jun2025 19:21:11.870] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
-[07Jun2025 19:21:12.307] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8938 ms
-[07Jun2025 19:21:12.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.045s)! For help, type "help"
-[07Jun2025 19:21:12.337] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[07Jun2025 19:21:12.339] [Server thread/INFO] [net.stardustlabs.incendium.Incendium/]: Thanks for choosing Incendium!
-[07Jun2025 19:21:12.371] [Server thread/INFO] [net.stardustlabs.nullscape.Nullscape/]: Thanks for choosing Nullscape!
-[07Jun2025 19:21:12.372] [Server thread/INFO] [net.stardustlabs.terralith.Terralith/]: Thanks for choosing Terralith!
-[07Jun2025 19:21:24.377] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5956fe8c
-[07Jun2025 19:21:24.404] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lea_Matt[/127.41.44.200:41877] logged in with entity id 688 at (-1465.2827345398782, 88.0, 2.459324159918105)
-[07Jun2025 19:21:24.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lea_Matt joined the game
-[07Jun2025 19:21:28.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3743ms or 74 ticks behind
-[07Jun2025 19:22:19.500] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=iron_horse_armor;ID=golden_horse_armor;ID=diamond_horse_armor)@luck=2
-[07Jun2025 19:23:58.710] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4141c317
-[07Jun2025 19:23:58.720] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KevinCrax[/127.164.56.4:40533] logged in with entity id 2804 at (-1848.4855553865634, 102.0, -45.342900274179634)
-[07Jun2025 19:23:58.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KevinCrax joined the game
-[07Jun2025 19:24:01.415] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2641ms or 52 ticks behind
-[07Jun2025 19:24:07.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> aaaaaah
-[07Jun2025 19:24:13.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> YA VINE
-[07Jun2025 19:25:22.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> hmm
-[07Jun2025 19:25:38.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> me peli con muchas cosas
-[07Jun2025 19:25:41.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> QnQ
-[07Jun2025 19:25:46.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> uh ?
-[07Jun2025 19:26:29.057] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Lea_Matt with unique ID da2117c5-1144-45aa-8f2d-80058c824d4d
-[07Jun2025 19:26:29.058] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1259 Y: 53 Z: 18
-[07Jun2025 19:26:29.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lea_Matt drowned
-[07Jun2025 19:26:29.079] [Server thread/INFO] [tombstone/]: The player Lea_Matt has successfully been saved
-[07Jun2025 19:26:32.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Oof
-[07Jun2025 19:26:34.209] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2818, l='ServerLevel[WayVabe]', x=-1844.11, y=82.01, z=-18.12] died: Dinnerbone was shot by Dinnerbone
-[07Jun2025 19:26:36.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> . . .
-[07Jun2025 19:26:51.642] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/2826, l='ServerLevel[WayVabe]', x=-1837.31, y=82.01, z=-18.37] died: Dinnerbone was shot by Dinnerbone
-[07Jun2025 19:26:57.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> una cosa negr me dejo ciega y me pego 5 corazone de una
-[07Jun2025 19:27:04.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> cosa negra.. ?
-[07Jun2025 19:27:16.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> callo un rayo y todo se puso negro
-[07Jun2025 19:27:32.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> salte al agua pero me seguia igual sobre el agua
-[07Jun2025 19:27:33.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> voy a casa
-[07Jun2025 19:27:48.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> Que fue todo eso?w
-[07Jun2025 19:28:35.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ni idea
-[07Jun2025 19:28:53.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> solo pude ver que era algo negro pero no lo pude ver
-[07Jun2025 19:29:15.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lea_Matt was slain by Spider Moth
-[07Jun2025 19:29:15.053] [Server thread/INFO] [tombstone/]: The player Lea_Matt has successfully been saved
-[07Jun2025 19:29:17.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> de seguro era uno de esos bichos del parasiti
-[07Jun2025 19:29:18.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> OH SI
-[07Jun2025 19:29:21.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> SI ES LO QUE DECIA
-[07Jun2025 19:29:23.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ESE ES UN JEFE
-[07Jun2025 19:29:40.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> QUE BONITO BICHITO A QUE SI ?
-[07Jun2025 19:30:13.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> no lo vi en realidad pero ahora lo vi y es como una mosquito gigante?
-[07Jun2025 19:30:21.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Si.
-[07Jun2025 19:30:25.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> fe
-[07Jun2025 19:30:26.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> feo
-[07Jun2025 19:30:33.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lea_Matt was doomed to fall by Foliaath
-[07Jun2025 19:30:33.342] [Server thread/INFO] [tombstone/]: The player Lea_Matt has successfully been saved
-[07Jun2025 19:30:43.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> LA PLANTA
-[07Jun2025 19:30:48.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lea_Matt has reached the goal [Chain Death]
-[07Jun2025 19:30:48.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lea_Matt fell from a high place
-[07Jun2025 19:30:50.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
-[07Jun2025 19:30:50.899] [Server thread/INFO] [tombstone/]: The player Lea_Matt has successfully been saved
-[07Jun2025 19:31:15.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> YENDo
-[07Jun2025 19:33:04.933] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
-[07Jun2025 19:33:11.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> otro castillo de aldeanos malos
-[07Jun2025 19:33:25.971] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=sponge@luck=0
-[07Jun2025 19:34:14.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lea_Matt has made the advancement [The Cutest Predator]
-[07Jun2025 19:34:22.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ??
-[07Jun2025 19:34:24.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Lea te fuiste a las cuevas ?
-[07Jun2025 19:34:34.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> por cierto que paso con el insecto ?
-[07Jun2025 19:34:45.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> no se
-[07Jun2025 19:34:52.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> komo que no save
-[07Jun2025 19:34:55.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> se alejo y tome mis cosas
-[07Jun2025 19:34:59.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> oh
-[07Jun2025 19:35:01.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> donde estaba ?
-[07Jun2025 19:37:00.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Lea
-[07Jun2025 19:37:01.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> donde estas
-[07Jun2025 19:37:48.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> estava en -1254 53 22
-[07Jun2025 19:38:01.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> o sea en cuevas
-[07Jun2025 19:38:09.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> no
-[07Jun2025 19:38:12.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> a
-[07Jun2025 19:38:15.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> en la superficie
-[07Jun2025 19:38:18.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> da igual
-[07Jun2025 19:38:38.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> hasta ahora no encontre ningun lobo o algun animal de estos para obtener los colmillos !
-[07Jun2025 19:39:54.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> llege a casa!
-[07Jun2025 19:40:00.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> bien
-[07Jun2025 19:40:45.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> tu planta comio
-[07Jun2025 19:40:50.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> comio ?
-[07Jun2025 19:40:53.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ah cierto
-[07Jun2025 19:40:54.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> XD
-[07Jun2025 19:41:47.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> perdi un pergamino que encontre XD
-[07Jun2025 19:41:50.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> lo gaste
-[07Jun2025 19:41:50.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> le diste de comer ?
-[07Jun2025 19:41:55.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ??
-[07Jun2025 19:41:57.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> aah
-[07Jun2025 19:41:57.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> si
-[07Jun2025 19:41:58.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> a la planta si
-[07Jun2025 19:42:04.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> okay
-[07Jun2025 19:42:32.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> estaba toda chiquita y le di comida
-[07Jun2025 19:42:35.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> sep
-[07Jun2025 19:43:52.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Cat
-[07Jun2025 19:43:53.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> XD
-[07Jun2025 19:44:55.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> que linda sinfonia
-[07Jun2025 19:45:32.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> hahaha si
-[07Jun2025 19:47:18.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ok
-[07Jun2025 19:47:20.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> no tengo hierro
-[07Jun2025 19:47:20.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> xd
-[07Jun2025 19:47:34.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> hahaha
-[07Jun2025 19:48:11.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ni piedra tengo
-[07Jun2025 19:48:17.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> telible
-[07Jun2025 19:48:33.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> tengo piedra y hierro pero si quieres vamos a la mina
-[07Jun2025 19:48:39.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> quiero...
-[07Jun2025 19:48:41.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> IR AL NETHER CARAJO
-[07Jun2025 19:48:52.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-[07Jun2025 19:48:55.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> mira que tengo
-[07Jun2025 19:49:24.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ah ?
-[07Jun2025 19:49:26.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> oh
-[07Jun2025 19:49:28.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> un ajolote
-[07Jun2025 19:49:28.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> mira que tengo
-[07Jun2025 19:49:34.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ajolote XD
-[07Jun2025 19:49:40.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> chiiii
-[07Jun2025 19:50:31.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KevinCrax has made the advancement [Black or White]
-[07Jun2025 19:50:37.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KevinCrax has reached the goal [A Small Cemetery]
-[07Jun2025 19:53:36.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> YA VINE
-[07Jun2025 19:53:42.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Perdona mis jodidos padres
-[07Jun2025 19:54:24.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Lea ?
-[07Jun2025 19:54:47.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> hay un enderman jefe por aqui
-[07Jun2025 19:55:52.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> no lo veo
-[07Jun2025 19:56:12.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> lo perdi
-[07Jun2025 19:56:16.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> hm..
-[07Jun2025 19:56:49.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> hm..
-[07Jun2025 19:56:51.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> hmmmmmmmmm
-[07Jun2025 19:57:01.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ahora si vamos al enther ?
-[07Jun2025 19:57:07.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> por cierto por que chuchas pusiste un arbol en medio de la casa
-[07Jun2025 19:57:08.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> XD
-[07Jun2025 19:57:30.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> increíble acontecimiento
-[07Jun2025 19:57:40.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ah !, esperate
-[07Jun2025 19:57:53.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> que?
-[07Jun2025 19:58:46.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ok
-[07Jun2025 19:58:55.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> tenbgo suficiente
-[07Jun2025 19:59:13.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> pero nesesitaba las semillas
-[07Jun2025 19:59:19.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ah---
-[07Jun2025 19:59:23.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> perdon
-[07Jun2025 19:59:25.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> no importa
-[07Jun2025 19:59:42.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> nesesitamos roble oscura mas que este
-[07Jun2025 20:00:31.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> tiempo?
-[07Jun2025 20:00:47.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> AJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-[07Jun2025 20:00:56.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> aqui lo dejo
-[07Jun2025 20:01:03.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> voy al nether ahora
-[07Jun2025 20:01:34.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> camos
-[07Jun2025 20:01:38.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> vamos
-[07Jun2025 20:02:01.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> veni
-[07Jun2025 20:02:18.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ay en serio..
-[07Jun2025 20:02:23.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> primero matemoslos
-[07Jun2025 20:02:23.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> dou
-[07Jun2025 20:02:47.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> donde ?
-[07Jun2025 20:04:18.057] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for KevinCrax with unique ID 7b69cd5a-6405-41c9-8181-cc616c113986
-[07Jun2025 20:04:18.058] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1077 Y: 32 Z: -395
-[07Jun2025 20:04:18.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KevinCrax was doomed to fall by Skeleton
-[07Jun2025 20:04:18.060] [Server thread/INFO] [tombstone/]: The player KevinCrax has successfully been saved
-[07Jun2025 20:04:21.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> SU PTMR EN SERIO
-[07Jun2025 20:04:25.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> JUSOT HABIA UNA PUTA COSA DE ESAS DE GRAVA
-[07Jun2025 20:04:26.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> AAAAAA
-[07Jun2025 20:04:36.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> QUE BUENA SUERTE TENGO NO ?
-[07Jun2025 20:04:36.490] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Lea_Matt with unique ID ebe642a8-a389-48c7-9e37-6f89566860d4
-[07Jun2025 20:04:36.491] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1069 Y: 23 Z: -375
-[07Jun2025 20:04:36.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lea_Matt fell from a high place
-[07Jun2025 20:04:36.492] [Server thread/INFO] [tombstone/]: The player Lea_Matt has successfully been saved
-[07Jun2025 20:06:02.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ok putos bichos
-[07Jun2025 20:06:04.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> sabes que
-[07Jun2025 20:06:07.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> los voy a traer a todos aca
-[07Jun2025 20:06:14.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Teleported 261 entities to KevinCrax]
-[07Jun2025 20:07:58.839] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for KevinCrax with unique ID 919d5244-644e-44f4-b9e8-62af08d64644
-[07Jun2025 20:07:58.840] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1087 Y: 28 Z: -377
-[07Jun2025 20:07:58.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KevinCrax was toasted by Pyromancer's flaming breath
-[07Jun2025 20:07:58.844] [Server thread/INFO] [tombstone/]: The player KevinCrax has successfully been saved
-[07Jun2025 20:08:07.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KevinCrax has completed the challenge [Premium!]
-[07Jun2025 20:08:13.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> PERO SI LE DI 2 ESCOPETASOS ENTEROS
-[07Jun2025 20:08:15.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> QUE MRD
-[07Jun2025 20:08:28.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> hahaha
-[07Jun2025 20:08:29.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> LE HICE 112 DE DAÑO WTF
-[07Jun2025 20:08:35.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> TU COMO LO MATASTE ASI DE 2 ESPADITAS
-[07Jun2025 20:08:45.689] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Lea_Matt with unique ID 06a57a28-4b0e-43c1-92df-4da6bc18092f
-[07Jun2025 20:08:45.689] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1066 Y: 31 Z: -391
-[07Jun2025 20:08:45.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lea_Matt was decimated by KevinCrax
-[07Jun2025 20:08:45.723] [Server thread/INFO] [tombstone/]: The player Lea_Matt has successfully been saved
-[07Jun2025 20:08:48.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> MIRA ESE DAÑO WTF
-[07Jun2025 20:08:53.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> como sobrevivio ?!?!
-[07Jun2025 20:08:58.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> porque me matasQnQ
-[07Jun2025 20:09:08.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> O SEA
-[07Jun2025 20:09:09.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> VISTE ESO !?
-[07Jun2025 20:09:19.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Teleported 202 entities to KevinCrax]
-[07Jun2025 20:09:21.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lea_Matt was blown up by Creeper
-[07Jun2025 20:09:21.509] [Server thread/INFO] [tombstone/]: The player Lea_Matt has successfully been saved
-[07Jun2025 20:09:23.551] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for KevinCrax with unique ID 9ad57e6c-ad8c-4759-9901-d04f715276ee
-[07Jun2025 20:09:23.603] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1071 Y: 31 Z: -392
-[07Jun2025 20:09:23.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KevinCrax was blown up by Creeper
-[07Jun2025 20:09:23.626] [Server thread/INFO] [tombstone/]: The player KevinCrax has successfully been saved
-[07Jun2025 20:09:28.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> . . .
-[07Jun2025 20:09:36.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> A SU PUTO SACO JKASKJSAKJ
-[07Jun2025 20:09:45.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KevinCrax has made the advancement [What Was That!?]
-[07Jun2025 20:09:45.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lea_Matt has made the advancement [What Was That!?]
-[07Jun2025 20:10:36.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> me estas matando mas vos que la oleadas
-[07Jun2025 20:11:16.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KevinCrax has made the advancement [The Healing Power of Friendship!]
-[07Jun2025 20:11:37.378] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
-[07Jun2025 20:11:45.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> trajiste al aldeano tambien
-[07Jun2025 20:11:59.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Teleported KevinCrax to -1070.500000, 31.000000, -391.500000]
-[07Jun2025 20:12:03.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> okay
-[07Jun2025 20:12:05.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> JHjasjksakja
-[07Jun2025 20:12:31.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> estoy putos loco
-[07Jun2025 20:12:33.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> HAHAHAH
-[07Jun2025 20:12:44.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> PERO ME ENCANTA
-[07Jun2025 20:13:18.729] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/14281, l='ServerLevel[WayVabe]', x=-1061.68, y=28.00, z=-381.42] died, message: 'Fletcher hit the ground too hard'
-[07Jun2025 20:13:27.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Teleported 231 entities to KevinCrax]
-[07Jun2025 20:13:27.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lea_Matt has reached the goal [Lure-Driven Fishing]
-[07Jun2025 20:13:29.943] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Lea_Matt with unique ID 6e291e81-0f7b-4fe8-b117-e655788008ca
-[07Jun2025 20:13:29.943] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1069 Y: 22 Z: -362
-[07Jun2025 20:13:29.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lea_Matt withered away whilst fighting Creeper
-[07Jun2025 20:13:29.959] [Server thread/INFO] [tombstone/]: The player Lea_Matt has successfully been saved
-[07Jun2025 20:13:41.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> PARA DE HACER ESO IDIOTA
-[07Jun2025 20:13:48.536] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for KevinCrax with unique ID cc8f94bc-7764-41a0-8cd0-e1cabdade83c
-[07Jun2025 20:13:48.536] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1069 Y: 21 Z: -363
-[07Jun2025 20:13:48.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KevinCrax withered away whilst fighting Necromancer
-[07Jun2025 20:13:48.549] [Server thread/INFO] [tombstone/]: The player KevinCrax has successfully been saved
-[07Jun2025 20:13:51.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> JKASJKASKJASKJ
-[07Jun2025 20:14:26.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Teleported KevinCrax to -1068.500000, 21.000000, -362.500000]
-[07Jun2025 20:14:30.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> no sé que me pasa
-[07Jun2025 20:14:33.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> no sé XD
-[07Jun2025 20:14:36.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> no se nada
-[07Jun2025 20:14:53.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> que ya termino la oleada ?
-[07Jun2025 20:14:55.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> JKjkkjaskjaskjas
-[07Jun2025 20:14:56.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ni me di cuenta
-[07Jun2025 20:15:02.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> mataste hasta el aldeano
-[07Jun2025 20:15:08.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Ya lo sé XD
-[07Jun2025 20:15:17.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> jkajsajask
-[07Jun2025 20:15:19.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ooooh dioooos
-[07Jun2025 20:15:21.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> estoy loco
-[07Jun2025 20:15:36.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Memeo
-[07Jun2025 20:15:41.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> no me puedo parar de reir XD
-[07Jun2025 20:15:43.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> te drogaste como los de mi pencion
-[07Jun2025 20:15:56.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> con tu cum ?
-[07Jun2025 20:15:57.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> o como
-[07Jun2025 20:15:59.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> JKAJSKJSAKJS
-[07Jun2025 20:16:16.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> porque hay una araña en el cielo?
-[07Jun2025 20:16:28.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> no te avise ese dia ???
-[07Jun2025 20:16:31.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> es el jefe final
-[07Jun2025 20:16:38.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> no te preocupes ahi se irá solita -w-
-[07Jun2025 20:16:45.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> hola -w-
-[07Jun2025 20:16:47.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> OwO
-[07Jun2025 20:16:54.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> viste el daño terrible ?
-[07Jun2025 20:16:56.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> tipo
-[07Jun2025 20:16:59.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> no sé como sobrevivio ese mago
-[07Jun2025 20:17:02.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> pero me hartó la suerte
-[07Jun2025 20:17:08.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> asi que dije " sabes que ? vayandose todo a la mierda "
-[07Jun2025 20:17:10.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Y BOOM
-[07Jun2025 20:17:14.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> fue increible
-[07Jun2025 20:17:22.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> pues a mi no me gusto
-[07Jun2025 20:17:29.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> yo me siento muy contento jkaskjsajkksja
-[07Jun2025 20:17:33.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> necesitaba eso
-[07Jun2025 20:17:52.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> hagamoslo algun otro dia haha
-[07Jun2025 20:18:06.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> oye al menos conseguimos varias cosas !
-[07Jun2025 20:18:16.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> no todo fue malo
-[07Jun2025 20:18:18.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> veeeees ???
-[07Jun2025 20:18:21.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> consegiste
-[07Jun2025 20:18:25.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> como que consegui
-[07Jun2025 20:18:26.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> tu tambien !
-[07Jun2025 20:18:34.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> es imposible que yo solo hubiese agarrado todo
-[07Jun2025 20:18:36.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> eran demasiadas cosas !
-[07Jun2025 20:18:40.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> morir claro
-[07Jun2025 20:18:53.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> obtuveee...
-[07Jun2025 20:18:54.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> muchas cosas
-[07Jun2025 20:18:56.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> a ver
-[07Jun2025 20:19:00.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> pezcados tropicales ?
-[07Jun2025 20:19:02.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> hilo
-[07Jun2025 20:19:04.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> quitina ¿?¿?
-[07Jun2025 20:19:09.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> saco de tinta brillante
-[07Jun2025 20:19:13.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> un craneo de esqueleto
-[07Jun2025 20:19:24.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> una espada de ca..
-[07Jun2025 20:19:25.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ah no espera
-[07Jun2025 20:19:27.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ese lo tenia antes
-[07Jun2025 20:19:29.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> que hace aca ?
-[07Jun2025 20:20:01.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ooh rayos
-[07Jun2025 20:20:03.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> toca organizar todo
-[07Jun2025 20:20:57.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Lea
-[07Jun2025 20:21:00.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> tu lobito está bien loco no ?
-[07Jun2025 20:21:48.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Lea ?
-[07Jun2025 20:22:22.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> mmr...
-[07Jun2025 20:22:30.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> creo que estás molesta
-[07Jun2025 20:23:02.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> tal vez
-[07Jun2025 20:23:11.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> mmr...
-[07Jun2025 20:23:13.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> lo siento
-[07Jun2025 20:23:17.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> estaba muy estresado
-[07Jun2025 20:23:22.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> queria algo sin sentido
-[07Jun2025 20:24:08.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Simplemente..
-[07Jun2025 20:24:10.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> me aloqué
-[07Jun2025 20:24:34.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> bueno pero para que me arrastras a eso?
-[07Jun2025 20:24:39.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> no quería
-[07Jun2025 20:24:42.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> en realidad
-[07Jun2025 20:24:50.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> no tengo control sobre que cosa llevo y que no
-[07Jun2025 20:24:58.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> simplemente lleva
-[07Jun2025 20:24:58.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> TODO
-[07Jun2025 20:25:14.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> hahahaha.... bueno
-[07Jun2025 20:25:22.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> El comando es simple
-[07Jun2025 20:25:39.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> teletransportar a todas las entidades en el radio de vision del jugador o jugadores, hacia mi
-[07Jun2025 20:25:49.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Bueno, radio de vision no
-[07Jun2025 20:25:52.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lea_Matt has made the advancement [Enchanter]
-[07Jun2025 20:25:55.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Radio que el juego está siendo creado
-[07Jun2025 20:26:55.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> nooo...........
-[07Jun2025 20:26:59.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> el tiempo ha terminado
-[07Jun2025 20:27:31.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> dja que se me pase un poco el enojo y ya
-[07Jun2025 20:27:49.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ay....
-[07Jun2025 20:27:51.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> lo siento en serio
-[07Jun2025 20:27:57.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> no quize que te pase eso tambien
-[07Jun2025 20:28:01.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> solo
-[07Jun2025 20:28:06.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> me sentia frustrado y queria hacer algo
-[07Jun2025 20:28:11.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> algo loco
-[07Jun2025 20:28:12.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lea_Matt has reached the goal [Finding Common Ground]
-[07Jun2025 20:29:07.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> da igual
-[07Jun2025 20:29:12.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> no da igual
-[07Jun2025 20:29:15.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> te molesté
-[07Jun2025 20:29:16.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> mira encante mi herramienta
-[07Jun2025 20:29:29.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> hm ?
-[07Jun2025 20:29:31.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> whaaat
-[07Jun2025 20:29:32.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> wow
-[07Jun2025 20:29:36.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> se vee casi como un item distinto
-[07Jun2025 20:29:40.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> tiene inrrompibilidad 3 y reparacion
-[07Jun2025 20:29:46.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> asu mare
-[07Jun2025 20:29:49.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> esta muy bueno
-[07Jun2025 20:30:09.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> y es una herramienta multi usos
-[07Jun2025 20:30:10.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> solo falta eficiencia
-[07Jun2025 20:30:17.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> solo me falta fortuna 3
-[07Jun2025 20:30:22.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> eficiencia tambiene
-[07Jun2025 20:30:24.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> tambien*
-[07Jun2025 20:30:26.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> tambien
-[07Jun2025 20:30:29.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> por cierto LEa
-[07Jun2025 20:30:33.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> hoy jugamos 3 horas no ?
-[07Jun2025 20:30:44.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> sip
-[07Jun2025 20:30:52.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> entonces debemos 2 horas.. ush..
-[07Jun2025 20:30:56.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> puedo apagarlo ya ?
-[07Jun2025 20:31:03.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> y el tiempo ya se termino
-[07Jun2025 20:31:04.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> es que quiero tener un poco de margen de tiempo
-[07Jun2025 20:31:13.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> a menos que quieras jugar algo mas?
-[07Jun2025 20:31:16.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> si por supuesto
-[07Jun2025 20:31:21.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> claramente me gustaria seguir jugando contigo
-[07Jun2025 20:31:25.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> solo se acabo el tiempo del servidor
-[07Jun2025 20:31:37.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> salgamos
-[07Jun2025 20:31:41.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> vale
-[07Jun2025 20:31:44.133] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lea_Matt lost connection: Disconnected
-[07Jun2025 20:31:44.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lea_Matt left the game
-[07Jun2025 20:31:44.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KevinCrax lost connection: Disconnected
-[07Jun2025 20:31:44.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KevinCrax left the game
-[07Jun2025 20:31:51.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[07Jun2025 20:31:51.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[07Jun2025 20:31:51.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[07Jun2025 20:31:51.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[07Jun2025 20:31:52.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[WayVabe]'/minecraft:overworld
-[07Jun2025 20:31:52.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[WayVabe]'/arphex:the_crawling
-[07Jun2025 20:31:52.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[WayVabe]'/minecraft:the_nether
-[07Jun2025 20:31:52.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[WayVabe]'/minecraft:the_end
-[07Jun2025 20:31:52.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (WayVabe): All chunks are saved
-[07Jun2025 20:31:52.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_crawling): All chunks are saved
-[07Jun2025 20:31:52.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07Jun2025 20:31:52.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07Jun2025 20:31:52.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[07Jun2025 20:31:52.469] [Server thread/INFO] [Framework/]: Unloading server configs...
+[12Jun2025 02:18:00.254] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 13 recipes
+[12Jun2025 02:18:00.790] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {arphex:entities/long_legs}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[12Jun2025 02:18:00.790] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {arphex:entities/silverfish_spectre}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[12Jun2025 02:18:00.790] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {arphex:entities/millipede_marauder}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[12Jun2025 02:18:00.790] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {sons_of_sins:entities/prowler}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[12Jun2025 02:18:00.790] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {sons_of_sins:entities/butcher}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[12Jun2025 02:18:00.790] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {sons_of_sins:entities/walking_bed}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[12Jun2025 02:18:00.790] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {sons_of_sins:entities/blud}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[12Jun2025 02:18:00.866] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement majruszsdifficulty:recipes/misc/enderium_upgrade_smithing_template: Unknown item id 'majruszsdifficulty:enderium_upgrade_smithing_template'
+[12Jun2025 02:18:01.030] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2279 advancements
+[12Jun2025 02:18:01.074] [main/WARN] [net.minecraftforge.registries.NamespacedHolderHelper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: 1_splatus:spellbound/hot
+[12Jun2025 02:18:01.893] [main/INFO] [majruszlibrary/]: [majruszsaccessories.json] Reloading configuration file took 6 milliseconds
+[12Jun2025 02:18:01.902] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 8 milliseconds
+[12Jun2025 02:18:01.904] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 0 milliseconds
+[12Jun2025 02:18:01.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[12Jun2025 02:18:01.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[12Jun2025 02:18:01.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[12Jun2025 02:18:01.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[12Jun2025 02:18:02.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[12Jun2025 02:18:02.068] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[12Jun2025 02:18:02.165] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12Jun2025 02:18:02.165] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[12Jun2025 02:18:02.166] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12Jun2025 02:18:02.166] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[12Jun2025 02:18:02.193] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[12Jun2025 02:18:02.277] [Server thread/INFO] [Framework/]: Loading server configs...
+[12Jun2025 02:18:02.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "WayVabe"
+[12Jun2025 02:18:03.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[12Jun2025 02:18:11.318] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 02:18:11.330] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 02:18:11.354] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 02:18:11.364] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 02:18:11.380] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 02:18:11.394] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 02:18:11.406] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 02:18:11.411] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 02:18:11.416] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 02:18:11.428] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 02:18:11.434] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 02:18:11.451] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 02:18:11.469] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 02:18:11.482] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 02:18:11.484] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 02:18:11.487] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 02:18:11.490] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 02:18:11.859] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 02:18:12.413] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 02:18:12.856] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jun2025 02:18:13.356] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[12Jun2025 02:18:13.856] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 77%
+[12Jun2025 02:18:14.184] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10829 ms
+[12Jun2025 02:18:14.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.005s)! For help, type "help"
+[12Jun2025 02:18:14.213] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[12Jun2025 02:18:14.215] [Server thread/INFO] [net.stardustlabs.incendium.Incendium/]: Thanks for choosing Incendium!
+[12Jun2025 02:18:14.251] [Server thread/INFO] [net.stardustlabs.nullscape.Nullscape/]: Thanks for choosing Nullscape!
+[12Jun2025 02:18:14.251] [Server thread/INFO] [net.stardustlabs.terralith.Terralith/]: Thanks for choosing Terralith!
+[12Jun2025 02:18:24.610] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@d0e7914
+[12Jun2025 02:18:24.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lea_Matt[/127.250.38.242:58113] logged in with entity id 620 at (-1003.3941201068027, 111.0, -356.12206542394716)
+[12Jun2025 02:18:24.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lea_Matt joined the game
+[12Jun2025 02:18:27.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2852ms or 57 ticks behind
+[12Jun2025 02:19:35.737] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@73c1a453
+[12Jun2025 02:19:35.750] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KevinCrax[/127.0.163.104:48023] logged in with entity id 1630 at (-995.7107631847317, 111.0, -381.7038422494598)
+[12Jun2025 02:19:35.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KevinCrax joined the game
+[12Jun2025 02:20:03.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Estoy aqui
+[12Jun2025 02:20:09.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> okay
+[12Jun2025 02:20:18.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ay su ptmr siempre se resetea todos los controles.. que joda
+[12Jun2025 02:20:26.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> otra vez configurar todo
+[12Jun2025 02:21:46.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> vale
+[12Jun2025 02:21:48.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ya estoy
+[12Jun2025 02:22:02.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> okay, evento evento
+[12Jun2025 02:22:22.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Poison to 2 targets]
+[12Jun2025 02:22:34.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Regeneration to 2 targets]
+[12Jun2025 02:22:53.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Weakness to 2 targets]
+[12Jun2025 02:22:57.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> me muero
+[12Jun2025 02:23:04.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> no me digas
+[12Jun2025 02:23:12.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> el reto se llama " Sick "
+[12Jun2025 02:23:16.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Enfermo.
+[12Jun2025 02:23:35.096] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Lea_Matt with unique ID 676cbfcc-1324-4147-9d87-d9d4c6000553
+[12Jun2025 02:23:35.099] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1003 Y: 111 Z: -353
+[12Jun2025 02:23:35.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lea_Matt hit the ground too hard
+[12Jun2025 02:23:35.131] [Server thread/INFO] [tombstone/]: The player Lea_Matt has successfully been saved
+[12Jun2025 02:23:41.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Weakness to 2 targets]
+[12Jun2025 02:23:43.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Regeneration to 2 targets]
+[12Jun2025 02:23:44.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> . . .
+[12Jun2025 02:23:45.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Poison to 2 targets]
+[12Jun2025 02:23:52.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ya te volvi a poner los efectos
+[12Jun2025 02:23:58.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> este reto no lo podemos perder
+[12Jun2025 02:24:05.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> simplemente debemos mantenernos asi durante 3 horas
+[12Jun2025 02:24:21.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> ponme las cosas
+[12Jun2025 02:24:25.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ya te puse todo
+[12Jun2025 02:24:28.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Poison to 2 targets]
+[12Jun2025 02:24:30.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Regeneration to 2 targets]
+[12Jun2025 02:24:34.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Weakness to 2 targets]
+[12Jun2025 02:24:38.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> ahora
+[12Jun2025 02:25:11.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> me da risa que me vengas a ver como si necesitara verte para ponerte los efectos
+[12Jun2025 02:25:45.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> no se
+[12Jun2025 02:25:49.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> haha
+[12Jun2025 02:25:55.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> para ejecutar comandos no necesito ni vision
+[12Jun2025 02:25:58.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ni que estes en la misma dimension
+[12Jun2025 02:25:59.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ni nada
+[12Jun2025 02:26:10.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> simplemente por el solo hecho de estar en el mundo ya puedo hacer lo que quiera contigo con comandos
+[12Jun2025 02:26:10.998] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Lea_Matt with unique ID 77565c17-c9fc-4e16-ac66-9317c14656d3
+[12Jun2025 02:26:10.998] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1029 Y: 105 Z: -369
+[12Jun2025 02:26:10.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lea_Matt was doomed to fall
+[12Jun2025 02:26:11.000] [Server thread/INFO] [tombstone/]: The player Lea_Matt has successfully been saved
+[12Jun2025 02:26:16.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Weakness to 2 targets]
+[12Jun2025 02:26:19.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Regeneration to 2 targets]
+[12Jun2025 02:26:22.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Regeneration to 2 targets]
+[12Jun2025 02:26:28.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> me mori
+[12Jun2025 02:26:32.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Poison to 2 targets]
+[12Jun2025 02:26:39.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Weakness to 2 targets]
+[12Jun2025 02:26:41.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Poison to 2 targets]
+[12Jun2025 02:26:43.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Weakness to 2 targets]
+[12Jun2025 02:26:46.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Regeneration to 2 targets]
+[12Jun2025 02:26:53.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> sabes que
+[12Jun2025 02:26:59.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> mejor voy a colocar un bloque de comandos para hacer esto mas rapido
+[12Jun2025 02:27:00.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> (
+[12Jun2025 02:27:04.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Set own game mode to Creative Mode]
+[12Jun2025 02:27:09.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> sip
+[12Jun2025 02:27:14.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Gave 1 [Command Block] to KevinCrax]
+[12Jun2025 02:27:27.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> me voy a morir un monton
+[12Jun2025 02:27:37.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> que
+[12Jun2025 02:27:41.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> como que no estan habilitados
+[12Jun2025 02:27:43.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> su ptmr
+[12Jun2025 02:27:45.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> y para que la regeneracion?
+[12Jun2025 02:27:47.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> da igual
+[12Jun2025 02:27:53.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Set own game mode to Survival Mode]
+[12Jun2025 02:27:59.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Regeneration to 2 targets]
+[12Jun2025 02:28:03.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Weakness to 2 targets]
+[12Jun2025 02:28:08.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Poison to 2 targets]
+[12Jun2025 02:28:20.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] mejor hablare por aca para no perder acada rato los comandos. Qué molesto..
+[12Jun2025 02:28:34.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] me ire a hacer la tarea, al rato vuelvo
+[12Jun2025 02:28:42.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> bueno
+[12Jun2025 02:31:23.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] por cierto, la regeneracion era para que no siempre estes a medio corazon, y si es que te pones a comer un poco tu vida empezar a aumentar tambien un poco
+[12Jun2025 02:31:29.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12Jun2025 02:31:29.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lo suficiente para resistir un par de golpes sin morir instantaneamente<--[HERE]
+[12Jun2025 02:31:36.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] lo suficiente para resistir algunos golpes
+[12Jun2025 02:31:57.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] asi que... si quieres atacar a melee o si estas rodeada come rapido, asi que regeneras un poco de vida y puedes tanquear un poco
+[12Jun2025 02:32:10.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> pues no me dura la comiada para regenerar ni un cora imedio
+[12Jun2025 02:32:23.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] como digo, con la regeneracion si es posible.
+[12Jun2025 02:34:20.216] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Lea_Matt with unique ID d6651f60-788e-4f3e-830c-95a8d4366a0b
+[12Jun2025 02:34:20.217] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -955 Y: 54 Z: -421
+[12Jun2025 02:34:20.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lea_Matt drowned
+[12Jun2025 02:34:20.219] [Server thread/INFO] [tombstone/]: The player Lea_Matt has successfully been saved
+[12Jun2025 02:34:26.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Poison to 2 targets]
+[12Jun2025 02:34:27.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Weakness to 2 targets]
+[12Jun2025 02:34:30.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Regeneration to 2 targets]
+[12Jun2025 02:36:27.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> no tengo el veneno ni la devilidad
+[12Jun2025 02:38:04.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> dex
+[12Jun2025 02:38:19.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ah ?
+[12Jun2025 02:38:24.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Regeneration to 2 targets]
+[12Jun2025 02:38:25.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Weakness to 2 targets]
+[12Jun2025 02:38:27.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Poison to 2 targets]
+[12Jun2025 02:38:42.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> listo
+[12Jun2025 02:38:51.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] qué extraño
+[12Jun2025 02:39:00.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] decia que si te habia aplicado el efecto
+[12Jun2025 02:39:05.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] como es que siempre bugeas todo ?...
+[12Jun2025 02:39:16.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] son comandos por dios, como diablos se supone que se puede bugear eso ?....
+[12Jun2025 02:39:48.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> solo a mi me pasa
+[12Jun2025 02:50:45.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] felicidades, no estas muriendo tanto como pensé, toma un regalito
+[12Jun2025 02:50:48.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Gave 30 [Gunpowder] to Lea_Matt]
+[12Jun2025 02:50:59.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> yey
+[12Jun2025 02:51:10.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> ahora me muero
+[12Jun2025 02:51:20.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] da igual, ya recibiste el regalo
+[12Jun2025 02:51:21.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> cuando de dos pasos fuera de la casa
+[12Jun2025 02:54:24.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> hahaha no me hice daño por caida porque me hice daño antes de tocar el piso XD
+[12Jun2025 02:55:44.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] LOL
+[12Jun2025 02:55:55.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] para eso era el veneno y la regeneración. Vees que hago todo con un proposito logico ?
+[12Jun2025 02:56:25.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] aparte de la invulnerabilidad minima, tambien tienes el efecto molesto cuando saltes. El proposito tambien es que esto sea molesto e incomodo
+[12Jun2025 02:56:55.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> pero estoy a medio cora todo el tiempo
+[12Jun2025 03:02:22.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ya terminé. Off, que molesta tarea
+[12Jun2025 03:02:28.964] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Lea_Matt with unique ID 68800191-f6b8-48e5-941e-0c16d9a0ee26
+[12Jun2025 03:02:28.965] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1158 Y: -16 Z: -464
+[12Jun2025 03:02:28.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lea_Matt was slain by Zombie
+[12Jun2025 03:02:28.975] [Server thread/INFO] [tombstone/]: The player Lea_Matt has successfully been saved
+[12Jun2025 03:02:29.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Orita te mando captura de lo que tuve que copiar al cuaderno
+[12Jun2025 03:02:37.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Poison to 2 targets]
+[12Jun2025 03:02:39.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Weakness to 2 targets]
+[12Jun2025 03:02:42.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Regeneration to 2 targets]
+[12Jun2025 03:02:53.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Regeneration to 2 targets]
+[12Jun2025 03:02:54.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Weakness to 2 targets]
+[12Jun2025 03:02:56.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Poison to 2 targets]
+[12Jun2025 03:03:06.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> que justo
+[12Jun2025 03:04:27.115] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Lea_Matt with unique ID 73c11a08-90d4-4be6-9f87-c8294d471cba
+[12Jun2025 03:04:27.116] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1140 Y: 57 Z: -432
+[12Jun2025 03:04:27.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lea_Matt drowned
+[12Jun2025 03:04:27.118] [Server thread/INFO] [tombstone/]: The player Lea_Matt has successfully been saved
+[12Jun2025 03:04:33.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> mierda
+[12Jun2025 03:04:40.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Poison to 2 targets]
+[12Jun2025 03:04:41.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Weakness to 2 targets]
+[12Jun2025 03:04:44.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Regeneration to 2 targets]
+[12Jun2025 03:05:36.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Regeneration to 2 targets]
+[12Jun2025 03:05:37.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Weakness to 2 targets]
+[12Jun2025 03:05:38.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Poison to 2 targets]
+[12Jun2025 03:06:18.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> okay
+[12Jun2025 03:06:20.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> hora de jugar
+[12Jun2025 03:06:26.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> al fin carajo
+[12Jun2025 03:06:34.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Lea ven a dormir
+[12Jun2025 03:06:39.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> espera
+[12Jun2025 03:06:43.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ah cierto que no podemos dormir..
+[12Jun2025 03:06:43.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> no se puede dormir
+[12Jun2025 03:06:44.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> olvidalo
+[12Jun2025 03:06:46.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> si
+[12Jun2025 03:06:49.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ya lo noté
+[12Jun2025 03:10:10.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KevinCrax lost connection: Timed out
+[12Jun2025 03:10:10.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KevinCrax left the game
+[12Jun2025 03:10:10.113] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Jun2025 03:12:45.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> hahaha puedo comer papas envenenadas
+[12Jun2025 03:17:25.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] su ptmr
+[12Jun2025 03:17:36.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> no me curo maaaaaas
+[12Jun2025 03:17:55.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> no llego a mas de un corazoooooooooon
+[12Jun2025 03:18:05.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] put olag
+[12Jun2025 03:18:11.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] se me recontra crasheo todo
+[12Jun2025 03:18:27.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> oh
+[12Jun2025 03:18:28.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] literal, se cerro el minecraft, los sonidos se bugearon, todo todo todo mal
+[12Jun2025 03:18:42.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ahi te mande algunas capturas de pantalla al discord
+[12Jun2025 03:18:50.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] orita entro otra vez, pero ya pronto tendre que irme a dormir
+[12Jun2025 03:18:58.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> oh
+[12Jun2025 03:28:51.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] PTMR SE CRASHEO TODO OTRA VEZ AAAAAAA
+[12Jun2025 03:29:10.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> dios
+[12Jun2025 03:29:17.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> pero porque?
+[12Jun2025 03:30:17.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] creo que por los videos
+[12Jun2025 03:30:18.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ugh
+[12Jun2025 03:30:23.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] intentare jugar sin musica supongo..
+[12Jun2025 03:30:26.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> quiero salir a matar pero no puedo con esta mierda de desafio
+[12Jun2025 03:30:56.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> no me puedo curaaaaaaa
+[12Jun2025 03:34:07.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lea_Matt has reached the goal [A Small Cemetery]
+[12Jun2025 03:36:20.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] matenme
+[12Jun2025 03:36:22.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] xd
+[12Jun2025 03:37:34.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> dios
+[12Jun2025 03:38:10.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lea_Matt has made the advancement [Black or White]
+[12Jun2025 03:39:31.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] salvenme
+[12Jun2025 03:39:31.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12Jun2025 03:39:31.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
+[12Jun2025 03:39:33.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] xd
+[12Jun2025 03:41:14.677] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ea098b8
+[12Jun2025 03:41:14.685] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KevinCrax[/127.0.163.104:47757] logged in with entity id 59984 at (-1002.9179714969325, 111.0, -385.89475265939916)
+[12Jun2025 03:41:14.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KevinCrax joined the game
+[12Jun2025 03:41:23.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> yey
+[12Jun2025 03:41:37.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Poison to 2 targets]
+[12Jun2025 03:41:49.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Regeneration to 2 targets]
+[12Jun2025 03:42:00.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Applied effect Weakness to 2 targets]
+[12Jun2025 03:42:08.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] vale. No se ni que hice pero lo arreglé
+[12Jun2025 03:42:54.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> uh
+[12Jun2025 03:42:56.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> se vee bien
+[12Jun2025 03:43:11.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> yo no tengo hierro para una mierda
+[12Jun2025 03:43:15.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ire a minar
+[12Jun2025 03:43:39.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> yo estoy sufriendo por la casa y por esta mierda de desafio
+[12Jun2025 03:43:44.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> pf
+[12Jun2025 03:43:46.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> novato
+[12Jun2025 03:43:50.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> *procedo a morir ni bien entro a la mina
+[12Jun2025 03:44:03.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> me mori apenas lo pusiste
+[12Jun2025 03:44:16.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> soy una basura para minecraft
+[12Jun2025 03:44:40.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> en serio no traje balas..
+[12Jun2025 03:45:19.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> yo no salgo de la casa
+[12Jun2025 03:45:56.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> quiero quemar la casa
+[12Jun2025 03:46:00.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> no
+[12Jun2025 03:47:18.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> yay hierro..
+[12Jun2025 03:47:51.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> no quiero salir de la casa
+[12Jun2025 03:47:59.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> yo que estoy afuera XD
+[12Jun2025 03:48:01.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> pero la quiero quemar tambien
+[12Jun2025 03:51:03.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> me quedare afk
+[12Jun2025 03:51:06.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ??
+[12Jun2025 03:51:13.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> no puedo hacer una mierda
+[12Jun2025 03:51:26.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> intenta salir
+[12Jun2025 03:51:27.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> matar
+[12Jun2025 03:51:27.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> algo
+[12Jun2025 03:51:32.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> y estar en la casa me quema el alma
+[12Jun2025 03:51:37.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> me matan
+[12Jun2025 03:51:39.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> entonces reparala
+[12Jun2025 03:51:44.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> remodelala
+[12Jun2025 03:51:46.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> no puedo ni pegarles
+[12Jun2025 03:51:46.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> no mem olestaré
+[12Jun2025 03:52:06.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> y no tengo materiales
+[12Jun2025 03:52:20.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> que necesitas ?
+[12Jun2025 03:52:41.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> roble oscuro y piedra normal
+[12Jun2025 03:52:46.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> mucha
+[12Jun2025 03:55:34.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> no hay una mierda de hierro aqui abajo
+[12Jun2025 03:55:35.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ugh
+[12Jun2025 03:55:45.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> te doy?
+[12Jun2025 03:55:49.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> no , no
+[12Jun2025 03:55:58.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> total no estoy haciendo nada
+[12Jun2025 03:56:10.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> solo quemo comida
+[12Jun2025 03:56:16.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> hola arañaita....
+[12Jun2025 03:56:18.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> la cantidad wtf
+[12Jun2025 03:56:50.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> 2 de hierro encontré
+[12Jun2025 03:56:51.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> que lindo
+[12Jun2025 03:57:04.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> es que mi suerte es
+[12Jun2025 03:57:05.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> increíbl
+[12Jun2025 03:59:50.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> REGRESÉ
+[12Jun2025 03:59:52.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> A LA SUPERFICIE
+[12Jun2025 03:59:53.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> OH DIOS
+[12Jun2025 04:00:09.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> ya tendria que ir apagando
+[12Jun2025 04:00:20.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ya vine
+[12Jun2025 04:00:21.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> puff
+[12Jun2025 04:00:29.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> 1 stack de pan gasté
+[12Jun2025 04:00:33.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> literalmente 1 stack entero
+[12Jun2025 04:00:41.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> pero sirvio de mucho
+[12Jun2025 04:01:00.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> oh wow
+[12Jun2025 04:01:06.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> tienes ya mesas de encantamiento y todo
+[12Jun2025 04:01:07.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> muy bien
+[12Jun2025 04:01:11.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> con decoración..
+[12Jun2025 04:01:22.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> tu zona se vee mucho mejor que la mia
+[12Jun2025 04:01:28.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> si feo pero algo es
+[12Jun2025 04:01:39.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> oye Lea
+[12Jun2025 04:01:43.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> sabias que podiamos llevar esto no ?
+[12Jun2025 04:01:47.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> y hubiera sido pan comido el desafio
+[12Jun2025 04:01:55.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ven mira
+[12Jun2025 04:02:05.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Lea
+[12Jun2025 04:02:19.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Lea ?
+[12Jun2025 04:02:30.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> basura
+[12Jun2025 04:02:30.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> tipo
+[12Jun2025 04:02:32.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> regenera rapidisimo
+[12Jun2025 04:02:35.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> por que no lo llevé ? XD
+[12Jun2025 04:02:39.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> y como que basura
+[12Jun2025 04:03:00.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> dependes de estar sobre eso y despues de eso
+[12Jun2025 04:03:03.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> mira
+[12Jun2025 04:03:11.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ya estoy a full vida
+[12Jun2025 04:03:15.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> y ni demore 2 segundos
+[12Jun2025 04:03:16.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> golpeame
+[12Jun2025 04:03:17.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> tieneq¿es que estar sumergido todo el dia
+[12Jun2025 04:03:22.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> mira golpeamo
+[12Jun2025 04:03:32.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> con tu espada pues
+[12Jun2025 04:03:52.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> vamos
+[12Jun2025 04:03:55.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> orita soy inmortal con esto
+[12Jun2025 04:03:56.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> XD
+[12Jun2025 04:04:11.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> no en serio
+[12Jun2025 04:04:14.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> no me puedes matar orita
+[12Jun2025 04:04:18.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> o sea
+[12Jun2025 04:04:18.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ya
+[12Jun2025 04:04:19.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> punto
+[12Jun2025 04:04:23.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> no digas que es basura
+[12Jun2025 04:04:42.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> viste lo de rapido que regenera ?
+[12Jun2025 04:04:44.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> tengo razon o no ?
+[12Jun2025 04:04:57.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> me parese malo pero si te sirve
+[12Jun2025 04:05:08.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> okay, de que te parezca a ti es otra cosa
+[12Jun2025 04:05:09.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> vale.
+[12Jun2025 04:06:03.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Lea que arma te hiciste ?
+[12Jun2025 04:06:07.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> La Ots ?
+[12Jun2025 04:06:18.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Ots-03 ?
+[12Jun2025 04:06:33.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Lea
+[12Jun2025 04:06:53.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> por eso digo
+[12Jun2025 04:06:56.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> es la Ots-03 ?
+[12Jun2025 04:07:27.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Lea ?
+[12Jun2025 04:07:35.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> raven.s
+[12Jun2025 04:07:38.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ah
+[12Jun2025 04:07:39.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> raven
+[12Jun2025 04:07:51.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Raven claws
+[12Jun2025 04:07:57.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> si esa
+[12Jun2025 04:10:16.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> tengo sueño y creo que ahora me aburrio el minecraft
+[12Jun2025 04:10:22.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> . . .
+[12Jun2025 04:10:23.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> no se como
+[12Jun2025 04:10:25.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> todo por el reto, no ?
+[12Jun2025 04:10:30.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> yo estoy entretenido
+[12Jun2025 04:10:34.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> la verdad
+[12Jun2025 04:10:42.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> tal vez pero no lo quites
+[12Jun2025 04:10:49.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> de todas maneras ya se acabó el tiempo
+[12Jun2025 04:10:56.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> el reto terminó
+[12Jun2025 04:11:01.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Removed every effect from 2 targets]
+[12Jun2025 04:11:07.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> dijiste 3 horas
+[12Jun2025 04:11:10.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> pasó 2
+[12Jun2025 04:11:11.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> no paso
+[12Jun2025 04:11:18.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> 3 horas dije ?
+[12Jun2025 04:11:18.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> si
+[12Jun2025 04:11:20.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> me habre confundido
+[12Jun2025 04:11:22.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> queria que sea solo este dia
+[12Jun2025 04:11:24.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> que son 2 horas
+[12Jun2025 04:11:35.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> de todas maneras la recompenza es menor respecto a las veces que hemos muerto
+[12Jun2025 04:11:38.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> dijiste tres
+[12Jun2025 04:11:41.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Da igual
+[12Jun2025 04:11:42.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> 2 o 3
+[12Jun2025 04:11:46.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> igual tenemos recompensa menor
+[12Jun2025 04:11:51.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> olo estas quitando por lo que dije?
+[12Jun2025 04:11:58.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Haz muerto....
+[12Jun2025 04:12:00.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> cuantas veces '?
+[12Jun2025 04:12:01.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> como 5 no ?
+[12Jun2025 04:12:03.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> 8
+[12Jun2025 04:12:07.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Set own game mode to Creative Mode]
+[12Jun2025 04:12:10.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> 8 no te creo
+[12Jun2025 04:12:14.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> deame miro los datos del server
+[12Jun2025 04:12:20.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> bueno
+[12Jun2025 04:13:09.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> aqui... 4 veces
+[12Jun2025 04:13:12.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> okay
+[12Jun2025 04:13:12.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> yo 0
+[12Jun2025 04:13:33.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> 4!?
+[12Jun2025 04:13:34.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> al ser .. seria recompenza /2.3....
+[12Jun2025 04:13:40.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> no lo creo ni ahi
+[12Jun2025 04:13:47.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> en 4 .. el otro 0...
+[12Jun2025 04:13:56.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> seria como /2. .. ./1. .. .
+[12Jun2025 04:13:57.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> mm..
+[12Jun2025 04:14:03.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> nada
+[12Jun2025 04:14:17.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> vale
+[12Jun2025 04:14:22.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> toma Lea
+[12Jun2025 04:14:23.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> tu recompenza
+[12Jun2025 04:14:31.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KevinCrax: Set own game mode to Survival Mode]
+[12Jun2025 04:14:32.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> aire
+[12Jun2025 04:14:37.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> aqui está , oye
+[12Jun2025 04:14:59.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> 2 de 2 usos
+[12Jun2025 04:15:00.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> 4 usos
+[12Jun2025 04:15:07.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> yo tengo 10 usos
+[12Jun2025 04:15:16.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> al orno
+[12Jun2025 04:15:23.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Lea
+[12Jun2025 04:15:27.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> lo metes al orno te juro te boto
+[12Jun2025 04:15:35.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> no antes con tonterias
+[12Jun2025 04:15:53.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> por cierto, estas espadas son irreparables de todas maneras. No puedes sobre pasar el sistema
+[12Jun2025 04:16:30.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> asi es
+[12Jun2025 04:16:39.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> buena leña
+[12Jun2025 04:16:42.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> Lea
+[12Jun2025 04:16:52.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> si?
+[12Jun2025 04:16:58.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> no lo quemaste no ?
+[12Jun2025 04:17:06.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> no
+[12Jun2025 04:17:20.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> ahora pensarás " no lo queme, solo lo boté "
+[12Jun2025 04:18:28.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lea_Matt> voy a buscar roble oscuro
+[12Jun2025 04:19:01.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> tengo listo mi arma..
+[12Jun2025 04:19:09.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> solo necesito una mirilla y estaría listo
+[12Jun2025 04:19:16.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KevinCrax> por cierto ya pasaron las 2 horas Lea
+[12Jun2025 04:19:24.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lea_Matt lost connection: Disconnected
+[12Jun2025 04:19:24.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lea_Matt left the game
+[12Jun2025 04:19:26.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KevinCrax lost connection: Disconnected
+[12Jun2025 04:19:26.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KevinCrax left the game
+[12Jun2025 04:19:30.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[12Jun2025 04:19:30.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Jun2025 04:19:30.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Jun2025 04:19:30.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Jun2025 04:19:31.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[WayVabe]'/minecraft:overworld
+[12Jun2025 04:19:31.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[WayVabe]'/minecraft:the_nether
+[12Jun2025 04:19:31.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[WayVabe]'/arphex:the_crawling
+[12Jun2025 04:19:31.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[WayVabe]'/minecraft:the_end
+[12Jun2025 04:19:31.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (WayVabe): All chunks are saved
+[12Jun2025 04:19:31.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Jun2025 04:19:31.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_crawling): All chunks are saved
+[12Jun2025 04:19:31.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Jun2025 04:19:31.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12Jun2025 04:19:31.196] [Server thread/INFO] [Framework/]: Unloading server configs...
