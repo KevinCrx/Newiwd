@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_cocoa_beans": {
+    "criteria": {
+      "has_cocoa_beans": "2025-06-16 23:37:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-05-07 01:16:28 +0000"
@@ -499,7 +505,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-12 04:19:17 +0000"
+      "log_spam_fixer": "2025-06-16 23:55:49 +0000"
     },
     "done": false
   },
@@ -512,6 +518,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-07 01:35:07 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/cocoa_beans_decomposing": {
+    "criteria": {
+      "has_cocoa_beans": "2025-06-16 23:37:40 +0000"
     },
     "done": true
   },
@@ -769,7 +781,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-12 04:19:17 +0000"
+      "log_spam_fixer": "2025-06-16 23:55:49 +0000"
     },
     "done": false
   },
@@ -985,7 +997,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-12 04:19:17 +0000"
+      "log_spam_fixer": "2025-06-16 23:55:49 +0000"
     },
     "done": false
   },
@@ -1214,6 +1226,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-05-07 01:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-06-16 23:37:40 +0000"
     },
     "done": true
   },
@@ -1547,6 +1565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-16 23:19:03 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/machine_pistol": {
     "criteria": {
       "has_iron_ingot": "2025-05-07 01:31:48 +0000"
@@ -1837,7 +1861,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-12 04:19:17 +0000"
+      "log_spam_fixer": "2025-06-16 23:55:49 +0000"
     },
     "done": false
   },
@@ -1897,7 +1921,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-12 04:19:17 +0000"
+      "log_spam_fixer": "2025-06-16 23:55:49 +0000"
     },
     "done": false
   },
@@ -2239,7 +2263,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-12 04:19:17 +0000"
+      "log_spam_fixer": "2025-06-16 23:55:49 +0000"
     },
     "done": false
   },
@@ -2519,12 +2543,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-16 23:19:03 +0000"
+    },
+    "done": true
+  },
   "1_splatus:ultris/completed": {
     "criteria": {
       "illusioner": "2025-05-07 21:27:24 +0000",
       "corrupted_enderman": "2025-05-07 20:23:36 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/create_smoke_ball": {
+    "criteria": {
+      "has_smoke_ball": "2025-06-16 23:40:58 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
@@ -2613,6 +2649,12 @@
   "biomancy:recipes/biomancy/decomposing/forge_seeds_decomposing": {
     "criteria": {
       "has_seeds": "2025-05-07 01:09:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-16 23:19:03 +0000"
     },
     "done": true
   },
@@ -2870,6 +2912,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-16 23:16:51 +0000",
       "minecraft:skeleton": "2025-05-07 01:11:01 +0000",
       "minecraft:vindicator": "2025-06-07 17:02:08 +0000",
       "minecraft:spider": "2025-05-07 01:11:22 +0000",
@@ -3356,7 +3399,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-12 04:19:17 +0000"
+      "log_spam_fixer": "2025-06-16 23:55:49 +0000"
     },
     "done": false
   },
@@ -3447,7 +3490,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-12 04:19:17 +0000"
+      "log_spam_fixer": "2025-06-16 23:55:49 +0000"
     },
     "done": false
   },
@@ -3559,6 +3602,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-06-16 23:37:40 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/bullet_special": {
     "criteria": {
       "has_gold_nugget": "2025-05-07 01:12:58 +0000"
@@ -3609,7 +3658,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-12 04:19:17 +0000"
+      "log_spam_fixer": "2025-06-16 23:55:49 +0000"
     },
     "done": false
   },
@@ -3881,6 +3930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-16 23:19:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-07 01:27:02 +0000"
@@ -4009,7 +4064,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-12 04:19:17 +0000"
+      "log_spam_fixer": "2025-06-16 23:55:49 +0000"
     },
     "done": false
   },
@@ -4337,6 +4392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-16 23:19:03 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/pointed_dripstone_decomposing": {
     "criteria": {
       "has_pointed_dripstone": "2025-05-08 03:13:09 +0000"
@@ -4592,7 +4653,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-12 04:19:17 +0000"
+      "log_spam_fixer": "2025-06-16 23:55:49 +0000"
     },
     "done": false
   },
@@ -4616,7 +4677,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-12 04:19:17 +0000"
+      "log_spam_fixer": "2025-06-16 23:55:49 +0000"
     },
     "done": false
   },
@@ -4731,6 +4792,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-05-07 23:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-16 23:19:03 +0000"
     },
     "done": true
   },
