@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-06-20 01:41:41 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/unica": {
     "criteria": {
       "has_planks": "2025-05-07 01:01:43 +0000"
@@ -317,6 +323,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/netherite_scrap_decomposing": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-20 01:41:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_carpet": {
     "criteria": {
       "has_magenta_wool": "2025-05-07 21:40:32 +0000"
@@ -350,6 +362,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-05-07 01:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-20 03:01:06 +0000"
     },
     "done": true
   },
@@ -392,6 +410,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-05-07 02:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-06-20 01:41:41 +0000"
     },
     "done": true
   },
@@ -505,7 +529,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 23:55:49 +0000"
+      "log_spam_fixer": "2025-06-20 03:35:02 +0000"
     },
     "done": false
   },
@@ -781,7 +805,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 23:55:49 +0000"
+      "log_spam_fixer": "2025-06-20 03:35:02 +0000"
     },
     "done": false
   },
@@ -997,7 +1021,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 23:55:49 +0000"
+      "log_spam_fixer": "2025-06-20 03:35:02 +0000"
     },
     "done": false
   },
@@ -1193,6 +1217,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-06-20 01:45:40 +0000",
+      "minecraft:soul_sand_valley": "2025-06-20 01:38:18 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2025-05-07 02:29:04 +0000"
@@ -1223,6 +1254,12 @@
     },
     "done": true
   },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-06-20 01:38:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-05-07 01:16:28 +0000"
@@ -1250,6 +1287,12 @@
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-05-07 23:48:53 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/nether_star_decomposing": {
+    "criteria": {
+      "has_nether_star": "2025-06-20 02:35:58 +0000"
     },
     "done": true
   },
@@ -1310,6 +1353,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-07 23:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-20 01:38:17 +0000"
     },
     "done": true
   },
@@ -1385,6 +1434,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/glowstone_dust_decomposing": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-20 01:49:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2025-05-07 02:06:31 +0000"
@@ -1400,6 +1455,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-05-07 21:21:40 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_crimson_roots": {
+    "criteria": {
+      "has_crimson_roots": "2025-06-20 01:48:27 +0000"
     },
     "done": true
   },
@@ -1424,6 +1485,12 @@
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-05-07 23:50:29 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-06-20 01:45:03 +0000"
     },
     "done": true
   },
@@ -1823,6 +1890,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-20 01:38:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-05-07 23:47:41 +0000"
@@ -1861,7 +1934,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 23:55:49 +0000"
+      "log_spam_fixer": "2025-06-20 03:35:02 +0000"
     },
     "done": false
   },
@@ -1921,7 +1994,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 23:55:49 +0000"
+      "log_spam_fixer": "2025-06-20 03:35:02 +0000"
     },
     "done": false
   },
@@ -2069,9 +2142,21 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/crimson_roots_decomposing": {
+    "criteria": {
+      "has_crimson_roots": "2025-06-20 01:48:27 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2025-05-07 23:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-06-20 01:47:14 +0000"
     },
     "done": true
   },
@@ -2263,7 +2348,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 23:55:49 +0000"
+      "log_spam_fixer": "2025-06-20 03:35:02 +0000"
     },
     "done": false
   },
@@ -2420,6 +2505,12 @@
   "additionalguns:recipes/additionalguns/casing_heavy": {
     "criteria": {
       "has_iron_nugget": "2025-05-07 02:18:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-06-20 01:47:14 +0000"
     },
     "done": true
   },
@@ -2637,6 +2728,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-07 01:35:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-06-20 01:45:03 +0000"
     },
     "done": true
   },
@@ -2874,6 +2971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-06-20 03:01:06 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/ak74m": {
     "criteria": {
       "has_iron_ingot": "2025-05-07 01:31:48 +0000"
@@ -2921,6 +3024,7 @@
       "minecraft:wither_skeleton": "2025-06-07 16:24:14 +0000",
       "minecraft:husk": "2025-05-07 23:08:33 +0000",
       "minecraft:cave_spider": "2025-05-07 01:46:54 +0000",
+      "minecraft:piglin": "2025-06-20 01:48:16 +0000",
       "minecraft:enderman": "2025-05-07 20:23:40 +0000",
       "minecraft:stray": "2025-05-07 21:33:00 +0000",
       "minecraft:zombie": "2025-05-07 01:11:20 +0000",
@@ -3235,6 +3339,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-06-20 01:38:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-05-07 01:31:48 +0000"
@@ -3244,6 +3354,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-07 02:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-20 01:49:59 +0000"
     },
     "done": true
   },
@@ -3399,7 +3515,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 23:55:49 +0000"
+      "log_spam_fixer": "2025-06-20 03:35:02 +0000"
     },
     "done": false
   },
@@ -3490,7 +3606,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 23:55:49 +0000"
+      "log_spam_fixer": "2025-06-20 03:35:02 +0000"
     },
     "done": false
   },
@@ -3527,6 +3643,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-07 01:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-20 01:41:02 +0000"
     },
     "done": true
   },
@@ -3632,6 +3754,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-20 01:38:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2025-05-09 01:14:50 +0000"
@@ -3658,7 +3786,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 23:55:49 +0000"
+      "log_spam_fixer": "2025-06-20 03:35:02 +0000"
     },
     "done": false
   },
@@ -3734,6 +3862,12 @@
     },
     "done": true
   },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-06-20 01:45:03 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-05-07 22:01:57 +0000"
@@ -3758,6 +3892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-20 01:38:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_candle": {
     "criteria": {
       "has_magenta_dye": "2025-05-09 01:27:10 +0000"
@@ -3773,6 +3913,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-05-07 01:10:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-06-20 01:41:41 +0000"
     },
     "done": true
   },
@@ -3942,6 +4088,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-06-20 01:41:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-07 01:15:23 +0000"
@@ -3981,6 +4133,18 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-05-07 01:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-06-20 02:35:58 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/quartz_decomposing": {
+    "criteria": {
+      "has_quartz": "2025-06-20 01:41:41 +0000"
     },
     "done": true
   },
@@ -4064,7 +4228,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 23:55:49 +0000"
+      "log_spam_fixer": "2025-06-20 03:35:02 +0000"
     },
     "done": false
   },
@@ -4125,6 +4289,12 @@
   "additionalguns:recipes/additionalguns/tactical_silencer": {
     "criteria": {
       "has_iron_ingot": "2025-05-07 01:31:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-20 01:49:59 +0000"
     },
     "done": true
   },
@@ -4494,6 +4664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-20 03:01:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-05-07 01:02:43 +0000"
@@ -4558,6 +4734,12 @@
   "additionalguns:recipes/additionalguns/banshee": {
     "criteria": {
       "has_iron_ingot": "2025-05-07 01:31:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-06-20 01:41:41 +0000"
     },
     "done": true
   },
@@ -4653,7 +4835,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 23:55:49 +0000"
+      "log_spam_fixer": "2025-06-20 03:35:02 +0000"
     },
     "done": false
   },
@@ -4677,7 +4859,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 23:55:49 +0000"
+      "log_spam_fixer": "2025-06-20 03:35:02 +0000"
     },
     "done": false
   },
@@ -4696,6 +4878,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-06-12 03:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-06-20 01:41:41 +0000"
     },
     "done": true
   },
