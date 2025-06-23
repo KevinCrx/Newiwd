@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-23 03:52:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-05-07 01:01:34 +0000"
@@ -188,6 +194,12 @@
   "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
       "has_black_dye": "2025-06-01 18:39:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-06-23 03:54:22 +0000"
     },
     "done": true
   },
@@ -296,6 +308,12 @@
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-05-07 20:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-23 03:29:54 +0000"
     },
     "done": true
   },
@@ -599,6 +617,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_weeping_vines": {
+    "criteria": {
+      "has_weeping_vines": "2025-06-23 03:39:49 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/apple_decomposing": {
     "criteria": {
       "has_apple": "2025-05-07 01:09:23 +0000"
@@ -709,7 +733,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 03:36:02 +0000"
+      "log_spam_fixer": "2025-06-23 03:55:53 +0000"
     },
     "done": false
   },
@@ -1087,7 +1111,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 03:36:02 +0000"
+      "log_spam_fixer": "2025-06-23 03:55:53 +0000"
     },
     "done": false
   },
@@ -1172,6 +1196,12 @@
   "biomancy:recipes/biomancy/decomposing/carrot_decomposing": {
     "criteria": {
       "has_carrot": "2025-05-07 20:25:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-23 03:29:54 +0000"
     },
     "done": true
   },
@@ -1387,13 +1417,19 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 03:36:02 +0000"
+      "log_spam_fixer": "2025-06-23 03:55:53 +0000"
     },
     "done": false
   },
   "biomancy:recipes/biomancy/decomposing/forge_eggs_decomposing": {
     "criteria": {
       "has_eggs": "2025-05-07 23:07:01 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_nether_wart_block": {
+    "criteria": {
+      "has_nether_wart_block": "2025-06-23 03:38:49 +0000"
     },
     "done": true
   },
@@ -2064,6 +2100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2025-06-23 03:54:42 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-05-07 01:55:37 +0000"
@@ -2157,6 +2199,12 @@
   "minecraft:recipes/travelersbackpack/diamond_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-06-16 23:06:47 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/magma_cream_decomposing": {
+    "criteria": {
+      "has_magma_cream": "2025-06-23 03:52:42 +0000"
     },
     "done": true
   },
@@ -2406,6 +2454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-23 03:53:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-05-07 01:10:58 +0000"
@@ -2556,6 +2610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-06-23 03:29:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-05-07 21:59:33 +0000"
@@ -2612,7 +2672,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 03:36:02 +0000"
+      "log_spam_fixer": "2025-06-23 03:55:53 +0000"
     },
     "done": false
   },
@@ -2696,7 +2756,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 03:36:02 +0000"
+      "log_spam_fixer": "2025-06-23 03:55:53 +0000"
     },
     "done": false
   },
@@ -2988,6 +3048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-23 03:29:54 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/ak12": {
     "criteria": {
       "has_iron_ingot": "2025-05-07 01:39:13 +0000"
@@ -3242,7 +3308,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 03:36:02 +0000"
+      "log_spam_fixer": "2025-06-23 03:55:53 +0000"
     },
     "done": false
   },
@@ -3288,6 +3354,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-23 03:29:54 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/diamond_decomposing": {
     "criteria": {
       "has_diamond": "2025-05-07 20:35:59 +0000"
@@ -3297,6 +3369,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_light_gray_dye": "2025-06-01 18:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-23 03:29:54 +0000"
     },
     "done": true
   },
@@ -3315,6 +3393,12 @@
   "minecraft:recipes/travelersbackpack/creeper_smithing_crafting": {
     "criteria": {
       "has_crafting_upgrade": "2025-06-01 18:57:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_pray": {
+    "criteria": {
+      "coded_trigger": "2025-06-23 03:11:05 +0000"
     },
     "done": true
   },
@@ -3399,6 +3483,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-07 22:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-06-23 03:53:59 +0000"
     },
     "done": true
   },
@@ -3727,6 +3817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-23 03:29:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/bookshelf_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-06-16 23:07:39 +0000"
@@ -3922,6 +4018,12 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-06-06 02:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-23 03:53:59 +0000"
     },
     "done": true
   },
@@ -4142,6 +4244,7 @@
       "minecraft:skeleton": "2025-05-07 01:19:39 +0000",
       "minecraft:zoglin": "2025-06-20 03:14:42 +0000",
       "minecraft:ghast": "2025-06-20 01:38:53 +0000",
+      "minecraft:hoglin": "2025-06-23 03:28:06 +0000",
       "minecraft:vindicator": "2025-05-07 23:48:53 +0000",
       "minecraft:magma_cube": "2025-06-20 03:08:27 +0000",
       "minecraft:spider": "2025-05-07 01:50:50 +0000",
@@ -4775,6 +4878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-06-23 03:53:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-05-07 01:11:01 +0000"
@@ -4825,7 +4934,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 03:36:02 +0000"
+      "log_spam_fixer": "2025-06-23 03:55:53 +0000"
     },
     "done": false
   },
@@ -4879,6 +4988,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-23 03:29:54 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/salmon_decomposing": {
     "criteria": {
       "has_salmon": "2025-05-07 01:09:23 +0000"
@@ -4923,7 +5038,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 03:36:02 +0000"
+      "log_spam_fixer": "2025-06-23 03:55:53 +0000"
     },
     "done": false
   },
@@ -5083,6 +5198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-23 03:29:54 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/bullet_special": {
     "criteria": {
       "has_gunpowder": "2025-05-07 01:19:48 +0000"
@@ -5193,7 +5314,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 03:36:02 +0000"
+      "log_spam_fixer": "2025-06-23 03:55:53 +0000"
     },
     "done": false
   },
@@ -5290,6 +5411,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-05-07 21:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-23 03:29:54 +0000"
     },
     "done": true
   },
@@ -5434,6 +5561,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-08 02:54:38 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2025-06-23 03:32:39 +0000"
     },
     "done": true
   },
@@ -5753,7 +5886,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 03:36:02 +0000"
+      "log_spam_fixer": "2025-06-23 03:55:53 +0000"
     },
     "done": false
   },
@@ -5796,6 +5929,12 @@
   "tombstone:adventure/discreet_search": {
     "criteria": {
       "coded_trigger": "2025-05-07 23:04:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_strange_scroll": {
+    "criteria": {
+      "has_strange_scroll": "2025-06-23 03:07:25 +0000"
     },
     "done": true
   },
@@ -5865,6 +6004,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2025-06-23 03:32:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-07 01:40:28 +0000"
@@ -5910,6 +6055,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-05-07 01:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-23 03:29:54 +0000"
     },
     "done": true
   },
@@ -5982,6 +6133,12 @@
   "minecraft:recipes/travelersbackpack/squid_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-06-16 23:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-23 03:29:54 +0000"
     },
     "done": true
   },
@@ -6093,6 +6250,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-06-23 03:53:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-05-07 20:35:59 +0000"
@@ -6123,6 +6286,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-23 03:49:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/ocelot_smithing_crafting": {
     "criteria": {
       "has_crafting_upgrade": "2025-06-01 18:57:07 +0000"
@@ -6135,15 +6304,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-23 03:53:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-07 22:35:46 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-23 03:53:59 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/p250": {
     "criteria": {
       "has_iron_ingot": "2025-05-07 01:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-23 03:29:54 +0000"
     },
     "done": true
   },
@@ -6270,6 +6457,12 @@
   "additionalguns:recipes/additionalguns/casing_long": {
     "criteria": {
       "has_iron_nugget": "2025-05-07 01:10:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-06-23 03:53:59 +0000"
     },
     "done": true
   },
@@ -6582,7 +6775,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 03:36:02 +0000"
+      "log_spam_fixer": "2025-06-23 03:55:53 +0000"
     },
     "done": false
   },
@@ -6618,7 +6811,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-20 03:36:02 +0000"
+      "log_spam_fixer": "2025-06-23 03:55:53 +0000"
     },
     "done": false
   },
@@ -6724,6 +6917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-06-23 03:53:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/bookshelf_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-06-16 23:06:47 +0000"
@@ -6793,6 +6992,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-06 00:42:10 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/loot_piglin_village": {
+    "criteria": {
+      "incendium:low": "2025-06-23 03:52:23 +0000"
     },
     "done": true
   },
