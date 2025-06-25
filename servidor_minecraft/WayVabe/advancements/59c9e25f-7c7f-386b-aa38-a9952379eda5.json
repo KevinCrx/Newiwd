@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/bio_lab_from_bio_forging": {
+    "criteria": {
+      "has_living_flesh": "2025-06-24 23:05:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-05-07 01:15:08 +0000"
@@ -92,6 +98,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-07 01:12:18 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/misc/gunpowder_from_exotic_dust": {
+    "criteria": {
+      "has_exotic_dust": "2025-06-25 00:30:08 +0000"
     },
     "done": true
   },
@@ -239,9 +251,21 @@
     },
     "done": true
   },
+  "biomancy:biomancy/genetic_compounds": {
+    "criteria": {
+      "has_genetic_compound": "2025-06-25 00:39:34 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/rabbit_hide_decomposing": {
     "criteria": {
       "has_rabbit_hide": "2025-06-06 21:31:38 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/decomposer": {
+    "criteria": {
+      "has_decomposer": "2025-06-24 23:27:31 +0000"
     },
     "done": true
   },
@@ -422,6 +446,12 @@
   "minecraft:recipes/travelersbackpack/nether_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-06-16 23:06:47 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/decomposer_from_bio_forging": {
+    "criteria": {
+      "has_living_flesh": "2025-06-24 23:05:13 +0000"
     },
     "done": true
   },
@@ -701,6 +731,12 @@
     },
     "done": true
   },
+  "biomancy:biomancy/healing_activator_sacrifice": {
+    "criteria": {
+      "has_sacrificed_healing_activator": "2025-06-24 22:59:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-07 19:50:01 +0000"
@@ -737,9 +773,15 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/digester_from_bio_forging": {
+    "criteria": {
+      "has_living_flesh": "2025-06-24 23:05:13 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 03:01:22 +0000"
+      "log_spam_fixer": "2025-06-25 01:27:17 +0000"
     },
     "done": false
   },
@@ -758,6 +800,12 @@
   "minecraft:recipes/decorations/orange_candle": {
     "criteria": {
       "has_orange_dye": "2025-06-16 23:52:42 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/vial_from_bio_forging": {
+    "criteria": {
+      "has_elastic_fibers": "2025-06-24 23:58:57 +0000"
     },
     "done": true
   },
@@ -818,6 +866,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-06-06 01:49:19 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposer": {
+    "criteria": {
+      "has_living_flesh": "2025-06-24 23:05:13 +0000"
     },
     "done": true
   },
@@ -1019,6 +1073,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/flesh_slab_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-06-24 23:58:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-05-08 02:54:38 +0000"
@@ -1079,6 +1139,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/packed_flesh_wall_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-06-24 23:58:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_candle": {
     "criteria": {
       "has_cyan_dye": "2025-06-16 23:52:42 +0000"
@@ -1129,7 +1195,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 03:01:22 +0000"
+      "log_spam_fixer": "2025-06-25 01:27:17 +0000"
     },
     "done": false
   },
@@ -1196,6 +1262,12 @@
   "biomancy:recipes/biomancy/decomposing/blaze_powder_decomposing": {
     "criteria": {
       "has_blaze_powder": "2025-06-01 18:30:29 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_brewing/unstable_compound_from_bio_brewing": {
+    "criteria": {
+      "has_organic_compound": "2025-06-25 00:39:06 +0000"
     },
     "done": true
   },
@@ -1295,6 +1367,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/baby_permeable_membrane_from_bio_forging": {
+    "criteria": {
+      "has_elastic_fibers": "2025-06-24 23:58:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-05-07 22:11:51 +0000"
@@ -1373,6 +1451,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_brewing/breeding_stimulant_from_bio_brewing": {
+    "criteria": {
+      "has_genetic_compound": "2025-06-25 00:39:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-07 01:12:08 +0000"
@@ -1415,6 +1499,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/full_flesh_door_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-06-24 23:58:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-07 01:12:18 +0000"
@@ -1441,7 +1531,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 03:01:22 +0000"
+      "log_spam_fixer": "2025-06-25 01:27:17 +0000"
     },
     "done": false
   },
@@ -1544,6 +1634,12 @@
   "biomancy:recipes/biomancy/decomposing/skeleton_skull_decomposing": {
     "criteria": {
       "has_skeleton_skull": "2025-06-06 01:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-06-24 22:59:34 +0000"
     },
     "done": true
   },
@@ -1724,6 +1820,12 @@
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-06-07 20:13:27 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/red_sand_from_mineral_fragment": {
+    "criteria": {
+      "has_mineral_fragment": "2025-06-25 00:20:35 +0000"
     },
     "done": true
   },
@@ -2076,6 +2178,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-25 00:00:58 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/nutrient_bar": {
+    "criteria": {
+      "has_nutrients": "2025-06-25 00:33:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-05-07 20:34:33 +0000"
@@ -2298,6 +2412,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/fleshkin_chest_from_bio_forging": {
+    "criteria": {
+      "has_living_flesh": "2025-06-24 23:05:13 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_dark_marble": {
     "criteria": {
       "has_ingredient": "2025-06-07 19:50:31 +0000"
@@ -2364,6 +2484,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-06-25 01:05:33 +0000",
+      "minecraft:chicken": "2025-06-25 00:51:27 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-09 01:30:13 +0000"
@@ -2373,6 +2500,18 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-06-06 01:44:42 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/maw_hopper_from_bio_forging": {
+    "criteria": {
+      "has_living_flesh": "2025-06-24 23:05:13 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/granite_from_mineral_fragment": {
+    "criteria": {
+      "has_mineral_fragment": "2025-06-25 00:20:35 +0000"
     },
     "done": true
   },
@@ -2664,9 +2803,21 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_brewing/rejuvenation_serum_from_bio_brewing": {
+    "criteria": {
+      "has_genetic_compound": "2025-06-25 00:39:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/hay_smithing_crafting": {
     "criteria": {
       "has_crafting_upgrade": "2025-06-01 18:57:07 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/fleshkin_pressure_plate_from_bio_forging": {
+    "criteria": {
+      "has_living_flesh": "2025-06-24 23:05:13 +0000"
     },
     "done": true
   },
@@ -2702,7 +2853,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 03:01:22 +0000"
+      "log_spam_fixer": "2025-06-25 01:27:17 +0000"
     },
     "done": false
   },
@@ -2786,7 +2937,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 03:01:22 +0000"
+      "log_spam_fixer": "2025-06-25 01:27:17 +0000"
     },
     "done": false
   },
@@ -2808,6 +2959,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/mob_marrow_decomposing": {
+    "criteria": {
+      "has_mob_marrow": "2025-06-25 00:41:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-05-07 01:12:08 +0000"
@@ -2826,6 +2983,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/chiseled_flesh_from_bio_forging": {
+    "criteria": {
+      "has_bone_fragments": "2025-06-24 23:58:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-07 19:50:01 +0000"
@@ -2835,6 +2998,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-06-24 02:42:21 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/nutrients_from_nutrient_paste": {
+    "criteria": {
+      "has_the_recipe": "2025-06-25 00:33:24 +0000"
     },
     "done": true
   },
@@ -2946,6 +3115,12 @@
     },
     "done": true
   },
+  "biomancy:biomancy/bio_injector": {
+    "criteria": {
+      "has_injector": "2025-06-25 00:44:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-07 01:12:18 +0000"
@@ -3009,6 +3184,12 @@
   "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
       "has_echo_shard": "2025-06-01 17:56:12 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/bio_forge_from_bio_forging": {
+    "criteria": {
+      "has_living_flesh": "2025-06-24 23:05:13 +0000"
     },
     "done": true
   },
@@ -3123,6 +3304,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-05-07 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/packed_flesh_slab_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-06-24 23:58:56 +0000"
     },
     "done": true
   },
@@ -3344,7 +3531,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 03:01:22 +0000"
+      "log_spam_fixer": "2025-06-25 01:27:17 +0000"
     },
     "done": false
   },
@@ -3402,6 +3589,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/nutrient_paste": {
+    "criteria": {
+      "has_nutrients": "2025-06-25 00:33:24 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/diamond_decomposing": {
     "criteria": {
       "has_diamond": "2025-05-07 20:35:59 +0000"
@@ -3423,6 +3616,18 @@
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_nether_quartz_ore": "2025-06-06 21:12:23 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/glistering_melon_slice_decomposing": {
+    "criteria": {
+      "has_glistering_melon_slice": "2025-06-24 22:58:16 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/organic_compounds": {
+    "criteria": {
+      "has_organic_compound": "2025-06-25 00:39:06 +0000"
     },
     "done": true
   },
@@ -3678,6 +3883,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/malignant_flesh": {
+    "criteria": {
+      "has_malignant_flesh_veins": "2025-06-24 23:12:07 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/cookie_decomposing": {
     "criteria": {
       "has_cookie": "2025-05-09 02:08:02 +0000"
@@ -3717,6 +3928,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2025-05-07 20:34:47 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/bio_forge": {
+    "criteria": {
+      "has_bio_forge": "2025-06-24 23:56:00 +0000"
     },
     "done": true
   },
@@ -3829,6 +4046,12 @@
     },
     "done": false
   },
+  "biomancy:biomancy/bio_lab": {
+    "criteria": {
+      "has_bio_lab": "2025-06-25 00:31:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2025-05-07 20:50:56 +0000"
@@ -3937,6 +4160,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/vial_holder_from_bio_forging": {
+    "criteria": {
+      "has_elastic_fibers": "2025-06-24 23:58:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-07 01:40:28 +0000"
@@ -3946,6 +4175,12 @@
   "incendium:infernal_dunes/root": {
     "criteria": {
       "incendium:infernal_dunes": "2025-06-20 01:46:13 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/impermeable_membrane_from_bio_forging": {
+    "criteria": {
+      "has_elastic_fibers": "2025-06-24 23:58:57 +0000"
     },
     "done": true
   },
@@ -3979,6 +4214,18 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/nutrient_paste_from_nutrient_bar": {
+    "criteria": {
+      "has_nutrients": "2025-06-25 00:33:24 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/bone_from_bio_forging": {
+    "criteria": {
+      "has_bone_fragments": "2025-06-24 23:58:56 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/root": {
     "criteria": {
       "inscription_table": "2025-05-07 23:51:54 +0000"
@@ -3988,6 +4235,12 @@
   "minecraft:recipes/travelersbackpack/ghast_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-06-16 23:07:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_brewing/genetic_compound_from_bio_brewing": {
+    "criteria": {
+      "has_organic_compound": "2025-06-25 00:39:06 +0000"
     },
     "done": true
   },
@@ -4024,6 +4277,12 @@
   "biomancy:recipes/biomancy/decomposing/coarse_dirt_decomposing": {
     "criteria": {
       "has_coarse_dirt": "2025-06-06 00:51:10 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/flesh_ladder_from_bio_forging": {
+    "criteria": {
+      "has_bone_fragments": "2025-06-24 23:58:56 +0000"
     },
     "done": true
   },
@@ -4153,6 +4412,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_brewing/exotic_compound_from_bio_brewing": {
+    "criteria": {
+      "has_organic_compound": "2025-06-25 00:39:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2025-06-01 18:39:50 +0000"
@@ -4267,6 +4532,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/mob_claw_decomposing": {
+    "criteria": {
+      "has_mob_claw": "2025-06-24 23:39:11 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/ak74m": {
     "criteria": {
       "has_iron_ingot": "2025-05-07 01:39:13 +0000"
@@ -4297,6 +4568,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_brewing/healing_additive_from_bio_brewing": {
+    "criteria": {
+      "has_organic_compound": "2025-06-25 00:39:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-05-07 02:10:21 +0000"
@@ -4323,6 +4600,7 @@
       "minecraft:creeper": "2025-05-07 01:19:46 +0000",
       "minecraft:slime": "2025-06-07 16:11:26 +0000",
       "minecraft:evoker": "2025-06-16 23:29:02 +0000",
+      "minecraft:phantom": "2025-06-25 01:20:46 +0000",
       "minecraft:zombified_piglin": "2025-06-06 00:41:52 +0000",
       "minecraft:witch": "2025-05-08 01:42:49 +0000",
       "minecraft:wither_skeleton": "2025-06-07 16:17:28 +0000",
@@ -4506,9 +4784,21 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/mob_claw_from_bio_forging": {
+    "criteria": {
+      "has_mob_claw": "2025-06-24 23:39:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/quartz_smithing_crafting": {
     "criteria": {
       "has_crafting_upgrade": "2025-06-01 18:57:07 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/living_flesh_decomposing": {
+    "criteria": {
+      "has_living_flesh": "2025-06-24 23:05:13 +0000"
     },
     "done": true
   },
@@ -4545,6 +4835,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_white_dye": "2025-06-01 18:39:50 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/flesh_wall_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-06-24 23:58:56 +0000"
     },
     "done": true
   },
@@ -4608,6 +4904,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_brewing/shrinking_serum_from_bio_brewing": {
+    "criteria": {
+      "has_genetic_compound": "2025-06-25 00:39:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/iron_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-06-16 23:06:43 +0000"
@@ -4656,6 +4958,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/tongue_from_bio_forging": {
+    "criteria": {
+      "has_living_flesh": "2025-06-24 23:05:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-05-07 23:21:32 +0000"
@@ -4686,9 +4994,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-25 00:46:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-05-08 03:18:28 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/adult_permeable_membrane_from_bio_forging": {
+    "criteria": {
+      "has_elastic_fibers": "2025-06-24 23:58:57 +0000"
     },
     "done": true
   },
@@ -4992,6 +5312,18 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/flesh_stairs_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-06-24 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/soul_magic": {
+    "criteria": {
+      "coded_trigger": "2025-06-25 00:56:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-05-07 01:11:01 +0000"
@@ -5042,7 +5374,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 03:01:22 +0000"
+      "log_spam_fixer": "2025-06-25 01:27:17 +0000"
     },
     "done": false
   },
@@ -5146,7 +5478,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 03:01:22 +0000"
+      "log_spam_fixer": "2025-06-25 01:27:17 +0000"
     },
     "done": false
   },
@@ -5225,6 +5557,12 @@
   "additionalguns:recipes/additionalguns/tactical_muzzle_brake": {
     "criteria": {
       "has_iron_nugget": "2025-05-07 01:10:58 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/injector_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-06-24 23:58:56 +0000"
     },
     "done": true
   },
@@ -5408,6 +5746,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_brewing/enlargement_serum_from_bio_brewing": {
+    "criteria": {
+      "has_genetic_compound": "2025-06-25 00:39:34 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/consume_soul": {
     "criteria": {
       "coded_trigger": "2025-06-16 23:15:01 +0000"
@@ -5422,7 +5766,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 03:01:22 +0000"
+      "log_spam_fixer": "2025-06-25 01:27:17 +0000"
     },
     "done": false
   },
@@ -5471,6 +5815,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-05-07 20:51:36 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/flesh_fence_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-06-24 23:58:56 +0000"
     },
     "done": true
   },
@@ -5770,6 +6120,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forge": {
+    "criteria": {
+      "has_living_flesh": "2025-06-24 23:05:13 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-06-01 19:49:18 +0000"
@@ -5980,6 +6336,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/flesh_fence_gate_from_bio_forging": {
+    "criteria": {
+      "has_bone_fragments": "2025-06-24 23:58:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-05-07 01:11:19 +0000"
@@ -5998,6 +6360,18 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/packed_flesh_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-06-24 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_brewing/corrosive_additive_from_bio_brewing": {
+    "criteria": {
+      "has_organic_compound": "2025-06-25 00:39:06 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/enchanted_golden_apple_decomposing": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-06-06 00:19:11 +0000"
@@ -6012,7 +6386,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 03:01:22 +0000"
+      "log_spam_fixer": "2025-06-25 01:27:17 +0000"
     },
     "done": false
   },
@@ -6136,6 +6510,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_brewing/organic_compound_from_bio_brewing": {
+    "criteria": {
+      "has_bile": "2025-06-25 00:02:23 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
     "criteria": {
       "requirement": "2025-06-23 03:32:54 +0000"
@@ -6187,6 +6567,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-05-07 01:12:08 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/flesh_pillar_from_bio_forging": {
+    "criteria": {
+      "has_bone_fragments": "2025-06-24 23:58:56 +0000"
     },
     "done": true
   },
@@ -6274,6 +6660,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/fibrous_flesh_from_bio_forging": {
+    "criteria": {
+      "has_elastic_fibers": "2025-06-24 23:58:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-08 02:54:38 +0000"
@@ -6331,6 +6723,12 @@
   "minecraft:recipes/travelersbackpack/snow_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-06-16 23:06:43 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/ornate_flesh_from_bio_forging": {
+    "criteria": {
+      "has_bone_fragments": "2025-06-24 23:58:56 +0000"
     },
     "done": true
   },
@@ -6463,6 +6861,12 @@
   "minecraft:recipes/decorations/red_sandstone_wall": {
     "criteria": {
       "has_red_sandstone": "2025-06-23 03:29:54 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/ravenous_claws_from_bio_forging": {
+    "criteria": {
+      "has_living_flesh": "2025-06-24 23:05:13 +0000"
     },
     "done": true
   },
@@ -6610,6 +7014,18 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/flesh_iris_door_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-06-24 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/flesh_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-06-24 23:58:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-06-06 01:16:07 +0000"
@@ -6673,13 +7089,21 @@
   "biomancy:biomancy/predator_killer": {
     "criteria": {
       "has_killed_fangs_mob": "2025-06-20 03:14:42 +0000",
-      "has_mob_fang": "2025-06-20 03:15:17 +0000"
+      "has_mob_fang": "2025-06-20 03:15:17 +0000",
+      "has_killed_claws_mob": "2025-06-24 23:37:47 +0000",
+      "has_mob_claw": "2025-06-24 23:39:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-05-07 20:33:48 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/tendon_chain_from_bio_forging": {
+    "criteria": {
+      "has_elastic_fibers": "2025-06-24 23:58:57 +0000"
     },
     "done": true
   },
@@ -6719,9 +7143,21 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/packed_flesh_stairs_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-06-24 23:58:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-05-08 00:30:55 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/tubular_flesh_from_bio_forging": {
+    "criteria": {
+      "has_bone_fragments": "2025-06-24 23:58:56 +0000"
     },
     "done": true
   },
@@ -6857,6 +7293,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/flesh_door_from_bio_forging": {
+    "criteria": {
+      "has_flesh_bits": "2025-06-24 23:58:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-05-07 01:10:58 +0000"
@@ -6905,6 +7347,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/creator_mix_from_bio_forging": {
+    "criteria": {
+      "has_exotic_dust": "2025-06-25 00:30:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/cactus_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-06-16 23:06:47 +0000"
@@ -6913,7 +7361,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 03:01:22 +0000"
+      "log_spam_fixer": "2025-06-25 01:27:17 +0000"
     },
     "done": false
   },
@@ -6949,7 +7397,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 03:01:22 +0000"
+      "log_spam_fixer": "2025-06-25 01:27:17 +0000"
     },
     "done": false
   },
@@ -7025,9 +7473,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-06-25 00:51:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/netherite_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-06-16 23:06:43 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/storage_sac_from_bio_forging": {
+    "criteria": {
+      "has_elastic_fibers": "2025-06-24 23:58:57 +0000"
     },
     "done": true
   },
@@ -7109,6 +7569,12 @@
     },
     "done": true
   },
+  "biomancy:biomancy/digester": {
+    "criteria": {
+      "has_digester": "2025-06-25 00:03:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-05-07 01:01:32 +0000"
@@ -7118,6 +7584,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-05-07 20:35:59 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_brewing/ageing_serum_from_bio_brewing": {
+    "criteria": {
+      "has_genetic_compound": "2025-06-25 00:39:34 +0000"
     },
     "done": true
   },
