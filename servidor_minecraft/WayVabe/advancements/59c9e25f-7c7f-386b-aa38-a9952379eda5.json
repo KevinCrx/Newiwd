@@ -835,7 +835,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 22:44:44 +0000"
+      "log_spam_fixer": "2025-07-13 04:29:32 +0000"
     },
     "done": false
   },
@@ -848,6 +848,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-07 01:40:28 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_brewing/absorption_boost_from_bio_brewing": {
+    "criteria": {
+      "has_exotic_compound": "2025-07-13 01:48:06 +0000"
     },
     "done": true
   },
@@ -1016,6 +1022,12 @@
   "minecraft:recipes/travelersbackpack/gold_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-06-16 23:06:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/free_soul": {
+    "criteria": {
+      "coded_trigger": "2025-07-12 22:51:11 +0000"
     },
     "done": true
   },
@@ -1285,7 +1297,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 22:44:44 +0000"
+      "log_spam_fixer": "2025-07-13 04:29:32 +0000"
     },
     "done": false
   },
@@ -1346,6 +1358,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-05-07 01:56:13 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/bio_lantern_yellow_from_bio_forging": {
+    "criteria": {
+      "has_bio_lumens": "2025-07-13 02:28:08 +0000"
     },
     "done": true
   },
@@ -1633,7 +1651,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 22:44:44 +0000"
+      "log_spam_fixer": "2025-07-13 04:29:32 +0000"
     },
     "done": false
   },
@@ -1859,6 +1877,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/disenchanter": {
+    "criteria": {
+      "coded_trigger": "2025-07-13 02:06:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-05-07 20:47:13 +0000"
@@ -1874,6 +1898,18 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-07 22:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-07-12 23:03:22 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/bio_lantern_blue_from_bio_forging": {
+    "criteria": {
+      "has_bio_lumens": "2025-07-13 02:28:08 +0000"
     },
     "done": true
   },
@@ -1952,6 +1988,12 @@
   "biomancy:recipes/building_blocks/red_sand_from_mineral_fragment": {
     "criteria": {
       "has_mineral_fragment": "2025-06-25 00:20:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-07-12 22:43:51 +0000"
     },
     "done": true
   },
@@ -2544,6 +2586,12 @@
     },
     "done": true
   },
+  "majruszsaccessories:secret_ingredient": {
+    "criteria": {
+      "picked_up_accessory": "2025-07-12 23:13:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-05-08 02:54:38 +0000"
@@ -3040,7 +3088,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 22:44:44 +0000"
+      "log_spam_fixer": "2025-07-13 04:29:32 +0000"
     },
     "done": false
   },
@@ -3124,7 +3172,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 22:44:44 +0000"
+      "log_spam_fixer": "2025-07-13 04:29:32 +0000"
     },
     "done": false
   },
@@ -3251,6 +3299,12 @@
   "additionalguns:recipes/additionalguns/mammoth": {
     "criteria": {
       "has_iron_ingot": "2025-05-07 01:39:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/knowledge_wasted": {
+    "criteria": {
+      "coded_trigger": "2025-07-13 04:04:57 +0000"
     },
     "done": true
   },
@@ -3722,6 +3776,12 @@
     },
     "done": true
   },
+  "biomancy:biomancy/exotic_compounds": {
+    "criteria": {
+      "has_exotic_compound": "2025-07-13 01:48:06 +0000"
+    },
+    "done": true
+  },
   "1_splatus:ultris/root": {
     "criteria": {
       "c1": "2025-05-07 00:34:01 +0000"
@@ -3802,7 +3862,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 22:44:44 +0000"
+      "log_spam_fixer": "2025-07-13 04:29:32 +0000"
     },
     "done": false
   },
@@ -4599,6 +4659,12 @@
     },
     "done": true
   },
+  "1_splatus:ultris/sanctum/eye_of_ender": {
+    "criteria": {
+      "c1": "2025-07-12 22:21:11 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_knowledge": {
     "criteria": {
       "coded_trigger": "2025-07-05 20:51:57 +0000"
@@ -4632,6 +4698,12 @@
   "biomancy:recipes/biomancy/bio_forging/flesh_ladder_from_bio_forging": {
     "criteria": {
       "has_bone_fragments": "2025-06-24 23:58:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/new_path": {
+    "criteria": {
+      "coded_trigger": "2025-07-12 22:40:26 +0000"
     },
     "done": true
   },
@@ -4737,6 +4809,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/flesh_door_from_full_flesh_door": {
+    "criteria": {
+      "has_full_flesh_door": "2025-07-13 02:25:56 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/aks74u": {
     "criteria": {
       "has_planks": "2025-05-07 01:01:32 +0000"
@@ -4752,6 +4830,12 @@
   "minecraft:recipes/travelersbackpack/iron_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-06-16 23:07:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/versatility": {
+    "criteria": {
+      "coded_trigger": "2025-07-13 04:23:02 +0000"
     },
     "done": true
   },
@@ -5808,7 +5892,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 22:44:44 +0000"
+      "log_spam_fixer": "2025-07-13 04:29:32 +0000"
     },
     "done": false
   },
@@ -5921,7 +6005,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 22:44:44 +0000"
+      "log_spam_fixer": "2025-07-13 04:29:32 +0000"
     },
     "done": false
   },
@@ -6227,7 +6311,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 22:44:44 +0000"
+      "log_spam_fixer": "2025-07-13 04:29:32 +0000"
     },
     "done": false
   },
@@ -6558,6 +6642,7 @@
       "beetroot": "2025-06-06 02:07:17 +0000",
       "golden_carrot": "2025-06-06 00:18:59 +0000",
       "cooked_chicken": "2025-07-05 20:18:38 +0000",
+      "enchanted_golden_apple": "2025-07-13 03:59:41 +0000",
       "mushroom_stew": "2025-05-07 01:23:54 +0000",
       "cooked_salmon": "2025-05-07 01:16:37 +0000",
       "carrot": "2025-05-07 22:00:48 +0000"
@@ -6618,6 +6703,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_bio_lumens": "2025-07-13 02:28:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-06-06 02:07:35 +0000"
@@ -6675,6 +6766,12 @@
   "mowziesmobs:kill_naga": {
     "criteria": {
       "naga": "2025-05-07 21:48:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_reach": {
+    "criteria": {
+      "has_magic_scroll": "2025-07-12 22:43:51 +0000"
     },
     "done": true
   },
@@ -6908,7 +7005,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 22:44:44 +0000"
+      "log_spam_fixer": "2025-07-13 04:29:32 +0000"
     },
     "done": false
   },
@@ -6963,6 +7060,12 @@
   "minecraft:recipes/travelersbackpack/pig_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-06-16 23:06:43 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/building_blocks/dirt_from_stone_powder": {
+    "criteria": {
+      "has_organic_matter": "2025-07-13 03:11:01 +0000"
     },
     "done": true
   },
@@ -7065,6 +7168,18 @@
   "tombstone:recipes/from_decorative_grave": {
     "criteria": {
       "has_ingredient": "2025-06-07 19:50:37 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/mascot_patterns_from_bio_forging": {
+    "criteria": {
+      "has_organic_matter": "2025-07-13 03:11:01 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_brewing/insomnia_cure_from_bio_brewing": {
+    "criteria": {
+      "has_exotic_compound": "2025-07-13 01:48:06 +0000"
     },
     "done": true
   },
@@ -7590,6 +7705,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_white_marble": {
+    "criteria": {
+      "has_ingredient": "2025-07-12 22:49:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-06-06 01:16:07 +0000"
@@ -7740,6 +7861,12 @@
   "additionalguns:recipes/additionalguns/banshee": {
     "criteria": {
       "has_iron_ingot": "2025-05-07 01:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2025-07-12 23:03:51 +0000"
     },
     "done": true
   },
@@ -7943,7 +8070,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 22:44:44 +0000"
+      "log_spam_fixer": "2025-07-13 04:29:32 +0000"
     },
     "done": false
   },
@@ -7985,7 +8112,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 22:44:44 +0000"
+      "log_spam_fixer": "2025-07-13 04:29:32 +0000"
     },
     "done": false
   },
@@ -8214,6 +8341,12 @@
   "incendium:misc/loot_piglin_village": {
     "criteria": {
       "incendium:low": "2025-06-23 03:52:23 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_brewing/cleansing_serum_from_bio_brewing": {
+    "criteria": {
+      "has_exotic_compound": "2025-07-13 01:48:06 +0000"
     },
     "done": true
   },
