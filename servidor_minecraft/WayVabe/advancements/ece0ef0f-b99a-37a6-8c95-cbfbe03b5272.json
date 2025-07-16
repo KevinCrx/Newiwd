@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_grass": {
+    "criteria": {
+      "has_grass": "2025-07-16 19:44:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2025-06-07 19:51:35 +0000"
@@ -733,7 +739,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 04:29:32 +0000"
+      "log_spam_fixer": "2025-07-16 23:41:55 +0000"
     },
     "done": false
   },
@@ -1141,7 +1147,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 04:29:32 +0000"
+      "log_spam_fixer": "2025-07-16 23:41:55 +0000"
     },
     "done": false
   },
@@ -1459,7 +1465,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 04:29:32 +0000"
+      "log_spam_fixer": "2025-07-16 23:41:55 +0000"
     },
     "done": false
   },
@@ -2722,7 +2728,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 04:29:32 +0000"
+      "log_spam_fixer": "2025-07-16 23:41:55 +0000"
     },
     "done": false
   },
@@ -2794,7 +2800,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 04:29:32 +0000"
+      "log_spam_fixer": "2025-07-16 23:41:55 +0000"
     },
     "done": false
   },
@@ -2807,6 +2813,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-05-07 01:25:43 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2025-07-16 20:14:25 +0000"
     },
     "done": true
   },
@@ -3242,6 +3254,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-07-16 23:41:59 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-06-07 15:50:30 +0000"
@@ -3322,9 +3340,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 04:29:32 +0000"
+      "requirement": "2025-07-16 23:41:57 +0000",
+      "log_spam_fixer": "2025-07-16 23:41:55 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
@@ -4378,6 +4397,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-07-16 22:15:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/yellow_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_sleeping_bag": "2025-05-07 02:06:39 +0000"
@@ -5094,7 +5119,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 04:29:32 +0000"
+      "log_spam_fixer": "2025-07-16 23:41:55 +0000"
     },
     "done": false
   },
@@ -5148,6 +5173,7 @@
       "minecraft:cold_ocean": "2025-07-05 23:11:16 +0000",
       "minecraft:forest": "2025-06-07 16:01:44 +0000",
       "minecraft:lush_caves": "2025-05-07 01:31:57 +0000",
+      "minecraft:deep_cold_ocean": "2025-07-16 21:40:47 +0000",
       "minecraft:frozen_ocean": "2025-07-09 21:57:34 +0000",
       "minecraft:ocean": "2025-05-07 02:01:57 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-07 17:01:13 +0000",
@@ -5218,7 +5244,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 04:29:32 +0000"
+      "log_spam_fixer": "2025-07-16 23:41:55 +0000"
     },
     "done": false
   },
@@ -5488,7 +5514,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 04:29:32 +0000"
+      "log_spam_fixer": "2025-07-16 23:41:55 +0000"
     },
     "done": false
   },
@@ -5856,6 +5882,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-07-16 21:36:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-24 02:52:09 +0000"
@@ -6116,7 +6148,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 04:29:32 +0000"
+      "log_spam_fixer": "2025-07-16 23:41:55 +0000"
     },
     "done": false
   },
@@ -7012,7 +7044,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 04:29:32 +0000"
+      "log_spam_fixer": "2025-07-16 23:41:55 +0000"
     },
     "done": false
   },
@@ -7048,7 +7080,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-13 04:29:32 +0000"
+      "log_spam_fixer": "2025-07-16 23:41:55 +0000"
     },
     "done": false
   },
